@@ -1,8 +1,0 @@
-Nurse Record Summary:
-
-- 10:00 AM: Vital Signs: BP 99/62, HR 53, Resp 21, Temp 36.6°C
-- 10:00 AM: Attending physician's rounds
-- 16:00 PM: Room round conducted. General condition observed. Bed rail fixed. Patient is resting in bed.
-- 23:00 PM: Room round conducted. Bed rail raised, confirmed.
-
-<caption id='7' style='font-size:16px'>Page No : 26 / 284</caption> <table id='8' style='font-size:20px'><tr><td colspan="2">Nursing Record: ---------- -- # 2023- 07- 06 Care/Protection</td></tr><tr><td>06:00 AM: Room round conducted.</td><td>Written by (</td></tr><tr><td>07:50 AM: Room round conducted. Patient is bedridden and has left-sided hemiplegia. The patient has a Foley catheter (18Fr) and urinary output is good. The patient can control urination but not defecation. An adult diaper is being used. The hospital's air mattress is being used, and the air was checked to ensure it was not deflated. The patient's position was changed, and a back massage was performed. Education was provided on fall prevention. Emotional support was given.</td><td>Written by (</td></tr><tr><td>10:00 AM: Attending physician's rounds</td><td>Written by</td></tr><tr><td>10:00 AM: Vital Signs: BP 98/62, HR 60, Resp 20, Temp 36.3°C</td><td>Written by (</td></tr><tr><td>16:00 PM: Room round conducted. General condition observed. Bed rail fixed. Patient is resting in bed.</td><td>Written by</td></tr><tr><td>23:00 PM: Room round conducted. Bed rail raised, confirmed.</td><td>Written by</td></tr></table>

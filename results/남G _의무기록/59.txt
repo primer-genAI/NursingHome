@@ -1,9 +1,0 @@
-Nurse Record (N):
-- 07:50: Patient slept well through the night with no significant changes. Patient is bedridden with right-sided paralysis (Rt hemiplegia) and has a feeding tube (L-tube, 16Fr) for nutrition. Currently, the patient is on a diet of Nutrimeal Fiber 400 kcal per day. The patient is unable to control their bowel and bladder functions and wears diapers. The patient's bed has an air mattress to prevent bedsores (pressure ulcers). The nurse changed the patient's position and gave a back massage. The patient is instructed to keep the bed rail up while lying down for safety. The patient's face has occasional rashes that come and go. The nurse applied ointment to the rash and provided care. The nurse also dressed the patient's right knee and pin-prick sites, which had pus.
-- 10:00: The attending physician made their rounds.
-- 16:00: The nurse made rounds and observed the patient's overall condition. The bed rail was secured, and the patient remained in bed rest.
-- 16:30: The nurse administered a traditional Korean medicine treatment.
-- 23:00: The nurse made rounds and ensured the bed rail was up for the patient's safety.
-
-# 2024-05-18:
-- 06:00: Nursing Record: The nurse made rounds and reported that the patient slept well through the night with no significant changes.

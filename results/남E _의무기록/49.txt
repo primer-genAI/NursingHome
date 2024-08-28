@@ -1,8 +1,0 @@
-Nurse Record Summary:
-- Page No: 24/95
-- Date & Time: 2024-04-23
-- Nurse Actions:
-  - 06:00: Bedside round, patient slept well with no significant changes.
-  - 07:50: Bedside round, checked tracheostomy status (D: 7.5), performed suction, dressing, and non-oral feeding (400-400-400kcal/D). Urocath applied, incontinent, and using an air mattress. Checked air mattress, turned the patient, and performed a back massage. Monitoring skin moisture, realignment, and general condition. Observing intermittent cyanosis in both hands. Pressure sore: COCCyx G3 7 X 10 X 0.5cm.
-  - 10:00, 11:10, 16:00: Attending physician's round, pressure sore COCCyx G3 7 X 10 X 0.5cm treated with dressing and air mattress applied. Checked pressure sore development and skin condition.
-  - 23:00: Bedside round, ensured the bedrail was raised.

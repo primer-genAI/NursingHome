@@ -1,8 +1,0 @@
-Nurse Record Summary:
-- 7:50 AM: The nurse made rounds and observed the patient's bedridden state, with no communication possible through speech or eye contact. The patient has an L-tube (fr18) for feeding with a current regimen of 200kcal x4 times a day. A urinary catheter is in place, and perineal care was provided. The patient's air mattress was checked for leaks, and the bedrail was raised. The nurse followed isolation (contact) precautions due to D CRE, wearing gloves and a gown during care, and performed hand hygiene before and after care.
-- 10:00 AM: Vital signs: Blood pressure 117/69, pulse 106, respiratory rate 23, and temperature 36.4°C. The nurse reported the patient's condition to the on-call physician.
-- 4:00 PM: The nurse made rounds and observed the patient's overall condition. The bedrail was secured, and the patient remained in bed.
-- 11:00 PM: The nurse made rounds and confirmed the bedrail was raised.
-- 2023-09-29:
-  - 6:00 AM: The nurse made rounds and found the patient sleeping well with no notable changes.
-  - 7:50 AM: The nurse made rounds and observed the patient's bedridden state, L-tube (fr18) for feeding, and the current feeding regimen of 200kcal x4 times a day.

@@ -1,7 +1,0 @@
-Nurse Record Summary:
-
-* Nursing observations:
-  - Overall condition observed.
-  - Bedrail secured and patient in bed.
-  - Vital signs at 19:00: Temperature: 37.0°C.
-  - Nursing round at 23:00: Bedrail found in the up position.

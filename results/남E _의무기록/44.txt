@@ -1,9 +1,0 @@
-Nurse Record Summary:
-
-- April 18, 2024:
-  - 06:00: Nursing Record - Room: Patient slept well with no significant changes during the night.
-  - 07:50: Tracheostomy site dressing, suction, and non-oral feeding were done. Urocath applied, and air mattress checked.
-  - 10:00: Attending physician's round.
-  - 11:10: Wound care for Stage 3 pressure ulcer on the coccyx. Air mattress and repositioning were applied.
-  - 16:00: Patient's overall condition was observed, and bedrail was secured.
-  - 23:00: Bedrail was checked and found to be in place.

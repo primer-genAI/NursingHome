@@ -1,8 +1,0 @@
-Nurse Record Summary:
-
-- 06:00: Room round, patient slept well with no significant changes.
-- 07:50: Room round, patient in bed with paralysis on the left side, receiving tube feeding, able to control urination with a catheter, but not stool, wearing diapers (stool hanging out of diapers), repeatedly hitting the bed rail with the right hand, on an air mattress, checking for air loss, turning every 2 hours and back massage, educating about fall risks, keeping bedrails up, providing emotional support, observing overall condition, and noticing repetitive behavioral disorders when awake.
-- 10:00: Vital signs: BP 115/68, P 77, RESP 20, T 36.0; Doctor's round.
-- 16:00: Room round, observing overall condition, bedrails are fixed, bed rest.
-- 23:00: Room round, checking the bedrail is up.
-- 06:00: Vital signs: FBS 90; Room round, patient slept well with no significant changes.

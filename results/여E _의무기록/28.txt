@@ -1,9 +1,0 @@
-Nurse Record (N):
-
-- 06:00: Nursing Record: Rounded the patient. The patient slept well overnight with no significant changes.
-- 07:50: Rounded the patient. The patient is bedridden and receiving O2 at 3 L/min via a nasal prong with SpO2 levels between 92-96%. An L-tube (16Fr) is in place, and the patient is fed Fiber-400-200-400 kcal. The patient is incontinent and wears diapers. The hospital's air mattress is being used, and it was checked for deflation. The patient's position was changed, and a back massage was performed. Bedrails were raised for the patient's safety.
-- 10:00: The attending physician made their rounds.
-- 16:00: Rounded the patient and observed their overall condition. Bedrails were secure, and the patient remained in bed.
-- 23:00: Rounded the patient and confirmed that bedrails were still in place.
-
-Note: The last two rows appear to be incomplete or not related to the patient's care.

@@ -1,8 +1,0 @@
-Nurse Record:
-
-* At 16:00, the nurse did a room round and observed the patient's overall condition. The bedrail was fixed, and the patient was stable in bed.
-* At 19:00, the nurse took vital signs: blood pressure (BP) 98/59, pulse (P) 104, respiratory rate (RESP) 20, temperature (T) 36.7°C, and oxygen saturation (SPO2) 96%. The nurse also did a room round and checked that the bedrail was up.
-* At 23:00, the nurse did a room round and ensured that the bedrail was up.
-* On April 25, 2024, the nurse did a room round and found that the patient slept well throughout the night without any significant changes.
-* At 07:50, the nurse did a room round and noted that the patient was receiving a liquid diet through a tube (L-tube). The nurse also maintained the urinary catheter and cleaned the genital area. The patient wore diapers due to incontinence. The nurse checked the air mattress for any leaks and changed the patient's position, massaging their back. The patient was bedridden with the bedrail up. The nurse observed the patient's overall condition and noted that the patient was receiving oxygen through a nasal prong at a rate of 2 L/min, with oxygen saturation levels between 94% and 99%.
-* At 10:00, the doctor did a round and checked the patient's pressure sore on the left buttock, which was Grade 4, measuring 6 x 7 x 1 cm.

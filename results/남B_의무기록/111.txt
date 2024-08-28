@@ -1,9 +1,0 @@
-Nurse Record Summary:
-- 10:00 AM: Vital Signs: BP 100/65, HR 51, Resp 21, Temp 36.3°C; Doctor's round
-- 16:00 PM: Room round; General condition observed; Bed rail secured; Bed rest
-- 23:00 PM: Room round; Bed rail confirmed to be up
-- 06:00 AM (Day 2): No significant changes during the night; Good sleep
-- 07:50 AM: Room round; Patient is bedridden with left hemiplegia, using a Foley catheter (18Fr) with good urine output, able to control urination but not defecation, wearing diapers; Air mattress in place, checked for air leakage; Turned every 2 hours and back massage provided; Fall prevention education given; Emotional support provided
-- 10:00 AM: Vital Signs: BP 94/63, HR 57, Resp 20, Temp 36.5°C; Doctor's round
-- 16:00 PM: Room round; General condition observed; Bed rail secured; Bed rest
-- 23:00 PM: Room round; Bed rail confirmed to be up

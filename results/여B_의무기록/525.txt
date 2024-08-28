@@ -1,9 +1,0 @@
-Nurse Record Summary:
-
-- 19:00 Vital Signs: Blood Pressure 120/80, Pulse 101, Respiratory Rate 20, Temperature 37.7°C
-- 20:00 Vital Signs: Blood Pressure 106/69, Pulse 93, Respiratory Rate 19, Temperature 37.5°C
-- 23:00 Nursing Record: Rounded, found the bedrail up and in place.
-- 06:00 Vital Signs: Blood Pressure 106/80, Pulse 69, Respiratory Rate 19, Temperature 36.3°C
-- 07:50 Nursing Record: Routinely checked the patient. The patient slept well without any changes. L-tube inserted, providing enosolve 600 kcal/day. Retained catheter (20Fr), and perineal care. The patient cannot control bowel movements and wears a diaper. The air mattress is on, and the air is checked. Body position changed and back massage performed. The bedrail is up, and overall condition is observed. Rt. PICC kept (dressing done once a week on Friday), no redness, swelling, or discharge. Treatment for unspecified pneumonia (5/14 to 6/18). Stage 4 pressure ulcer on the left buttock, 10 X 8 X 1cm.
-- 10:00 Nursing Record: Physician round. Personality test - MMSE and GDS test performed.
-- 11:30 Nursing Record: Pressure sore dressing on the left buttock, G4, 10 X 8 X 1cm. Air mattress applied, body position changed, back massage performed. Skin condition of the pressure sore area observed.

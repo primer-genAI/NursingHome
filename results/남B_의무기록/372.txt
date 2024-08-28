@@ -1,9 +1,0 @@
-Nurse Record Summary:
-- Date: 2024-06-17
-- Insurance/Guardian: Unknown
-- 06:00: Nursing Record: The nurse checked on the patient and found no significant changes during the night. The patient slept well.
-- 07:50: Nursing Record: The nurse performed a bedside round, observed that the patient is bedridden with left hemiplegia and has a cystostomy (Foley catheter of 18Fr) in place. The patient's urine output is good, but they are unable to control their bowel movements and wear a diaper. The nurse checked the air mattress and ensured there was no deflation. They also performed a body position change, gave a back massage, educated the patient on fall prevention, and provided emotional support.
-- 10:00: Vital Signs: BP;98 BPL;62 P;55 RESP;20 T;36.5
-- 10:00: Nursing Record: The attending physician conducted rounds.
-- 16:00: The nurse performed a ward round and observed the patient's overall condition. The bed rail was secured, and the patient was stable in bed.
-- 23:00: The nurse checked the ward and confirmed that the bed rail was in an upright position.

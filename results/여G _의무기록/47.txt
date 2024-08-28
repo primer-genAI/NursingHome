@@ -1,9 +1,0 @@
-Patient's Chart Summary:
-
-- Date: April 29, 2024
-- Nurse Record:
-  - 7:50 AM: The patient was checked on. They slept well through the night with no significant changes. The nurse observed that the patient was able to control their bowel and bladder movements, but agreed to wear a diaper at night due to the risk of falling. The patient used a walker to go to the bathroom and was educated about the risk of falling. The side rails of the bed were raised, and the patient received emotional support. The overall condition of the patient was observed, and the guardian requested that the patient be allowed to be active, even if it means accepting the risk of falling. The nurse noted that the patient's leg strength was weak, and they had difficulty maintaining balance while walking with a walker.
-  - 10:00 AM and 4:00 PM: The nurse checked on the patient during the shift. The bedrails were secured, and the patient was resting in bed.
-  - 11:00 PM: The nurse checked on the patient and confirmed that the bedrails were raised.
-
-Please note that the summary above is a simplified version of the provided medical information. Always consult with a healthcare professional for accurate and personalized information.

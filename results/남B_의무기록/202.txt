@@ -1,9 +1,0 @@
-Nurse Record Summary:
-
-- 23:00 (October 26th): Room round performed, patient's overall condition observed, and bedrail secure.
-- 06:00 (October 27th): Room round performed, patient slept well with no significant changes overnight.
-- 07:50 (October 27th): Room round performed, assessed bedridden state and left hemiplegia with cystostomy in place and urinary output satisfactory. Patient can control urination but not defecation, wearing a diaper. Ensured air mattress was inflated, performed body repositioning, and back massage. Provided fall prevention education and emotional support.
-- 10:00 (October 27th): Vital signs: BP 93/54, HR 52, Resp 20, Temp 36.4°C. Attending physician's round completed.
-- 16:00 (October 27th): Room round performed, patient's overall condition observed, and bedrail secure.
-- 23:00 (October 27th): Room round performed, bedrail secure and in the upright position.
-- 06:00 (October 28th): Room round performed, patient slept well with no significant changes overnight.

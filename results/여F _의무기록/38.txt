@@ -1,9 +1,0 @@
-Nurse Record (N):
-- 15:00: Patient reports decreased pain (NRS 3)
-- 16:00: Nurse made rounds, observed overall condition, found bedrails in place, and noted that the patient was resting comfortably.
-- 23:00: Nurse made rounds and ensured that the bedrails were still up.
-
-April 7, 2024 (Insurance/Caregiving):
-- 06:00-07:50: Nurse made rounds, observed that the patient slept well with no significant changes overnight. The patient is wearing an F-cath and using a diaper due to incontinence. The bed's air mattress was checked for leaks, and the patient's position was changed, with back massage provided. The bedrails were raised when the patient was resting. Emotional support was given, and the patient's overall condition was observed. The patient experiences sharp pain in both ankles, rated as NRS 3, and is being treated with fentanyl. The patient appears to be talking to someone not present and telling nonsensical stories.
-- 10:00: The on-call doctor made rounds.
-- 11:30: The nurse changed the dressing on the pressure sore (COCCyx G4, 6 X 8 X 1 cm) and applied the air mattress. The patient's position was changed, and a back massage was performed. The nurse observed the skin condition around the pressure sore.

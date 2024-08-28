@@ -1,9 +1,0 @@
-Nurse Record Summary:
-
-* 19:00: Room round, general observation, bedrail secured, stable condition (V/S: BP 113/76, P 81, RESP 20, T 36.1)
-* 23:00: Room round, checked bedrail is up
-* 06:00: Room round, patient slept well through the night with no significant changes
-* 07:50: Room round, patient bedridden, unable to communicate verbally or visually. L-tube (fr18) for feeding with current regimen of 200kcal x4 times a day, indwelling catheter, and perineal care. Air mattress in place, checked for air loss. Bedrail raised, overall condition observed.
-* 10:00: Vital signs: BP 119/76, P 91, RESP 20, T 36.4
-* 15:45: Implemented infection control measures during care, including wearing gloves and gowns, performing hand hygiene before and after care, and following isolation guidelines.
-* 16:00: Room round

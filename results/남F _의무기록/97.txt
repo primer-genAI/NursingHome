@@ -1,5 +1,0 @@
-Nurse Record Summary:
-
-* 10:00 AM: Attending physician made rounds.
-* 4:00 PM: Nurse conducted a room check and observed the overall condition of the patient. The patient was found to be in bed and the bedrails were secure.
-* 11:00 PM: Nurse made another round and confirmed that the bedrails were still in place.

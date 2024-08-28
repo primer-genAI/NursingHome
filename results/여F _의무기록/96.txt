@@ -1,9 +1,0 @@
-Nurse's Record (N):
-
-* 10:00 AM: Nursing assessment - Patient reports sharp pain in both ankles with a score of 3 on the NRS pain scale. Pain managed with Durogesic Dittans Etret 12 mcg/h (Fentanyl). The patient is looking at nothing, talking to themselves, and telling random stories. Walker ambulation done, but requires assistance from staff to hold their waist. Bed sore observed at COCCyx G4, measuring 4 X 6 X 1 cm.
-* 11:10 AM: Physician rounds - Doctor assesses the patient's condition. The size of the bed sore at COCCyx G4 has decreased to 4 X 5 X 1 cm. The recording format for the bed sore size is changed from [length(vertical) x width(horizontal) x depth] to [width x length x depth]. Drainage dressing is applied to the A bed sore area. An air mattress is provided, and the patient is turned every 2 hours with back massage. The status of the developing pressure sore is monitored.
-* 15:00 PM: Skin observation - The patient's skin is checked, and acupuncture treatment is administered.
-* 16:00 PM: Room round - Nursing staff observes the patient's overall condition. The bed rail is secured, and the patient is resting in bed.
-* 23:00 PM: Room round - Staff confirms that the bed rail is raised.
-* 06:00 AM (June 4, 2024): Insurance/Guardian - No specific details provided.
-* 07:50 AM: Nursing Record - Room round - The patient slept well through the night with no significant changes. The patient is incontinent and wears diapers. The hospital-provided air mattress is intact, and the staff ensures it is not deflated. The patient is turned every 2 hours with a back massage.

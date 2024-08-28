@@ -1,8 +1,0 @@
-Patient's Chart Summary:
-
-- Document Date: October 17, 2023, 06:00 - 23:00
-- Nursing Record:
-  - 06:00 - 07:50: Patient was observed to be restless and not able to sleep deeply. The nurse checked the bedrails, provided emotional support, and helped the patient turn over and massage their back. The nurse also educated the patient about the risk of falls and made sure the bedrails were up when the patient was in bed. The patient's behavior was noted as repetitive, with constant tapping on the bed with their right hand.
-  - 10:00: The patient's vital signs were checked: Blood pressure 110/50, Pulse 74, Respiratory rate 20, Temperature 36.6°C.
-  - 16:00: The nurse checked on the patient and observed that they were in a stable condition, resting in bed with the bedrails secured.
-  - 23:00: The nurse checked on the patient and made sure the bedrails were up.
