@@ -1,0 +1,12 @@
+xlrd
+pandas
+
+langchain
+langchain-community
+python-dotenv
+langchain-upstage
+
+chromadb
+jq
+
+langchain-teddynote

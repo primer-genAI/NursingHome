@@ -1,0 +1,9 @@
+.cache
+.venv
+.env
+
+app
+data
+json
+
+results
