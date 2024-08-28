@@ -1,0 +1,19 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record (N)
+- Patient's Condition:
+  - Overall condition observed. Bedrail fixed.
+  - Room round performed. Patient stable in bed. Bedrail found up.
+  - Room round performed. No significant changes during the night.
+  - Room round performed. Patient is able to control bowel and bladder. Confirmed that the hospital's air mattress is in place and the air hasn't leaked. Educated the patient on fall risks and advised to keep the rail up when in bed. Provided emotional support.
+  - Overall condition observed. Attending physician made rounds.
+  - Room round performed. Overall condition observed. Bedrail fixed. Patient stable in bed.
+  - Room round performed. Bedrail found up.
+- Date: April 16, 2024
+- Time: 06:00 AM - 11:50 PM
+- Date: April 17, 2024
+- Time: 06:00 AM - 07:50 AM
+- Author: Unknown
+
+Note: This summary is based on the provided text and may not include all information from the original document.

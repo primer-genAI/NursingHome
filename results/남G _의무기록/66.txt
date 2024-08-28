@@ -1,0 +1,14 @@
+Patient's Chart Summary:
+- Document Type: Nursing Record
+- Date: May 27, 2024
+- Patient Status: Bedridden with right hemiplegia, using an L-tube for feeding (16Fr), unable to control bowel and bladder, wearing diapers.
+- Treatments: Airmattress kept for pressure relief, regular positioning changes and back massage, railings raised for safety, nursing care for facial rash, dressing of right knee and pin-prick site.
+- Medical History: Right hemiplegia, L-tube feeding, inability to control bowel and bladder, facial rash, right knee and pin-prick site infection.
+- Medications: Nutriwell fiber 400kcal/day for feeding.
+- Physician Visits:
+  - 10:00 AM: Attending physician's round, right knee and pin-prick site healing.
+- Nursing Rounds:
+  - 06:00 AM: Morning round, patient slept well with no significant changes.
+  - 07:50 AM: Morning round, patient's condition and treatments as mentioned above.
+  - 16:00 PM: Afternoon round, patient's condition observed.
+  - 23:00 PM: Night round, patient's condition observed, railings raised for safety.

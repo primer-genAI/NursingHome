@@ -1,0 +1,31 @@
+Nurse Record Summary:
+
+1. Vital Signs:
+   - 23:00: BP 124/75, HR 95, RESP 21, Temp 36.0°C, SpO2 98%
+   - 06:00: BP 145/80, HR 89, RESP 24, Temp 36.9°C, SpO2 97%
+   - 07:50: BP 145/80, HR 89, RESP 24, Temp 36.9°C, SpO2 97%
+   - 09:50: BP 103/70, HR 70, RESP 22, Temp 37.1°C, SpO2 96%
+   - 14:00: BP 130/81, HR 83, RESP 22, Temp 36.7°C, SpO2 95%
+
+2. Nursing Actions:
+   - 23:00: Checked that the bedrail was up.
+   - 06:00: Performed room rounds, patient slept well with no significant changes.
+   - 07:50: Performed room rounds, patient unable to communicate verbally or with eyes. L-tube insertion in progress, unable to adjust air mattress. Provided enteral nutrition (L-tube) and checked for leaks.
+   - 09:50: Inserted a Foley catheter (D: to prevent pressure sores, A: Foley catheter 16Fr inserted with urine bag, R: good urine output).
+   - 10:00: Attending physician round, VS: BP 143/80, HR 82, RESP 22, Temp 37.1°C, SpO2 96%.
+   - 14:00: Performed room rounds.
+
+3. Additional Information:
+   - Patient is bedridden and requires oxygen therapy (10 L/min via mask) due to pneumonia.
+   - Patient is receiving antibiotics for pneumonia.
+   - Patient is receiving Veklury injection (remdesivir) intravenously for COVID-19 (2/7 - 3/11).
+   - Patient is COVID-19 positive.
+   - Patient's condition is being monitored using a patient monitor.
+   - Patient's O2 saturation (SpO2) is 98%.
+   - Tracheal suction was performed.
+   - Patient wears diapers for bowel and bladder management.
+   - Patient's bedrail is kept up for safety.
+   - Patient's overall condition is being observed.
+   - Patient's temperature is within normal range.
+   - Patient's heart rate and respiratory rate are within normal range.
+   - Patient's blood pressure is slightly high.

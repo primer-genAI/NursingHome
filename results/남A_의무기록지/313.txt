@@ -1,0 +1,22 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: February 24, 2024
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: BP 131/59, P 42, RESP 19, T 36.8°C
+- Medical History: Paralysis on the left side, using an L-tube, unable to control bowel movements, wearing diapers, repetitive behavior, air mattress, bedsores, and depression.
+- Current Medications: Unknown
+
+Nurse Record Summary:
+- 06:00: Room round, patient slept well with no significant changes.
+- 07:50: Nurse's round, patient in bed with paralysis on the left side, L-tube, unable to control bowel movements, wearing diapers, repetitive behavior, air mattress checked, repositioning, back massage, fall risk education, bedrail up, emotional support, overall condition observed, patient repeatedly taps the bed when awake.
+- 09:05: Full body bath with the help of a caregiver.
+- 10:00: V/S: BP 131/59, P 42, T 36.8°C, on-call doctor round.
+- 12:39: V/S: BP 131/59, P 42, T 36.8°C.
+- 16:00: Room round, overall condition observed, bedrail fixed, bed stable.
+- 23:00: Nurse's round, details not provided.

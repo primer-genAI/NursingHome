@@ -1,0 +1,15 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: October 2-3, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: BP 96/42, HR 59, RESP 20, Temp 36.3°C
+- Medical History: Patient is in a bedridden state with left hemiplegia, has an L-tube (18Fr) kept, and is given enteral nutrition 400-400-400kcal/day. The patient is unable to control bowel and bladder movements and wears diapers. The patient continuously hits the bed rail with their right hand and shows repetitive behavioral patterns. The patient is on an air mattress, and the staff checked for deflation, changed the patient's position, and gave a back massage. The patient was educated about the risk of falling and was instructed to keep the railing up while in bed. The patient shows repetitive behavioral disorders by constantly knocking the bed when awake.
+- Current Medications: Unknown
+- Nursing Record: The patient was observed during bed rounds, and their overall condition was noted. The bedrail was fixed, and the patient was stable. The patient was observed during bed rounds, and no significant changes were noticed during the night. The patient was observed during bed rounds, and their overall condition was noted. The patient was in a bedridden state with left hemiplegia, had an L-tube (18Fr) kept, and was given enteral nutrition 400-400-400kcal/day. The patient was unable to control bowel and bladder movements and wore diapers. The patient continuously hit the bed rail with their right hand and showed repetitive behavioral patterns. The patient was on an air mattress, and the staff checked for deflation, changed the patient's position, and gave a back massage. The patient was educated about the risk of falling and was instructed to keep the railing up while in bed. The patient's vital signs were recorded as BP 96/42, HR 59, RESP 20, and Temp 36.3°C. The patient was observed during bed rounds, and their overall condition was noted. The bedrail was fixed, and the patient was stable. The patient was observed during bed rounds, and the bed rail was noted to be up.

@@ -1,0 +1,36 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: Unknown
+- Document Date: Unknown
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: Unknown
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Nurse Record:
+- Overall condition observed. The patient kept waking people up at night, talking to themselves, and disturbing other patients' sleep.
+- 10:00: Physician rounds.
+- 13:00: Patient went to an outpatient clinic at Soonchunhyang University Hospital (Neurology department) with a guardian.
+- 15:30: Patient returned home. # Prescription: After a neurological examination at Soonchunhyang University Hospital, the patient received medication prescriptions. A: In-house prescription order: 
+	+ Pantoprazole 20mg 2T#
+	+ Carbamazepine 2T#
+	+ Gabapentin 100mg capsule 3C#
+	+ 3-day prescription (from May 27 to May 29)
+- 16:00: Nursing staff observed the patient's condition and made rounds. Overall condition observed. Bedrails were fixed.
+- 23:00: Patient remained in bed. Nursing staff made rounds and confirmed that the bedrails were up.
+- # 2024-05-28 Insurance/Guardian 06:00 Nursing Record: Nursing staff made rounds. The patient slept well through the night with no significant changes.
+- 07:50: Nursing staff made rounds. Observed the patient's state:
+	+ Rt. Chemoport kept
+	+ Unable to control bowel and bladder movements, using diapers
+	+ Using an air mattress
+	+ Ensured the air mattress was properly inflated
+	+ Performed a body turn and back massage
+	+ Educated the patient about fall risks and advised keeping the bedrails up during bed rest
+	+ Provided emotional support
+	+ Overall condition observed

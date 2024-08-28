@@ -1,0 +1,25 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: 0092108472
+- Date: December 14, 2023
+- Patient Information:
+  - Room: 516
+  - Gender: Female
+  - Age: 91
+
+Vital Signs:
+
+- 10:00 AM: BP: 89/52, P: 62, RESP: 20, T: 36.2°C
+
+Nursing Notes:
+
+- Overall condition observed. Emotional support provided as the patient expressed feelings of hopelessness and depression about her condition and inability to go home.
+- The patient displayed aggressive behavior, such as yelling and cursing at staff and other patients, and often accused others of stealing her belongings or food.
+- At 15:00, the attending physician made a round.
+- At 16:00, the nursing staff conducted a room check and ensured the patient's bedrails were up for safety.
+- At 23:00, the nursing staff made another round and confirmed the bedrails were still up.
+- Overnight, the patient slept well with no significant changes observed.
+- At 07:50, the nursing staff made another round and found the patient incontinent, wearing a diaper, and using an air mattress. They ensured the patient's skin was not being pressed by any folds in the sheets or clothing and that the room was well-ventilated to keep the skin dry. The bedrails were left up for safety, and the patient was educated about the risks of falling.
+- Emotional support was provided as the patient continued to express feelings of hopelessness and depression.

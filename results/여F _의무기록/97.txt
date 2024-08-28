@@ -1,0 +1,27 @@
+Nurse Record Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Date: June 4, 2024
+- Time: 10:00 AM - 23:00 PM
+- Patient Information:
+  - Pain Management:
+    - Right and left ankle pain: NRS 3
+    - Pain controlled with Durogesic D-Trans Patch 12 mcg/h (Fentanyl)
+  - Mental Status:
+    - Staring at nothing, talks to herself, and tells irrelevant stories
+    - Assistance required for walker ambulation
+  - Bed Rail:
+    - Up when the patient is in bed for stability and emotional support
+  - Pressure Sore:
+    - COCCyx G4: 4 X 5 X 1 cm
+    - Dressing applied, air mattress applied, 2-hour turn and back massage performed, observation of skin condition on the pressure sore site
+- Doctor's Round:
+  - # Decubitus sore: COCCyx G4 4 X 5 X 1 cm A
+  - Dressing of the pressure sore site performed, air mattress applied, 2-hour turn and back massage performed, observation of skin condition on the pressure sore site
+- Treatments:
+  - 15:00 PM: Acupuncture treatment performed, room rounds, overall condition observed
+- Night Observation:
+  - 23:00 PM: Room rounds, bed rail in place confirmed
+- June 5, 2024:
+  - Sleeped well with no significant changes during the night
+  - 07:50 AM: Room rounds, incontinence, wearing diapers, air mattress with no leakage, 2-hour turn and back massage performed, bed rail up when the patient is in bed

@@ -1,0 +1,30 @@
+Patient's Chart Summary:
+
+- Document Type: Nurse Record
+- Date: 2023년 6월 1일
+- Writer: Unknown
+- Vital Signs:
+  - Blood Pressure: 92/62
+  - Pulse: 55
+  - Respiratory Rate: 20
+  - Temperature: 36.7°C
+
+Room Round:
+
+- 06:00: Patient slept well with no significant changes during the night.
+- 07:50: Patient is bedridden with left hemiplegia. They have a Foley catheter (18Fr) and can control their urine but not their stool, so they wear diapers. The air mattress is working properly, and the patient's position is changed every two hours with back massage. The patient receives education on fall prevention, and emotional support is provided.
+
+ADL Assessment:
+
+- Dressing: The patient can put on one arm by themselves but needs assistance with the other arm and buttoning.
+- Bathing: The patient requires complete assistance from staff.
+- Eating: The patient can eat with assistance, but they may spill food.
+- Bed mobility: The patient can turn themselves with one hand on the bed rail.
+- Sitting up: The patient needs assistance from staff to sit up and maintain position.
+- Transferring: The patient requires complete assistance from staff for all transfers.
+- Going out of the room: The patient cannot move by themselves and needs assistance in a wheelchair.
+- Toileting: The patient requires complete assistance with diaper changes.
+
+Doctor's Round:
+
+- 10:00: The attending physician made their rounds.

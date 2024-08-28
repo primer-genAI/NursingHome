@@ -1,0 +1,7 @@
+Nurse Record Summary:
+
+* Patient is resting in bed. Vital signs at 19:00: BP 94/62, HR 101, RESP 20, Temp 36.9°C, SPO2 98%.
+* At 23:00, the nurse made rounds and checked that the bedrails were up.
+* On April 17, 2024, the patient slept well with no significant changes reported.
+* At 07:50, the patient was unresponsive, and a L-tube was inserted for feeding. The patient is incontinent and wears diapers. The patient's air mattress was checked for leaks, and the patient received a body massage and position change. The patient's oxygen saturation was 94-99% while using 2 L/min of oxygen via nasal prongs. The patient has a stage 4 pressure sore on the left buttock.
+* The patient requires full assistance with daily living activities, including dressing, grooming, oral hygiene, bathing, eating, positioning, transferring, and using the bathroom.

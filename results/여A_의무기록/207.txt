@@ -1,0 +1,24 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: 0092108472
+- Document Date: July 23, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 512
+- Gender: Female
+- Age: 91
+- Vital Signs:
+  - 10:00 AM: BP 114/82, HR 69, RESP 20, Temp 36.7
+  - 10:00 AM (later): BP 96/65, HR 61, RESP 20, Temp 36.5
+- Nursing Record:
+  - 10:50 AM: Bath assisted by caregiver
+  - 16:00 PM: Room round, patient stable, bedrail fixed, bedrest
+  - 23:00 PM: Room round, bedrail check
+  - 06:00 AM: Room round, patient slept well, no significant changes
+  - 07:50 AM: Room round, patient incontinent, wearing diapers, on an air mattress
+  - 07:50 AM: Assisted with bedding to prevent skin breakdown and ensured air circulation
+  - 07:50 AM: Observed patient's behavior, expressing frustration and depression about her condition and inability to go home, sometimes verbally aggressive towards staff and fellow patients
+  - 10:00 AM: Vital signs check, doctor's round
+  - 16:00 PM: Room round

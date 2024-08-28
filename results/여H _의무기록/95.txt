@@ -1,0 +1,24 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: June 13, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 302
+- Gender: Female
+- Age: 77
+- Vital Signs: Unknown
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Nurse Record:
+
+- 20:08: CBC (with differential), Electrolyte (Na, K, Cl), LFT, T3, TSH, Free T4 prescribed (June 13)
+- 23:00: Room rounds completed. Confirmed that bedrails are up.
+- 06:00: Insurance/protection (June 13, 2024)
+- 07:50: Room rounds completed. Patient is bedridden, has no vision in both eyes, cannot control bowel or bladder movements, and wears diapers. Patient has buildup and rigidity in both legs, occasionally complains of pain. Emotional support provided, air mattress kept, and position change performed. Sheets and clothing wrinkles smoothed out, and air ventilation provided to prevent skin moisture. Patient appears down and quiet, depressed about not being able to go home, has trouble sleeping, and wakes up often looking for food.
+- 10:00: Physician round completed. Diarrhea, chest discomfort. Treatment: Potagel suspension 20ml (Dioctahedral Spectate) 3p, Pantoline tablet 20mg (Pentoprazole Sodium Sesquihydrate) 1p with breakfast (June 13 to June 26, 14 days prescription).
+- 16:00: Room rounds completed.

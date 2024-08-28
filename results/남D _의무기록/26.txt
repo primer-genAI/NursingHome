@@ -1,0 +1,20 @@
+Nurse Record Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Date: April 2, 2024 - April 3, 2024
+- Patient's Condition:
+  - No significant changes during the night.
+  - Patient is unable to control bowel and bladder movements and is wearing diapers.
+  - Patient is using an air mattress to prevent pressure sores.
+  - Patient has a left-side paralysis and is unable to move around.
+  - Patient requires bed rest and has a raised safety rail to prevent falls.
+  - Patient's emotional well-being is being addressed.
+  - Patient's overall condition is being monitored.
+  - The attending physician has made rounds.
+- Nursing Actions:
+  - Checked the air mattress for proper inflation.
+  - Assisted with body positioning and provided a back massage due to paralysis.
+  - Educated the patient about fall prevention.
+  - Monitored the patient's overall condition throughout the day.
+  - Ensured the bed rail was secure and the patient was in a stable condition.
+  - Continued monitoring and support during the night.

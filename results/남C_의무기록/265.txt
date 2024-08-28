@@ -1,0 +1,22 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: December 15, 2023
+- Vital Signs:
+  - 11:21 AM: Blood Pressure (BP) - 126, Respiration Rate (RESP) - 16, Temperature (T) - 36.0°C
+  - 16:00 PM: BP - 135/79, Pulse Rate (P) - 73, RESP - 20, T - 36.6°C
+  - 07:50 AM (Next Day): BP - 135, BPL - 79, P - 73, RESP - 20, T - 36.6°C
+- Medical Events:
+  - Almost daily left extremity jerks for less than 10 seconds, then stops.
+  - Denture pain persists, patient requests painkillers with lunch. Maxibuphen IR Tab 300mg (Dexibuprofen) 1T PO (lunch) * 4d's added to medication.
+  - Acupuncture treatment performed.
+  - Room rounds conducted, overall condition observed, bedrails secured, patient in bed rest.
+  - Night rounds conducted, bedrails found to be up.
+  - Night rounds conducted, patient slept well with no significant changes.
+  - Room rounds conducted, edema (+), toilet control possible. Fall risk education given, bedrail elevation during bed rest, emotional nursing provided. Overall condition observed using a wheelchair for mobility.
+  - Almost daily left extremity jerks for less than 10 seconds, then stops.
+  - Attending physician's rounds conducted.
+
+Note: The patient's medical history, diagnoses, and current medications are not provided in this document.

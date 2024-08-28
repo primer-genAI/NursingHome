@@ -1,0 +1,17 @@
+Nurse Record Summary:
+
+- Patient: 0093109779, Female, Age 77, Room 511
+- Nursing Actions:
+  - Observed the overall condition of the room.
+  - Checked that the bed rail was in place and the patient was stable.
+  - Performed rounds and observed the patient's condition.
+  - Ensured the bed rail was raised.
+  - Provided enteral nutrition through an L-tube.
+  - Checked the air mattress for deflation and performed a body reposition and back massage.
+  - Observed the patient's overall condition and fixed the bed rail.
+  - Checked the patient's vital signs: BP 121/82, P 78, RESP 20, T 36.0°C.
+  - Conducted an acupuncture treatment.
+  - Administered a COVID-19 PCR test.
+  - Observed the patient's overall condition and checked that the bed rail was raised.
+
+Please note that this summary is based on the information provided in the given text, and any missing or unclear details have been left as is.

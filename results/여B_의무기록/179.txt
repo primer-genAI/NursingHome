@@ -1,0 +1,19 @@
+Nurse Information Sheet:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information:
+  - Vital Signs:
+    - Blood Pressure: 96/52, 100/51, 100/52, 100/51, 100/52
+    - Pulse: 70, 74, 70, 70, 70
+    - Respiratory Rate: 20, 20, 20, 20, 20
+    - Temperature: 37.2°C, 37.6°C, 37.3°C, 37.3°C, 36.5°C
+  - 10:00 AM: Attending physician made rounds
+  - 10:30 AM: The patient was prescribed Normix Tablet (Rifaximin) 4 times a day for 7 days and Furacilin Tablet 250mg (Metronidazole) 8 times a day for 7 days due to diarrhea (prescription from July 6 to July 12). The patient's condition was observed.
+  - 14:00 PM: Temperature was measured at 37.6°C.
+  - 16:00 PM: The patient's overall condition was observed during a room round. The bedrails were secured, and the patient was resting in bed.
+  - 19:00 PM: Vital signs were measured: Blood Pressure: 100/52, Pulse: 74, Respiratory Rate: 20, Temperature: 37.3°C.
+  - 20:00 PM: (Information missing)
+  - 23:00 PM: The patient's room was checked, and the bedrails were confirmed to be up.
+  - 06:00 AM (July 7, 2023): The patient slept well through the night with no significant changes observed.
+  - 07:50 AM: The patient was observed to be bedridden, unable to communicate verbally or with eye contact. An L-tube (size 18) was inserted for feeding, and the patient was receiving a fiber-based diet with 400-200-400kcal per day. The patient was wearing a diaper due to incontinence and was using an air mattress provided by the hospital. The mattress was checked for any air leaks, and the bedrails were raised for the patient's safety. The patient's overall condition was observed.

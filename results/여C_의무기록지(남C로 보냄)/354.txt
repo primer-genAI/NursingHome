@@ -1,0 +1,23 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: Unknown
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: Unknown
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Nurse Record Summary:
+- 한방치료 시행함. 16:00 병실순회함. 전반적인 상태 관찰함. 침상난간 고정 되어있음. 침상 안정중임.
+- 19:00 혈압 155, 간호 기록: 병실 순회함. 침상난간 올려져 있는 것 확인함.
+- 2023-12-20 보험/보호 06:00 간호 기록: 병실 순회함. 밤동안 특이 변화 없이 잘잠.
+- 07:50 병실 순회함. 환자는 침대에 누워 있으며, 전반적인 상태를 관찰함. 대소변 조절 못해 기저귀 착용중임. 에어 매트리스 유지중. 체위 변경하고 등 마사지 시행함. 시트나 환의의 주름을 펴드리고 환자의 피부가 눌리지 않도록 해줌 피부가 습하지 않도록 바람이 통하게 환기 시켜 줌 침상 난간을 올려놓음 정서적인 간호함. 말을 시켜도 대답이 거의 없고, 기분이 처진 것처럼 보이거나 말수가 적어짐.
+- 10:00 혈압 107, 간호 기록: 담당의 회진함.
+- 15:00 한방치료 시행함.
+- 16:00 병실순회함.

@@ -1,0 +1,15 @@
+Nurse Information Sheet Summary:
+- Page Info: Unknown
+- Document Type: Nurse Information Sheet
+- Patient's Condition: The patient's overall condition is observed, and they are bedridden. They are unable to control their bowel and bladder movements and are wearing diapers. The patient has an air mattress, and the nurse has been repositioning them and giving back massages. The nurse ensures that the patient's sheets and clothing are smooth and that their skin is not pinched or damp. The patient's bedrails are up, and the nurse provides emotional support. The patient rarely responds when spoken to and appears down or quiet.
+- Vital Signs:
+  - 10:00 AM: Blood Pressure: 101/66, Pulse: 44, Respiratory Rate: 20, Temperature: 36.0°C
+  - 16:00 PM: Not provided
+  - 23:00 PM: Not provided
+  - 2023-11-26 06:00 AM: The patient slept well through the night with no significant changes.
+- Nursing Actions:
+  - 10:00 AM: The patient was checked by the on-call doctor.
+  - 16:00 PM: The nurse made rounds and observed the patient's overall condition. The bedrails were secured, and the patient was resting in bed.
+  - 23:00 PM: The nurse made rounds and found the bedrails up.
+  - 2023-11-26 07:50 AM: The nurse made rounds and observed the patient's overall condition. The patient was bedridden, unable to control their bowel and bladder movements, and wearing diapers. The nurse continued to provide emotional support and ensure the patient's comfort.
+- Authors: Not provided

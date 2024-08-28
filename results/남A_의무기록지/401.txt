@@ -1,0 +1,16 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Diagnoses: Unspecified (based on the information provided)
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Nurse Record:
+
+- 10:00: The patient was observed during rounds. Vital signs were recorded as P;76 RESP;20 T;36.7.
+- 16:00 and 23:00: The patient's condition was checked, but specific information was not provided.
+- 06:00: The nurse made rounds and observed that the patient slept well through the night with no significant changes.
+- 07:50: The nurse made rounds and noted that the patient was in a bedridden state with left hemiplegia. The patient had a nasogastric tube for enteral feeding and a urethral catheter for urinary control. The patient was unable to control bowel movements and was wearing a diaper. The patient repeatedly hit the bed rail with their right hand and had an air mattress. The nurse checked the air mattress and changed the patient's position every two hours, providing a back massage. The nurse also educated the patient on fall prevention and ensured the bedrails were raised while the patient was in bed.
+
+The nurse observed the patient's overall condition and noted that the patient repeatedly hit the bedrail and showed repetitive behavioral disorders when awake. The bedrails were secured, and the patient remained in bed rest. The nurse also checked the bedrails to ensure they were raised.

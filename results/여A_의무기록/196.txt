@@ -1,0 +1,15 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: 0092108472
+- Document Date: July 11, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 512
+- Gender: Female
+- Age: 91 years old
+- Vital Signs: BP;91 BPL;64 P;64 RESP;20 T;36.6
+- Medical History: The patient has been hospitalized frequently due to various health issues. She is currently undergoing traditional Korean medicine treatment and has been observed to be stable overall. However, she has expressed feelings of depression and frustration about her condition and the inability to return home. She has also exhibited aggressive behavior towards staff and other patients.
+- Current Medications: Unknown
+
+Please note that some information in the document is missing or unclear.

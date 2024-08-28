@@ -1,0 +1,42 @@
+Progress Notes Summary:
+
+Date: September 12, 2023
+Doctor: FM1
+Room: 515
+Insurance: Health Insurance
+
+Vitals:
+- 6:00 AM: FBS;86
+- 10:00 AM: BP;95 BPL;60 P;49 RESP;20 T;36.4
+
+Treatments:
+- Acupuncture (2 points or more) at Hegu (LI4) and Zusanli (ST36)
+- Investigation (investigation acupuncture) at Sanjiao (OB6) and Xiyan (GB41)
+
+Diet:
+- Diabetes meal (brown rice) at 14:59
+
+Diagnosis:
+- F001^00: Dementia due to Alzheimer's disease (G30.1t)
+
+Date: September 13, 2023
+Doctor: FM1
+Room: 515
+Insurance: Health Insurance
+
+Vitals:
+- 10:00 AM: BP;126 BPL;53 P;46 RESP;20 T;37.5
+- 14:00 PM: T;36.7
+- 19:00 PM: T;37.3
+
+Treatments:
+- Acupuncture (2 points or more) at Hegu (LI4) and Zusanli (ST36)
+- Investigation (investigation acupuncture) at Sanjiao (OB6) and Xiyan (GB41)
+
+Diet:
+- Diabetes meal (brown rice) at 15:33
+
+Diagnosis:
+- F001^00: Dementia due to Alzheimer's disease (G30.1t)
+
+The patient is receiving acupuncture treatments and following a diabetes meal plan. They have been diagnosed with dementia due to Alzheimer's disease.

@@ -1,0 +1,17 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse's Record
+- Patient Number: 0092108472
+- Patient Info: Female, 91 years old, Room 516
+- Vital Signs:
+  - 10:00 AM: BP 125/B, RESP 20, Temp 36.7°C
+  - 16:00 PM: Hanbang Treatment
+  - 23:00 PM: BP 125/B, RESP 20, Temp 36.7°C
+- Nursing Notes:
+  - Skin kept dry and airy, bedrails up during bed rest, educated about fall risks, provided emotional support, patient expressed suicidal thoughts and depression due to inability to go home, exhibited aggressive behavior towards staff and other patients, often accused others of stealing, cursed and became angry easily, talked harshly about a fellow bedridden patient
+  - 10:00 AM - 16:00 PM: Routine nursing care, one-on-one observation, air mattress applied, patient's skin checked for moisture and kept dry, bedrails up, educated about fall risks, overall condition observed
+  - 16:00 PM - 23:00 PM: Routine nursing care, air mattress applied, patient's skin checked for moisture and kept dry, bedrails up, overall condition observed
+  - 23:00 PM - 06:00 AM: Routine nursing care, air mattress applied, patient's skin checked for moisture and kept dry, bedrails up, overall condition observed
+  - 06:00 AM - 07:50 AM: Routine nursing care, air mattress applied, patient's skin checked for moisture and kept dry, bedrails up, overall condition observed
+
+Please note that the information provided does not include specific diagnoses or medical history, only the nursing notes and vital signs.

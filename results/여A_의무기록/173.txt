@@ -1,0 +1,31 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: 0092108472
+- Document Date: June 16, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 512
+- Gender: Female
+- Age: 91 years old
+- Vital Signs:
+  - 07:50: Temperature: 37.4°C, Blood pressure: 132/82 mmHg, Pulse: 75 beats/minute, Respiratory rate: 20 breaths/minute
+  - 14:00: Temperature: 37.2°C
+  - 19:00: Blood pressure: 107/70 mmHg, Pulse: 79 beats/minute
+- Medical History:
+  - Patient is bedridden
+  - The patient has difficulty controlling bladder and bowel movements and wears diapers
+  - The patient has a history of theft and accuses others of stealing her diapers and snacks
+  - The patient expresses a desire to die and feels depressed about not being able to go home
+  - The patient sometimes yells at staff and other patients
+- Nursing Interventions:
+  - The patient was checked in the morning and night during the previous day
+  - The patient's bed was adjusted to prevent skin breakdown and the room was kept ventilated
+  - The patient's vital signs were monitored
+  - The patient received acupuncture treatment
+  - The patient's bed rail was secured
+  - The patient's vital signs were checked again in the evening
+- Medications:
+  - Cough and hoarseness medication prescribed by the attending physician (from June 16, lunch to June 19)
+  - Cough syrup and a cough suppressant were administered according to the doctor's order. The patient's condition was monitored continuously.

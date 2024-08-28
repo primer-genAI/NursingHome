@@ -1,0 +1,25 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse's Record
+- Patient Number: 0092108472
+- Document Date: June 9, 2023
+- Department: Unknown
+- Patient Information:
+  - Room: 516
+  - Gender: Female
+  - Age: 91 years old
+- Vital Signs:
+  - Blood Pressure: 100/59
+  - Heart Rate: 59
+  - Respiratory Rate: 20
+  - Temperature: 36.3°C
+- Nursing Notes:
+  - 23:00: Bedrail was found up, so it was confirmed and recorded.
+  - 06:00: The patient was awake and resting comfortably.
+  - 07:50: The patient's bed was made, and the skin was checked for moisture. The patient was educated about the importance of keeping the bedrails up when in bed.
+  - 10:00: The patient's overall condition was observed, and emotional support was provided. The patient expressed feelings of depression and frustration about not being able to go home, and sometimes exhibited aggressive behavior towards staff and other patients.
+  - 10:05: The patient complained of itching, so the nurse administered Penicillamine Maleate Injection (2ml, 1A IM) for symptomatic relief.
+  - 10:50: The patient received a full body bath with the assistance of a caregiver. The patient's overall condition was observed, and the bedrail was found in place.
+
+Please note: This summary is based on the provided document and may not contain all the patient's medical history or current conditions.

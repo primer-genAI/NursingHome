@@ -1,0 +1,10 @@
+Nurse Record Summary:
+- Date: December 29, 2023
+- Author: Unknown
+- 06:00: Nursing Record - Patient was awake and alert, with no significant changes overnight. Vital signs: FBS;84
+- 07:50: Nursing Record - Patient was bedridden, with no control over bowel and bladder functions. Air mattress was kept, and the patient was repositioned and given a back massage. The bedrails were raised, and emotional support was provided. The patient was observed to have little response and a low mood.
+- 10:00: Vital signs: BP;102/43, P;50, RESP;19, T;36.3
+- 10:00: Nursing Record - Attending physician made rounds
+- 10:49: HbA1c: 5.3 - Blood sugar test result
+- 15:00: Acupuncture treatment was administered
+- 16:00: Nursing Record - Patient was observed in a stable condition, with bedrails secured.

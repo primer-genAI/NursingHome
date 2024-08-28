@@ -1,0 +1,18 @@
+검사 슬립지 요약:
+
+* 차트 번호: 0092106935
+* 검사 일자: 2024년 03월 12일
+* BU: 22.70 mg/dL (참고치: 7.9 ~ 25.0 mg/dL)
+* Creatinine: 0.79 mg/dL (참고치: 0.77 ~ 1.43 mg/dL)
+* A/G ratio: 1.20 (참고치: 미설정)
+* eGFR: 92.00 mL/min/1.73m2 (참고치: > 59 mL/min/1.73m2)
+* U/A (10종) + Micro: 검사 중
+* Leukocyte, Glucose, Bilirubin, Ketone: 음성
+* Specific Gravity: 1.02 (참고치: 1.005 ~ 1.030)
+* Blood: 음성 (참고치: 5.0 ~ 8.0)
+* pH: 7.00 (참고치: 미설정)
+* Protein: 음성
+* Urobilinogen: Trace (참고치: 미설정)
+* Urine Microscopy: 결과 보고서 참조 (참고치: 0 ~ 2 /HPF)
+* Micro RBC: 0~2 /HPF (참고치: 0 ~ 2 /HPF)
+* Micro WBC: 결과 보고서 참조 (참고치: 0 ~ 2 /HPF)

@@ -1,0 +1,25 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Progress Notes
+- Patient Number: 0092108472
+- Document Date: February 23, 2024
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91
+- Vital Signs:
+  - BP: 109/80
+  - RESP: 20
+  - Temp: 36.0°C
+- Nursing Record:
+  - 07:50: Room round, checked for falls, adjusted air mattress, and educated about skin care.
+  - 10:00: Vital signs check, BP: 109/80, RESP: 20, T: 36.0°C.
+  - 15:00: Attending physician round.
+  - 16:00: Room round, checked overall condition.
+  - 23:00: Room round, checked bedrail.
+  - 06:00: Room round, checked for any changes during the night.
+  - 07:50: Room round, checked incontinence, adjusted air mattress, and ensured skin was dry.
+
+Please note that this summary may not include all the details from the original document, but it provides a general overview of the patient's status and the nursing care provided.

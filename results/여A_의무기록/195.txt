@@ -1,0 +1,24 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: 0092108472
+- Document Date: Unknown
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 512
+- Gender: Female
+- Age: 91
+- Vital Signs:
+  - 10:00: BP 90/58, P 60, RESP 20, T 36.5
+  - 16:00: BP 105/85, RESP 20, T 36.3
+  - 23:00: BP 105/85, RESP 20, T 36.3
+  - 06:00: BP 105/85, RESP 20, T 36.3
+- Medical History: Unknown
+- Current Medications: Unknown
+- Nursing Notes:
+  - Patient expressed feelings of hopelessness and depression about her condition and inability to return home.
+  - Patient exhibited aggressive behavior towards staff and other patients, including verbal abuse and accusations of theft.
+  - Patient's vital signs were within normal range throughout the day.
+  - Bedrails were raised for safety and to prevent falls.
+  - Skin care was provided to prevent pressure sores and maintain hygiene.
+  - Patient remained stable overnight with no significant changes in condition.

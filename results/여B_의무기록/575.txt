@@ -1,0 +1,20 @@
+VRE (Vancomycin Resistant Enterococcus) 검사 결과 요약:
+
+- 차트 번호: 0093109779
+- 검사 날짜: 2023년 07월 24일
+- 환자: 성별: 여성, 나이: 77세, 병동: 5병동, 병실: 505호
+
+결과:
+
+1. 소변 VRE 배양 및 감도 검사 (VRE Culture&Sensitivity (Urine)):
+VRE 균주가 배양되지 않았습니다.
+2. 직장 면봉 VRE 배양 및 감도 검사 (VRE Culture&Sensitivity (Rectal swab)):
+균주: Enterococcus faecium
+감응성 표:
+	* Linzolid: 감수성 (≤1)
+	* Strep. Synergy: 감수성 (≤1000)
+	* Synercid: 감수성 (≤1)
+	* Rifampin: 중간 (2)
+	* Ampicillin, Cefepime, Cefuroxime, Clindamycin, Erythromycin, Fusidic Acid, Gentamicin, Penicillin, Teicoplanin, Tobramycin, Trimeth/Sulfa, Vancomycin: 저항성 (R)
+
+판정: VRE (Vancomycin Resistant Enterococcus) 균주입니다.

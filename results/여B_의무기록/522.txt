@@ -1,0 +1,23 @@
+Patient's Chart Summary:
+
+- Page Info: Page No: 370 / 395
+- Document Type: Nurse Record
+- Vital Signs:
+  - 10:00: Temperature: 37°C
+  - 11:30: Temperature: 37.2°C
+  - 16:00: Temperature: 37.2°C
+  - 19:00: Temperature: 37.5°C
+  - 23:00: Temperature: 37.5°C
+  - 03:00: Temperature: 37.7°C
+  - 06:00: Temperature: 37°C
+- Nursing Record:
+  - 10:00: On-duty nurse Ham Air Mattress applied. R observed the skin status of the pressure sore area.
+  - 11:30: Dressing of pressure sore on the left buttock (Stage 4, 10 x 8 x 1 cm) was changed and applied. Body position changed, back massage at 14:00.
+  - 16:00: Nursing record (information missing).
+  - 19:00: Room round, general condition observed, bedrail fixed, bedrest stable.
+  - 23:00: Room round, bedrail in raised position checked.
+  - 03:00: Room round, slept well with no significant changes overnight.
+  - 06:00: Vital signs: BP: 97/70, HR: 61, RESP: 20, Temp: 37°C, SPO2: 98%.
+  - 07:50: Room round, L-tube inserted for enteral feeding with Ensol 600-600-300-300kcal/D. Retained catheter (20Fr) maintained and perineal care provided. Unable to control stool, wearing a diaper. Air Mattress in use, checked for deflation, body position changed, back massage performed. Bedridden, bedrail in raised position.
+
+Note: The information provided is a summary of the nurse's record and does not include any medical diagnoses or additional patient information.

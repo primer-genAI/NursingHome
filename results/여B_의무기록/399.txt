@@ -1,0 +1,19 @@
+Nurse Information Sheet Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Date: March 1, 2024
+- Patient: Unknown
+- Vital Signs:
+  - 19:00: BP 151/74, P 95, RESP 21, T 36.4°C, SPO2 97%
+  - 06:00: BP 122/56, P 56, RESP 20, T 36.7°C, SPO2 95%
+- Observations:
+  - The patient is bedridden and requires assistance with all activities due to severe weakness and cognitive decline.
+  - The patient is receiving enteral nutrition through an L-tube at a rate of 200 kcal/day.
+  - The patient has a urinary catheter and requires perineal care.
+  - The patient is using an air mattress and their bedrails are raised for safety.
+  - The patient's oxygen saturation is 98% while on 10 L/min of oxygen via a mask.
+  - The patient is being treated for pneumonia with antibiotics (from February 7th to March 11th) and has been receiving Veklury (Remdesivir) intravenously for COVID-19 (from February 7th to March 2nd).
+  - The patient is non-verbal and communication is done through eye contact.
+  - The patient's bedsores are being managed, and their air mattress is checked for leaks.
+  - The patient's respiratory secretions are being suctioned.
+  - The patient's vital signs and condition are being monitored.

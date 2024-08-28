@@ -1,0 +1,24 @@
+Patient's Chart Summary:
+
+- Document Date: September 10, 2023, and September 11, 2023
+- Department: Unknown
+- Room: Unknown
+- Patient Information:
+  - Bedridden state with left hemiplegia (weakness on the left side of the body)
+  - Has a cystostomy (a surgery to create an opening in the bladder to drain urine) using a Foley catheter (a thin tube inserted into the bladder to drain urine) size 18Fr
+  - Urine output is good, but the patient cannot control their bowel movements and wears diapers
+  - Uses an air mattress in the room
+
+Nurse Record:
+
+- September 10, 2023:
+  - 7:50 AM: The nurse checked the patient's condition, adjusted the bed, and gave a back massage. The patient was educated about the risk of falling and received emotional support.
+  - 10:00 AM: The nurse reported the patient's status to the on-call doctor.
+  - 4:00 PM: The nurse checked the patient's overall condition and ensured the bed rail was secure. The patient remained in bed.
+  - 11:00 PM: The nurse checked that the bed rail was raised.
+
+- September 11, 2023:
+  - 6:00 AM: The nurse checked the patient and found no significant changes overnight.
+  - 7:50 AM: The nurse checked the patient's condition, and the patient was unable to control their bowel movements and wore diapers.
+
+Remember, the patient has a cystostomy and uses a Foley catheter to drain urine, and they are not able to control their bowel movements. The nursing care provided includes adjusting the bed, giving a back massage, educating the patient about fall risks, and providing emotional support.

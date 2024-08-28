@@ -1,0 +1,39 @@
+Patient's Chart Summary:
+
+* Page Info: Unknown
+* Document Type: Nursing Record
+* Patient Number: 0092108472
+* Document Date: July 14-15, 2023
+* Department: Unknown
+* Room: 512
+* Gender: Female
+* Age: 91
+
+**Vital Signs:**
+
+* July 14, 2023, 06:00 (BP;98 BPL;70 P;66 RESP;20 T;36.0)
+* July 14, 2023, 10:00 (BP;94 BPL;71 P;69 RESP;20 T;36.9)
+
+**Nursing Notes:**
+
+* 07:50: Room round, patient wearing a diaper and gown. Sheets and blankets were adjusted to prevent skin breakdown, and the bedrail was placed in the low position. The patient was observed to be at risk for falls.
+* 10:00: Doctor's round.
+* 15:00: Acupuncture treatment was performed.
+* 16:00: Room round, overall condition observed. The bedrail was found to be in the up position, and the patient was in bedrest.
+* 23:00: Room round. Bedrail was found in the up position.
+
+**Patient's Behavior:**
+
+* Expressing suicidal thoughts: "What's the point of living like this? I want to die."
+* Showing frustration and anger: "I want to go home."
+* Verbally abusing staff and other patients.
+* Accusing staff of stealing her belongings.
+* Directing verbal abuse and hostility towards a neighboring bedridden patient without apparent reason.
+
+**Medical Intervention:**
+
+* Acupuncture treatment was performed at 15:00.
+
+**Note:**
+
+* The patient's behavior is marked by suicidal thoughts, frustration, anger, and verbal abuse towards staff and other patients. The patient also believes that her belongings have been stolen. Additionally, the patient directs verbal abuse and hostility towards a neighboring bedridden patient without a clear reason.

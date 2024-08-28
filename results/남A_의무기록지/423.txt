@@ -1,0 +1,16 @@
+Nurse Record Summary:
+
+* Date: 07-03-2024
+* Patient: Unspecified
+* Room: Unspecified
+* Nursing Actions:
+    - 10:00: Urocatheter in place, allowing for better urine control. Patient exhibits repetitive behavior of hitting the bedrail with the right hand. Positioning changes every 2 hours, back massages provided. Pressure relief measures implemented to prevent pressure sores. Emotional support provided.
+    - 10:00: Vitals: BP - 169/82, HR - 63, RR - 20, Temp - 36.0°C
+    - 16:00: Physician's rounds completed. Patient remains in bed rest.
+    - 23:00: Nursing assessment; no significant changes observed.
+    - 06:00: Fasting blood sugar: 107
+    - 08:32: Nursing assessment; patient left side paralyzed, nasogastric tube in place for feeding, urine control improved with urocatheter, wearing diapers due to incontinence, repetitive behavior noted, positioning changes and pressure relief measures ongoing, emotional support provided.
+    - 08:32: BR state (Breakfast), side rail up.
+    - 08:32: Urocatheter and stool management every 2 hours.
+
+Please note that the patient's information is not specified in the given text.

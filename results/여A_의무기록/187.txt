@@ -1,0 +1,28 @@
+Nurse's Record Summary:
+
+- Patient: 0092108472
+- Gender: Female
+- Age: 91 years old
+- Room: 512
+
+Nurse Recording:
+
+- Observed the patient's overall condition during room rounds.
+- The bedrail was secured.
+- Acupuncture treatment was performed at 16:30.
+- The bedrail was found to be raised during a room round at 23:00.
+- The patient slept well overnight.
+- The patient is incontinent and wears diapers.
+- The patient's bed has an air mattress.
+- The patient's bedding was adjusted to prevent skin breakdown.
+- The patient expressed a desire to die and felt depressed about not being able to go home.
+- The patient exhibited aggressive behavior, cursing at staff and fellow patients.
+- The patient was assisted with a full bath with the help of a caregiver.
+- The patient's ADL abilities:
+  - Dressing: Somewhat independent, needs assistance with buttons.
+  - Washing face: Somewhat independent, needs assistance with water.
+  - Brushing teeth: Somewhat independent, needs assistance with rinsing.
+  - Bathing: Totally dependent, requires full assistance.
+  - Eating: Somewhat dependent, needs feeding assistance.
+  - Changing position: Somewhat dependent, needs physical assistance.
+  - Sitting up: Totally dependent, unable to sit without support.

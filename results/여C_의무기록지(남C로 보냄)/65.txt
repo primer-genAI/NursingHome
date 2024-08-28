@@ -1,0 +1,35 @@
+Patient's Chart Summary:
+
+* Page Info: Unknown
+* Document Type: Progress Notes
+* Vital Signs:
+	+ 6:00 AM: FBS;85
+	+ 10:00 AM: BP;111 BPL;59 P;55 RESP;20 T;36.2
+	+ 7:00 PM: PP2;157
+	+ 10:00 AM: BP;105 BPL;59 P;51 RESP;20 T;36.2
+	+ 2:00 PM: BP;118 BPL;66 P;74 RESP;20 T;36.5
+	+ 10:00 AM: BP;106 BPL;70 P;62 RESP;20 T;36.2
+* Medications:
+	+ Diabetic Meal (Brown Rice) (Breakfast): 1 serving on 1 day, 1 time (Pickup at 2:49 PM)
+	+ Diabetic Meal (Brown Rice) (Lunch): 1 serving on 1 day
+	+ Diabetic Meal (Brown Rice) (Dinner): 1 serving on 1 day
+	+ D3021 Blood Glucose Test [Chemical Reaction - Equipment Measured] [Semi-quantitative]: 2 times (Pickup at 10:58 PM)
+	+ Blood Sugar Test (BST) 2 times: 2 times on 1 day (Pickup at 10:58 PM)
+	+ Diabetic Meal (Brown Rice) (Breakfast): 1 serving on 1 day
+	+ Diabetic Meal (Brown Rice) (Dinner): 1 serving on 1 day
+	+ Diabetic Meal (Brown Rice) (Lunch): 1 serving on 1 day
+	+ Diabetic Meal (Brown Rice) (Breakfast): 1 serving on 1 day
+	+ Diabetic Meal (Brown Rice) (Dinner): 1 serving on 1 day
+	+ Diabetic Meal (Brown Rice) (Lunch): 1 serving on 1 day
+	+ Blood Glucose Test: 2 times (Pickup at 10:58 PM)
+* Treatments:
+	+ Acupuncture (At multiple points, including Hegu and Zusanli): 1 session on 1 day (Pickup at 10:58 AM)
+	+ Moxibustion (At points including Sanjiao and Xuefang): 1 session on 1 day (Pickup at 10:58 AM)
+	+ Acupuncture (At multiple points, including Hegu and Zusanli): 1 session on 1 day (Pickup at 10:58 AM)
+	+ Moxibustion (At points including Sanjiao and Xuefang): 1 session on 1 day (Pickup at 10:58 AM)
+	+ Acupuncture (At multiple points, including Hegu and Zusanli): 1 session on 1 day (Pickup at 10:58 AM)
+	+ Moxibustion (At points including Sanjiao and Xuefang): 1 session on 1 day (Pickup at 10:58 AM)
+* Diagnosis:
+	+ Alzheimer's disease dementia (F001^00)
+
+Please note that this summary may not include all the information from the original document, and some details may have been simplified or omitted for clarity.

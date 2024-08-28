@@ -1,0 +1,30 @@
+검사 슬립지:
+
+* 차트 번호: 0093109779
+* 검사 날짜: 2023년 07월 22일
+* 검사 결과:
+	+ D2253: 양성 (Bi pH, Protein, Urobilinogen, Urine Microscopy 포함)
+		- Bi pH: 결과값 7.50
+		- Protein: 결과값 7.50 (음성)
+		- Urobilinogen: 흔적 (Trace)
+		- Urine Microscopy: Micro RBC: 0-2, Micro WBC: (>100), Micro Epi thelial cel I: 0-2, Nitrite: 음성
+	+ D2201020: 양성
+		- Micro RBC: 0-2
+		- Micro WBC: 0-2
+		- Micro Epi thelial cel I: 0-2
+		- Nitrite: 음성
+	+ [L]ELEC: 전해질 (Na, K, Cl)
+		- Sodium (Na): 132.00 (낮음)
+		- Potassium (K): 3.20 (낮음)
+		- Chloride (Cl): 87.00 (낮음)
+	+ [L]CRP: CRP (정량)
+		- CRP (정량): 1.20 (높음)
+	+ [L]LFT: LFT
+		- Total Protein: 6.70 (낮음)
+		- Albumin: 3.10 (낮음)
+		- Total Cholesterol: 145.00 (높음)
+		- AST (SGOT): 67.00 (높음)
+		- ALT (SGPT): 51.00 (높음)
+		- 8-GTP: 40.00 (정상)
+
+참고: 결과값이 낮음 또는 높음으로 표시된 경우, 해당 값이 참고 범위보다 낮거나 높다는 것을 의미합니다.

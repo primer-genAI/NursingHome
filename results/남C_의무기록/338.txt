@@ -1,0 +1,24 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: 20114411110000000000000000164
+- Document Date: March 15, 2024
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: BP;117 BPL;73 P;89 RESP;20 T;36.0
+- Medical History: Left hemiparesis, falls risk, seizures (left arm/leg, 10 seconds or less), insurance/guardian
+- Current Medications: Unknown
+
+Notes:
+
+- 06:00 Nursing Record: Patient slept well overnight.
+- 07:50 Nursing Record: Room round, left hemiparesis, bladder/bowel control, falls risk education, bedrail instruction, emotional support, general condition observation, W-chair use, daily left-side seizures.
+- 10:00 Vital Signs: Blood pressure, heart rate, respiratory rate, temperature recorded.
+- 10:00 Nursing Record: Physician round.
+- 15:00 Oriental medical treatment administered.
+- 16:00 Nursing Record: Room round, general condition observation, bedrail secured, bed rest.
+- 23:00 Nursing Record: Room round, bedrail check.

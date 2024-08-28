@@ -1,0 +1,16 @@
+Patient's Chart Summary:
+- Page Info: Page No: 29 / 68
+- Document Type: Nurse Record
+- Diagnoses: Unspecified (not provided)
+- Medical History: Unspecified (not provided)
+- Current Medications: Unspecified (not provided)
+
+Nurse Record:
+- 16:00: Room round, overall condition observed, bed rail secured, bedridden.
+- 23:00: Room round, bed rail confirmed raised.
+- 06:00-07:50 (2024-05-08): Nursing Record - Room round, patient slept well with no significant changes, bedridden with right-sided hemiplegia, L-tube (16Fr) in place, feeding with Nutrilite Fiber 400-400-400kcal/day, unable to control bowel and bladder, wearing diapers, Airmattress applied (in-house), facial indentation repeated, ointment applied.
+- 10:00: Position change, back massage, bed rail raised when in bed, overall condition observed, rash observed and treated, right knee and pin-punctured area draining pus, dressing applied.
+- 16:00: Physician round, room round, overall condition observed, bed rail secured, bedridden.
+- 16:30: Traditional Chinese Medicine treatment administered.
+- 23:00: Room round, bed rail confirmed raised.
+- 2024-05-09: Insurance/Guardianship information (not provided)

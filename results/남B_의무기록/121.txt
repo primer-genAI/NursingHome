@@ -1,0 +1,18 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Date: July 3-4, 2023
+- Patient Information: Unknown
+
+Nursing Record:
+- July 3, 2023:
+  - 06:00: Nursing assessment during bedside rounds. The patient slept well through the night with no significant changes.
+  - 07:50: Bedridden state with left hemiplegia and a Foley catheter (18Fr) in place. Urine output is adequate, but the patient cannot control bowel movements and wears diapers. Checked air mattress for deflation, performed a position change, and gave a back massage. Educated the patient about fall risks and provided emotional support.
+  - 10:00: Vital signs: Blood pressure (BP) - 98/52, Heart rate (HR) - 53, Respiratory rate (RR) - 20, Temperature (T) - 36.7°C. Attending physician's rounds.
+  - 16:00: Bedside rounds, observed the patient's overall condition. Bedrail was secured, and the patient was resting in bed.
+  - 23:00: Night rounds, checked that the bedrail was up.
+- July 4, 2023:
+  - Insurance/Guardianship: Information not provided.
+
+Please note that the patient's information, such as name, age, gender, and specific diagnoses, is not available in this summary.

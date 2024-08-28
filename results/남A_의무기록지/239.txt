@@ -1,0 +1,17 @@
+Nurse Record Summary:
+- Time: 16:00
+  - The nurse went around the room and checked on the patient's overall condition. The bedrails were secured, and the patient was resting comfortably in bed.
+- Time: 23:00
+  - The nurse checked the bedrails and found them in the upright position.
+- Time: 06:00 to 07:50
+  - The nurse went around the room and found that the patient slept well throughout the night with no significant changes. The patient is bedridden and has left-sided paralysis. A feeding tube (18Fr) is in place, and the patient is being given a special diet called enteral nutrition with 400 calories per day. The patient is unable to control their bladder and bowel movements and wears diapers. The patient repeatedly hits the bedrail and shows repetitive behavior. The nurse checked the air mattress and made sure it was properly inflated. The patient's body position was changed, and a back massage was given. The nurse also educated the patient about the risk of falling and reminded them to keep the bedrails up when they are in bed. The nurse observed the patient's overall condition and noticed that the patient repeatedly hits the bed and shows repetitive behavior when awake.
+- Time: 10:00
+  - The nurse checked the patient's vital signs: blood pressure (BP) 88/40, heart rate (BPL) 40, pulse (P) 65, respiratory rate (RESP) 19, temperature (T) 36.3°C, and oxygen saturation (SPO2) 94%. The attending physician visited the patient.
+- Time: 14:00
+  - The nurse checked the patient's vital signs: blood pressure (BP) 91/47, heart rate (BPL) 47, pulse (P) 67, and respiratory rate (RESP) 20.
+- Time: 16:00
+  - The nurse went around the room and checked on the patient's overall condition. The bedrails were secured, and the patient was resting comfortably in bed.
+- Time: 23:00
+  - No specific actions or observations were mentioned.
+
+Please note that the information provided may not be complete, and some details may be missing or unclear.

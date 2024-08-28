@@ -1,0 +1,20 @@
+Nurse Recording Summary:
+
+* Patient: 0092108472
+* Gender: Female
+* Age: 91 years old
+* Room: 516
+* Page No: 237 / 355
+
+Nursing Record:
+
+* 10:00 AM: Vital signs: BP 142/82, Pulse 62, Respiration 20, Temp 36.5°C
+* 10:50 AM: Bathing assistance from caregiver
+* 16:00 PM: Room round, overall condition observed
+* 23:00 PM: Room round, bedrail check
+* 06:00 AM: Room round, good sleep
+* 07:50 AM: Room round, incontinence, pressure sore prevention, emotional support needed
+* 10:00 AM: Vital signs: BP 133/76, Pulse 63, Respiration 20, Temp 36.2°C
+* 16:00 PM: Room round, overall condition observed
+
+Please note that the provided information does not include specific medical conditions or diagnoses.

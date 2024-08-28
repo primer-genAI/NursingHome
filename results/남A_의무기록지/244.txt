@@ -1,0 +1,14 @@
+Patient's Chart Summary:
+- Document Type: Nursing Record
+- Date: December 3, 2023
+- Room: Unknown
+- Patient Status: Bedridden with left-side paralysis, using an L-tube (18Fr) for feeding, and unable to control bowel movements, wearing diapers.
+- Observations:
+  - 06:00: Good night's sleep, no significant changes.
+  - 07:50: Continued bedridden status, left-side paralysis, L-tube in place, receiving 400-400-400kcal/day enteral nutrition, incontinence, and repetitive hand movements.
+  - 10:00 (V/S): Blood pressure: 92/51, pulse: 62, respiratory rate: 19, temperature: 36.8°C.
+  - 16:00: On-call doctor round, stable condition.
+  - 23:00: Bedrail checked and secured.
+- December 4, 2023:
+  - 06:00: Good night's sleep, no significant changes.
+  - 07:50: Continued bedridden status, left-side paralysis, L-tube in place, receiving 400-400-400kcal/day enteral nutrition, incontinence, and repetitive hand movements.

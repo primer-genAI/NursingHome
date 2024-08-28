@@ -1,0 +1,11 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Not provided
+- Document Date: June 23, 2024
+- Details:
+  - 07:50: Patient slept well with no significant changes overnight. Room round conducted. Patient is able to control bowel and bladder functions. Patient is using the hospital air mattress. Checked if the air mattress has any leaks. Educated the patient about fall risks and advised them to keep the bedrail up while in bed. Provided emotional support and observed overall condition.
+  - 09:05, 10:00, and 12:00: Full-body bath performed with the help of a caregiver. Attending physician made rounds. Patient reported toothache (NRS: 4) and requested medication. The attending physician prescribed Anispene 1T # 1po. The patient will take it as prescribed. The patient requested a change in diet starting from dinner, asking for diabetes porridge, minced meat, and soy sauce.
+  - 16:00: Vital signs checked, and room round conducted. Observed the patient's overall condition and ensured the bedrail was secure.
+  - 23:00: Patient remains stable. Room round conducted. Patient slept well with no significant changes overnight.
+  - 2024-06-23 Insurance/Guardian: The nurse conducted a room round at 06:00 and found that the patient slept well with no significant changes overnight.

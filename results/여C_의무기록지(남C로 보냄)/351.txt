@@ -1,0 +1,15 @@
+Nurse Record Summary:
+
+- Page Info: Unknown
+- Date: Unknown (probably December 17, 2023)
+- Patient: Unspecified
+- Nursing Actions:
+  - 06:00: Routine room check, patient slept well overnight.
+  - 07:50: Room check, observed patient in bed-ridden state due to inability to control bowel and bladder movements. Air mattress was provided, and the patient was repositioned with a back massage. Sheets and clothing were smoothed to prevent skin breakdown, and the bed rail was left up for safety. The patient appeared withdrawn and unresponsive.
+  - 10:00: Vital signs: BP 100/57, Pulse 44, Respirations 20, Temp 36.0°C. Attending physician round.
+  - 16:00: Routine room check, patient remained in bed with the bed rail secured.
+  - 23:00: Final room check of the day, confirmed bed rail was still in place.
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Note: The patient's condition and specific concerns are not detailed in this summary. Additional information would be necessary to provide a more comprehensive understanding of the patient's health status.

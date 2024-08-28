@@ -1,0 +1,14 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Not specified in the provided document
+
+Nursing Record:
+- March 10, 2024
+	+ 16:00: Rounds conducted, overall condition observed, bedrail secured, patient stable
+	+ 23:00: Bedrail check, no issues found
+- March 11, 2024
+	+ 06:00: No specific notes mentioned
+
+Please note that the provided document does not contain all the necessary information to complete the summary.

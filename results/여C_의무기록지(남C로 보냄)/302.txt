@@ -1,0 +1,23 @@
+Nurse Information Sheet Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient: Not specified in the given text
+- Document Date: October 21, 2023
+- Department: Not specified in the given text
+- Admission Date: Not specified in the given text
+- Room: Not specified in the given text
+- Gender: Not specified in the given text
+- Age: Not specified in the given text
+- Vital Signs:
+  - 19:00: PP2;143
+  - 23:00: Not specified
+  - 06:00: Not specified
+  - 07:50: Not specified
+  - 10:00: BP;96 BPL;66 P;52 RESP;20 T;36.5
+  - 16:00: Not specified
+  - 23:00: Not specified
+- Medical History: Not specified in the given text
+- Current Medications: Not specified in the given text
+
+The patient is in a bed-ridden state and requires assistance with their personal hygiene. The nurse observes the patient's overall condition, changes their body position, and provides emotional support. The patient is unable to control their bowel and bladder functions and wears a diaper. The air mattress is kept, and the nurse ensures that the patient's skin is not creased or damp. The bedrail is kept up, and the patient is observed for any changes in their condition. The patient's response to speech is minimal, and they appear to be in a low mood or have decreased verbal communication.

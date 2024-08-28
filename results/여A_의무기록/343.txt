@@ -1,0 +1,15 @@
+Nurse's Record Summary:
+
+* Patient Information: 0092108472 / 33 / Female / 91 years old / Room 516
+* Emotional Care Needed: The patient has expressed feelings of hopelessness and depression, stating that they wish to die and feel upset about not being able to return home. They have also been observed using foul language and shouting at staff members. The patient sometimes accuses others of stealing their belongings, such as diapers and snacks, and expresses anger. They also direct insults and hostile comments towards a neighboring patient without a clear reason.
+* Medical Observations:
+	+ 10:00 AM: The attending physician conducted a round.
+	+ 10:00 AM: Vital Signs: Blood Pressure 92/58, Pulse 62, Respiratory Rate 20, Temperature 36.9°C.
+	+ 15:00 PM: Acupuncture treatment.
+	+ 16:00 PM: Nursing Record: The patient was observed to be generally stable, with the bedrails fixed and the patient resting in bed.
+	+ 23:00 PM: The patient was observed during a room round, and the bedrails were found to be in the upright position.
+	+ December 23, 2023: The patient was awake and alert, with no significant changes observed during the night.
+	+ 06:00 AM: Nursing Record: The patient was observed during a room round and was found to be sleeping well throughout the night.
+	+ 07:50 AM: Nursing Record: The patient is incontinent and wears diapers. They are using an air mattress from this hospital. The nurse ensured that the patient's skin was not subjected to pressure by smoothing out any wrinkles in the sheets or clothing and promoting air circulation to keep the skin dry. The bedrails were raised when the patient was resting in bed, and the patient was educated about the risk of falls. The patient's overall condition was observed, and emotional support was provided as the patient expressed feelings of hopelessness and frustration about their inability to return home, as well as their dissatisfaction with staff and other patients in the room.
+
+Please note that the date format in the provided text seems to be incorrect or incomplete, as it mentions "2023- 12- 23" without a month.

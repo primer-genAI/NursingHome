@@ -1,0 +1,27 @@
+Patient's Chart Summary:
+- Document Date: 2024년 5월 16일
+- Department: Unknown
+- Patient Information: Unknown
+- Vital Signs: Unknown
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+- Nurse Record:
+  - 10:00: Round done by the on-call doctor.
+  - 11:10:
+    - Pressure sore on the coccyx with a size of 7 x 10 x 0.5 cm. Dressing applied, air mattress placed, and position changed with back massage.
+    - Observation of pressure sore development and overall patient condition.
+  - 16:00: Bedrail secured and patient remains in bed.
+  - 23:00: Room round, bedrail found in the up position.
+  - 06:00 - 07:50:
+    - Room round, patient slept well with no significant changes.
+    - Patient is bedridden with a tracheostomy.
+    - Tracheostomy site dressing and suctioning performed.
+    - Gastrostomy tube in place, providing a 400-400-400kcal/day diet.
+    - Urethral catheter in place, patient unable to control bowel movements and wearing diapers.
+    - Hospital-provided air mattress in use, checked for deflation.
+    - Position changed, back massage performed.
+    - Skin kept clean and dry, observing for any incontinence or diarrhea.
+    - Bedrail placed in the up position.
+    - Overall patient condition observed.
+    - Pressure sore on the coccyx: 7 x 10 x 0.5 cm.

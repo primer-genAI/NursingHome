@@ -1,0 +1,14 @@
+Patient's Chart Summary:
+
+- Date: April 22, 2024
+- Department: Nursing
+- Patient: Unknown
+
+Nurse Record:
+
+- 06:00: The nurse checked the bedrails and found them to be up.
+- 07:50: The nurse performed a room round and noted that the patient slept well with no significant changes during the night. The patient is bedridden with a tracheostomy. The nurse changed the tracheostomy dressing, suctioned the tracheostomy, and provided a liquid diet. The patient has a urinary catheter and wears diapers due to incontinence. The nurse checked the air mattress and made sure it was properly inflated. The patient's position was changed, and a back massage was given. The skin was kept clean, and any signs of urine or stool were observed. The bedrails were left up. The patient has a stage 3 pressure ulcer (COCCyx G3) measuring 7 X 10 X 0.5cm.
+- 10:00: The attending physician made their rounds.
+- 11:10: The nurse dressed the pressure ulcer, applied the air mattress, changed the patient's position, and performed a back massage. The nurse observed the skin condition at the pressure ulcer site.
+- 16:00: The nurse performed a room round and observed the patient's overall condition. The bedrails were secured, and the patient was in bed rest.
+- 23:00: The nurse checked the bedrails and found them to be up.

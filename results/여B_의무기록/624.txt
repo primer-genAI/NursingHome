@@ -1,0 +1,28 @@
+검사 슬립지:
+
+* 차트 번호: 0093109779
+* 검사 날짜: 2024년 04월 02일
+
+**검사 결과:**
+
+| 코드 | 명칭/소견 | 참고치 | 결과치 (단위) |
+| --- | --- | --- | --- |
+| D1860 D1850 | ALT (SGPT) | H ≤ 35 U/L | 49.00 H ≤ 35 U/L |
+| D1890 | 8 -GTP | H ≤ 44 U/L | 89.00 H ≤ 44 U/L |
+| D3022 | Glucose | 60 ~ < 100 mg/dL | 67.00 mg/dL |
+| D1830 | Total Bilirubin | 0.3 ~ 1.2 mg/dL | 0.60 mg/dL |
+| D2300 | BUN | 7.9 ~ 25.0 mg/dL | 33.40 mg/dL |
+| D2280 | Creatinine | 0.59 ~ 1.11 mg/dL | 0.65 mg/dL |
+| D1880 | A/G ratio | Not established | 0.60 |
+| D2280 | eGFR | > 59 mL/min/1.73m2 | 91.00 mL/min/1.73m2 |
+
+**참고치:**
+
+* ALT (SGPT): 35 U/L 이하 (H ≤ 35 U/L)
+* 8 -GTP: 44 U/L 이하 (H ≤ 44 U/L)
+* Glucose: 60 ~ 100 mg/dL
+* Total Bilirubin: 0.3 ~ 1.2 mg/dL
+* BUN: 7.9 ~ 25.0 mg/dL
+* Creatinine: 0.59 ~ 1.11 mg/dL
+* A/G ratio: 기준치 없음 (Not established)
+* eGFR: 59 mL/min/1.73m2 초과 (> 59 mL/min/1.73m2)

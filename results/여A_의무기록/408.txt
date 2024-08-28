@@ -1,0 +1,19 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse's Record
+- Patient Number: 0092108472
+- Department: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91 years old
+- Vital Signs: Unknown
+
+Nurse's Record:
+- 23:00: Room round conducted. Bedrail found raised.
+- 07:50: Room round conducted. Patient wearing adult diaper and gown. Bed linen and patient's skin were damp, so the sheets were changed, and the patient's skin was dried and the room was ventilated. The bedrail was raised for bedrest. Overall condition observed, and emotional support provided. Patient expressed suicidal thoughts and depression about not being able to go home. Patient also verbally abused staff and roommates, accusing them of stealing and being generally aggressive towards another bedridden patient in the room.
+- 10:00: Vital signs checked: Blood pressure 122/74, Pulse rate 57, Respiratory rate 20, Temperature 36.1°C. On-call doctor's round conducted.
+- 16:00: Room round conducted. Overall condition observed, and bedrail found fixed. Patient on bedrest.
+- 23:00: Room round conducted. Bedrail found raised.
+- #2024-03-04: Room round conducted at 06:00.
+
+Image: Unknown (No description provided)

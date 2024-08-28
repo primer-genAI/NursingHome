@@ -1,0 +1,35 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Progress Notes
+- Patient Number: 00000000000
+- Document Date: April 25, 2024
+- Department: FM1
+- Insurance Information: 00000000000 / No Name
+- Diagnoses:
+  - Type 2 diabetes with diabetic polyneuropathy (E1141^00)
+  - Difficulty initiating and maintaining sleep [insomnia] (G470^00)
+- Medications:
+  - Duragesic fentanyl 12 mcg/h patch (MD020) - Apply one patch to the affected area for 1 day
+  - Anizone cream 15g (MD472) - Apply one dose once a day
+- Medical Procedures:
+  - Urine glucose test by chemical reaction with equipment measurement (D3021) - 2 tests on the first day
+- Diet:
+  - Diabetic meal (rice) for breakfast, lunch, and dinner for 1 day
+- Document Date: April 26, 2024
+- Department: FM1
+- Insurance Information: 00000000000 / No Name
+- Medications:
+  - Duragesic fentanyl 12 mcg/h patch (MD020) - Apply one patch to the affected area for 1 day
+  - Diabetic meal (rice) for breakfast, lunch, and dinner for 1 day
+- Document Date: April 27, 2024
+- Department: FM1
+- Insurance Information: 00000000000 / No Name
+- Medications:
+  - Duragesic fentanyl 12 mcg/h patch (MD020) - Apply one patch to the affected area for 1 day
+  - Diabetic meal (rice) for breakfast, lunch, and dinner for 1 day
+- Document Date: April 28, 2024
+- Department: FM1
+- Insurance Information: 00000000000 / No Name
+- Medications:
+  - Duragesic fentanyl 12 mcg/h patch (MD020) - Apply one patch to the affected area for 1 day
+  - Diabetic meal (rice) for breakfast, lunch, and dinner for 1 day

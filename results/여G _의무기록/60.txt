@@ -1,0 +1,61 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information:
+  - Gender: Female
+  - Age: 89 years old
+  - Room: 302
+- Date: May 15, 2024 (insurance/guardian)
+- Time: 23:00
+- Actions Taken:
+  - Traditional Korean medicine treatment administered
+  - Room rounds conducted
+  - Bedrail found to be up
+- Author: Writer (9)
+- Date: May 15, 2024 (insurance/guardian)
+- Time: 06:00
+- Observations:
+  - Room rounds conducted
+  - Patient slept well with no significant changes during the night
+- Author: Writer (9)
+- Date: May 15, 2024 (insurance/guardian)
+- Time: 07:50
+- Actions Taken:
+  - Room rounds conducted
+  - Patient can control bowel and bladder functions
+  - Fall prevention education provided
+  - Side rail raised during bed rest
+  - Emotional support given
+  - Overall condition observed
+  - Guardian requested for the patient to be allowed to move around despite the risk of falling
+  - Patient's leg strength observed while walking with a walker
+- Author: Writer
+- Date: May 15, 2024 (insurance/guardian)
+- Time: 10:00
+- Observations:
+  - Patient struggles to maintain balance while walking, which is very dangerous
+- Author: Writer
+- Date: May 15, 2024 (insurance/guardian)
+- Time: 16:00
+- Actions Taken:
+  - Room rounds conducted
+  - Patient's overall condition observed
+  - Bedrail secured
+- Author: Writer
+- Date: May 15, 2024 (insurance/guardian)
+- Time: 23:00
+- Observations:
+  - Room rounds conducted
+  - Bedrail found to be up
+- Author: Writer (9)
+- Date: May 16, 2024 (insurance/guardian)
+- Time: 06:00
+- Observations:
+  - Room rounds conducted
+  - Patient slept well with no significant changes during the night
+- Author: Writer
+- Date: May 16, 2024 (insurance/guardian)
+- Time: 07:50
+- Room rounds conducted
+- Author: Writer (9)

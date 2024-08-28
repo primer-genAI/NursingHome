@@ -1,0 +1,9 @@
+Patient's Chart Summary:
+- Document Type: Nurse Record
+- Document Date: June 2, 2024
+- Patient's Condition: The patient is experiencing weakness and cognitive decline. They require assistance with daily activities such as dressing, washing, brushing teeth, bathing, eating, changing positions, sitting up, transferring, going to the bathroom, and turning over in bed.
+- 09:05: The patient underwent a full body bath with the help of a caregiver.
+- 10:00: The attending physician conducted a round and checked the patient's condition.
+- 16:00: The patient's bedrail was confirmed to be in place. The attending physician performed a room round and observed the patient's overall condition. The patient was stable and using the bedrail for support.
+- 23:00: The patient's bedrail was checked and found to be in the up position. The attending physician conducted a room round.
+- 06:00: The patient slept well throughout the night without any significant changes. The nurse performed a room round and checked the patient's condition. The patient has an amputated right big toe (BK amputation) and a right chemoport. The patient is incontinent and wears a diaper. The nurse ensured the air mattress was functioning properly and checked for any deflation. The nurse also helped the patient change positions and performed a back massage. The nurse provided education on fall prevention.

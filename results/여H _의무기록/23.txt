@@ -1,0 +1,27 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Progress Notes
+- Patient Number: 00000000000
+- Document Date: June 4-7, 2024
+- Department: FM1
+- Room: 302
+- Gender: Female
+- Age: 77
+- Diagnoses:
+  - Sleep initiation and maintenance disorder (Insomnia)
+  - Dementia due to Alzheimer's disease
+  - Congestive heart failure
+  - Acute cholecystitis (Gallbladder inflammation)
+  - Pulmonary edema (Fluid accumulation in the lungs)
+  - Pleural effusion (Fluid accumulation around the lungs)
+  - Acute respiratory failure
+  - Type 2 diabetes without complications
+  - Primary hypertension (High blood pressure)
+  - Parkinson's disease or Parkinsonism
+  - Abnormal thyroid function test results
+- Medical History: Unknown
+- Current Medications:
+  - Tramadol hydrochloride injection (IM)
+
+Please note that the medical diagnoses and medications mentioned in the document may require further clarification from a healthcare professional.

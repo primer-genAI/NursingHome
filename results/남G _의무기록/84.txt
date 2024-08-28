@@ -1,0 +1,33 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: June 20, 2024
+- Patient Information: Unknown
+- Vital Signs: Unknown
+- Treatments and Procedures:
+  - Traditional Korean medicine treatment administered at 16:30 and 23:00 by Nurse 9.
+  - Room rounds performed at 06:00, 10:00, and 16:00 by various nurses.
+  - Air mattress kept for pressure relief (local hospital).
+  - Positioning changes and back massage provided at 07:50.
+  - Physician rounds conducted at 10:00.
+  - Bed rail fixed and patient in bed rest at 16:00.
+  - Bed rail check performed at 23:00.
+- Medications:
+  - Nutriwell fiber given at 07:50 in a dosage of 400-400-400kcal/day.
+- Medical Status:
+  - Patient bedridden with right hemiplegia.
+  - L-tube (16Fr) in place for feeding.
+  - Unable to control bowel and bladder functions, wearing diapers.
+  - Skin rash on the face that comes and goes, treated with ointment.
+- Insurance/Guardianship: Unknown
+- Document Date: June 21, 2024
+- Patient Information: Unknown
+- Vital Signs: Unknown
+- Treatments and Procedures:
+  - Room rounds performed at 06:00, 10:00, and 16:00 by various nurses.
+  - Patient slept well through the night with no significant changes.
+- Medications:
+  - No medications mentioned.
+- Medical Status:
+  - No changes in medical status reported.
+- Insurance/Guardianship: Unknown

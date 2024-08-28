@@ -1,0 +1,15 @@
+Nurse Information Sheet Summary:
+
+* Page Info: Unknown
+* Document Type: Nursing Record
+* Patient's Condition:
+  - Night: No significant changes, slept well.
+  - Morning: Bedridden with left-sided weakness, cystostomy (18Fr) in place, good urine output, but unable to control bowel movements, wearing diapers. Patient has an air mattress, which was checked for deflation. Positioning changes and back massage were performed. Educated the patient about fall risks and provided emotional support.
+  - Afternoon: Room round, general condition observed, bedrail in place, patient resting in bed.
+  - Evening: Room round, bedrail checked and found to be in place.
+* Date: October 31, 2023
+* Insurance/Guardian: #2023-10-31
+* Vital Signs:
+  - Morning: Blood pressure 95/57, heart rate 51, respiratory rate 20, temperature 36.1°C
+  - Afternoon: Blood pressure 93/60, heart rate 48, respiratory rate 18, temperature 36.1°C
+* Nursing Actions: Room rounds, checking vital signs, providing emotional support, educating about fall risks, and performing positioning changes and back massage.

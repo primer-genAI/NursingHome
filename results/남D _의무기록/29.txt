@@ -1,0 +1,17 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Not provided in the given text
+- Date: April 7, 2024
+- Time: 10:00 - 16:00, 23:00, # 2024-04-07 (insurance/guardian 06:00), 07:50, 10:00 - 10:50, 16:00, 23:00
+- Nursing Activities:
+  - 10:00 - 16:00: Rounded with attending physician, observed overall condition, bedrail fixed, bed rest
+  - 23:00: Rounded the room, checked bedrail is up
+  - 06:00: Nursing Record: Rounded the room, patient slept well with no significant changes overnight
+  - 07:50: Rounded the room, patient is incontinent and wears diapers, checked the air mattress for deflation, assisted with body positioning and back massage, educated on fall prevention, performed emotional nursing, observed overall condition
+  - 10:00 - 10:50: Attending physician round, full bath with the help of the caregiver
+  - 16:00: Rounded the room, observed overall condition, bedrail fixed, bed rest
+  - 23:00: Rounded the room, checked bedrail is up
+- Special Instructions or Notes: Not provided in the given text
+
+Note: The patient's information (insurance/guardian, room number, etc.) is not available in the provided text.

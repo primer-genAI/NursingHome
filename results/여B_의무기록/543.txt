@@ -1,0 +1,23 @@
+Nurse Record Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Unspecified
+
+Vital Signs:
+- 10:00 AM: BP - 115/63, Pulse - 50, Respiration - 20, Temperature - 36.6°C
+- 11:10 AM: BP - 115/63, Pulse - 50, Respiration - 20, Temperature - 36.6°C
+- 15:00 PM: BP - Unspecified, Pulse - Unspecified, Respiration - Unspecified, Temperature - Unspecified
+- 23:00 PM: BP - Unspecified, Pulse - Unspecified, Respiration - Unspecified, Temperature - Unspecified
+
+Nurse Actions:
+- 10:00 AM - 11:10 AM: Performed a nursing record, checked the patient's bedrail, air mattress, and performed a 2-hourly position change and back massage.
+- 15:00 PM - 16:00 PM: Performed an oriental treatment, checked the patient's overall condition, and ensured the air mattress pressure was normal.
+- 23:00 PM: Checked the bedrail and air mattress pressure, and ensured 2-hourly position changes and back massages were performed.
+
+Insurance/Caregiver:
+- June 28, 2024: Unspecified information
+
+Additional Information:
+- 06:00 AM: The patient slept well through the night with no significant changes.
+- 07:50 AM: The patient is bedridden, has an L-tube for feeding, and wears diapers due to incontinence. The patient's weight is 58 kg, and they are receiving enteral feeds (Ensolb 600-600). The air mattress was checked for deflation, and 2-hourly position changes and back massages were performed. Skin condition at the pressure sore site was observed. The bedrail was raised.

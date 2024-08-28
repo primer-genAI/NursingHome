@@ -1,0 +1,24 @@
+Nurse Information Record Summary:
+
+- Date: March 5, 2024
+- Time: 6:00 AM
+- Action: Nursing Record: Rounded the room. Patient slept well with no significant changes during the night.
+- Action: 7:50 AM
+- Action: Rounded the room. Patient has left-side paralysis and can control bowel and bladder functions. Educated the patient about fall risks and advised keeping the bedrails up when in bed. Provided emotional support and observed overall condition. Used a wheelchair for mobility. The patient experiences short seizures almost daily, lasting less than 10 seconds, affecting the left limbs.
+- Action: 10:00 AM
+- Action: Attending physician made rounds.
+- Action: Vital Signs: Blood Pressure - 113/74, Pulse - 73, Respiration - 20, Temperature - 36.1°C.
+- Action: 15:00 PM
+- Action: Nursing Record: Acupuncture treatment was administered.
+- Action: 16:00 PM
+- Action: Rounded the room. Observed overall condition. Bedrails were fixed and the patient was resting in bed.
+- Action: 23:00 PM
+- Action: Rounded the room. Confirmed that bedrails were up.
+
+- Date: March 6, 2024
+- Time: 6:00 AM
+- Action: Nursing Record: Rounded the room. Patient slept well with no significant changes during the night.
+- Time: 7:50 AM
+- Action: Rounded the room. (Details not provided)
+
+Please note that the information provided is based on the given text and may not include all relevant details.

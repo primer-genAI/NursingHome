@@ -1,0 +1,22 @@
+Progress Notes:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: January 13-14, 2024
+- Department: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: Unknown
+- Medications: Unknown
+
+Nursing Record Summary:
+- January 13, 2024:
+  - 06:00: The patient slept well through the night with no significant changes.
+  - 07:50: The patient cannot communicate using words or eye contact. They have an L-tube for feeding, currently receiving a 200kcal per 4-hour feeding schedule. The patient is incontinent and wears diapers. An air mattress is being used to prevent bedsores, and it was checked for proper inflation. The bedrails are up for safety.
+  - 10:00: Vital signs were checked by the on-call physician.
+  - 16:00: The nurse performed a room check and observed the patient's overall condition.
+  - 23:00: The nurse completed a room check and confirmed that the bedrails were still in place.
+- January 14, 2024:
+  - 06:00: The patient continued to sleep well without any significant changes.
+  - 07:50: The nurse performed a room check and confirmed that the patient's L-tube feeding and incontinence management were unchanged. The air mattress was checked for proper inflation, and the bedrails were up for safety.

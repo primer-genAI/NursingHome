@@ -1,0 +1,12 @@
+Patient's Chart Summary:
+
+* Page Info: Unknown
+* Document Type: Patient's Chart
+* Section: Physical Examination (P/E)
+* Head and neck: No anemia, no jaundice, no lumps or redness in the ears, nose, and throat.
+* Chest: No crackles heard with breathing, no murmurs heard with heartbeat.
+* Abdomen: Soft and flat with no tenderness.
+* Back and extremities: No pitting edema (swelling), no sores.
+* Section: Plan (P/L)
+* Initial lab tests ordered, medication and supportive treatments planned.
+* Treating physician's name is not provided.

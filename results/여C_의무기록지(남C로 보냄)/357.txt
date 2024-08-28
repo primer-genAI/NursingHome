@@ -1,0 +1,25 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: December 23, 2023
+- Department: Unknown
+- Room: Unknown
+- Patient Information: Not specified in the provided text
+- Vital Signs:
+  - 156 (PP2) at 23:00
+  - 104/61 (BP) at 16:00
+  - 54 (P) at 16:00
+  - 20 (RESP) at 16:00
+  - 36.8°C (T) at 16:00
+- Nursing Record:
+  - 06:00: Briefing round, patient slept well with no significant changes.
+  - 07:50: Briefing round, observed overall condition. Bedridden state, unable to control bowel and bladder, wearing diapers. Air mattress provided. Assisted with repositioning and back massage. Ensured no wrinkles in sheets or clothing, and the patient's skin was not compressed. Ensured good ventilation to avoid skin moisture. Raised the bed rail. Provided emotional support. The patient barely responded to conversations and appeared moody or quiet.
+  - 10:00: Vital signs measurement: BPL;61 P;54
+  - 15:40: In-person visit with the son, compliance with infection control guidelines.
+  - 16:00: Briefing round, observed overall condition. Bedridden state, unable to control bowel and bladder, wearing diapers. Air mattress provided. Assisted with repositioning and back massage. Ensured no wrinkles in sheets or clothing, and the patient's skin was not compressed. Ensured good ventilation to avoid skin moisture. Fixed the bed rail.
+  - 23:00: Briefing round, confirmed the bed rail was raised.
+- Document Date: December 24, 2023
+- Insurance/Guardian: Not specified in the provided text
+
+Please note that the patient's vital signs, such as blood pressure, pulse, respiratory rate, and temperature, are provided as they were measured. The patient's overall condition is observed to be stable, with no significant changes reported. The nursing record also includes emotional support provided to the patient.

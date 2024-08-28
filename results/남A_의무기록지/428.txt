@@ -1,0 +1,25 @@
+소변 검사 결과지:
+
+* 차트 번호: 0092106935
+* 검사일: 2023년 8월 16일
+
+결과:
+
+* 요로빌리노겐: 음성 (Urobilinogen: Negative)
+* 잠혈: 음성 (Occult Blood: Negative)
+* 백혈구: 양성 (Leukocyte: Positive)
+* 포도당: 음성 (Glucose: Negative)
+* 빌리루빈: 음성 (Bilirubin: Negative)
+* 케톤: 음성 (Ketone: Negative)
+* 비중: 1.01 (Specific Gravity: 1.01)
+* pH: 8.00 (pH: 8.00)
+* 요로빌리노겐: 흔적 (Urobi I inogen: Trace)
+* 현미경 검사:
+	+ 적혈구: 0-2개 (R.B.C: 0-2)
+	+ 백혈구: 11-20개 (W.B.C: 11-20)
+	+ 세포: 발견되지 않음 (Not Foundo)
+	+ 에피테리얼 캐스트: 세균 (Epi Casts: Bacteria)
+	+ 결정: 발견되지 않음 (Crystals: Not Foundo)
+	+ 기타: 발견되지 않음 (Others: Not Found)
+* 현미경 미세 RBC: 0-2개 (Micro RBC: 0-2)
+* 현미경 미세 WBC: 11-20개 (Micro WBC: 11-20 H)

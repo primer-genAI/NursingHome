@@ -1,0 +1,17 @@
+Nurse Recording Summary:
+
+- Patient: 0092108472
+- Room: 512
+- Gender: Female
+- Age: 91 years old
+
+Nursing Record:
+
+- 07:50: The patient's bed is kept in a comfortable position to prevent skin breakdown and ensure proper air circulation. The patient expresses a desire to return home and experiences depression about her condition. She may become agitated, yelling and accusing staff of stealing her belongings.
+- 10:00: Vital signs: Blood pressure (BP) 90/55, Pulse (P) 69, Respiration (RESP) 20, Temperature (T) 36.9°C.
+- 14:00: Vital signs: Temperature 36.0°C.
+- 15:00: Acupuncture treatment is provided.
+- 16:00: The patient's condition is observed, and the bedrail is secured.
+- 19:00 and 23:00: The patient's bedrail is checked and found to be in the up position.
+
+Please note that this summary is based on the provided information and may not include all details from the patient's chart.

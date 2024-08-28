@@ -1,0 +1,26 @@
+Nurse Information Sheet:
+- Date: 2023-11-15
+- Patient's Condition:
+  - Bedridden
+  - Left-side paralysis
+  - L-tube (18Fr) inserted
+  - Receiving tube feeds: 400-400-400 kcal/day
+  - Unable to control bowel movements, wearing diapers (some stool hanging from each diaper)
+  - Repeatedly tapping right hand on bed rail
+  - Using air mattress
+- Nursing Actions:
+  - Checked air mattress for deflation
+  - Performed positioning changes and back massage
+  - Educated patient on fall prevention and raised bedrails
+  - Observed patient's overall condition
+- Vital Signs:
+  - Blood pressure: 106/65
+  - Pulse: 69
+  - Respiratory rate: 20
+  - Temperature: 36.3°C
+  - Fasting blood sugar: 107
+- Other Information:
+  - Patient slept well through the night with no significant changes
+  - Bedrails were fixed and the patient remained in bed
+  - The patient was observed during rounds and their overall condition was assessed
+  - The patient's bedrails were checked and found to be raised

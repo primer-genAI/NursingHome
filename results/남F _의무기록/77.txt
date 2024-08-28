@@ -1,0 +1,14 @@
+Nurse Record:
+
+* 07:50: Nurse made rounds, checked air mattress, and provided fall prevention education.
+* 10:00: Doctor's round took place.
+* 16:00: Nurse made rounds and ensured the bedrail was secured.
+* 23:00: Nurse made rounds and confirmed the bedrail was raised.
+* 2024-06-01: Insurance/Caregiving
+* 06:00: Nurse made rounds and reported a restful night.
+* 07:50: Nurse made rounds, checked air mattress, and provided fall prevention education.
+* 09:00: ADL Assessment:
+	+ Dressing: Moderate - Assistance with removing arms and legs from clothes, and fastening buttons.
+	+ Bathing: Moderate - Assistance with washing, but can rinse with a showerhead.
+	+ Toothbrushing: Mild - Assistance with stray toothpaste on clothes and around the mouth.
+	+ Eating: Mild - Assistance needed to maintain interest in meals.

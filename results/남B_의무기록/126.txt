@@ -1,0 +1,18 @@
+Nurse Record Summary:
+
+- Page No: 29
+
+| Time | Activity | Nursing Notes |
+| --- | --- | --- |
+| 23:00 | Room round, checked bedrail |  |
+| ------ | ------ | ------ |
+| 06:00 | Room round, no changes |  |
+| 07:50 | Room round, observed bedridden state, Lt hemiplegia, cystostomy, U/O well, bowel control issue, wearing diapers, checked air mattress, position change, back massage, fall risk education, emotional support |  |
+| 10:00 | Vital signs: BP;99 BPL;62 P;62 RESP;20 T;36.4 |  |
+| 10:00 | Doctor's rounds |  |
+| 16:00 | Room round, overall condition observed, bedrail secured, bed rest |  |
+| 23:00 | Room round, checked bedrail |  |
+| 06:00 | Room round, no changes |  |
+| 07:50 | Room round, observed bedridden state, Lt hemiplegia |  |
+
+Please note that some information might be missing or unclear due to the given document.

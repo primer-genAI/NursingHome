@@ -1,0 +1,13 @@
+Nurse Record Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient's Details: Unspecified
+- Date: April 12, 2024, to April 13, 2024
+- Key Events:
+  - 15:00: Traditional Korean medicine treatment was administered.
+  - 16:00: The nurse made rounds and observed the patient's overall condition. The bedrail was secure, and the patient was resting in bed.
+  - 19:00: The patient complained of pain in both legs (NRS 5). The nurse administered Tramadol hydrochloride injection 1ml intramuscularly as prescribed by the on-call doctor.
+  - 20:00-23:00: The patient's pain improved (NRS 2), and the nurse made rounds. The bedrail was found up and secure.
+  - April 13, 2024, 06:00: The nurse checked the insurance and guardianship status.
+  - 07:50: The nurse made rounds and observed that the patient slept well through the night. The patient is wearing diapers due to incontinence and is using an air mattress to prevent bedsores. The nurse checked that the mattress was properly inflated, changed the patient's position to prevent pressure sores, and provided emotional support. The patient has a left-side paralysis and is not mobile. The bedrail is kept up when the patient is in bed for safety.
+  - 10:00-16:00: The on-call doctor made rounds, and the nurse continued making rounds to observe the patient's overall condition. The bedrail remained secure, and the patient continued to rest in bed.

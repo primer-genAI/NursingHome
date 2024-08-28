@@ -1,0 +1,19 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Not provided
+- Date: May 31, 2024
+- Diagnoses:
+  - Unspecified pressure sore on the left buttock (G4, 6 X 7 X 1 cm)
+  - Detailed unspecified pneumonia (treatment with antibiotics from May 14 to May 31)
+- Medical History: Not provided
+- Current Medications: Not provided
+- Nursing Record:
+  - 14:00: 1 cm lesion was removed and an air mattress was applied. The patient's position was changed, and a back massage was performed. The right pressure sore's skin condition was observed. Vital signs: Temp: 37.6°C, SpO2: 96%.
+  - 16:00: The nurse made rounds and observed the patient's overall condition. The bed rail was fixed, and the patient was in bed rest.
+  - 16:30: An alternative therapy was performed.
+  - 19:00: Vital signs: BP: 90/58, Pulse: 94, Resp: 19, Temp: 37.1°C, SpO2: 96%. The nurse made rounds and confirmed the bed rail was up.
+  - 23:00: The nurse made rounds and confirmed the bed rail was up.
+  - 06:00: Vital signs: BP: 100/97, Pulse: 93, Resp: 20, Temp: 37.2°C. The patient slept well without any significant changes during the night.
+  - 07:50: The nurse made rounds, inserted an L-tube, and provided enteral nutrition (i-solub 600-600-300-300 kcal/day). The patient has a retained urinary catheter (20Fr) and requires perineal care. The patient is wearing a diaper due to incontinence. The patient is on an air mattress to prevent pressure sores. The patient's position was changed, and a back massage was performed. The patient is bedridden with the bed rail up. The patient's overall condition was observed. The right PICC line is being maintained, and there is no redness, swelling, or drainage. The patient is receiving antibiotic treatment for a detailed unspecified pneumonia.

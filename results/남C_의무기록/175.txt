@@ -1,0 +1,17 @@
+Nurse Record Summary:
+- Patient Name: 0091700991
+- Patient Number: 0091700991
+- Patient Age: 65
+- Gender: Male
+- Room Number: 203
+
+August 26, 2023:
+- 06:00: Room round. Patient slept well with no significant changes.
+- 07:50: Room round. Patient has hemiparesis (one side of the body is weak), can control bladder and bowel movements, educated about fall risks, bedrails up during bed rest, emotional support provided, overall condition observed, using a wheelchair for mobility, occasional left-sided limb tremors lasting up to 10 seconds.
+- 10:00: Vitals: BP: 108/73, HR: 74, RESP: 20, Temp: 36.0°C. Attending physician round.
+- 16:00: Room round. Overall condition observed, bedrails fixed, patient resting in bed.
+- 23:00: Room round. Bedrails confirmed to be up.
+
+August 27, 2023:
+- 06:00: Room round. Patient slept well with no significant changes.
+- 07:50: Room round. Patient has hemiparesis, can control bladder and bowel movements.

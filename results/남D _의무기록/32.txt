@@ -1,0 +1,16 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Date: April 12, 2024
+- Patient Information: Unknown
+
+Nursing Record:
+
+- 07:50: The patient slept well through the night with no significant changes. The nurse performed a bedside round and observed that the patient is wearing a diaper due to incontinence. The patient is using an air mattress provided by the hospital, and the nurse checked to ensure the air was properly inflated. The patient has a left-sided paralysis and is unable to move around, so the nurse assisted with positioning and provided back massage. The nurse also educated the patient on fall prevention and emotionally supported them. The overall condition of the patient was observed.
+- 10:00: The attending physician conducted a round.
+- 15:30: The physician ordered a Hemoglobin A1C test for the following day (April 12th).
+- 16:00: The nurse performed another bedside round and checked the patient's overall condition. The bedrails were found to be in place, and the patient was resting in bed.
+- 23:00: The nurse completed a bedside round and confirmed that the bedrails were up.
+
+Please note that the patient's information, such as their name, room number, and other relevant details, is not provided in this document.

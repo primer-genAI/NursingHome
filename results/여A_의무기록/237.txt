@@ -1,0 +1,25 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse's Record
+- Patient: 0092108472
+- Gender: Female
+- Age: 91 (current age)
+- Room: 516
+
+Nursing Record:
+
+- August 26, 2023:
+  - Patient has difficulty controlling bowel and bladder movements, wearing diapers. The patient is on an air mattress in the hospital room. The patient's skin is kept well-ventilated to prevent pressure sores.
+  - The patient expresses suicidal thoughts and depression due to the inability to leave the hospital. The patient sometimes accuses staff and other patients of stealing their belongings and becomes aggressive.
+  - The patient's respiratory rate is 20.
+  - Doctor visit at 10:00 AM. Vital signs: Blood pressure 121/78, body temperature 36.5°C.
+  - Korean traditional medicine treatment is provided.
+  - The patient is observed throughout the day and is in bed rest with the bedrails up.
+  - At 4:20 PM, the patient is prescribed medication (Suprafed Tab 60mg and Cough Syrup) for persistent cough and runny nose. The medication is to be taken for two days (August 26-27).
+  - The patient is checked on at 11:00 PM, and the bedrails are found to be up.
+
+- August 27, 2023:
+  - The patient is checked on in the morning, and no significant changes are noted.
+
+Please note that the image mentioned in the original document is not provided in the summary.

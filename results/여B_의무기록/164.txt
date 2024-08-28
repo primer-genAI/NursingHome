@@ -1,0 +1,21 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: June 23, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs:
+  - 10:00 AM: BP 135/89, P 97, RESP 20, T 37.0
+  - 14:00 PM: T 36.5
+  - 19:00 PM: BP 130/74, P 95, RESP 20, T 36.4
+- Nursing Record:
+  - Night: The patient slept well with no significant changes.
+  - 07:50 AM: The patient is bedridden and unable to communicate verbally or nonverbally. An L-tube (fr18) is inserted for feeding with 400-200-400kcal/D fiber supplement. The patient is incontinent and wears diapers. The patient is on an air mattress with the air checked. The bedrails are up for safety. Oxygen is provided via nasal prong at 2L/min with SpO2 between 95% and 98%. The patient is isolated due to the D CRE infection. Nursing personnel wear gloves and gowns during care. Hand hygiene is performed before and after care, and isolation precautions are followed.
+  - 10:00 AM: The patient's physician conducted their rounds.
+  - 16:00 PM: The patient's condition was stable during the bedside round.
+  - 23:00 PM: The patient's bedrails were checked and found to be in place.
+- Insurance/Guardian: Unknown

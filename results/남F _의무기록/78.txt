@@ -1,0 +1,36 @@
+환자 차트 요약:
+- 문서 날짜: 2024년 6월 2일
+- 환자: 00931097
+- 입원 병동: 5층 511호
+- 성별: 여성
+- 나이: 76세
+- 생체 신호: BP 116/85, RESP 20, Temp 36.8°C, Glucose 261, SpO2 98%
+- 진단:
+  - 고지혈증 (Unspecified hyperlipidemia, E785^00)
+  - 신장 염증 (Acute tubulointerstitial nephritis, N10^00)
+  - 혈액 감염 (Unspecified sepsis, A419^00)
+  - 폐 감염 (Unspecified pneumonia, J189^00)
+  - 혈전 (Deep vein thrombosis NOS, I802^01)
+  - 항생제 내성 (Vancomycin resistance, U830^00)
+  - 뇌졸중 후유증 (Sequelae of cerebral infarction, I693^00)
+  - 항생제 내성 (Carbapenem resistance, U8280^00)
+  - 알츠하이머병으로 인한 치매 (F009^00)
+  - 위 및 대장 염증 (Unspecified gastroenteritis and colitis, A099^00)
+  - 심한 욕창 (Stage 4 pressure ulcer, L893^00)
+  - 코로나19 이력 (U089^00)
+- 의료 기록:
+  - 10:00 당직의 회진
+  - 16:00 병실 순회, 전반적인 상태 관찰
+  - 침상 난간 고정
+  - 23:00 병실 순회, 침상 난간 올려져 있는 것 확인
+- 간호 기록:
+  - 체위 변경: 낙상 예방을 위해 간호사의 도움으로 간헐적으로 체위 변경
+  - 일어나 앉기: 항상 간호사의 도움으로 상체를 들어올려 앉힘
+  - 옮겨 앉기: 매일 상태가 달라지므로 다른 사람의 도움이 필요
+  - 방밖으로 나오기: 워커와 직원의 도움이 필요
+  - 화장실 사용하기: 화장실 사용 후 뒷처리가 어려워 매번 간호사가 도와줌
+  - 간병인의 도움으로 전신 목욕
+  - 정서적인 간호 제공
+  - 낙상 위험에 대한 교육, 침상 난간을 올려두는 것
+
+Please note that the information provided in the chart may contain some inaccuracies or inconsistencies, which may affect the summary provided.

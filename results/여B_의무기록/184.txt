@@ -1,0 +1,24 @@
+Nurse Information Sheet Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: 0093109779
+- Patient Info: 47-year-old female, 77 years old, Room 505
+- Diagnosis: Information not provided in the excerpt
+- Medical History: Information not provided in the excerpt
+- Current Medications: Information not provided in the excerpt
+- Vital Signs:
+  - BP: 104/87
+  - P: 84
+  - RESP: 20
+  - T: 36.1°C (97°F)
+  - T: 36.8°C (98.2°F)
+- Nurse's Observations and Actions:
+  - 06:00: The patient was in bed, unable to communicate verbally or through eye contact. L-tube feeding, indwelling catheter, and perineal care were provided. The patient was on an air mattress and required oxygen through a nasal prong. The nurse followed isolation precautions.
+  - 07:50: The nurse checked for stool and assisted the patient.
+  - 09:35: The attending physician conducted a round.
+  - 10:00: The patient's vital signs were taken.
+  - 14:00: The patient's temperature was taken.
+  - 16:00: The nurse performed a bedside assessment and ensured the bedrails were in place.
+  - 23:00: The nurse performed a bedside assessment and confirmed the bedrails were up.
+
+Note: The summary does not include information about the patient's diagnosis, medical history, or current medications, as they were not provided in the excerpt.

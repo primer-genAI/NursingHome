@@ -1,0 +1,24 @@
+Patient's Chart Summary:
+
+* P / E:
+	+ Head and neck:
+		- Eyes: Not anemic and not icteric ( - )
+		- Lungs/Heart: No rales ( - / - )
+		- Chest: Clear breath sounds with no murmur ( - )
+		- Abdomen: Soft and flat with no tenderness ( )
+		- Back and extremities: No pitting edema ( - )
+		- Sore: No sores ( - )
+		- Other:
+	+ General:
+		- Conscious: Clear and well oriented ( - )
+		- Cardiorespiratory: No dyspnea ( - ), no chest pain ( - ), no palpitations ( - )
+		- Digestive: No indigestion ( - ), no abdominal pain ( - ), no nausea ( - ), no constipation ( - ), no dysuria ( - )
+		- Back and extremities: No low back pain ( - ), no hip pain ( - )
+		- NRS: Not specified ( - )
+	+ Other:
+
+* P / L:
+	+ Initial lab tests: Not specified
+	+ Medication: Not specified
+	+ Isolation: Not specified
+	+ Treatment: Not specified

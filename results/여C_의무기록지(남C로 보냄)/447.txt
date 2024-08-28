@@ -1,0 +1,20 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Date: April 4, 2024
+- Patient: Unknown
+- Room: Unknown
+
+Nurse Record:
+
+* The patient is bedridden and requires assistance with their overall condition.
+* They are wearing a diaper due to incontinence and are using an air mattress.
+* The nurse performed position changes and back massage for the patient.
+* The patient's right leg knee and above and below the knee have swelling.
+* The patient's hemoglobin (Hb) level was 6.1 on April 2, and they received a blood transfusion.
+* The patient went for an outside clinic appointment with their son and was diagnosed with a right femur fracture.
+* The patient will have a cast in 2 weeks, and they have severe osteoporosis.
+* The patient's hemoglobin level was checked and found to be 9.5.
+* The patient has an appointment with the Orthopedic Surgery department on April 16 and with the Department of Psychiatry on May 30.
+* The nurse checked on the patient at 11:00 PM and ensured the bedrail was up.

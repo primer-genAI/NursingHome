@@ -1,0 +1,9 @@
+Nurse Record Summary:
+
+- Vital Signs:
+  - 16:00: Blood pressure (BP) 95/51, pulse (P) 99, respiratory rate (RESP) 18, temperature (T) 36.5°C, oxygen saturation (SPO2) 96%
+  - 19:00: BP 90/54, P 104, RESP 20, T 36.7°C, SPO2 99%
+  - 23:00: SPO2 96%
+- 06:00: The patient slept well through the night with no significant changes observed.
+- 07:50: A nasogastric tube (L-tube) was inserted, and the patient was given liquid nutrition (Ensolb) at a rate of 600-600-300-300 kcal/day. A urinary catheter (20Fr) was maintained, and perineal care was provided. The patient's air mattress was checked for deflation, and the patient was repositioned and given a back massage. The patient's bed rail was raised, and their overall condition was observed. A right PICC line (Peripherally Inserted Central Catheter) was kept in place, with no signs of redness, swelling, or drainage. The patient is receiving antibiotic treatment for a detailed unspecified pneumonia from May 14th to May 27th. The patient has a Stage 4 pressure sore on their left buttock (Lt buttock G4 6 X 7 X 1cm).
+- 10:00: Vital signs: BP 86/51, P 93, RESP 19, T 36.6°C, SPO2 96%. The patient's doctor conducted a round. The patient had a seizure on May 14th, and they were prescribed Topamax 25mg (free) 2 tablets twice a day for three days (from May 16th to May 18th) and Topamax 25mg (free) 4 tablets once a day for eleven days (from May 19th to May 29th). The patient's condition is being monitored.

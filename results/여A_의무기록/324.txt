@@ -1,0 +1,29 @@
+Patient's Chart Summary:
+
+* Page Info: Unknown
+* Document Type: Nurse's Record
+* Patient Number: 0092108472
+* Patient Information: Female, 91 years old, Room 516
+
+Nurse's Record:
+
+* Emotional Support: The patient expresses feelings of hopelessness and depression due to her inability to return home. She sometimes becomes aggressive, cursing at staff and accusing them of stealing her belongings. She also makes negative comments about her neighboring patient.
+* ADL (Activities of Daily Living):
+	+ Dressing: The patient can put on her clothes with some assistance, as she needs help tying her shoelaces.
+	+ Bathing: The patient requires full assistance from staff due to weak muscle strength.
+	+ Eating: The patient's interest in eating can decrease, so staff needs to provide support and encouragement.
+	+ Toileting: The patient cannot raise her hips for diaper changes, so staff needs to assist by turning her body to change the diaper.
+* Vital Signs:
+	+ Blood Pressure: 90/55
+	+ Pulse: 60
+	+ Respiratory Rate: 20
+	+ Temperature: 36.0°C (96.8°F)
+	+ Weight: 60 kg (132 lbs)
+* Treatments and Observations:
+	+ Doctor's round was conducted.
+	+ Traditional Korean medicine treatment was given.
+	+ Nursing staff performed room rounds, observing the patient's overall condition. The bedrails were found fixed, and the patient was stable in bed.
+	+ Room rounds were conducted, and the bedrails were found in the raised position.
+	+ No significant changes were noticed during the night.
+
+Note: The image mentioned in the original text is not provided in the summary.

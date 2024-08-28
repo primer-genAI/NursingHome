@@ -1,0 +1,34 @@
+환자 차트 요약:
+
+- 페이지 정보: 1/1
+- 문서 유형: 검사 슬립지
+- 환자 번호: 0093109779
+- 문서 날짜: 2023년 09월 27일
+- 부서: 입원
+- 병동/병실: 5병동 / 505호
+
+**검사:**
+
+**VRE REC VRE Culture&Sensitivity (Rectal swab)**
+
+| 코드 명칭/소견 | 결과치 | 참고치 단위 |
+| --- | --- | --- |
+| VRE Culture&Sensitivity (Rectal swab) | Enterococcus faecium | Colony Count : many |
+
+**항생제 감수성 검사 결과:**
+
+| 항생제 | MIC 결과 1 |
+| --- | --- |
+| L inezolid | S |
+| Streptomycin High Level (synergySYN-S) | S |
+| Ampicillin | >=32 |
+| Benzylpenicillin | >=64 |
+| Erythr omycin | >=8 |
+| Gentamicin High Level (synergySYN-R) | R |
+| Teicoplanin | >=32 |
+| Vancomycin | >=32 |
+
+**임상 정보 및 COMMENT:**
+VRE (Vancomycin Resistant Enterococcus) 균주입니다.
+
+*참고: S는 감수성, R은 저항성을 의미합니다.*

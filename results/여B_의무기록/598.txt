@@ -1,0 +1,32 @@
+검사 슬립지 요약:
+
+- 차트 번호: 0093109779
+- 검사 날짜: 2023년 11월 8일
+- 환자 정보:
+  - 이름: 여/77세
+  - 주민등록번호: 42******
+  - 담당 의사: 해당 사항 없음
+  - 병실: 5병동 / 505호
+- 검사 결과:
+  - VRE Culture&Sensitivity (직장 면봉):
+    - 균주: Enterococcus faecium
+    - 균 수: 많음
+    - 항생제 내성:
+      - Linezolid: 감수성 (S)
+      - Strep . Synergy: 감수성 (S)
+      - Synercid: 감수성 (S)
+      - Teicoplanin: 감수성 (S)
+      - Tetracycline: 해당 사항 없음
+      - Ampicillin: 중간 (1)
+      - Ciprofloxacin: 저항성 (R)
+      - Clindamycin: 해당 사항 없음
+      - Erythromycin: 저항성 (R)
+      - Fusidic Acid: 저항성 (R)
+      - Gent Synergy: 저항성 (R)
+      - Gentamicin: 저항성 (R)
+      - Levofloxacin: 저항성 (R)
+      - Penicillin: 저항성 (R)
+      - Rifampin: 저항성 (R)
+      - Trimeth/Sulfa: 저항성 (R)
+      - Vancomycin: 저항성 (R)
+- 임상 정보 및 코멘트: VRE (Vancomycin Resistant Enterococcus) 균주입니다.

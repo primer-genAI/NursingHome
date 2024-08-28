@@ -1,0 +1,6 @@
+검사 결과:
+
+* BUN (Blood Urea Nitrogen): 6.90 mg/dL (정상은 7.9 ~ 25.0 mg/dL)
+* Creatinine: 0.53 mg/dL (정상은 0.55 ~ 0.98 mg/dL)
+* A/G ratio (Albumin/Globulin ratio): 2.50 (참고치 없음)
+* eGFR (Estimated Glomerular Filtration Rate): 94.00 mL/min/1.73m2 (정상 > 59 mL/min/1.73m2)

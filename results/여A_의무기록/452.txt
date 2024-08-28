@@ -1,0 +1,20 @@
+Nurse Recording Summary:
+
+* Date: Unknown
+* Patient: 0092108472, female, 91 years old, Room 516
+* Vital Signs:
+	+ 10:00 AM: BP 120/79, P 81, RESP 20, T 36.5
+* Nursing Observations:
+	+ 06:00 AM: Room round, patient slept well.
+	+ 07:50 AM: Room round, patient incontinent, wearing a diaper, and using an air mattress. Skin care provided, and overall emotional support given. Patient expresses wish to die and depression about not being able to go home. Occasionally verbally aggressive towards staff and other patients.
+	+ 10:00 AM: Vital signs measurement.
+	+ 10:00 AM: Attending physician's round.
+	+ 15:00 PM: Acupuncture treatment.
+	+ 16:00 PM: Room round, patient stable and bedrails secured.
+	+ 23:00 PM: Room round, bedrails checked and secured.
+* Insurance/Guardian: #2024-04-23
+* Next Day:
+	+ 06:00 AM: Room round, no significant changes overnight.
+	+ 07:50 AM: Room round (information missing).
+
+Note: The image mentioned in the source text is not included in this summary, as it is not relevant to the patient's information.

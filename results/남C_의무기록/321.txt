@@ -1,0 +1,20 @@
+Nurse Information Sheet Summary:
+
+- Document Type: Nurse Record
+- Date: February 22, 2024
+- Patient's Information:
+  - Vital signs:
+    - 10:00 AM: BP - 130, RESP - 19, T - 36.3
+    - 16:00 PM: RESP - 20, T - 36.1
+    - 23:00 PM: Not provided
+  - Medical Interventions:
+    - 06:00 AM: Nightly observation, no significant changes
+    - 07:50 AM: Left hemiplegia, incontinence, fall risk education, emotional support, seizure observation
+    - 10:00 AM: Doctor's round, vital signs check
+    - 15:00 PM: Acupuncture treatment
+    - 16:00 PM: Room check, overall status observation
+    - 23:00 PM: Room check
+  - Staff Information:
+    - Author: Not provided
+
+Please note that the provided information is incomplete and does not include all the required sections from the example format.

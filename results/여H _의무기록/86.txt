@@ -1,0 +1,14 @@
+Nurse Record Summary:
+
+* Patient is bedridden.
+* No significant changes during the night.
+* Patient is in bedrest position with raised bedrails.
+* Patient has vision in both eyes, is incontinent, and experiences leg pain.
+* Emotional support is provided, and air mattress and position changes are performed.
+* Patient appears down, speaks little, and feels depressed about not being able to go home.
+* Patient has trouble sleeping and wakes up frequently to eat.
+* Physician rounds occur at 10:00 AM.
+* Patient's overall condition is observed, and bedrails are secured.
+* Patient complains of generalized pain (NRS 4), and a PRN tramadol injection is administered.
+* Pain level decreases to NRS 2.
+* Bedrails are checked and raised at 11:00 PM.

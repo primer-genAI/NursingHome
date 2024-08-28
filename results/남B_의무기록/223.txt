@@ -1,0 +1,9 @@
+Nurse Record Summary:
+- 10:00 AM: Vital Signs: Blood pressure 97/57, Pulse 55, Respiration 19, Temperature 36.2°C. Doctor's round.
+- 16:00 PM: Room check. General condition observed. Bedrail fixed. Bed rest.
+- 23:00 PM: Room check. Bedrail found up.
+- 06:00 AM: Room check. No significant changes during the night. Good sleep.
+- 07:50 AM: Room check. Patient is bedridden with left hemiplegia and has a cystostomy (Foley catheter 18Fr) in place. Urine output is good, but bowel control is not. Uses diapers. Checked air mattress for deflation, performed a body position change, and back massage. Educated on fall risks and provided emotional support.
+- 09:05 AM: Assisted with a full body bath by caregiver.
+- 10:00 AM: Vital Signs: Blood pressure 106/61, Pulse 48, Respiration 19, Temperature 36.3°C. Doctor's round.
+- 16:00 PM: Room check. General condition observed. Bedrail fixed. Bed rest.

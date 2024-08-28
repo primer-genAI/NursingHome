@@ -1,0 +1,25 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: February 13, 2024
+- Department: Unknown
+- Room: Unknown
+- Vital Signs:
+  - 10:00 AM: BP - 104/52, P - 52, RESP - 20, T - 36.0°C
+  - 16:00 PM: Not recorded
+  - 23:00 PM: Not recorded
+  - 06:00 AM: Not recorded
+  - 10:00 AM: BP - 94/54, P - 47, RESP - 20, T - 36.6°C
+- Nursing Notes:
+  - 10:00 AM: Doctor's round
+  - 16:00 PM: Room round, general condition observed, bedrail fixed, bed rest
+  - 23:00 PM: Room round, bedrail up
+  - 06:00 AM: Room round, slept well through the night
+  - 07:50 AM: Bedridden state observed, unable to control bowel/bladder, using air mattress, repositioning and back massage done, bedrail up, emotional support provided, patient unresponsive and moody
+  - 10:04 AM: Doctor's round, ordered Rivotril 0.5 mg (clonazepam) 0.5 tab hs po med * 9 days for sleep disturbance
+  - 15:00 PM: Not recorded
+- Medication:
+  - Rivotril 0.5 mg (clonazepam) 0.5 tab hs po med * 9 days for sleep disturbance
+- Insurance/Guardian: Unknown
+
+Please note that the information provided is incomplete and may not include all relevant details.

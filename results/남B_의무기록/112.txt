@@ -1,0 +1,13 @@
+Patient's Chart Summary:
+
+- Document Date: June 21, 2023
+- Nursing Records:
+  - 07:50: Rounded the patient's room. The patient slept well without any significant changes during the night.
+  - 10:00: Vital signs: Blood pressure 108/65, pulse 53, respiratory rate 21, temperature 36.5°C. The attending physician made rounds.
+  - 16:00: Rounded the patient's room. The patient is bedridden with left-side weakness. The patient has a cystostomy (Foley catheter 18Fr) and urine output is good, but the patient cannot control bowel movements and wears diapers. The patient is on an air mattress to prevent bedsores. The nurse checked if the air mattress was deflated and performed a 2-hourly repositioning and back massage. The nurse educated the patient about fall prevention and provided emotional support.
+  - 23:00: Rounded the patient's room. The nurse checked that the bedrail was up.
+  - 06:00: Rounded the patient's room. The patient slept well without any significant changes during the night.
+  - 07:50: Rounded the patient's room. The patient is bedridden with left-side weakness. The patient has a cystostomy (Foley catheter 18Fr) and urine output is good, but the patient cannot control bowel movements and wears diapers. The nurse checked if the air mattress was deflated and performed a 2-hourly repositioning and back massage. The nurse educated the patient about fall prevention and provided emotional support.
+  - 10:00: Nursing record not available.
+
+Note: The summary is based on the provided document and may not include all the information in the original document.

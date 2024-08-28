@@ -1,0 +1,8 @@
+Patient's Chart Summary:
+- Date: January 12, 2024
+- Nurse Record:
+  - 16:00: The patient was observed, and the bedrail was fixed. The patient was stable and resting in bed.
+  - 23:00: The nurse made rounds and checked that the bedrail was up.
+  - 06:00: The nurse made rounds and observed that the patient slept well without any significant changes overnight.
+  - 07:50: The patient was observed to be in a bedridden state with left-sided hemiplegia. An L-tube (18Fr) was in place, and a 400-400-400 kcal/day diet was being given. The patient was incontinent and wore diapers. The patient continuously tapped the bedrail with their right hand, showing repetitive behavior. The nurse checked the air mattress and made sure the air was not leaking. The patient's position was changed, and a back massage was performed. The patient was educated about the risk of falling, and the bedrail was kept up while the patient was in bed. The patient received emotional support, and their overall condition was observed. The patient tapped the bed frequently when awake and showed repetitive behavior disorder.
+  - 10:00: Vital signs: BP;108 BPL;61 P;63 RESP;20 T;36.3 The attending physician made rounds.

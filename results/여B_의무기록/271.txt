@@ -1,0 +1,37 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: Unknown
+- Document Date: October 7, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs:
+  - 10:00 AM: BP 109/72, HR 87, RR 20, Temp 36.8°C
+  - 16:00 PM: BP, HR, RR, Temp not recorded
+  - 19:00 PM: Temp 36.5°C
+  - 23:00 PM: BP, HR, RR, Temp not recorded
+- Medical History:
+  - Bedridden patient with L-tube feeding and urinary catheter
+  - Difficulty communicating verbally or visually
+  - Isolated for D CRE infection
+  - Using an air mattress with proper inflation checks
+  - Severe pressure sore (Stage 4 pressure ulcer)
+  - Frequent hospitalizations
+  - Recent admission for rectal infection
+  - History of COVID-19
+- Nursing Care:
+  - Bedridden patient with L-tube feeding and urinary catheter
+  - Isolation for D CRE infection
+  - Feeding with 200kcal x4 times a day
+  - Perineal care
+  - Air mattress maintenance
+  - Bed rail adjustments
+  - Vital signs monitoring
+  - Doctor's rounds at 10:00 AM
+  - Nursing staff follow isolation precautions
+  - Hand hygiene practices
+
+Please note that this summary is based on the information provided in the given document. Some details such as patient number, department, room, and gender are unknown.

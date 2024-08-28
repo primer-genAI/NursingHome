@@ -1,0 +1,25 @@
+Patient's Chart Summary:
+
+- Document Date: March 6, 2024
+- Patient Number: 0092108472
+- Department: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91
+- Vital Signs: BP 114/80, RESP 20, Temp 36.0°C (at 10:00 AM)
+
+Nursing Notes:
+
+- The patient is using an air mattress to prevent pressure sores and keep the skin dry.
+- She is incontinent and wears diapers.
+- The patient's bedrails are up for safety.
+- She expresses suicidal thoughts and depression about not being able to go home.
+- She may become aggressive, cursing at staff and other patients, accusing them of stealing or causing harm.
+- A doctor's round was held at 10:00 AM.
+- Acupuncture treatment was given at 15:00.
+- The patient was observed during bed rest and rounds.
+- The bedrails were checked and found to be in place.
+- The patient slept well through the night with no significant changes.
+- In the morning, the patient's bedrails were up for safety.
+
+Remember, always use a patient-friendly tone and ensure accuracy and clarity in every explanation.

@@ -1,0 +1,20 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: July 2, 2023
+- Room: Unknown
+- Gender: Unknown
+- Vital Signs:
+  - 07:50: Blood Pressure (BP) 124/92, Pulse (P) 87, Respiration (RESP) 21, Temperature (T) 36.3°C
+  - 16:00: Blood Pressure (BP) Unknown
+- Medical History: Patient is bed-ridden, unable to communicate verbally or with eye contact. The patient has an L-tube (fr18) inserted and is receiving a diet of 400-200-400kcal/D through the tube. The patient is incontinent and wears diapers. The patient is on an air mattress to prevent pressure sores. The patient's oxygen saturation (Spo2) is 95-98% when receiving 2L/min of oxygen via a nasal prong. The patient is isolated due to D CRE.
+- Current Medications: Unknown
+- Nursing Notes:
+  - 16:00: The nurse performed a bedside round and observed the patient's overall condition. The bedrail was locked in place.
+  - 23:00: The nurse performed a bedside round and confirmed that the bedrail was up.
+  - 07:50: The nurse performed a bedside round and observed that the patient slept well through the night with no significant changes. The patient's overall condition was observed, and the nurse ensured that the air mattress had not deflated. The patient's oxygen saturation (Spo2) was 95-98% when receiving 2L/min of oxygen via a nasal prong. The nurse followed isolation guidelines, wearing gloves and a gown during patient care, and performed hand hygiene before and after care.
+  - 10:00: The attending physician performed a round.
+  - 10:00: Vital signs were taken, and the patient's blood pressure (BP) was 124/92, pulse (P) 87, respiration (RESP) 21, and temperature (T) 36.3°C.
+  - 16:00: The nurse performed a bedside round and observed the patient's overall condition. The bedrail was locked in place.

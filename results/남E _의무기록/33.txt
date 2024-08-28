@@ -1,0 +1,14 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information:
+  - Date: April 7, 2024
+  - Time: 06:00
+  - Medical Condition: Tracheostomy, Enteral feeding, Urostomy, Constipation, Bedridden, Pressure sore (COCCyx G3 7 X 10 X 0.5cm)
+- 간호기록(N)
+  - 06:00: 병실 순회함.
+  - 07:50: 기관절개술 및 기관절개술 흡인술 시행, 드레싱 교체, 장솔루션 400-400-400kcal/D 식이 제공, 욕창 COCCyx G3 7 X 10 X 0.5cm 관찰.
+  - 10:00: 기관절개술, 비위관, 요도관 삽입 중이며, 대변 조절 불가능하여 기저귀 착용 중, 본원 에어매트 사용 중, 체위 변경 및 등 마사지 시행, 피부 청결 유지, 실금 및 설사 여부 관찰, 침상난간 올려져 있음, 욕창 COCCyx G3 7 X 10 X 0.5cm 관찰.
+  - 11:10: 욕창부위 드레싱 교체, 에어매트 적용, 체위 변경 및 등 마사지 시행, 욕창 발생부위 피부 상태 관찰.
+  - 16:00: 병실 순회함, 전반적인 상태 관찰, 침상 안정 유지.
+  - 23:00 # 2024-04-08: 병실 순회함, 침상난간 올려져 있음 확인.

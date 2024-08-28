@@ -1,0 +1,23 @@
+Nurse Information Sheet Summary:
+
+- Date: June 6, 2023
+- Patient: Unknown
+- Insurance/Guardian: Unknown
+- Diagnoses: Cataract (left eye) surgery (following surgery on 5/25, eye drops are being administered)
+- Vital Signs:
+  - 19:00: BP 127/78, HR 86, Resp 21, Temp 36.4°C
+  - 23:00: Vitals not mentioned
+  - 06:00: FBS (blood sugar) 91
+  - 10:00: BP 111/67, HR 79, Resp 20, Temp 36.4°C
+  - 16:00: Vitals not mentioned
+- Medical History:
+  - Cataract surgery on the left eye
+  - Paralysis on one side of the body (hemiparesis)
+  - Control over bowel and bladder functions
+  - Seizures lasting less than 10 seconds, affecting one or both limbs
+- Nursing Care:
+  - 07:50: Checked the patient's condition, raised the bedrail, provided emotional support, and educated the patient on fall prevention. Used a wheelchair for mobility.
+  - 10:00: Attended the attending physician's round.
+  - 16:00: Performed a room round and observed the patient's overall condition.
+
+Please note that the information provided in the original document was not clear, and some details were missing.

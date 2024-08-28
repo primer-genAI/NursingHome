@@ -1,0 +1,29 @@
+Patient's Chart Summary:
+
+- Document Type: Progress Notes
+- Date: November 14, 2023
+- Department: FM1
+- Room: 505
+- Vital Signs:
+  - Morning (10:00): Blood pressure 113/75, heart rate 95, respiratory rate 20, temperature 36.7°C
+  - Evening (19:00): Blood pressure 101/73, heart rate 93, respiratory rate 19, temperature 36.9°C
+- Symptoms: Feeling uncomfortable during feeding
+- Treatments:
+  - Enhanced care for the perineal area (1 time per day)
+  - Medications:
+    - Pantoloc tablet (Pantoprazole sodium sesquihydrate): 20mg once daily, taken in the morning with breakfast
+    - Cebrix tablet (Levosulpiride): 25mg, 3 times a day, with meals
+    - Meritin tablet (Trimebutine maleate): 3 times a day, with meals
+- Document Type: Progress Notes
+- Date: November 15, 2023
+- Vital Signs:
+  - Morning (10:00): Blood pressure 112/70, heart rate 96, respiratory rate 20, temperature 36.0°C
+- Tests:
+  - VRE culture and sensitivity (rectal swab)
+- Treatments: Continuation of previous treatments
+- Document Type: Progress Notes
+- Date: November 16, 2023
+- Vital Signs:
+  - Morning (10:00): Blood pressure 110/67, heart rate 87, respiratory rate 20, temperature 36.7°C
+  - Evening (19:00): Temperature 36.9°C
+- Treatments: Continuation of previous treatments

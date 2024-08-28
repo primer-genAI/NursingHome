@@ -1,0 +1,23 @@
+Patient's Chart Summary:
+
+* Page Info: Unknown
+* Document Type: Nurse Record
+* Date: April 2, 2024
+* Time: 06:00 - 10:00
+* Patient's Condition:
+	+ Bedridden with right-sided hemiplegia
+	+ Feeding through an L-tube (16Fr) with Nutrilon Fiber 400-400-400kcal/day
+	+ Incontinent and wearing diapers
+	+ Air mattress in use for pressure relief
+	+ Facial rash that comes and goes, treated with topical ointment
+	+ Right knee and pin-prick site draining, dressed accordingly
+	+ No significant changes observed
+
+* ADL Assistance:
+	+ Complete assistance with dressing, washing, brushing teeth, bathing, eating, positioning, sitting up, transferring, moving around, and using the bathroom
+
+* Medications:
+	+ L-tube feeding with Nutrilon Fiber
+	+ Antibiotics changed during the doctor's round at 10:00 AM
+
+Please note that the summary is based on the given document, and any missing or unknown information has been left blank.

@@ -1,0 +1,18 @@
+Nurse Recording Summary:
+
+* Patient: 0092108472 / Female / 91 years old / Room 516
+* Nursing Actions:
+  - Ensured proper air circulation to keep the skin dry.
+  - Raised bedrails when the patient was bedridden.
+  - Educated the patient about fall risks.
+  - Provided emotional support as the patient expressed a desire to die and depression about not being able to go home.
+  - Observed the patient's behavior, which included cursing, yelling, and accusing others of stealing personal items or being aggressive towards other patients.
+* Vital Signs:
+  - 10:00 AM: Blood Pressure: 121/ B, Respiratory Rate: 20, Temperature: 36.0°C
+  - 06:00 AM (next day): The patient slept well with no significant changes.
+* 07:50 AM (next day):
+  - The patient was incontinent and wearing a diaper.
+  - The patient was on an air mattress.
+  - The nurse straightened out any wrinkles in the sheets or clothing to prevent skin indentation.
+  - Continued to ensure proper air circulation and raised bedrails for the patient's safety.
+  - Observed the patient's overall condition and provided emotional support.

@@ -1,0 +1,33 @@
+Nurse Record Summary:
+
+- Page Info: Unknown
+- Date: May 25, 2024
+- Time: 07:50
+- Nursing Actions:
+  - Room round check
+  - Observed overall condition
+  - Bedrail was fixed
+  - Patient was bedridden
+  - Patient had a right paralysis
+  - Nasogastric tube was in place
+  - Provided nasogastric feeding
+  - Patient had urinary and fecal incontinence
+  - Wore diapers
+  - Patient repeatedly hit the bedrail with their right hand
+  - Checked the hospital's air mattress for deflation
+  - Performed a 2-hourly repositioning and back massage
+  - Educated the patient about fall risks
+  - Advised the patient to raise the bedrail when lying down
+  - Provided emotional support
+  - Observed overall condition
+  - Documented when the patient was awake
+
+- Date: May 26, 2024
+- Time: 06:00
+- Nursing Actions:
+  - Room round check
+  - Observed overall condition
+  - Bedrail was fixed
+  - Patient was bedridden
+
+Please note that the information provided is based on the given text and may not be complete or accurate.

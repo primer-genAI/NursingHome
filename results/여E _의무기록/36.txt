@@ -1,0 +1,22 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record (N)
+- Patient Information:
+  - Bedridden with O2 inhalation (Nasal prong) at 3 L/min, spo2: 92-96%
+  - L-tube (16Fr) in place, receiving Fiberrite 400-200-400 kcal
+  - Incontinent, wearing diapers, and using hospital air mattress
+  - Needs assistance with turning and back massage
+  - Nursing notes from various times throughout the day
+- Medical Interventions:
+  - 10:00 AM: Doctor's rounds
+    - Constipation: D (description of the problem), A (actions taken), R (expected results)
+      - D: Patient complained of abdominal discomfort due to constipation
+      - A: Dulcolax suppository prescribed and inserted
+      - R: Observation of bowel movements
+  - 16:00 PM: Room rounds, overall condition observed, and bedrail checked
+  - 23:00 PM: Patient remained in bed, room rounds, and bedrail checked
+- 2024-04-18 Insurance/Guardian: Not specified
+- 06:00 AM: Nursing rounds, patient slept well overnight with no significant changes
+- 07:50 AM: Room rounds, patient's condition and L-tube noted, air mattress checked, and assistance provided
+- 10:00 AM: Doctor's rounds
+- 16:00 PM: Room rounds

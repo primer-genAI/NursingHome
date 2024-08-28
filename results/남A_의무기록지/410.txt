@@ -1,0 +1,34 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: June 18, 2024
+- Patient Status: Bedridden with left-side paralysis
+- Medical Interventions:
+  - Nasogastric tube for feeding
+  - Urocath for urine control
+  - Air mattress for pressure relief
+  - Vital signs monitoring
+  - Fall prevention measures
+  - Bedrail adjustments
+  - Emotional support and behavioral observation
+
+Vital Signs:
+
+- Blood pressure: 105/61 mmHg
+- Heart rate: 67 beats per minute
+- Respiratory rate: 20 breaths per minute
+- Temperature: 36.0°C (96.8°F)
+
+Nursing Care:
+
+- Bedridden patient with left-side paralysis
+- Nasogastric tube for feeding
+- Urocath for urine control
+- Air mattress for pressure relief
+- Fall prevention measures
+- Bedrail adjustments
+- Emotional support and behavioral observation
+- Overnight observation with no significant changes
+
+Please note that the information provided in this summary is based on the given document and may not include all relevant details.

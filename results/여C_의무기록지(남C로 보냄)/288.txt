@@ -1,0 +1,16 @@
+Nurse's Record Summary:
+
+* Vital Signs:
+	+ Blood Pressure: 123/72 at 15:00, 108/58 at 10:00
+	+ Pulse: 56 at 15:00, 55 at 10:00
+	+ Respiratory Rate: 20 at 15:00, 10:00
+	+ Temperature: 36.6°C at 15:00, 36.9°C at 10:00
+* Nursing Notes:
+	+ 15:00: Doctor's round, acupuncture treatment provided (by [Author])
+	+ 16:00: Room round, general condition observed, bedrail locked, patient stable (by [Author])
+	+ 23:00: Room round, bedrail up (by [Author])
+	+ 06:00: Room round, patient slept well, bedridden, incontinent, air mattress, position change, back massage, bedrail up, emotional support provided (by [Author])
+	+ 10:00: Doctor's round, vital signs checked (by [Author])
+	+ 15:00: Acupuncture treatment provided (by [Author])
+
+Please note that the [Author] placeholder is used for the nurse who wrote the note.

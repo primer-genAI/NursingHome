@@ -1,0 +1,29 @@
+Patient's Chart Summary:
+
+- Document Type: Nurse Record
+- Patient's Condition:
+  - L-tube (fr18) inserted and currently receiving feeds 200kcal x4 times a day.
+  - Indwelling urinary catheter in place and perineal care given.
+  - Unable to control bowel movements, so a diaper is worn.
+  - On air mattress at the hospital, ensuring no deflation.
+  - Bedridden with bedrails up.
+  - Overall condition observed.
+  - Isolation (contact) due to D CRE, following isolation protocols.
+  - Gloves and gowns worn during nursing care.
+  - Hand hygiene performed before and after nursing care.
+
+- Vital Signs:
+  - 10:00 AM: BP 105/66, HR 81, RESP 20, Temp 36.4°C
+  - 19:00 PM: BP 133/94, HR 47, RESP 20, Temp 37.1°C
+  - 20:30 PM: Temp 37.0°C
+  - 23:00 PM: Temp 37.0°C
+  - 2023-10-24: Slept well with no significant changes.
+
+- Nursing Care:
+  - 10:50 AM: Full body bath with the help of a caregiver.
+  - 16:00 PM: Room round, overall condition observed, and bedrails fixed.
+  - 20:30 PM: Room round, bedrails found up.
+  - 06:00 AM: Room round, no significant changes during the night.
+  - 07:50 AM: Bedridden state observed.
+
+Please note that this summary is based on the provided document, and any additional information or context may be necessary for a complete understanding of the patient's condition.

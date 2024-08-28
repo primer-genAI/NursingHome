@@ -1,0 +1,27 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Recording
+- Patient Number: 0092108472
+- Document Date: Unknown
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91 years old
+
+Vital Signs:
+
+- No specific vital signs recorded in this document.
+
+Nursing Record:
+
+- 07:50: The nurse made rounds, noted that the patient was wearing hearing aids and was on an air mattress in the room. The nurse ensured that the patient's skin was not affected by creases in the sheets or clothing and that the patient's skin was kept dry. The nurse also made sure the bedrails were in place to prevent falls and educated the patient about the risks of falling. The patient expressed feelings of depression and frustration, stating "What is the point of living like this? I want to die. I'm upset that I can't go home." The patient also verbally attacked staff and other patients.
+- 10:00: The patient's attending physician made rounds.
+- 15:00: The patient received an acupuncture treatment.
+- 16:00: The nurse made rounds and observed the patient's general condition. The bedrails were secured, and the patient was resting in bed.
+- 23:00: The nurse made rounds and checked that the bedrails were up.
+- 06:00: The nurse made rounds and reported that the patient slept well through the night with no significant changes.
+- 07:50: The nurse made rounds and noted that the patient was wearing diapers due to incontinence. The nurse ensured that the patient's skin was not affected by creases in the sheets or clothing and that the patient's skin was kept dry.
+
+Please note that the document does not contain any specific diagnoses or medical history information.

@@ -1,0 +1,14 @@
+Patient's Chart Summary:
+- Document Type: Nurse Record
+- Document Date: November 19, 2023
+- Vital Signs:
+  - 10:00 AM: BP - 102/62, P - 62, RESP - 20, T - 36.0°C
+- Nursing Notes:
+  - 07:50 AM: Room round completed. Patient slept well with no significant changes during the night. Patient's overall condition observed. Bedridden state. Unable to control bowel and bladder movements, wearing diapers. Air mattress provided. Positioning change and back massage performed by the nurse. Wrinkles in sheets and clothing smoothed out to prevent skin fold pressure. Air circulation maintained to keep skin dry. Bed rail in place for emotional support. Patient's response to speech is minimal, and they appear moody or less talkative.
+  - 10:00 AM: Vital signs taken: Blood pressure - 102/62, pulse - 62, respiratory rate - 20, temperature - 36.0°C.
+  - 06:00 PM: Room round completed. Patient's overall condition observed. Bedridden state. Continuing to be in bed for rest.
+  - 11:00 PM: Room round completed. Bed rail in place.
+  - 12:00 AM: Nursing record: Room round completed by the on-duty physician.
+  - 02:00 AM: Room round completed. Patient's overall condition observed. In bed for rest.
+  - 07:50 AM: Room round completed by the nurse. Bedridden state. Overall condition observed. Unable to control bowel and bladder movements, wearing diapers. Air mattress provided. Positioning change and back massage performed by the nurse. Wrinkles in sheets and clothing smoothed out to prevent skin fold pressure. Air circulation maintained to keep skin dry. Bed rail in place for emotional support. Patient's response to speech is minimal, and they appear moody or less talkative.
+- Insurance/Guardian: Not specified

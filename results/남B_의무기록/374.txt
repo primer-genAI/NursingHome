@@ -1,0 +1,15 @@
+Nurse Record Summary:
+
+- Date: 2024-06-20
+- Patient: Unknown
+- Insurance/Guardian: Unknown
+
+Nursing Notes:
+
+- 06:00: Room round conducted. The patient slept well through the night with no significant changes.
+- 07:50: Room round conducted. The patient is bedridden with left hemiplegia and has a cystostomy (Foley catheter 18Fr) in place. Urine output is good, but the patient cannot control bowel movements and wears a diaper. The patient's air mattress is checked for any deflation, and positioning changes are made along with back massage. The nurse educates the patient about fall prevention and provides emotional support.
+- 10:00: Vital signs: BP;102 BPL;61 P;54 RESP;21 T;36.3 The attending physician conducts their rounds.
+- 16:00: Room round conducted. Overall condition observed. Bedrail is secured, and the patient is resting in bed.
+- 23:00: Room round conducted.
+
+Please note that the patient's identity and specific medical conditions are not provided in the given record.

@@ -1,0 +1,13 @@
+Patient's Chart Summary:
+
+- Diagnoses: Unspecified cerebral infarction (I639^00), Severe pressure sore (Stage 4 pressure ulcer, L893^00), History of COVID-19 (U089^00), Resistance to an antibiotic called vancomycin (Vancomycin resistance, U830^00), Resistance to carbapenem antibiotics (Carbapenem resistance, U8280^00), Dementia from Alzheimer's disease (F009^00), Stomach and colon inflammation (Unspecified gastroenteritis and colitis, A099^00), Blood clot in the veins (Deep vein thrombosis NOS, I802^01), A kidney inflammation (Acute tubulointerstitial nephritis, N10^00), High cholesterol levels (Unspecified hyperlipidemia, E785^00), Blood infection (Unspecified sepsis, A419^00), Lung infection (Unspecified pneumonia, J189^00).
+- Medical History: The patient has been admitted frequently due to various health issues, including a rectal infection. They are currently isolated for treatment.
+- Current Medications: Xarelto 15mg twice daily from June 1 to June 22, then increased to Xarelto 20mg.
+- Nursing Record:
+  - 06:00: The patient was observed during a room round and slept well without any significant changes overnight.
+  - 07:50: The patient's overall condition was checked, and it was noted that they are bedridden, have left-side paralysis, and are receiving a feeding tube (18Fr) with a 400-400-400kcal/day diet. They are incontinent and wear diapers (with some feces attached to the diapers). The patient repeatedly hits the bed rail with their right hand and was observed to be lying on an air mattress. Their position was changed, and a back massage was provided. The patient was educated about fall prevention, and the bed rail was raised. Emotional support was given, and their overall condition was observed. They exhibit repetitive behavioral disorders by constantly tapping the bed. A pressure sore (coccyx G1, 2 X 2 X 0cm) was noted.
+  - 09:05-10:00: The patient received a full body bath with the help of a caregiver, and their vital signs were checked (BP;90 BPL;46 P;64 RESP;20 T;36.0). The attending physician made rounds. The pressure sore (coccyx G1, 2 X 2 X 0cm) was dressed, and an air mattress was applied. The patient's position was changed, and the skin condition at the pressure sore site was observed.
+  - 11:30: The patient's overall condition was checked during a room round, and the bed rail was found to be fixed. The patient remained in bed.
+  - 16:00: The nursing record was continued.
+  - 23:00: The patient was observed during a room round, and the bed rail was found to be raised.
+  - 06:00: The nursing record was continued.

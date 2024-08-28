@@ -1,0 +1,33 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Progress Notes
+- Patient Number: 0093109779
+- Document Date: February 22, 2024, 16:15 (Day 1)
+- February 23, 2024, 16:15 (Day 2)
+- February 24, 2024 (Day 3)
+- Department: FM1 (Day 3)
+- Admission Date: Unknown
+- Room: 511 (Days 1-3)
+- Gender: Unknown
+- Age: 77 (Days 1-2), 76 (Day 3)
+- Vital Signs:
+  - Day 1: BP 121/82, P 78, RESP 20, T 36.0
+  - Day 2: BP 125/80, P 76, RESP 20, T 36.2
+- Diagnoses:
+  - Unspecified Alzheimer's disease (F009^00)
+  - Sequelae of cerebral infarction (I693^00)
+- Medical History: Unknown
+- Current Medications:
+  - Day 1: Bed Rest position change q2h, Keep L-tube, morning and evening meal (8016:47)
+  - Day 2: Bed Rest posit e q2h, Keep MD417, L-tube 파모티딘정20mg 2, ampexol정(암브록솔염산염)30mg 3, morning, lunch, dinner P, 130
+  - Day 3: Unknown
+- Treatments:
+  - Day 1: Chest AP, RPR, HBS AB, HBs Ag (clinical laboratory)
+  - Day 2: 경혈침술(2부위이상)(백회,족삼리) 1, 투자법 침술(삼음교,현종) 1 (acupuncture)
+  - Day 3: COVID-19 PCR test - admission and discharge test (clinical laboratory)
+- Diet:
+  - Day 1: 경관식(그린비아 장솔루션)(아침)
+  - Day 2: 경관식(그린비아 장솔루션)(아침, 점심, 저녁)
+  - Day 3: 경관식(그린비아 장솔루션)(아침)
+
+Please note that the document does not contain complete information, and some sections are missing or incomplete.

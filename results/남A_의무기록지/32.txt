@@ -1,0 +1,25 @@
+Patient's Chart Summary:
+
+* Document Type: Progress Notes
+* Patient Number: Unknown
+* Document Date: October 14, 2023, 10:00 AM - October 18, 2023, 6:00 AM
+* Department: FM1
+* Room: 312
+* Gender: Male
+* Age: 77 years old
+* Vital Signs:
+	+ October 14, 2023, 10:00 AM: BP - 110/76, RESP - 20, T - 36.2°C
+	+ October 15, 2023, 10:00 AM: BP - 119/71, RESP - 20, T - 36.1°C
+	+ October 16, 2023, 10:00 AM: BP - 100/56, RESP - 20, T - 36.0°C
+	+ October 17, 2023, 10:00 AM: BP - 113/67, RESP - 19, T - 36.2°C
+	+ October 18, 2023, 6:00 AM: FBS - 111 (Fasting blood sugar)
+* Medical History: Unknown
+* Current Medications:
+	+ October 14, 2023: 경관식(그린비아 장솔루션) for breakfast, lunch, and dinner (1 time each)
+	+ October 15, 2023: 경관식(그린비아 장솔루션) for breakfast, lunch, and dinner (1 time each)
+	+ October 16, 2023: 경관식(그린비 루션) for breakfast, lunch, and dinner (1 time each)
+	+ October 17, 2023: 경관식(그린비아 장솔루션) for breakfast, lunch, and dinner (1 time each)
+	+ October 18, 2023: Unknown
+* Insurance Information: 00000000000 / No Name
+
+Note: The patient is a 77-year-old male in Room 312. The progress notes from October 14 to October 18 include vital signs and information about the patient's current medications. The patient's medical history and information for October 18 are unknown.

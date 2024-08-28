@@ -1,0 +1,17 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Date: April 4, 2024
+- Patient Information: Not provided
+
+Nurse Record:
+- 10:00 AM: Doctor's round
+- 16:00 PM: Room round, overall condition observed, bedrails fixed, patient stable in bed
+- 23:00 PM: Room round, bedrails checked
+
+Nursing Record:
+- 06:00 AM: Room round, patient slept well with no significant changes. Vital signs: BP: 136/67-82, RESP: 21, T: 36, SPO2: 93% on 2L/min oxygen via nasal prongs
+- 07:50 AM: Room round, 2L/min oxygen via nasal prongs and SPO2 between 92-95% checked, Foley catheter (16Fr) in place, perineal care performed, patient wearing diapers due to incontinence, hospital air mattress applied, air leak check, repositioning and back massage, bedrails up when patient is in bed, overall condition observed
+- 10:00 AM: Doctor's round
+- 16:00 PM: Room round, overall condition observed, bedrails fixed, patient stable in bed
+- 23:00 PM: Room round, bedrails checked

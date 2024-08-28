@@ -1,0 +1,52 @@
+Patient's Chart Summary:
+
+- Patient Name: (남 / 68세)
+- Resident Registration Number: 55
+- Treating Department: Unknown
+- Admission Date and Time: 2024년 01월 25일 11시 20분
+- Information Provider: 작성자 (서명)
+- Current Address: Unknown
+- Contact Information: Unknown
+- Diagnosis: 안쪽복사의 골절, 폐쇄성, 치매, 당뇨병
+- Admission Status:
+  - Admission Route: V외래 ○기타 단국대
+  - Admission Method: ○도보 ① 앉는차 ○눕는차 ○Wheelchair ○기타:
+  - Vital Signs:
+    - Blood Pressure: 136 / 76 mmHg
+    - Body Temperature: 36.0 °C
+    - Pulse: 72회/분
+    - Respiration: 18회/분
+    - Blood Sugar Level: 211 mg/dl
+    - Height: 171 cm
+    - Weight: 70 kg
+- Family History:
+  - ○무 Ⓙ유 (④당뇨 ④고혈압 ④뇌경색 ○심장질환 ○암 기타:
+- Socioeconomic Status:
+  - Occupation: 건축업
+  - Religion: 불교
+  - Growing Area: 홍성
+  - Education Level: 중퇴
+- Reason for Admission:
+  - 23.12/18 운전중 앞차랑 충돌후 단국대 내원함. 발의 쐐기뼈의 골절, 폐쇄성진단후
+  - 긴급수술로 24.1/10 관헐적 정복술 및 나사못, 금속강선미용한 내 고정술 시행한분으로
+  - 8주간 안정가료 요하는 환자로 보전적인 치료위해 금일 본원 내원함
+- Chief Complaint: Lt ankel pain
+- Onset Date: 15년전
+- Past Medical History:
+  - 뇌경색 (15년전, 8년전 재발), 뇌경색과 관련된 치매
+- Prior Hospitalization: ○무 유 : 뇌경색 (서울 복지
+- Surgical History: V무 ○유 :
+- Recent Medication History: 단국대 병원 14 일분 가져옴 (마리셉트엠,가브스정레이캡정,울트라산이일세미서방정,아스트
+- Allergy: 없음 ○있음 :
+- Physical Condition:
+  - Respiratory Issues: V 없음 ○있음 (○호흡곤란 O 청색등 ○기침 · 가래)
+  - Pain: V 없음 있음 (부위 : 정도 : 점 ○둔함 ○쑤심 ○퍼짐 ○예리함 ○찌르는듯함)
+  - Paralysis, Weakness: V 없음 ○있음 (○상지 하지 ○기타 :
+  - Apparent Deformity: V 없음 있음 ○보조기구 :
+  - Vision Impairment: V 없음 O 있음 (○안경 콘텍트렌즈 ○의안)
+  - Hearing Impairment: V 없음 O 있음 (○보청기
+  - Skin Condition: O 발진 ○물집 V 흉터 ○반점 ○욕창 발한 ○건조 ○불결함 ○소양감 ○부종
+- Consciousness and Emotional State:
+  - Orientation: 시간 ○없음 ④있음 의식상태 : ①명료 ○혼돈 반의식 ○무의식
+  - Place Orientation: 없음 있음 의사소등 : 윈만 곤란 불가능 ○기타 언어장애
+  - People ○없음 있음 정서상태 : V 안정 ○불안 ○슬픔 ○분노 ○우울

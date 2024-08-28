@@ -1,0 +1,26 @@
+Nurse Record Summary:
+- Date: 2024-01-25
+- Patient's condition:
+  - Slept well without significant changes during the night.
+  - Wakes up and knocks on the bed.
+  - Paralyzed on the left side.
+  - Using an L-tube (18Fr) and receiving enteral nutrition (400 kcal/day).
+  - Incontinent and wearing diapers.
+  - Continuously hits the bed rail with the right hand.
+  - On an air mattress with proper inflation.
+  - Received position changes and back massage.
+  - Educated about fall risks and advised to keep the rail up.
+  - Emotional support provided.
+  - Observed overall status.
+  - Repeated behavioral disorders when awake.
+- Vital signs:
+  - 10:00 AM: BP;140, Temp;36.7
+  - 19:00 PM: PP2;146
+- Medications:
+  - Fucidin ointment 10g/1 tube (non-covered) prescribed.
+- Activities:
+  - Room rounds completed.
+  - Physician round conducted.
+- General notes:
+  - Bed rail secured and patient stable.
+  - Fall prevention measures reinforced.

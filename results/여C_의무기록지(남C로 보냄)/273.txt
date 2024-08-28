@@ -1,0 +1,31 @@
+Nurse Record Summary:
+
+* Time: 06:00
+* Action: Nursing Record - Rounds in the room. Patient slept well with no significant changes during the night.
+* Author: Unknown
+
+* Time: 07:50
+* Action: Rounds in the room - Observes overall condition of the patient in a bedridden state. Patient is unable to control bowel and bladder movements and wears diapers. An air mattress is provided. The nurse repositions the patient and performs a back massage. The patient's sheets and clothing are smoothed out to prevent skin fold pressure, and the patient's skin is kept dry by ensuring air circulation. The bedrails are kept in the up position for emotional support. The patient is unresponsive and seems depressed or withdrawn.
+* Author: Unknown
+
+* Time: 10:00
+* Action: Vital Signs (V/S) - Blood Pressure (BP): 111/55, Pulse (P): 49, Respiration (RESP): 20, Temperature (T): 36.8°C. Nursing Record - On-call doctor rounds in.
+* Author: Unknown
+
+* Time: 16:00
+* Action: Rounds in the room - Observes overall condition of the patient. Bedrails are locked in place, and the patient is resting in bed.
+* Author: Unknown
+
+* Time: 23:00
+* Action: Rounds in the room - Confirms bedrails are in the up position.
+* Author: Unknown
+
+* Time: 2023-09-18 06:00
+* Action: Nursing Record - Rounds in the room. Patient slept well with no significant changes during the night.
+* Author: Unknown
+
+* Time: 07:50
+* Action: Rounds in the room - Observes overall condition of the patient in a bedridden state. Patient is unable to control bowel and bladder movements and wears diapers. An air mattress is provided. The nurse repositions the patient and performs a back massage.
+* Author: Unknown
+
+Please note that the information provided is a summary of the nurse's record and may not include all the details from the original document.

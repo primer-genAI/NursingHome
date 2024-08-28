@@ -1,0 +1,19 @@
+Nurse Record Summary:
+- Date: December 18, 2023
+- Patient's Condition: Bedridden with impaired control over bowel and bladder functions, wearing diapers.
+- Care Provided:
+  - Air mattress kept to prevent pressure sores.
+  - Positioning changes and back massage performed to promote comfort and prevent pressure sores.
+  - Sheets and clothing smoothed out to prevent skin folding and pressure.
+  - Ensured patient's skin was not damp by providing ventilation.
+  - Bedrails were raised for safety.
+  - Emotional support was provided, but the patient was observed to be lethargic, unresponsive, and had a low mood.
+- Vital Signs:
+  - 07:50: BP 124/59, HR 46, RESP 22, T 36.7°C
+  - 10:00: BP 119/57, HR 45, RESP 21, T 36.7°C
+- Nursing Actions:
+  - 16:00: Round conducted by the attending physician.
+  - 23:00: Room check confirmed bedrails were in place.
+  - 06:00: Night check showed no significant changes in the patient's condition.
+- Additional Notes:
+  - The patient appeared to be lethargic, unresponsive, and had a low mood.

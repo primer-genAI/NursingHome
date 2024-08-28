@@ -1,0 +1,28 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient's Condition:
+  - Waist-down paralysis (Waist-down paraplegia)
+  - Left-sided paralysis (Left hemiplegia)
+  - L-tube (18Fr) inserted for feeding
+  - Unable to control bowel and bladder movements, using diapers (Diapers have some feces attached)
+  - Repeatedly hits the bed rail with the right hand
+  - Using an air mattress
+  - Blood pressure: 110/66
+  - Pulse rate: 84
+  - Respiratory rate: 21
+  - Body temperature: 36.8°C
+  - Overall health observation
+  - Bed rest
+  - Fall prevention education
+  - Emotional support provided
+  - Continuous monitoring for changes
+- Medications:
+  - Enteral solution (400-400-400kcal/day) through L-tube
+- Date: January 5, 2024
+- Time:
+  - 06:00: Nursing round, no significant changes overnight
+  - 07:50: Nursing round, patient in a lying-down position, left-sided paralysis, L-tube in place, using enteral solution, incontinence, repetitive behavior, air mattress checked, overall health observed
+  - 10:00: Doctor's round
+  - 16:00: Nursing round, overall health observed, bed rail secured, bed rest maintained
+  - 23:00: Nursing round, bed rail confirmed to be up

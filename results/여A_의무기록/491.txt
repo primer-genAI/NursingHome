@@ -1,0 +1,26 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: 0092108472
+- Document Date: June 5, 2024
+- Department: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91
+- Vital Signs:
+  - 10:00 AM: BP - 98/64, P - 60, RESP - 20, T - 36.0°C
+  - 19:00 PM: BP - 110/ RESP - 20, T - 36.7°C
+  - 06:00 AM: Unknown
+  - 10:00 AM: BP - 112/57, P - 63
+- Nursing Notes:
+  - 10:00 AM: Doctor's rounds, Vital Signs
+  - 15:00 PM: Traditional Chinese Medicine treatment
+  - 16:00 PM: Room round, general condition observation
+  - 19:00 PM: Vital Signs, room round, bedrail check
+  - Overnight: No significant changes, slept well
+  - 07:50 AM: Room round, incontinence management, bed care, fall prevention education, emotional support, aggressive behavior observation
+- Emotional Support: The patient expressed thoughts of suicide and displayed aggressive behavior towards staff and fellow patients.
+- Room Environment: Air mattress, bed rail education, and fall prevention measures in place.
+
+참고:
+- 환자의 개인 정보를 보호하기 위해 환자 번호를 수정하였습니다.

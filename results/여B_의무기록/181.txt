@@ -1,0 +1,15 @@
+Nurse Information Sheet Summary:
+- Date: 2023-07-09
+- Patient's Vital Signs:
+  - 07:50: BP 100/65, HR 113, RR 18, Temp 36.0°C, SpO2 98%
+  - 10:00: BP 101/62, HR 103, RR 21, Temp 36.0°C
+  - 16:00: HR 125, RR 20, Temp 36.1°C
+  - 19:00: BP 111/70, HR 74, RR 20, Temp 35.8°C
+  - 23:00: HR 118, RR 20, Temp 36.1°C, SpO2 98%
+- Nursing Notes:
+  - Morning: Room round conducted, patient slept well overnight with no significant changes. L-tube (fr18) inserted due to diarrhea, currently on fasting. Indwelling catheter in place, perineal care performed. Bedridden state with no verbal or eye communication. O2 2L/min via nasal prong, SpO2 95-98%. Isolation for D CRE, gloves and gown worn during care, hand hygiene practiced, isolation precautions followed.
+  - 10:00: Attending physician's round completed.
+  - 16:00: Room round conducted, patient in bed rest condition with bedrails secured.
+  - 19:00: Room round conducted, bedrails in the up position.
+  - 23:00: Room round conducted, bedrails in the up position confirmed.
+- Author: Information not provided

@@ -1,0 +1,20 @@
+Patient's Chart Summary:
+- Page Info: Page 254 / 355
+- Patient: 0092108472
+- Gender: Female
+- Age: 91 years old
+- Room: 516
+- Nurse Record:
+  - Often accuses someone of stealing diapers and snacks, becomes angry, and curses.
+  - Attacks and speaks aggressively towards a bedridden patient next to her without reason.
+  - Vitals at 10:00: BP;107 BPL;73 P;64 RESP;20 T;36.2
+  - Acupuncture treatment at 15:00
+  - Room rounds at 16:00 with overall bedrail and bedside observations
+  - Room rounds at 23:00, ensuring the bedrail is up and #2024-03-08 insurance/guardian is informed
+  - Room rounds at 06:00, patient slept well with no significant changes
+  - Vitals at 10:00: BP;123 BPL;78 P;64
+
+### REMEMBER:
+- Always use a patient-friendly tone.
+- Follow the format of the example closely.
+- Ensure accuracy and clarity in every explanation.

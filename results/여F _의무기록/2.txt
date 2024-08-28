@@ -1,0 +1,21 @@
+Patient's Chart Summary:
+
+- ROS (Review of Systems):
+  - General: Conscious, well-oriented, no anemia, no jaundice.
+  - Cardiorespiratory: No dyspnea, no chest pain, no palpitations.
+  - Digestive: No indigestion, no abdominal pain, no nausea, no constipation, no dysuria.
+  - Back and Extremities: No low back pain, no hip pain, no nerve root syndrome (NRS).
+  - Other: None mentioned.
+
+- P/E (Physical Examination):
+  - Head and Neck: Eyes not anemic and not icteric.
+  - Lungs/Heart: Clear breath sounds with no rale, regular heart rhythm with no murmur.
+  - Abdomen: Soft and flat, no tenderness.
+  - Back and Extremities: No pitting edema, no sores.
+  - Other: None mentioned.
+
+- Plan (P/L):
+  - Isolation treatment is planned.
+  - Initial laboratory tests will be conducted upon admission.
+  - Medication and conservative treatment will be given.
+  - The attending physician will provide more details.

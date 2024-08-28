@@ -1,0 +1,26 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: June 25, 2023
+- Department: Unknown
+- Room: Unknown
+- Vital Signs:
+  - 07:50: BP: 98, P: 89, RESP: 21, T: 36.7
+  - 10:00: BP: 119, P: 89, RESP: 21, T: 36.7
+  - 12:00: PP2: 119
+  - 16:00: PP2: 98
+  - 17:00: PP2: 98
+  - 20:00: PP2: 186
+  - 23:00: PP2: 186
+  - 06:00 (next day): FBS: 115
+- Nursing Notes:
+  - 07:50: Room round, bedridden state, incontinent, air mattress, positioning, skin care, emotional support
+  - 10:00: Doctor's round
+  - 12:00: Unknown
+  - 16:00: Room round, stable condition, bedrail secure
+  - 17:00: Unknown
+  - 20:00: Unknown
+  - 23:00: Room round, bedrail secure
+  - 06:00 (next day): Room round, slept well

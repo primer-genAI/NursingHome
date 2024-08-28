@@ -1,0 +1,26 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: Unknown
+- Document Date: Unknown
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs:
+  - BP: 128/76
+  - Pulse: 81
+  - Respiratory Rate: 21
+  - Temperature: 36.6°C
+  - FBS: 107
+- Nursing Record:
+  - 07:50: Room round done. Night rounds done. Patient has paralysis on one side (right) and can control bowel and bladder movements. Informed about fall risks and advised to keep bedrails up when in bed. Provided emotional support and observed overall condition. Patient used a wheelchair for mobility. Patient has brief (less than 10 seconds) seizures involving the whole body, mostly on the left side, almost every day.
+  - 10:00: Doctor's rounds done.
+  - 14:00: Vital signs checked: BP 128/76, Pulse 81, Respiratory Rate 21, Temperature 36.6°C.
+  - 15:00-16:00: Oriental medicine treatment administered. Room rounds done. Observed overall condition. Bedrails were secured and patient was resting in bed.
+  - 23:00: Unknown
+  - 04:00-06:00: Room round done. Observed patient sleeping well with no significant changes during the night. Checked that bedrails were up.
+
+Please note that some information is missing or unknown, such as the patient's name, specific diagnoses, and current medications.

@@ -1,0 +1,44 @@
+Patient's Chart Summary:
+
+- Medical History: Unknown
+- Current Medications:
+  - Methylprednisolone 4mg daily
+  - Methocarbamol 500mg three times daily
+  - Tramadol 50mg three times daily
+  - Amiodarone 200mg daily
+  - Fluconazole 100mg daily
+  - Acetaminophen 650mg three times daily
+  - Lansoprazole 30mg daily
+  - Epoetin alfa 40,000 units once a week
+  - Enalapril maleate 10mg daily
+  - Furosemide 40mg daily
+  - Pravastatin sodium 20mg daily
+  - Ergocalciferol 50,000 IU once a week
+  - Calcium carbonate 600mg three times daily
+  - Sucralfate 1gm twice daily
+  - Dexamethasone 4mg daily
+  - Ibuprofen 600mg three times daily
+  - Dextrose 50% in water 500ml/day
+  - Insulin 40 units daily
+  - Regular Insulin 10 units daily
+  - Lantus Insulin 30 units daily
+  - Gatifloxacin 400mg daily
+  - Cefuroxime axetil 1.5gm twice daily
+  - Cefazolin sodium 1gm three times daily
+  - Metronidazole 500mg three times daily
+  - Vancomycin 1gm three times daily
+  - Polymyxin B sulfate and Neomycin sulfate and Dexamethasone sodium phosphate ophthalmic solution 0.05% and 0.5% and 1% as needed
+  - Carbapenem resistance (U8280^00)
+  - Vancomycin resistance (U830^00)
+  - Unspecified sepsis (A419^00)
+  - Unspecified pneumonia (J189^00)
+  - Deep vein thrombosis NOS (I802^01)
+  - Acute tubulointerstitial nephritis (N10^00)
+  - Unspecified hyperlipidemia (E785^00)
+  - Sequelae of cerebral infarction (I693^00)
+  - F009^00 (Dementia from Alzheimer's disease)
+  - Unspecified gastroenteritis and colitis (A099^00)
+  - Stage 4 pressure ulcer (L893^00)
+  - History of COVID-19 (U089^00)
+
+Please note that some diagnoses and medications may not be directly related to the patient's current condition, but they are listed in the chart summary for completeness.

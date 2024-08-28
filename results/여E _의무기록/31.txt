@@ -1,0 +1,19 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Unspecified
+- Date: April 10, 2024
+- Time: 16:00 - 23:00
+- Activities:
+  - Room round performed with observation of overall condition. Bedrail secured and patient bedridden.
+  - Night shift round performed. No significant changes observed.
+  - Morning round performed. Continued to sleep well through the night.
+  - L-tube (16Fr) in place and providing fibra 400-200-400 kcal nutrition. Patient incontinent and wearing diapers.
+  - Bed sores checked, and the air mattress was intact. Patient's position was changed, and a back massage was provided. Bedrail was raised for safety.
+  - On-call physician round performed.
+- Date: April 11, 2024
+- Time: 06:00
+- Activities:
+  - Morning round performed. No significant changes observed.
+
+Note: The patient's information, such as name, age, and other relevant details, is not provided in the given document.

@@ -1,0 +1,17 @@
+Nurse Information Sheet Summary:
+==================================
+
+* Page Info: Unknown
+* Document Type: Nurse Record
+* Patient: Unspecified
+* Date: April 30, 2024
+* Time:
+	+ 10:00: Vital Signs - BP: 109/65, P: 70, RESP: 20, T: 36.6
+	+ 16:00: Room round, stable condition, bedrail secured
+	+ 23:00: Bedrail check
+	+ 06:00: Good night's sleep, cough with phlegm, oral suction done
+	+ 07:50: Room round, bedridden, left hemiparesis, L-tube, enteral nutrition, incontinence, air mattress, bed rail education, repetitive behavior
+	+ 10:00: Vital Signs - BP: 121/65, P: 69, RESP: 19, T: 36.2, physician round, phlegm prescription (acetylcysteine)
+* Author: Unspecified
+
+This nurse record details the patient's condition throughout the day on April 30, 2024. The patient is bedridden and has a left hemiparesis, which means they have weakness on the left side of their body. They have an L-tube for feeding and are incontinent, requiring a diaper. The patient exhibits repetitive behavior, such as tapping the bed rail and banging the bed when awake. The nurse educates the patient about the bedrail for safety and provides emotional support. The patient's vital signs are monitored, and a physician round is conducted. The patient is also prescribed a medication called acetylcysteine to help with phlegm.

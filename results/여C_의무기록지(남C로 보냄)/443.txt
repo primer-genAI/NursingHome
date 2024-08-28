@@ -1,0 +1,27 @@
+Patient's Chart Summary:
+
+- Document Type: Nurse Record
+- Document Date: March 31, 2024
+- Department: Unknown
+- Patient: Unknown
+
+Vital Signs:
+- Blood pressure: 110/54
+- Heart rate: 58
+- Respiratory rate: 20
+- Temperature: 36.8°C
+
+Nursing Interventions:
+- Assisted with toileting and wearing a diaper due to incontinence.
+- Kept the patient on an air mattress and performed positioning changes and back massage.
+- Straightened sheets and clothing wrinkles, ensured no skin folds, and provided air circulation to prevent skin dampness.
+- Raised the bedrail for safety.
+- Provided emotional support; the patient was unresponsive or had a low mood.
+- Observed vital signs: BP;110 BPL;54 P;58
+- Performed bedside rounds and overall condition assessment.
+- Noted that the bedrail was fixed and the patient was bedridden.
+- Conducted night rounds and observed no significant changes.
+- Continued bedside rounds and assessed the patient's bedridden state, incontinence, and skin care.
+- Observed swelling on the right leg, knee, and above and below the knee.
+
+Please note that this summary is based on the provided information, which may be incomplete or lack specific details.

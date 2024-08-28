@@ -1,0 +1,13 @@
+Nurse Record:
+
+- Date: April 17, 2024
+  - 06:00: Room rounds completed. Patient slept well with no significant changes overnight. Vitals: BP: 121/62-85, RESP: 21, T: 37.3, SPO2: 92%. Self-medication: Novascan, Canavan, Nevistol each 1T PO, skipped.
+  - 07:50: Room rounds completed. Patient inhaling 2L/min oxygen via N-P, SPO2 at 92-95%. Foley catheter (16Fr) in place, perineal care performed. Patient unable to control bowel movements, wearing diapers. Hospital air mattress in use, checked for air loss, no leaks found. Patient in bedrest with bedrails up. Overall condition observed. Antibiotics administered for unspecified sepsis (started on 4/15, to continue until 4/28).
+  - 10:00: Attending physician rounds completed.
+  - 16:00: Room rounds completed. Overall condition observed. Bedrails secured. Patient in bedrest.
+  - 23:00: Room rounds completed. Bedrails up.
+- Date: April 18, 2024
+  - 06:00: Room rounds completed. Patient slept well with no significant changes overnight.
+  - 07:50: Room rounds completed.
+
+Please note that the text provided is in Korean, and the translation may not be 100% accurate.

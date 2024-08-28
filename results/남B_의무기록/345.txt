@@ -1,0 +1,25 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Unavailable
+- Document Date: Unknown
+- Department: Unavailable
+- Admission Date: Unknown
+- Room: Unavailable
+- Gender: Unavailable
+- Age: Unavailable
+- Vital Signs: Unavailable
+- Diagnoses: Unavailable
+- Medical History: Unavailable
+- Current Medications: Unavailable
+
+The nurse record includes the following information:
+
+- 06:00: The patient was asleep without any significant changes during the night.
+- 07:50: The patient is in a bedridden state with left hemiplegia. They have a cystostomy (Foley catheter 18Fr) and their urine output is good, but they cannot control their bowel movements and wear diapers. An air mattress is being used, and the nurse checked for any deflation. The patient's position was changed, and a back massage was given. The nurse also educated the patient on fall prevention and provided emotional support.
+- 10:00: The patient's vital signs were taken, and the doctor made their rounds.
+- 16:00: The nurse checked on the patient's overall condition and ensured the bedrail was secure.
+- 23:00: The nurse confirmed that the bedrail was up.
+
+Please note that the patient's personal information, diagnoses, medical history, and current medications are not available in this summary.

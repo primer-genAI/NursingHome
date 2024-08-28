@@ -1,0 +1,21 @@
+Nurse Record Summary:
+
+* Patient Name: 0092108472
+* Patient Number: / / 33
+* Gender: Female
+* Age: 91 years old
+* Room: 516
+
+Nursing Care:
+
+* Smoothed out sheets and clothing to prevent skin fold pressure and kept the area well-ventilated to avoid moisture.
+* Elevated bedrails as a fall precaution.
+* Observed the patient's overall condition and provided emotional support.
+* The patient expressed feelings of depression and helplessness due to her condition and inability to return home.
+* The patient exhibited aggressive behavior, directing insults and threats at staff and other patients.
+* Monitoring of vital signs:
+	+ 10:00 AM: Blood pressure 106/ BREATHS/MINUTES; Temperature: 36.9°C
+	+ 16:00 PM: Observed during acupuncture treatment
+	+ 23:00 PM: Checked bedrails
+* The patient slept well through the night with no significant changes observed.
+* 07:50 AM: Continued monitoring of the patient's condition, noting incontinence and the use of an air mattress. Educated the patient about bedrails and fall prevention.

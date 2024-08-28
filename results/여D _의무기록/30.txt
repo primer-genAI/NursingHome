@@ -1,0 +1,29 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Progress Notes
+- Patient Information:
+  - Gender: Female
+  - Age: 80
+  - Room: 316호
+- Dates:
+  - May 25, 2024
+  - May 26, 2024
+  - May 27, 2024
+  - May 28, 2024
+- Medical History:
+  - Delirium, unspecified (F059^00)
+- Treatment:
+  - May 25, 2024:
+    - 일반식(밥) (아침, 점심, 저녁)
+    - 기타관정 (글리세린관정, 생리식염수면장, 비스이스관장동)
+  - May 26, 2024:
+    - 일반식(밥) (아침, 점심, 저녁)
+  - May 27, 2024:
+    - 일반식(밥) (아침, 점심, 저녁)
+    - 소변검사 (U/A+MICROU/A 10종+Micro)
+  - May 28, 2024:
+    - 일반식(밥) (아침, 점심, 저녁)
+    - 소론도정5mg (프레드니솔론) (좌측 하지 통증)
+
+Please note that this summary is based on the provided medical document, which contains abbreviations and codes that may not be fully understood without additional context.

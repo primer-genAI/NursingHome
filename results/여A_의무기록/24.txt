@@ -1,0 +1,36 @@
+Patient's Chart Summary:
+
+* Document Type: Progress Notes
+* Patient Number: 0092108472
+* Document Dates: July 18 and 19, 2023
+* Department: Not specified
+* Room: 512호
+* Gender: Female
+* Age: 91세
+* Vital Signs:
+	+ July 18: BP: 89, RESP: 20, T: 36.1°C
+	+ July 19: BP: 102/71, P: 68, RESP: 20, T: 36.9°C
+* Diagnoses:
+	+ July 18:
+		- M1381^00: Specified arthritis, shoulder part
+		- M2556^00: Joint pain, lower leg
+	+ July 19:
+		- M1381^00: Specified arthritis, shoulder part
+		- M2556^00: Joint pain, lower leg
+* Medications:
+	+ July 18:
+		- IM injection of tramadol hydrochloride 1ml (D:1)
+		- Cough syrups (코푸시럽, 코대원포르테시럽) twice a day after lunch and dinner
+		- Antihistamine (페니라민정) twice a day after lunch and dinner
+	+ July 19: The same medications as July 18
+* Other Information:
+	+ July 18:
+		- Chest X-ray (Chest AP)
+		- Cough (+)
+		- Right chest wall tenderness
+		- No external wounds
+		- Bumped into a bed
+	+ July 19: Not specified
+	+ Diet: 일반식 (죽) for breakfast, lunch, and dinner on July 18
+
+Please note that some medical terms are not translated or explained in this summary.

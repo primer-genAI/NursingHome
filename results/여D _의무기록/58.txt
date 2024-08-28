@@ -1,0 +1,21 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: April 12, 2024
+- Department: Unknown
+- Room: Unknown
+- Patient: Unknown
+
+Nurse Record:
+
+- 16:00: Doctor's round, overall condition observed.
+- 23:00: Bedrail locked, patient stable. Bedside round, bedrail in place verified.
+- 06:00: Nursing Record: Bedside round, patient unable to sleep. Vital signs: BP: 164/81-85, RESP: 21, T: 36.8°C, SPO2: 96%.
+- 07:50: Bedside round, oxygen inhalation via N-P, SPO2 ranging from 92 to 95% checked. Foley catheter (16Fr) kept, perineal care performed. Patient wearing diapers due to incontinence. Hospital-provided air mattress applied, ensuring no deflation. Position changed and back massage performed. Bedrail raised when the patient is resting. Overall condition observed.
+- 10:00: Bedside round, overall condition observed.
+- 16:00: Bedside round, overall condition observed.
+- 23:00: Bedside round, bedrail in place verified.
+- 06:00: Nursing Record: Bedside round.
+
+Note: The patient's name, age, gender, and other relevant information are not provided in this document.

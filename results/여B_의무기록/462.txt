@@ -1,0 +1,30 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: April 23, 2024 (specific times mentioned)
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs:
+  - 17:10: BP;117, 19:00: BPL;59, P;111, RESP;20, T;36.4, SPO2;98
+  - 23:00: T;37.1, SPO2;97
+  - 07:50: BPL;57, P;100, RESP;21, T;36.5, SPO2;98
+  - 10:00: BP;98, BPL;57, P;100, RESP;21, T;36.5, SPO2;98
+- Medical History:
+  - Unknown
+- Current Medications:
+  - 훼로 정256mg (건조황산제일철) 2t #2 9일 연장복용
+  - 둘코락스좌약 2pill (for constipation)
+
+Nursing Record:
+
+- 06:00: Room round, patient slept well with no significant changes overnight.
+- 07:50: Room round, L-tube inserted for feeding with Ensolb 600-600-300-300kcal/D. Catheter care and perineal care provided. Patient has incontinence and wearing diapers. Checked bed ridden status, raised bed rails, and observed overall condition. Patient on O2 2L/min via nasal prong inhalation with SpO2 ranging from 94 to 99%. Documented Stage 4 pressure sore on the left buttock measuring 6 X 7 X 1cm.
+- 09:45: Constipation noted, patient has not had a bowel movement for 4 days. Dulcolax suppository inserted as per doctor's prescription.
+- 10:00: Vital signs recorded.
+- 10:00: Attending physician's round.
+- 11:10: Nursing note related to pressure sore (no specific details mentioned).

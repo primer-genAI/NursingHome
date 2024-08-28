@@ -1,0 +1,16 @@
+Nurse Record Summary:
+
+* Date: December 29, 2023
+* Patient being isolated due to contact with a disease (D CR)
+* Nurses follow isolation protocols, including wearing gloves and gowns, performing hand hygiene, and adhering to isolation guidelines
+* Vital signs:
+	+ 10:00 AM: BP 110/72, Pulse 78, Respirations 20, Temp 36.6°C
+	+ 10:00 AM: BP 105/70, Pulse 80, Respirations 20, Temp 37.9°C
+* Physician rounds and room checks occur at 16:00 and 23:00
+* Patient is bedridden, with bedrails in place for safety
+* L-tube (size 18) in place for feeding, currently receiving 200kcal * 4 times a day
+* Patient's bowel and bladder function are not controlled, and diapers are being used
+* Patient is on an air mattress, which is checked for deflation
+* Patient is unresponsive, unable to communicate verbally or through eye contact
+
+Please note that the summary is based on the provided text, which may contain errors or incomplete information. Always refer to the original document for the most accurate and up-to-date information.

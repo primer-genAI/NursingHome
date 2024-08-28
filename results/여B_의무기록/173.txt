@@ -1,0 +1,25 @@
+Nurse Record:
+
+* Record: 07:50
+	+ Patient slept well without any significant changes during the night.
+	+ The patient is bedridden and unable to communicate verbally or non-verbally.
+	+ An L-tube (fr18) is inserted for feeding, and the patient is receiving fiber 400-200-400kcal/D.
+	+ The patient is incontinent and wearing diapers.
+	+ The patient is on an air mattress, and the nurse checked to ensure the air was not leaking.
+	+ The patient's bedrail was raised to prevent falls.
+	+ The patient's overall condition was observed, and oxygen was provided at 2L/min via nasal prong with an SpO2 of 95-98%.
+	+ The patient is in isolation due to D CRE, and precautions were followed during nursing care.
+	+ Gloves and a gown were worn, and hand hygiene was practiced before and after care.
+* 09:01
+	+ The patient's ADL (Activities of Daily Living) status:
+		- Dressing: Completely dependent; the patient cannot dress themselves due to severe weakness and cognitive decline.
+		- Bathing: Completely dependent; the patient cannot bathe themselves and requires full assistance.
+		- Toileting: Completely dependent; the patient cannot use the bathroom independently and requires assistance with positioning and cleaning.
+		- Transferring: Completely dependent; the patient cannot transfer from one position to another without assistance, and two staff members are needed to move the patient.
+* 10:00
+	+ Vital signs:
+		- Blood pressure: 123/84 mmHg
+		- Pulse: 96 beats per minute
+		- Respiratory rate: 22 breaths per minute
+		- Temperature: 36.3°C (97.3°F)
+		- Weight: 65 kg (143 lbs)

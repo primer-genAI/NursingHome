@@ -1,0 +1,15 @@
+Nurse Record Summary:
+
+* Patient: 0092108480, Room 36, 5th Floor, 87-year-old female
+* Date: August 21, 2023
+* Nursing activities:
+	+ Morning rounds: The patient slept well overnight with no significant changes.
+	+ Bedside care: Observed the patient's general condition, kept air mattress, repositioned and massaged the back, ensured proper bedding and ventilation, raised the bedrails, and provided emotional support.
+	+ Physician's round: The attending physician visited the patient.
+	+ Acupuncture treatment: The patient received an acupuncture treatment.
+	+ Evening rounds: The patient remained in bed, with bedrails in place, and was stable.
+* Date: August 22, 2023
+* Vital signs:
+	+ Fasting blood sugar (FBS): 91 mg/dL
+* Nursing activities:
+	+ Morning rounds: The patient's vital signs were checked, and the nursing record was updated.

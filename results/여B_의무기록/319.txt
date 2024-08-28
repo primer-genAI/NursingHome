@@ -1,0 +1,26 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: 0093109779
+- Document Date: Unknown
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 505
+- Gender: Female
+- Age: 77 years old
+
+Vital Signs:
+- Blood pressure: 99/64
+- Heart rate: 81
+- Respiratory rate: 20
+- Temperature: 36.2°C
+
+Nursing Record:
+- 06:00: Nursing staff checked the patient's room. The patient was sleeping well with no changes.
+- 07:50: Nursing staff performed rounds and observed the patient. The patient is bedridden and cannot communicate verbally or through eye contact. The patient has an L-tube (fr18) for feeding with current regimen of 200kcal * 4 times a day. A Foley catheter is in place, and perineal care is provided. The patient is on an air mattress and requires overall care.
+- 10:00: The on-call physician conducted rounds.
+- 16:00: Nursing staff checked the patient's room and observed the overall condition. The patient is bedridden and stable.
+- 19:00: Temperature: 36.4°C
+- 23:00: Nursing staff performed rounds and found the patient's bed rail in the raised position.
+- 2023-11-27: Insurance/guardian: Unknown
+- 06:00: Nursing staff checked the patient's room. The patient was sleeping well with no changes during the night.

@@ -1,0 +1,36 @@
+Nurse Record Summary:
+
+- Date and Time: October 2, 2023
+- Patient's Condition:
+  - Bedridden state observed at 09:01
+  - Unable to control bowel and bladder, wearing diapers
+  - Air mattress provided
+  - Regular position changes and back massage performed by the hospital staff
+  - Skin care ensured to prevent pressure sores and maintain dryness
+  - Emotional support provided, but the patient is unresponsive and quiet
+
+ADL Assistance:
+
+- The patient requires assistance with daily activities due to cognitive impairment and weakness:
+  - Dressing: Significant assistance needed to remove and put on clothes, help with buttons and fasteners
+  - Bathing: Total assistance required due to weakness and inability to bathe alone
+  - Toileting: Total assistance needed for positioning and changing diapers
+  - Transferring: Total assistance required for movement between bed, wheelchair, and toilet
+
+Vital Signs:
+
+- Blood pressure: 98/62
+- Pulse: 52
+- Respiration: 20
+- Temperature: 36.5°C
+- Weight: 73 kg
+
+Physical Examination:
+
+- The patient was observed during ward rounds at 10:00 and 16:00.
+- The patient is in a stable condition and is resting in bed.
+- The bedrail is secured.
+
+Night Check:
+
+- The patient was checked at 23:00, and the bedrail was found to be in place.

@@ -1,0 +1,22 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: June 14, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: BP 136/75, P 55, RESP 19, T 36.3
+- Medical History: Lt hemiplegia, cystostomy (Foley catheter 18Fr), urine control possible but not stool control, wearing diapers, air mattress in place, no deflation, position change and back massage provided, fall risk education, emotional support
+- Current Medications: Unknown
+
+Notes:
+- The nurse conducted room rounds and observed the patient's overall condition.
+- The bed rail was secured, and the patient was resting in bed.
+- The nurse checked the air mattress and ensured it was not deflated.
+- Position change and back massage were provided to the patient.
+- The nurse educated the patient about fall risks and provided emotional support.
+- The patient's vital signs were recorded: blood pressure (BP) 136/75, pulse (P) 55, respiratory rate (RES) 19, and temperature (T) 36.3.
+- The attending physician conducted their rounds.

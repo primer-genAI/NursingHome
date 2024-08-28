@@ -1,0 +1,28 @@
+Page Info: Unknown
+Document Type: Nurse's Record
+Patient Number: 0092108472
+Document Date: September 25, 2023
+Department: Unknown
+Room: 516
+Gender: Female
+Age: 91 years old
+
+Nursing Record:
+
+* Educated the patient about fall risks.
+* Observed the patient's overall condition.
+* Provided emotional support as the patient expressed a desire to die and sadness about not being able to go home.
+* The patient has displayed aggressive behavior, including shouting and accusing others of stealing.
+* Regularly checked the patient's bedrails to ensure safety.
+* Vital Signs:
+	+ Blood pressure: 122/67
+	+ Pulse: 54
+	+ Respiratory rate: 20
+	+ Temperature: 36.2°C
+* The patient was observed during the night shift and slept well with no significant changes.
+* The patient is incontinent and wears diapers. The patient is on an air mattress to prevent bedsores.
+* The nurse ensured the patient's skin was not pinched by bedsheets or clothes, kept the area dry, and raised the bedrails when the patient was in bed.
+* The patient expressed a desire to die and was sad about not being able to go home.
+* The patient showed aggressive behavior, including shouting and accusing others of stealing.
+
+Note: The document does not contain information about the patient's diagnoses, medical history, or current medications.

@@ -1,0 +1,18 @@
+Nursing Record Summary:
+======================
+
+Patient: 0092108472, Female, 91 years old, Room 516
+
+Date: June 10, 2024
+
+Nurse Recording:
+- 07:50 AM: Room round, patient wearing hearing aids, using air mattress, bedsheets and clothing wrinkles smoothed out, air circulation ensured, bedrails raised for stability, fall risk education, emotional support provided, patient expressed suicidal thoughts, aggressive behavior towards staff and other patients.
+- 10:00 AM: Vital signs: BP - 98, RESP - 19, T - 36.2°C, on-call physician round.
+- 16:00 PM: Room round, general condition observed, bedrails secured, patient stable in bed.
+- 23:00 PM: Room round, bedrails checked and secured.
+
+Nursing Record:
+- June 11, 2024, 06:00 AM: Room round, patient slept well with no significant changes overnight.
+- 07:50 AM: Room round, patient using diapers due to incontinence, air mattress in use, bedsheets and clothing wrinkles smoothed out, patient's skin protected from pressure, air circulation ensured, bedrails raised for stability, fall risk education, general condition observed.
+
+Note: The summary is based on the provided text and may not include all the details from the original document.

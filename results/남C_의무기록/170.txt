@@ -1,0 +1,21 @@
+Nurse Record Summary:
+
+- Patient: 0091700991
+- Date: August 20-21, 2023
+- Patient Information:
+  - Age: 65
+  - Gender: Male
+  - Room: 203
+
+Nurse Observations and Actions:
+
+- August 20:
+  - 16:00: Patient in bed, bedrail down, stable condition.
+  - 23:00: Nurse performed room rounds, checked that bedrail was up.
+- August 21:
+  - 06:00: Nurse performed room rounds, patient slept well with no significant changes.
+  - 10:00: Nurse performed room rounds, patient has paralysis (right side) and can control bladder and bowel functions. Nurse educated patient about fall risks, raised bedrail during bed rest, provided emotional support, observed overall condition, and used a wheelchair for mobility. Patient experienced brief (10 seconds) whole-body shaking in the left limbs almost every day. Vital signs: BP: 123/77, P: 80, RESP: 20, T: 36.5.
+  - 16:00: Nurse performed room rounds, observed stable condition, bedrail fixed, and patient resting in bed.
+  - 23:00: Nurse performed room rounds, checked that bedrail was up.
+
+Please note that the provided information is a summary of the nurse's record and does not include any medical diagnosis or specific health conditions.

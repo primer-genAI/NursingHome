@@ -1,0 +1,31 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: 0091700991
+- Room: 203
+- Gender: Male
+- Age: 58 years old
+- Vital Signs: Unknown
+
+Diagnoses:
+
+- Unspecified
+
+Medical History:
+
+- Unspecified
+
+Current Medications:
+
+- Cefaclor Capsule 250mg (Cefaclor Hydrate) 3T # 3, Anispen 8 Hour ER Tablet (Acetaminophen) 3T # 3 PO * 7d's
+
+Nursing Record:
+
+- 6:00 AM: The patient slept well with no significant changes during the night.
+- 7:50 AM: The nurse performed a room round. The patient has hemiplegia (+) and can control large and small bowel movements. The nurse educated the patient about the risk of falling and advised him to keep the railing up while he is in bed. The patient received emotional care, and his general condition was observed. The patient used a wheelchair for mobility. The patient experienced brief whole body tremors on one or both extremities for less than 10 seconds, which then stopped. The patient received education on fall prevention.
+- 10:00 AM: The attending physician made rounds. The patient complained of a sore gum and requested pain medication. The physician checked the patient's condition during morning rounds and prescribed Cefaclor Capsule 250mg (Cefaclor Hydrate) 3T # 3, Anispen 8 Hour ER Tablet (Acetaminophen) 3T # 3 PO * 7d's. The nurse observed the patient's condition.
+- 15:00 PM: Traditional Korean medicine treatment was performed.
+- 16:00 PM: Unspecified
+
+Please note that some information is missing or unspecified in the provided document.

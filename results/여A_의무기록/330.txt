@@ -1,0 +1,19 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse's Record
+- Patient Number: 0092108472
+- Patient Details: Female, 91 years old
+- Room: 516
+- Date: December 8, 2023
+
+Nurse's Record:
+
+- 6:00 AM: The patient was observed during bedside rounds. She slept well through the night with no significant changes.
+- 7:50 AM: No specific events mentioned.
+- 10:00 AM: Vital signs: BP 132/78, Pulse 59, Respiration 18, Temperature 36.1°C. Physician rounds were conducted.
+- 1:32 PM: The patient complained of itching all over her body. Her upper body had multiple skin rashes. The nurse notified the attending physician and administered 2ml of Penicillamine maleate injection (1A IM stat) for observation.
+- 3:00 PM: The nurse ordered Penicillamine maleate injection (PRN) 2ml 1A IM for the next 7 days (from December 8th to December 14th) to treat the itching.
+- 4:00 PM: The nurse conducted bedside rounds and observed the patient's overall condition. The bedrail was fixed in place.
+
+No other specific events or observations were mentioned in the document.

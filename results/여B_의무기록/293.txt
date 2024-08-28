@@ -1,0 +1,31 @@
+Nurse Information Record Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: October 30, 2023 (specific times noted)
+- Department: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs:
+  - BP: 107/65
+  - P: 77
+  - RESP: 20
+  - T: 36.4°C, 36.9°C
+- Medical Interventions:
+  - Room round performed at various times throughout the day.
+  - Bed rail checked and secured.
+  - Overall condition observed.
+  - L-tube (fr18) with current feeding regimen of 200kcal x4 times.
+  - Indwelling catheter in place, perineal care provided.
+  - Diaper worn due to incontinence.
+  - Bedridden patient with air mattress checked for deflation.
+  - Patient unable to communicate verbally or nonverbally.
+  - Isolation precautions followed due to D CRE.
+  - Gloves and gown worn during care.
+  - Hand hygiene performed before and after care.
+  - Physician round conducted at 10:00.
+  - Full body bath performed with the help of a caregiver at 10:50.
+
+Please note that the missing information such as patient number, department, room, gender, age, and specific diagnoses have not been provided in the given document.

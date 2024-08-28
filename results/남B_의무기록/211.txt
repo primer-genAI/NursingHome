@@ -1,0 +1,23 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: November 8, 2023
+- Room: Unknown
+- Diagnoses:
+  - Bed ridden state
+  - Left hemiplegia
+  - Cystostomy (Foley catheter 18Fr)
+  - Poor bowel control
+- Medical History: Unknown
+- Current Medications: Unknown
+- Nursing Care:
+  - Room rounding
+  - Observation of overall condition
+  - Stable vital signs
+  - Assessment of air mattress
+  - Positioning and back massage
+  - Fall prevention education
+  - Emotional support
+
+Please note that there is missing information in this document, including the patient's gender, age, and specific diagnoses.

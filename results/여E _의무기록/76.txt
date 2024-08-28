@@ -1,0 +1,30 @@
+Nurse Record Summary:
+
+- Date: June 19, 2024
+- Time: 10:00 - 16:00
+  - Patient is bedridden and unable to control their bowel movements, so a diaper is used.
+  - The patient is on an air mattress in the room, and the nurse checks if the air is properly inflated.
+  - The patient's position is changed every two hours, and a back massage is provided.
+  - The bed rail is raised when the patient is in the bed.
+  - The attending physician visits the patient.
+  - The nurse checks the patient's overall condition.
+  - The bed rail is secured.
+  - The patient is resting in bed.
+- Time: 23:00
+  - The nurse conducts a room round and ensures the bed rail is up.
+- Date: June 20, 2024
+- Time: 06:00
+  - The nurse conducts a room round and observes that the patient slept well without any significant changes.
+- Time: 07:50 - 10:00
+  - The nurse conducts a room round and provides the patient with a tube feeding (nasogastric tube).
+  - The patient is bedridden and unable to control their bowel movements, so a diaper is used.
+  - The patient is on an air mattress in the room, and the nurse checks if the air is properly inflated.
+  - The patient's position is changed every two hours, and a back massage is provided.
+  - The bed rail is raised when the patient is in the bed.
+  - The attending physician visits the patient.
+- Time: 16:00
+  - The nurse conducts a room round and checks the patient's overall condition.
+  - The bed rail is secured.
+  - The patient is resting in bed.
+- Time: 23:00
+  - The nurse conducts a room round and ensures the bed rail is up.

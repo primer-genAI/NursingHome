@@ -1,0 +1,22 @@
+Nurse Record Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient's Information: Not provided in the given document
+- Vital Signs:
+  - 15:00: BP 117/71, Pulse 85, Resp 20, Temp 36.5°C
+  - 16:00: Not provided
+  - 23:00: Not provided
+  - 06:00 (26/01/2024): BP 106/69, Pulse 91, Resp 20, Temp 36.0°C
+
+- Nursing Care:
+  - 16:00: Han byeongchi performed and room rounds. General condition observed. Bed rail fixed. Patient in bed rest.
+  - 23:00: Not provided
+  - 06:00 (26/01/2024): Room rounds. Bed rail up. Nursing Record: Room specific.
+  - 07:50: Room rounds. Slept well throughout the night. No communication possible through speech or eyes. L-tube inserted with current feeding of 200kcal * 4 times per day. Incontinent of bowel and bladder, wearing diapers. Hospital's air mattress in use. Checked for deflation, performed body repositioning, and back massage. Bedridden status with bed rail up. General condition observed.
+  - 09:20: U/A abnormal, WBC 10-19. Cifloxacin 250mg 4T#2 * 7 days prescribed by the attending physician (26/01/2024 - 01/02/2024). Patient's condition observed.
+  - 10:00: Not provided
+  - 10:50: Nursing Record: Attending physician's rounds. Full body bath performed with caregiver assistance.
+  - 15:00: Not provided
+
+Note: The patient's information, such as name, medical record number, and diagnosis, is not provided in the given document.

@@ -1,0 +1,20 @@
+Nurse Record Summary:
+- Date and Time: June 6, 2024
+- Room round performed to check the patient's condition.
+- Vital signs:
+  - 06:00: BP: 100/66, Pulse: 87, Respiration: 20, Temperature: 36.8°C, SpO2: 95%
+  - 10:00: BP: 104/55, Pulse: 88, Respiration: 21, Temperature: 36.8°C, SpO2: 95%
+  - 14:00: BP: 100/66, Pulse: 88, Respiration: 20, Temperature: 37.0°C, SpO2: 95%
+  - 16:00: BP: 100/66, Pulse: 88, Respiration: 20, Temperature: 37.0°C, SpO2: 95%
+- Nursing actions:
+  - Nasogastric tube inserted for feeding with Ensolv 600-600-300-300kcal/D
+  - Urinary catheter (20Fr) maintained and perineal care provided
+  - Air mattress checked for deflation, repositioning, and back massage performed
+  - General condition observed
+  - Rt. PICC line checked for redness, swelling, or drainage
+  - Antibiotic treatment ongoing for unspecified sepsis (from May 14 to June 8)
+  - Pressure sore on the left buttock (Grade 4, 10 x 8 x 1 cm) observed
+  - Pressure sore dressing changed, air mattress applied, and repositioning performed
+  - Pressure sore development area skin condition monitored
+  - On-call doctor's round performed
+  - Vital signs and overall condition observed

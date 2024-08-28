@@ -1,0 +1,25 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: 0092108472
+- Date: December 29, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91
+
+Vital Signs:
+
+- 10:00 AM: BP 98/ RESP 20/ T 36.5
+
+Nursing Care:
+
+- The patient's sheets and clothing were smoothed to prevent skin fold pressure and to ensure the patient's skin was kept dry by allowing ventilation. The bedrails were raised to prevent falls. The patient's overall condition was observed, and emotional support was provided. The patient expressed feelings of depression and frustration about not being able to go home. The patient sometimes accused staff and other patients of stealing or taking things, and exhibited aggressive behavior towards others.
+- At 10:00 AM, the patient's vital signs were recorded.
+- A consultation with the attending physician was conducted at 15:00 PM.
+- The patient was observed during bedside rounds at 16:00 PM, and the bedrails were found to be secure.
+- At 23:00 PM, the patient was observed, and the bedrails were found to be in the raised position.
+- At 06:00 AM, the patient was observed during bedside rounds, and it was noted that the patient slept well through the night with no significant changes in condition.
+- At 07:50 AM, the patient was observed and found to be incontinent, wearing a diaper, and using an air mattress. The patient's sheets and clothing were smoothed to prevent skin fold pressure and to ensure the patient's skin was kept dry by allowing ventilation. The patient's overall condition was observed, and education was provided regarding fall prevention.

@@ -1,0 +1,18 @@
+Patient's Chart Summary:
+- Document Type: Nurse Record
+- Diagnoses: Not specified in the provided document
+- Medical History: Not specified in the provided document
+- Current Medications: Not specified in the provided document
+- Vital Signs: Not specified in the provided document
+
+Nurse Record Summary:
+- Overall condition observed, patient was in bed and stable.
+- Room rounds conducted at 23:00, confirmed bedrails were up.
+- Room rounds conducted at 06:00, patient slept well with no significant changes during the night.
+- Room rounds conducted at 07:50, patient's bed state was maintained, and overall condition observed. Patient was in isolation (contact isolation). Isolation precautions were followed.
+- Doctor's rounds conducted at 10:00. Vital signs were taken: BP;117 BPL;73 P;87 RESP;20 T;36.5
+- Full body bath was performed with the help of a caregiver at 10:50.
+- Room rounds conducted at 23:00, confirmed bedrails were up.
+- Date: September 26, 2023
+- Insurance/Guardian: Not specified in the provided document
+- Author: Not specified in the provided document

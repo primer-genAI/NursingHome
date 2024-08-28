@@ -1,0 +1,25 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: August 10, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: BP 134/78, Pulse 66, Respiration 20, Temp 36.5
+- Medical History: Unknown
+- Current Medications: Atorvastatin, pantoprazole, clopidogrel discontinued, aspirin, famotidine, alprazolam
+
+Nurse Record:
+
+- 10:00am: Doctor's round
+- 10:00am: Vital signs: BP 134/78, Pulse 66, Respiration 20, Temp 36.5
+- 15:00pm: Traditional Chinese medicine treatment
+- 15:07pm: PO changed starting from the next day (atorvastatin, pantoprazole, clopidogrel discontinued, aspirin, famotidine, alprazolam)
+- 16:00pm: Room round, patient is in bed, bed rails are fixed, patient is resting in bed
+- 23:00pm: Room round, bed rails are up
+- 06:00am: Room round, patient slept well during the night with no significant changes
+- 07:50am: Room round, patient is bedridden, unable to control bowel and bladder movements, wearing diapers, air mattress is provided, patient's skin is checked for folds and the patient is kept cool by opening the window

@@ -1,0 +1,20 @@
+Patient's Chart Summary:
+
+- Document Date: May 14, 2024, 6:00 AM
+- Department: Nursing
+- Patient Status: Bedridden with right-side weakness (Rt hemiplegia)
+- Medical Equipment: L-tube (16Fr) in place for feeding
+- Diet: Nutricia Fiber 400-400-400kcal/day
+- Incontinence: Diapers worn due to difficulty controlling bowel and bladder
+- Air Mattress: In use to prevent pressure sores (본원)
+- Pain Management:
+  - 12:00 PM: Patient complained of left lower leg pain (NRS 4점)
+  - Tramadol hydrochloride injection (1ml, 1A IM) administered after reporting to the attending physician
+  - 13:00 PM: Pain reduced (NRS 2점)
+- Nursing Care:
+  - 07:50 AM: Bedside round, air mattress, and back massage provided
+  - 16:00 PM: Bedside round, ensured bedrail security, and observed overall patient condition
+  - 16:30 PM: Acupuncture treatment
+  - 23:00 PM: Bedside round, confirmed bedrail position
+- Overnight: Patient slept well with no significant changes
+- 07:50 AM: Bedside round, observed patient's condition and provided care as needed.

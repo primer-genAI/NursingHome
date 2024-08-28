@@ -1,0 +1,15 @@
+Nurse Record Summary:
+
+- Date: 2024-05-08
+- Time: 06:00
+  - Nursing Record: The nurse checked the patient's room.
+- Time: 07:50
+  - The nurse checked the patient's room again. The patient couldn't control their bowel movements and was wearing diapers. The nurse checked the hospital's air mattress and made sure the air didn't deflate. The patient has trouble moving due to a left side paralysis and cannot walk. The nurse helped the patient change positions and gave them a back massage. The nurse also taught the patient about fall risks and made sure the bedrails were up for safety. The nurse checked on the patient's overall condition.
+- Time: 10:00
+  - The doctor visited the patient.
+- Time: 16:00
+  - The nurse checked the patient's room again and observed their condition.
+- Time: 23:00
+  - The nurse checked the patient's room one last time and made sure the bedrails were up for safety.
+
+Please note that the summary is based on the given information, which may be incomplete or unclear.

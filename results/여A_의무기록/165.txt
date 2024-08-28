@@ -1,0 +1,24 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nursing Recor
+- Patient Number: 0092108472
+- Document Date: June 8, 2023
+- Department: Unknown
+- Room: 512
+- Gender: Female
+- Age: 91 (current age: 91)
+- Vital Signs: BP 105/65, P: 56, RESP: 20, T: 37.0 (10:00), BP 97/64, P: 56, RESP: 20, T: 36.5 (10:00)
+- Medical History: Unknown
+- Current Medications: Unknown
+- Nursing Record:
+  - 10:00: Vital signs taken, round with attending physician
+  - 15:00: Acupuncture treatment administered
+  - 16:00: Room round, patient's condition observed
+  - Overall, bedrails are fixed. Patient is bed-bound and stable. Bedrails are raised when patient is not in bed. Fall prevention measures are in place. Patient's overall condition is observed. Emotional support is provided. Patient expresses feelings of depression and suicidal thoughts due to the inability to go home. Patient may occasionally verbally abuse staff and other patients, accusing them of stealing personal items.
+  - 23:00: Room round, bedrail check
+  - 06:00: Room round, patient slept well with no significant changes overnight
+  - 07:50: Room round
+  - Patient is incontinent and wears diapers. Air mattress is provided. Bedsheets and clothing are kept wrinkle-free and dry to prevent skin breakdown. Bedrails are raised when patient is not in bed. Fall prevention measures are in place. Patient's overall condition is observed. Emotional support is provided. Patient expresses feelings of depression and suicidal thoughts due to the inability to go home. Patient may occasionally verbally abuse staff and other patients, accusing them of stealing personal items.
+  - 10:00: Vital signs taken, round with attending physician
+  - 15:00: Room round, patient's condition observed
+  - 16:00: Room round, patient's condition observed

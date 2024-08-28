@@ -1,0 +1,15 @@
+Nurse Record Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient's Condition: The patient is bedridden and has left hemiplegia. They have a Foley catheter (18Fr) in place, and while they can control their urine, they cannot control their bowel movements and wear a diaper.
+- Medical Devices: The patient is using an air mattress at the hospital.
+- Nursing Care: The nurse checked if the air mattress had deflated, changed the patient's position, and performed a back massage. They also educated the patient about fall risks and provided emotional support.
+- Vital Signs:
+  - 10:00 AM: BP 125/74, Pulse 52, Respiratory Rate 20, Temperature 36.2°C
+  - 10:00 AM (16:00 PM): BP 115/65, Pulse 53, Respiratory Rate 20, Temperature 36.0°C
+- Medical Staff: The attending physician made rounds.
+- Room Security: The bedrail was fixed, and the patient was stable throughout the night.
+- Date: May 30, 2024
+- Insurance/Guardian: The insurance/guardian made their rounds.
+- Morning Status: The patient slept well through the night with no significant changes.
+- Nursing Record: The nurse checked the patient's condition, and the Foley catheter and air mattress were functioning properly. They also changed the patient's position and provided emotional support.

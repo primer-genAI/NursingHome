@@ -1,0 +1,31 @@
+Progress Notes Summary:
+- Page Info: Unknown
+- Document Type: Progress Notes
+- Patient Information:
+  - July 20, 2023:
+    - Vital Signs:
+      - 6:00 AM: FBS;107
+      - 10:00 AM: BP;97 BPL;54 P;68 RESP;20 T;36.8
+      - 12:00 PM: PP2;130
+      - 5:00 PM: PP2;131
+      - 8:00 PM: PP2;207
+    - Diagnosis: F001^00 Dementia from Alzheimer's disease (G30.1↑)
+    - Treatment:
+      - Acupuncture (2 points or more) at 3:42 PM (Huantiao and Zusanli points)
+      - Investigation acupuncture (Samian and Xiyan points) at 3:42 PM
+      - Doctor's signature
+  - July 21, 2023:
+    - Vital Signs:
+      - 6:00 AM: FBS;112
+      - 10:00 AM: BP;113 BPL;57 P;65 RESP;20 T;36.8
+      - 8:00 PM: PP2;253
+    - Diagnosis: F001^00 Dementia from Alzheimer's disease (G30.1↑)
+    - Treatment:
+      - Acupuncture (2 points or more) at 3:42 PM (Huantiao and Zusanli points)
+      - Investigation acupuncture (Samian and Xiyan points) at 3:42 PM
+      - Doctor's signature
+    - Symptom: Constipation (+) - added Dulcolax suppository
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Note: The provided document does not have specific patient information such as patient number, department, room, gender, age, and other vital signs.

@@ -1,0 +1,23 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information:
+  - Bed ridden state with left hemiplegia (weakness on the left side of the body)
+  - Cystostomy (Foley catheter 18Fr) in place for urine drainage
+  - Good urine output but unable to control bowel movements, wearing diapers
+  - Using an air mattress to prevent pressure sores
+- Actions Taken:
+  - Bedside rounds conducted
+  - Vital signs checked:
+    - Blood pressure: 90/51, 96/57, 70/46
+    - Pulse: 56, 48
+    - Respiratory rate: 20, 19
+    - Temperature: 36.4°C, 36.1°C
+  - Bathing assistance provided by a caregiver
+  - Chest physiotherapy performed
+  - Checked for pressure sores and adjusted air mattress
+  - Provided emotional support
+- Medications:
+  - Unknown
+
+Note: The summary provided is based on the given information and may not include all relevant details.

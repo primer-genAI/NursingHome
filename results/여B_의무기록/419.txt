@@ -1,0 +1,19 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Unknown
+- Date: March 18, 2024
+- Vital Signs:
+  - 11:10 AM: BP 101, BPL 63, P 104, RESP 18, T 36.5°C, SPO2 95
+  - 14:00 PM: BP 113, BPL 68, P 117, RESP 20, T 36.2°C, SPO2 96
+  - 19:00 PM: T 36.5°C, SPO2 92
+  - 23:00 PM: T 36.5°C, SPO2 92
+  - 06:00 AM: BP 98, BPL 71, P 102, RESP 19, T 36.4°C, SPO2 94
+- Nursing Record:
+  - 11:10 AM: Pressure sore on the left buttock (stage 2) dressed, air mattress applied, repositioned, and back massage performed. Pressure sore status observed.
+  - 14:00 PM: Room round, general condition observed, bedrail locked, bedridden.
+  - 19:00 PM: Room round, bedrail up.
+  - 23:00 PM: Room round, bedrail up.
+  - 06:00 AM: Room round, slept well with no significant changes overnight.
+  - 07:50 AM: Incontinence and perineal care performed, unable to control, wearing diapers, air mattress in place, checked for deflation, back massage performed, bedridden with bedrail up, observed.
+  - L-tube inserted, providing enteral nutrition at 200-200-200-200kcal/D, indwelling catheter in place, stooling observed, repositioned, overall condition observed.

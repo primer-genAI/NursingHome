@@ -1,0 +1,14 @@
+Nurse Record:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Date: May 18, 2024
+- 23:00: Room round, patient stable, bedrails secured, bed rest.
+- 06:00: Room round, no changes overnight, well-rested.
+- 07:50: Room round, patient incontinent, using diapers, on air mattress, checked for deflation, repositioning with paraplegia, back massage, fall risk education, right paraplegia, immobile, emotional support, bedrails up during bed rest.
+- 10:00-10:50: Room round, overall observation, bedrails secured, bed rest.
+- 16:00: Room round, overall observation, bedrails secured, bed rest.
+- 23:00: Room round, bedrail check.
+- Date: May 19, 2024
+- 06:00: Room round, overall observation, bedrails secured, bed rest.
+- 10:00-10:50: Room round, overall observation, bedrails secured, bed rest.
+- 23:00: Room round, bedrail check.

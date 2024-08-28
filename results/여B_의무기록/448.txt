@@ -1,0 +1,16 @@
+Patient's Chart Summary:
+
+- Vital Signs:
+  - 23:00: BP 119/60, HR 109, RESP 21, Temp 37.1°C, SpO2 94%
+  - 06:00: BP 93/53, HR 67, RESP 19, Temp 36.4°C, SpO2 95%
+  - 10:00: BP 100/57, HR 81, RESP 21, Temp 37.0°C, SpO2 91%
+  - 14:00: SpO2 96%
+
+- Nursing Record:
+  - 23:00: Bedside round completed, nursing notes written.
+  - 06:00: Patient slept well overnight with no significant changes. L-tube feeding with Ensolb 600-600-300-300kcal/D provided. Indwelling catheter maintained, perineal care performed. Air mattress checked for air leakage, patient repositioned, and back massage administered. Bedridden status observed, O2 therapy via nasal prong at 2L/min with SpO2 ranging from 94-99%. Stage 4 pressure sore noted on left buttock.
+  - 10:00: Physician's round completed.
+  - 11:10: Pressure sore debridement performed, air mattress applied, and patient repositioned. Pressure sore development observed.
+  - 15:00: Nursing notes written (details not specified).
+
+Please note that the provided document does not contain any medical history or current medications information.

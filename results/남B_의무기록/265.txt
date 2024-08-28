@@ -1,0 +1,22 @@
+Nursing Record Summary:
+
+* Date: 2024-01-19
+* Patient Information:
+	+ Room: Unknown
+	+ Bed: Lt hemiplegia (left-sided paralysis)
+	+ Cystostomy (Foley catheter 18Fr) in place, urine output well-controlled but fecal incontinence, using diapers
+	+ Pressure sore prevention: Air mattress in place, checked for deflation, repositioning, and back massage provided
+	+ Fall prevention: Educated the patient about fall risks
+	+ Emotional support provided
+* Vital Signs:
+	+ 10:00 AM: BP 106/65, P 55, RESP 19, T 36.8
+* Actions:
+	+ 10:00 AM: Physician's round conducted
+	+ 16:00 PM: Room round, overall condition observed
+	+ 23:00 PM: Room round, bedrail check
+	+ Night: No significant changes reported
+* 2024-01-20:
+	+ 06:00 AM: Nursing Record
+	+ 07:50 AM: Room round, bedridden state and cystostomy status observed, air mattress checked, repositioning, and back massage provided
+	+ 10:00 AM: Vital Signs: BP 106/65, P 55, RESP 19, T 36.8, physician's round conducted
+	+ 16:00 PM: Room round, overall condition observed

@@ -1,0 +1,12 @@
+Nurse Information Sheet:
+- Date: August 20, 2023
+- Insurance/Guardian: Unknown
+- Nursing Record:
+  - 06:00: Patient slept well through the night with no significant changes. Bedridden with left-side weakness (Foley catheter 18Fr), able to control urine but not stool, wearing a diaper. Air mattress checked for leaks and back massage provided. Cystostomy bag emptied and patient educated on fall prevention. Emotional support given. Vital signs: BP 104/61, P 52, RESP 20, T 36.4°C.
+  - 10:00: Patient received a visit from the on-call doctor.
+  - 16:00: Patient's overall condition observed during room round. Bedrail is locked, and the patient is stable in bed.
+  - 23:00: Room round completed. Bedrail is up, and the patient is stable.
+- Date: August 21, 2023
+- Insurance/Guardian: Unknown
+- Nursing Record:
+  - 06:00: Patient slept well through the night with no significant changes. Vital signs: BP 99/61, P 52, RESP 20, T 36.4°C.

@@ -1,0 +1,18 @@
+Patient's Chart Summary:
+
+- Document Date: June 8, 2024
+- Department: Unknown
+- Room: Unknown
+- Vital Signs:
+  - 19:00: Blood pressure 111/62, heart rate 59, respiratory rate 20, temperature 36.8°C, oxygen saturation 95%
+  - 23:00: Nursing Record: Room round, bedrail up
+  - 06:00: Blood pressure 111/62, heart rate 59, respiratory rate 20, temperature 36.8°C, oxygen saturation 98%
+  - 10:00: Blood pressure 88/58, heart rate 63, respiratory rate 20, temperature 36.0°C, oxygen saturation 98%
+- Nursing Care:
+  - 16:00: Room round, general observation, bedrail secured, bed rest
+  - 16:30: Oriental therapy administered
+  - 07:50: Room round, bedridden state, incontinence of bowel and bladder, air mattress kept, repositioning and back massage performed, bedsheet and clothing wrinkles smoothed, skin fold inspection, air circulation for skin, bedrail up, emotional nursing, patient unresponsive or withdrawn, right femur fracture with right long leg cast (applied on April 16, 2024)
+  - 09:05: Full body bath performed with caregiver assistance
+  - 14:00: Unknown (incomplete entry)
+
+Please note that the information provided is incomplete and may not contain all relevant details.

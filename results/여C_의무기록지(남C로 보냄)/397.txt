@@ -1,0 +1,18 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: February 6, 2024
+- Patient Information: Unknown
+
+Nursing Record:
+
+- 10:10 AM: Vital Signs: BP 106, BPL 58, P 56, RESP 21, T 36.6°C; 한방치료 시행함.
+- 15:00 PM: Vital Signs: BP 106, BPL 58, P 56, RESP 21, T 36.6°C; 눈곱 관찰, 담당의에게 알림, 푸가신점안액5ml(오플록사신) 1EA 오더남, 상태 관찰함.
+- 16:00 PM: 병실 순회, 전반적인 상태 관찰, 침상난간 고정, 침상 안정 중.
+- 23:00 PM: 병실 순회, 침상난간 올려져 있는 것 확인함.
+- 06:00 AM: 밤동안 특이 변화 없이 잘잠.
+- 07:50 AM: 병실 순회, Bed ridden 상태, 전반적인 상태 관찰, 대소변 조절 못해 기저귀 착용, Air mattress 사용, 체위변경 및 등마사지 시행, 피부가 습하지 않도록 환기, 침상난간 올려놓음, 정서적인 간호, 말해도 대답 거의 없음, 기분 처진 것처럼 보임.
+- 10:00 AM Vital Signs: BP 103, BPL 54, P 55, RESP 20, T 36.8°C.
+
+Please note that the patient's information and diagnosis codes are not provided in the document.

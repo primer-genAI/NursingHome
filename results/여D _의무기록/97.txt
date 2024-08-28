@@ -1,0 +1,22 @@
+Patient's Chart Summary:
+
+- Document Date: June 6, 2024
+- Department: Unknown
+- Room: Unknown
+- Vital Signs: 
+	+ 07:50: Blood pressure (BP): 120/51-56, heart rate (RESP): 21, temperature (T): 37°C, oxygen saturation (SPO2): 98%
+	+ 10:00: SPO2: 92-95% after using an oxygen mask (N-P) at 2 L/min
+	+ 16:00 and 23:00: Vitals not mentioned
+- Medications:
+	+ Telmisartan 80 mg and 40 mg, taken orally at 07:50, then skipped for one dose
+	+ Prednisolone (Solondo) 5 mg, prescribed for 7 days, taken orally at 10:00
+- Medical Procedures and Care:
+	+ Air mattress applied to the patient's bed
+	+ Bedrail adjustments: up at 07:50 and 16:00, status not mentioned at 23:00
+	+ Positioning changes and back massage at 07:50
+	+ Urinary and bowel control issues, using diapers
+	+ Oxygen inhalation via a nasal-prong (N-P) at 2 L/min
+	+ Doctor's rounds at 10:00 (on-call)
+	+ Nursing rounds and general condition checks at 16:00 and 23:00
+
+Please note that the information provided may be incomplete or contain errors due to the nature of the source document. Always consult with a healthcare professional for accurate and up-to-date information regarding a patient's condition and treatment.

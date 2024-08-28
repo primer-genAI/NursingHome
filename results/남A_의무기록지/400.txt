@@ -1,0 +1,18 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: June 5, 2024
+- Patient: Unknown
+
+Nursing Record:
+
+- 06:00: Vital Signs (V/S) - FBS: 111, Nursing Record: Room round completed. Patient slept well with no significant changes during the night.
+- 07:50: Written by: Room round completed. Patient is in a bedridden state with left-side paralysis. The patient is on a non-oral diet with a nasogastric tube. The patient can control urination with a urethral catheter but cannot control bowel movements and wears a diaper. The patient continuously hits the bedrail with their right hand and shows repetitive behavior. The patient's air mattress is checked for any deflation. The patient's position is changed every two hours, and back massage is performed. The patient is educated about the risk of falling, and the bedrail is raised when the patient is in bed. Emotional support is provided, and overall condition is observed. The patient repeatedly taps the bed when awake.
+- 10:00: Vital Signs (V/S) - Blood Pressure (BP): 119/57, Pulse (P): 70, Respiration (RESP): 20, Temperature (T): 36.5°C
+- 10:00: Nursing Record: The attending physician made their rounds. (Written by: Unknown)
+- 16:00: Room round completed. Overall condition is observed. Bedrail is secured. The patient is in bed rest.
+- 19:00: Vital Signs (V/S) - Postprandial Blood Glucose (PP2): 167
+- 23:00: Nursing Record: Room round completed. Bedrail is checked and found to be raised.
+
+Continued on the next page...

@@ -1,0 +1,26 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record (N)
+- Patient Information: Unknown
+- Document Date: May 30, 2024
+- Vital Signs: Unknown
+- Diagnoses:
+  - Pressure sore (COCCyx G4, 4 X 6 X 1 cm)
+  - Unspecified pain in both ankles (NRS 3 points)
+- Medical History: Unknown
+- Current Medications: Durogesic Dittenz Patch 12 mcg/h (Fentanyl)
+- Treatments:
+  - Air mattress applied for pressure sore prevention
+  - Foley removal and self-voiding
+  - One-time dressing application
+  - Back massage and 2-hourly repositioning
+  - Ambulation assistance
+  - Acupuncture treatment
+  - Emotional support and overall condition observation
+  - Pain management with Durogesic Dittenz Patch 12 mcg/h (Fentanyl)
+  - Pain assessment and management with Durogesic Dittenz Patch 12 mcg/h (Fentanyl)
+  - Pain assessment and management with Durogesic Dittenz Patch 12 mcg/h (Fentanyl)
+- Other Notes:
+  - Bedsheet adjustment for pressure sore management
+  - Bedsheet adjustment for pressure sore management
+  - Bedsheet adjustment for pressure sore management

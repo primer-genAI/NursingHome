@@ -1,0 +1,30 @@
+검사 슬립지 요약:
+===================
+
+* 차트 번호: 0093109779
+* 검사 날짜: 2024년 06월 03일
+* 환자 정보:
+	+ 환자 이름: 4 2****** (여성, 77세)
+	+ 병동 / 병실: 3병동 / 317호
+	+ 담당 의사: 입원
+* 검사 결과:
+	+ U/A 10종+Micro:
+		- Routine Urinalysis (D2253): 결과보고서 참조
+		- Leukocyte: 음성
+		- Glucose: 음성
+		- Bilirubin: 음성
+		- Ketone: 음성
+		- Specific Gravity: 1.02 (참고치: 1,005 ~ 1,030)
+		- Blood: H 음성
+			* 3 양성
+			* 6.50 (참고치: 5.0 ~ 8.0)
+		- Protein: H 음성
+			* 1 양성
+			* Trace
+		- Urobi I inogen: Trace
+		- Urine Microscopy (D2201020): ~ 2 /HPF
+			* Micro RBC: H 0
+			* Micro WBC: H 0 ~ 2 /HPF
+			* 많은 수의 미결정 세포: ~ 2 /HPF
+
+참고: 미결정 세포는 비정상적인 세포로 분류되지 않은 세포를 의미합니다.

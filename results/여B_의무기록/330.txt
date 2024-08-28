@@ -1,0 +1,17 @@
+Patient's Chart Summary:
+
+- Document Type: Nurse Record
+- Date: 2023-12-08
+- Time: 05:40 - 07:50
+- Room: Unspecified
+- Patient: Unspecified
+
+Nursing Record:
+
+- 19:00 V/S: Temperature: 36.5°C
+- 19:30: Observation of R status
+- 23:00: Room round. Bedrail found up
+- # 2023-12-08: Insurance/Guardian
+- 05:40: Nursing Record: # Foley catheter change maintained, urine leaking 20 & urine bag replaced. Inserted and urine coming out well.
+- 06:00: Room round. No specific changes overnight, slept well.
+- 07:50: Room round. Bedridden state with no communication through speech or eyes. L-tube (fr18) insertion and currently feeding with 200kcal * 4 times per day. Foley catheter maintained and perineal care done. Unable to control stool, wearing diapers. On air mattress with no leakage detected. Bedrail up. Overall condition observed. # Isolation (contact) with CRE. Nursing with gloves, gowns. Hand hygiene before and after nursing. Following isolation guidelines.

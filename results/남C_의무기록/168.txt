@@ -1,0 +1,24 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: 0091700991
+- Document Date: August 18, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 203
+- Gender: Male
+- Age: 58 (current age: 58)
+- Vital Signs: BP 121/90, P 83, RESP 20, T 36.7
+- Medical History: 편마비, 낙상위험, 발작, 가래, 한방치료
+- Current Medications: 코푸시럽 20mL/1포 1p PO (tid) * 3d's 연장오더
+
+Nursing Record:
+
+- 10:00: BP 121/90, P 83, RESP 20, T 36.7
+- 12:30: 담당의 회진, 가래 D: 기침없이 가래만 간간이 지속, 경구약 원함, 코푸시럽 20mL/1포 1p PO (tid) * 3d's 연장오더
+- 15:00: 한방치료 시행
+- 16:00: 병실 순회, 전반적인 상태 관찰, 침상 난간 고정, 침상 안정 중
+- 23:00: 병실 순회, 침상난간 올려져 있는 것 확인
+- 06:00: 병실 순회, 밤동안 특이 변화 없이 잘잠
+- 07:50: 병실 순회, 편마비(+) 대소변 조절 가능, 낙상위험에 대해 교육

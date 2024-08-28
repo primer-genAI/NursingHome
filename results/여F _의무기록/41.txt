@@ -1,0 +1,17 @@
+Nurse Record Summary:
+
+* Date: April 10, 2024
+* Patient's room: 보험/보호 06:00
+* Overall condition observed and reported
+* Bedrail was fixed and patient was bedbound
+* 23:00: Bedrail was checked and found to be up
+* 07:50: Patient slept well through the night with no significant changes
+* Foley catheter and perineal area were checked
+* 10:00: Bedsores observed and managed with air mattress and positioning changes
+* Pain level of NRS 3 points in both ankles, managed with Durogesic Fentanyl Transdermal System 12 mcg/h
+* Patient appeared disoriented and hallucinating, talking to non-existent people
+* Pressure sore on coccyx (G4, 6 x 8 x 1 cm) noted
+* # sore: COCCyx G4 6 X 8 X 1 cm A 드레싱 and air mattress applied
+* Skin condition around the new pressure sore was observed
+* 11:30: 드레싱 changes and air mattress applied for the pressure sore
+* 16:00 and 23:00: Overall condition observed, bedrail fixed, and patient remained bedbound

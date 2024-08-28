@@ -1,0 +1,15 @@
+Nurse Information Sheet:
+
+* Patient is receiving antibiotic treatment for unspecified sepsis (from May 14 to May 31).
+* Pressure sore on the left buttock, stage 4 (6 x 7 x 1cm).
+* The nurse performed wound dressing, applied an air mattress, changed the patient's position, gave a back massage, and observed the skin condition around the pressure sore.
+* The patient had a fever of 38.8°C. The doctor was informed, and the patient was given Anispen 8 hour IR tablets (acetaminophen). An ice pack was applied.
+* The nurse checked the patient's overall condition during bedside rounds. The bed rail was secure, and the patient was resting comfortably.
+* Permethrin cream 30g (non-insurance) was prescribed. The patient was instructed to apply the cream and bathe after 24 hours.
+* Urine analysis with microscopy and electrolytes (sodium, potassium, chloride) was ordered.
+* Vital signs:
+	+ 10:00 AM: BP 109/62, P 89, RESP 20, T 37.0°C, SPO2 96%
+	+ 11:30 AM: BP 105/72, P 98, RESP 21, T 38.2°C, SPO2 95%
+	+ 16:00 PM: BP 105/67, P 90, RESP 20, T 37.2°C, SPO2 96%
+* The nurse made bedside rounds and confirmed that the bed rail was up.
+* Insurance/guardian information: 2024-06-03

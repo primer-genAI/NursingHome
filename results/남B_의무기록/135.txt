@@ -1,0 +1,20 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: Unknown
+- Document Date: July 23-24, 2023
+- Department: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Nursing Record Summary:
+- 23:00, July 23: Room round checked for overall condition and bedrail security.
+- 07:50: Patient slept well through the night with no significant changes. Bedridden state with left-sided weakness, cystostomy (Foley catheter 18Fr) in place, urine control but not stool control, wearing a diaper. Checked air mattress for deflation, changed position, and performed back massage. Educated on fall risks and provided emotional support.
+- 10:00: Doctor's rounds occurred.
+- 16:00: Room round checked for overall condition and bedrail security.
+- 23:00, July 23: Room round checked for bedrail security.
+- 07:24: Room round checked, and patient slept well through the night with no significant changes.

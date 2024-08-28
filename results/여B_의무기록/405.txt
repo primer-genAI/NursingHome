@@ -1,0 +1,25 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient's Condition:
+  - The patient slept well during the night with no significant changes.
+  - Communication is limited to verbal and non-verbal cues.
+  - The patient is receiving a liquid diet through an L-tube.
+  - The patient is wearing a catheter and using a diaper due to incontinence.
+  - The patient is on a hospital-provided air mattress to prevent pressure sores.
+  - The patient's oxygen saturation is stable at 98%.
+  - The patient is being treated for pneumonia with antibiotics.
+  - The patient's blood pressure, heart rate, respiratory rate, and temperature are within normal ranges.
+
+- Nursing Interventions:
+  - The nursing staff performed a bedside round and observed the patient's overall condition.
+  - A pressure sore (Stage 2) was discovered on the left buttock, and the wound was dressed.
+  - The patient's vital signs were taken at 10:00 AM, 16:00 PM, and 19:00 PM.
+  - An occupational therapy session was conducted.
+  - The patient was kept in bed with the bedrails up for safety.
+
+- Medical Treatment:
+  - The patient is receiving treatment for pneumonia with antibiotics.
+  - The patient's blood pressure, heart rate, respiratory rate, and temperature are stable.
+  - The patient's oxygen saturation is stable at 98%.

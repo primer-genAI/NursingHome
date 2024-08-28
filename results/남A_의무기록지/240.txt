@@ -1,0 +1,17 @@
+Patient's Chart Summary:
+
+* Page Info: Unknown
+* Document Type: Nurse Record
+* Document Date: November 29, 2023, to November 30, 2023
+* Patient: Unspecified
+
+Nursing Record:
+
+- 07:50: The patient was found in a bedridden state with left-side paralysis. An L-tube (18Fr) was kept, and a diet of 400-400-400kcal/day was given. The patient cannot control their bowel and bladder movements and wears diapers. The patient continuously hits the bed rail with their right hand and shows repetitive behavior. The air mattress was checked for any leakage, and the patient's position was changed with a back massage. The patient was educated about the risk of falls and informed to keep the rail up when in bed. Emotional support was provided, and the patient's overall condition was observed.
+- 10:00: The patient's vital signs were stable.
+- 16:00: The patient's overall condition was observed, and the bed rail was secure.
+- 19:00: The patient's vital signs were stable.
+- 23:00: The bed rail was checked to be up, and the patient's insurance/guardian was informed.
+- November 30, 06:00: The patient's insurance/guardian was informed.
+
+Please note that the information provided is limited and does not include vital signs, diagnoses, medical history, or current medications.

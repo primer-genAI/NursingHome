@@ -1,0 +1,35 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse's Record
+- Patient Number: 0092108472
+- Date: February 13, 2024
+- Department: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91
+- Vital Signs:
+  - Blood Pressure: 94/61
+  - Pulse: 58
+  - Respiratory Rate: 21
+  - Temperature: 36.2°C
+
+- Diagnoses: Unknown (since not mentioned in the provided text)
+- Medical History: Unknown (since not mentioned in the provided text)
+- Current Medications: Unknown (since not mentioned in the provided text)
+
+Nurse's Record:
+
+- February 13, 2024:
+  - 6:00 AM: Room round conducted, no significant changes during the night.
+  - 7:50 AM: Room round conducted, patient incontinent and wearing diapers, air mattress provided to prevent pressure sores. Patient expresses desire to die and feels depressed about not being able to go home, exhibits aggressive behavior towards staff and other patients.
+  - 10:00 AM: Vital signs taken: BP = 94/61, Pulse = 58, Respiratory Rate = 21, Temperature = 36.2°C. Physician's round conducted.
+  - 15:00 PM: Traditional Chinese medicine treatment administered.
+  - 16:00 PM: Room round conducted, patient's condition observed, bedrails fixed, patient resting in bed.
+  - 23:00 PM: Room round conducted, bedrails confirmed to be in the up position.
+
+- February 14, 2024:
+  - 6:00 AM: Room round conducted.
+  - 7:50 AM: (Information missing)
+
+No other information is provided in the given text.

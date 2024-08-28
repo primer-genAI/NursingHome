@@ -1,0 +1,15 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Not provided in the given text
+- Time:
+  - 09:05: Patient received a full body bath with the help of a caregiver.
+  - 10:00: The doctor made rounds.
+  - 16:00: The nurse checked on the patient's overall condition and found them resting comfortably in bed with the railings in place.
+  - 23:00: The nurse made another round and confirmed that the bed railings were still up.
+  - 06:00: The patient slept well throughout the night with no significant changes observed.
+  - 07:50: The patient was found in a bed-ridden state with right-sided weakness. An L-tube (16Fr) was in place for feeding with Nutriwel Fiber at a rate of 400-400-400 kcal per day. The patient was not able to control their bowel movements and was wearing diapers. An air mattress was provided, and the nurse helped with positioning and back massage. The patient's overall condition was observed, and they were treated for a rash on their face and a drainage wound on their right knee.
+  - 10:00 and 16:00: The doctor made rounds and the nurse checked on the patient's overall condition.
+
+Please note that the patient's information, such as name, age, gender, and specific medical conditions, was not provided in the given text.

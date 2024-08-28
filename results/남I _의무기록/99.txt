@@ -1,0 +1,12 @@
+Patient's Chart Summary:
+- Page Info: Page No. 72 / 72
+- Document Type: Nurse Record
+- Patient: Male, 76 years old, Room 315
+- Vital Signs: Not provided
+- Diagnoses: Not provided
+- Medical History: Not provided
+- Current Medications: Not provided
+- Events:
+  - 10:00: Attending physician made rounds
+  - 16:00: Nurse performed room check and observed the patient's overall condition. The bed rail was secured, and the patient was resting comfortably.
+  - 23:00: Nurse made another round and confirmed that the bed rail was still in place.

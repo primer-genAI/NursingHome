@@ -1,0 +1,26 @@
+검사 슬립지 요약:
+
+* 차트 번호: 0093109779
+* 검사 일자: 2023년 09월 04일
+* 환자 정보:
+	+ 이름: 주 민 번 호 4 2******
+	+ 성별: 여성
+	+ 나이: 77세
+	+ 입원 병동: 5병동
+	+ 입원 병실: 505호
+* 검사 정보:
+	+ 검사 종류: VRE REC VRE Culture&Sensitivity (Rectal swab)
+	+ 검사 부위: 직장 면봉
+	+ 검사실: LAB D5854A
+	+ 균주: Enterococcus faecalis
+	+ 균주 수: 일부
+* 항생제 내성 결과:
+	+ Ampicillin: 내성
+	+ Benzylpenicillin: 내성
+	+ Gentamicin: 내성
+	+ Linezolid: 감수성
+	+ Streptomycin: 내성
+	+ Erythromycin: 내성
+	+ Teicoplanin: 내성
+	+ Vancomycin: 내성
+* 임상 정보 및 COMMENT: VRE (Vancomycin Resistant Enterococcus) 균주입니다.

@@ -1,0 +1,18 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient's Condition: Bed-ridden, unable to control bowel and bladder movements, wearing diapers. Air mattress provided, the nurse changed the patient's position and gave a back massage. The nurse ensured the patient's skin was not pinched by smoothing out any wrinkles in the sheets or clothing and kept the area well-ventilated to prevent skin from becoming damp. The bedrail was left up for safety. The patient was observed to be emotionally withdrawn, rarely responding to speech and appearing depressed or less talkative.
+- Vital Signs:
+  - 10:00 AM: BP: 132/56, Pulse: 57, RESP: 20, Temp: 36.8°C
+- Nursing Care:
+  - The nurse performed bedside rounds, checking the overall condition of the patient. The bedrail was found to be secured, and the patient was resting comfortably in bed.
+  - The nurse checked the patient's condition during evening rounds and ensured the bedrail was up.
+- Doctor's Rounds:
+  - 16:00 PM: The nurse reported the patient's condition to the on-call physician.
+- Overnight Observation:
+  - 06:00 AM: The nurse checked on the patient and found that they had slept well with no significant changes in their condition.
+- Morning Rounds:
+  - 07:50 AM: The nurse performed morning rounds, confirming the patient's bed-ridden condition, wearing diapers, and having an air mattress. The nurse continued to provide positional changes, back massage, and emotional support. The patient's condition remained unchanged, with minimal response to speech and a depressed or less talkative demeanor.
+
+Please note that the information provided is based on the given text and does not include any additional context or medical history.

@@ -1,0 +1,24 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: 0092108472
+- Document Date: November 18, 2023
+- Department: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91
+- Vital Signs: BP: 90/60, Pulse: 58, Respiratory Rate: 20, Temperature: 36.0°C
+- Nursing Notes:
+  - 15:00: Acupuncture treatment performed.
+  - 16:00: Bedside rounds conducted, patient's overall condition observed, and bedrails locked.
+  - 23:00: Bedside rounds conducted, bedrails raised.
+  - 06:00: Bedside rounds conducted, patient reported sleeping well.
+  - 07:50: Bedside rounds conducted, patient is incontinent and wearing diapers; air mattress is in place.
+  - Nursing interventions include smoothing out wrinkles in sheets and clothing, ensuring air circulation, raising bedrails when patient is in bed, and educating the patient about fall prevention.
+  - Patient expresses suicidal thoughts and depression about not being able to go home.
+  - Patient sometimes accuses staff and other patients of stealing items like diapers and snacks, and becomes agitated or angry.
+  - Patient also verbally abuses a neighboring bedridden patient without reason.
+  - 10:00: Physician's rounds conducted.
+  - 10:50: Assisted with a full body bath by a caregiver.
+  - 16:00: Bedside rounds conducted, patient's overall condition observed, and bedrails locked.

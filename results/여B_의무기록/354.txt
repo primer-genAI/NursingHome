@@ -1,0 +1,11 @@
+Nurse Record Summary:
+
+- 07:50: The patient is unable to communicate through speech or eye contact. They have an L-tube (fr18) inserted and are currently on a 200kcal per meal feeding schedule. The patient is unable to control their bowel and bladder movements and wears diapers. The patient is on an air mattress and the wind is checked to ensure it's not deflated. The patient is bedridden with the bedrail up, and their overall condition is observed.
+- 10:00: The patient's vital signs are checked, and the attending physician conducts a round.
+- 16:00: The nurse conducts a room round and observes the patient's overall condition. The bedrail is secured, and the patient is resting in bed.
+- 23:00: The nurse conducts a room round and confirms the bedrail is up.
+- 2024-01-04 06:00: The nurse conducts a room round and notes that the patient slept well with no significant changes overnight.
+- 07:50: The nurse conducts a room round and confirms the patient's inability to communicate. The L-tube (fr18) is still inserted, and the patient is on a 200kcal per meal feeding schedule. The patient is unable to control their bowel and bladder movements and wears diapers. The air mattress is checked for deflation, and the patient is bedridden with the bedrail up. The patient's overall condition is observed.
+- 10:00: The attending physician conducts a round.
+- 10:00: The patient's vital signs are checked: BP;115 BPL;69 P;82 RESP;21 T;36.5.
+- 16:00: The nurse conducts a room round but does not provide further details.

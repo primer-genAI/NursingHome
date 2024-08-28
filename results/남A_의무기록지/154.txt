@@ -1,0 +1,16 @@
+Nurse's Record Summary:
+
+- Date and Time: August 21, 2023
+- Patient's Vital Signs:
+  - Blood Pressure (BP): 84/49, 90/49, 99/49
+  - Pulse Rate (P): 48, 62, 64
+  - Respiratory Rate (RESP): 19, 20, 20
+  - Temperature (T): 36.3°C, 36.0°C
+- Nursing Actions:
+  - 06:00: The nurse made rounds, observed the patient, and noted that the patient slept well with no significant changes. The patient is bedridden with left-sided weakness, has a L-tube (18Fr) in place, and is receiving tube feedings with 400-400-400kcal/day. The patient is incontinent and wears diapers (with some stool stuck to each diaper). The patient repeatedly hits the bed rail and shows repetitive behavior. The nurse checked the hospital's air mattress and made sure it was not deflated. The patient's position was changed, and a back massage was provided. The nurse educated the patient on fall prevention and reminded them to keep the bedrails up when in bed.
+  - 10:00: The attending physician made rounds.
+  - 14:00: The patient's vital signs were recorded as BP: 90/49, P: 62, RESP: 20, T: 36.3°C.
+  - 16:00: The nurse made rounds and observed the patient. The bedrails were secured.
+  - 23:00: The nurse made rounds and confirmed that the bedrails were up.
+
+Note: The summary is written in a patient-friendly tone and simplifies any medical terminology where possible.

@@ -1,0 +1,15 @@
+Nurse Record Summary:
+
+* Patient is in bed with the bedrail up for stability.
+* The patient is experiencing pain in both ankles, rated as a 3 out of 10 (NRS).
+* The pain is being managed with Morphodiltransdrench 12 mg/h (Fentanyl).
+* The patient is looking at empty space and talking to themselves, occasionally telling nonsensical stories.
+* There is a stage 4 pressure sore on the coccyx (G4 6 X 8 X 1 cm).
+* The patient had a doctor's round at 10:00 AM.
+* The indwelling catheter was replaced at 11:30 AM, having been in place for 30 days.
+* The patient's pain decreased to a 3 out of 10 (NRS) at 15:00 PM.
+* Nurses performed room rounds at 16:00 PM and observed the patient's overall condition.
+* The patient complained of pain in both feet at 19:00 PM, rated as a 4 out of 10 (NRS).
+* The nurse administered Anispen 1 tablet orally (PFN).
+* The patient's pain was relieved to a 2 out of 10 (NRS) at 20:00 PM.
+* Nurses performed room rounds at 23:00 PM and confirmed the bedrail was up.

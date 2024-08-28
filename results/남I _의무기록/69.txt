@@ -1,0 +1,15 @@
+Nurse Record Summary:
+- Date: May 23, 2024
+- Patient's Room: Unknown
+- Patient's Condition:
+  - Nightly Checks: The patient slept well during the night with no significant changes observed.
+  - BK Amputation (Rt) and Chemoport: The patient has a right leg amputation and a chemoport, which requires special care and attention.
+  - Incontinence: The patient is unable to control their bowel and bladder movements and wears diapers.
+  - Air Mattress: The patient uses an air mattress to prevent pressure sores and ensure comfort.
+  - Fall Prevention: The nurse educates the patient on fall prevention measures and ensures the bedrails are in place when necessary.
+  - Self-Talking: The patient talks to themselves and may disturb other patients' sleep.
+  - Physician Round: The attending physician checked on the patient at 10:00 AM.
+  - Bed Rest: The patient is advised to remain in bed for stability and support.
+  - Night Checks: The nurse checked on the patient throughout the night, ensuring the bedrails were in place.
+
+Note: Please provide additional information or context if available to better understand the patient's condition and treatment plan.

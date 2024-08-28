@@ -1,0 +1,17 @@
+Patient's Chart Summary:
+
+- Document Type: Nurse Record
+- Document Date: December 1, 2023
+- Patient: Unknown
+
+Nurse Record:
+
+- 07:50: The patient is bedridden with left-side weakness. They have a Foley catheter (18Fr) and can control their urine but not their bowel movements. They wear a diaper. The nurse checked the air mattress and changed the patient's position, providing back massage. They also educated the patient about fall risks and provided emotional support.
+- 10:00: The patient's vital signs were measured: Blood pressure (BP) 97/57, pulse (P) 49, respiratory rate (RESP) 20, and temperature (T) 36.0°C. The attending physician made their rounds.
+- 16:00: The nurse checked on the patient's overall condition and ensured the bed rail was secure. The patient remained in bed.
+- 23:00: The nurse confirmed the bed rail was up.
+- 06:00 (next day): The nurse checked on the patient and found no significant changes during the night. They slept well.
+- 07:50: The nurse repeated the morning routine, including checking the air mattress, changing position, providing back massage, educating about fall risks, and offering emotional support.
+- 09:00: The patient can dress themselves but needs help tying shoelaces and buttoning clothes. They can put on pants but need assistance tying the laces.
+
+Please note that the patient's personal information, such as name and medical record number, is not provided in this summary.

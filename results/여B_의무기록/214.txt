@@ -1,0 +1,16 @@
+Nurse Record Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient's Vital Signs:
+  - 16:00: Temperature: 36.1°C
+  - 23:00: Temperature: Not mentioned
+  - 06:00: Temperature: Not mentioned
+  - 10:00: Blood Pressure: 128/65, Heart Rate: 87, Respiratory Rate: 21, Temperature: 35.8°C
+  - 16:00: Temperature: Not mentioned
+- Nursing Actions:
+  - 06:00: Rounded the room, observed the patient's overall condition, and found the bed rail fixed. The patient was bedridden and stable.
+  - 07:50: Rounded the room, observed that the patient could not communicate verbally or nonverbally. The patient had a feeding tube (L-tube) with a size of 18 French, was receiving a feeding solution with 200 kcal in four doses, had a urinary catheter, and was incontinent of stools, wearing a diaper. The patient's air mattress was checked for leaks, and the bed rail was raised. The patient's overall condition was observed.
+  - 10:00: Performed nursing procedures, adhering to isolation guidelines. The patient was in isolation due to D CRE, and personal protective equipment (gloves and gown) was worn during nursing. Hand hygiene was performed before and after procedures.
+  - 16:00: Rounded the room, observed the patient's overall condition.
+- Doctor's Round: 10:00 AM
+- Author: Not specified

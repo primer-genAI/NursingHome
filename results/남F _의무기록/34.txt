@@ -1,0 +1,48 @@
+Progress Notes Summary:
+
+- Date: 2024-06-26
+- Doctor: FM1, FM3
+- Insurance: 4490000
+- Location: 충청남도 천안시
+
+Medical Procedures and Medications:
+
+1. H/P,ICT (재활치료): 1 session, 1 day
+2. Diabetic diet (porridge): 3 meals, 1 day
+3. NovoRapid FlexPen injection (insulin aspart): 2 doses, 0.02617 ml each, 1 day
+
+- Date: 2024-06-27
+- Doctor: FM1
+- Insurance: 4490000
+- Location: 충청남도 천안시
+
+Diagnoses:
+
+1. Sleep initiation and maintenance disorder [insomnia] (G470^00)
+2. Fracture of medial malleolus, closed (S8250^00)
+3. Fracture of cuboid bone, closed (S92240^00)
+4. Fracture of navicular bone, closed (S92230^00)
+5. Unspecified dementia (F03^00)
+6. Essential hypertension, unspecified (I109^00)
+7. Type 2 diabetes mellitus without complications (E119^00)
+8. Cerebral infarction, unspecified (I639^00)
+
+Medical Procedures and Medications:
+
+1. H/P,ICT (rehabilitation therapy) with vital sign checks every 24 hours: 1 session, 1 day
+2. Diet, bed rest, and position changes every 2 hours
+3. BeLPRin tab 100mg (aspirin): Tolerable diet, bed rest, position changes every 2 hours
+4. MD609: 1 tablet, 14 days, morning with food
+5. Gayglipin tab 50mg (memantine): 2 tablets, 2 times a day, 14 days, morning and evening with food
+6. Hyepazil tab 5mg (donepezil): 1 tablet, 14 days, at night before bed
+7. Syncor tab 20mg (simvastatin): 1 tablet, 14 days, evening with food
+8. Xepram tab 10mg (amlodipine besylate): 1 tablet, 14 days, evening with food
+9. Jolmin tab 0.125mg (triazolam): 1 tablet, 14 days, at night before bed
+10. MD417: 2 tablets, 2 times a day, 14 days, morning and evening with food
+11. EpoDin tab 500mg (metformin): 1 tablet, 14 days, morning and evening with food
+12. Lanus injection (insulin glargine): 2 doses, 14 days, morning and evening with food
+13. Lanus SoloStar 3ml/1 vial (300IU): 0.14 ml, 1 dose, 14 days, once daily insulin (7 AM)
+14. NovoRapid injection (insulin aspart): 8 units, subcutaneous, before each meal
+15. Physician's note: (signature)
+
+Please note that the medication names and codes are in Korean, and the translations provided are approximate. Always consult with a healthcare professional for accurate information and dosage instructions.

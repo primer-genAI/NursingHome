@@ -1,0 +1,14 @@
+Nurse Record Summary:
+- Date: August 9, 2023
+- Patient's Condition:
+  - Vital Signs:
+    - 10:00 AM: BP 100/98, P 91, RESP 20, T 36.0°C
+    - 14:00 PM: BP 120/83, P 91, RESP 20, T 36.0°C
+  - Doctor's Rounds: 16:00 PM
+  - Nursing Observations:
+    - 06:00 AM: The patient slept well through the night with no significant changes.
+    - 07:50 AM: The patient is bedridden and unable to communicate verbally or visually. An L-tube (fr18) is in place for feeding with a current regimen of 200kcal x4 times a day. A urinary catheter is in place, and perineal care is provided. The patient is on an air mattress, and the air is checked for leaks. The bedrail is raised for safety.
+    - 10:00 AM: Doctor's rounds occurred.
+    - 14:00 PM: Vital signs were taken.
+    - 23:00 PM: Nursing staff checked the bedrail and found it in the raised position.
+- Isolation Precautions: The patient is in isolation for D CRE, and nursing staff wear gloves and gowns during care, as well as performing hand hygiene before and after care.

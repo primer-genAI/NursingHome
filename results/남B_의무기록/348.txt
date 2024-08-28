@@ -1,0 +1,23 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information:
+  - Unspecified (from the given data)
+
+Nurse Record:
+
+- Date: May 14, 2024
+- Time: 06:00
+  - Nursing Record: Rounded the room. Patient slept well through the night with no significant changes.
+- Time: 07:50
+  - Patient is bedridden and has left-side hemiplegia. They have a Foley catheter (18Fr), and their urine output is normal. They can control their urination but not their bowel movements, so they wear diapers. The patient is using an air mattress, and the nurse checked to ensure there were no air leaks. The nurse helped with positioning and provided a back massage. The patient was educated on fall prevention and received emotional support.
+- Time: 10:00
+  - Vital Signs: BP 132/70, Pulse 54, Respiration 19, Temperature 36.3°C
+  - Nursing Record: Attending physician made rounds.
+- Time: 16:00
+  - Nursing Record: Rounded the room. The patient's overall condition was observed, and the bedrails were found to be in place. The patient was resting comfortably.
+- Time: 23:00
+  - Nursing Record: Rounded the room and confirmed that the bedrails were raised.
+
+Please note that the patient's specific information, such as their name, medical history, diagnoses, and current medications, were not provided in the given data.

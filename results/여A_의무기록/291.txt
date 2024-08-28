@@ -1,0 +1,33 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse's Record
+- Patient Number: 0092108472
+- Document Date: October 25, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91
+
+Vital Signs:
+
+- Blood Pressure: 110/64
+- Pulse: 58
+- Respiration: 20
+- Temperature: 36.6°C
+
+Nursing Record:
+
+- 06:00: No significant changes overnight, patient slept well.
+- 07:50: Room round, patient wears diapers due to incontinence, and the bed is equipped with an air mattress. The patient's skin is checked for folds, and the mattress is adjusted to prevent pressure sores. The patient expresses a desire to die and feels depressed about not being able to go home. The patient sometimes accuses staff and roommates of stealing diapers and snacks, and may verbally abuse others.
+- 10:00: Vital signs recorded: BP 110/64, Pulse 58, Respiration 20, Temperature 36.6°C.
+- 15:00: Physician rounds and a traditional Chinese medicine treatment is performed.
+- 16:00: Room round, patient's condition is observed, and bedrails are found to be in place.
+- 23:00: Room round, bedrails are confirmed to be in the raised position.
+
+Continued on the next page...
+
+# 2023-10-26 Insurance/Guardian:
+
+- 06:00: Room round, no significant changes noted.

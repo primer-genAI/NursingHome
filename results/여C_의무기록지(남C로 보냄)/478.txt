@@ -1,0 +1,17 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse's Record
+- Patient Information: Unknown
+- Document Date: May 6, 2024, and May 7, 2024
+- Section:
+  - 23:00: Room round conducted. Bed rail found in raised position.
+  - 06:00: Room round conducted. Patient slept well with no significant changes.
+  - 07:50: Room round conducted. Patient bedridden with Foley catheter 18fr kept, perineal care performed, and incontinence of stool observed. Air mattress kept, repositioning, and back massage performed. Emotional nursing care provided. Right leg knee and above and below observed with edema. Right femur fracture with a long leg cast applied.
+  - 10:00: Vital signs recorded: Blood pressure; 63, Pulse; 53, Respiration; 20, Temperature; 36.5. Physician round conducted.
+  - 16:00: Room round conducted. General condition observed. Bed rail fixed. Patient in bed rest.
+  - 23:00: Room round conducted. Bed rail found in raised position.
+  - May 7, 2024: Information not provided.
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Note: The provided document is a nurse's record containing room rounds and vital signs observations. It does not contain any specific diagnoses or medical history.

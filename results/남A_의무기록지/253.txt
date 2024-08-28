@@ -1,0 +1,16 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: June 14, 2023
+- Patient's Condition:
+  - Right-sided paralysis
+  - Unable to control bowel movements and requires diapers
+  - Continuously hitting the bed rails with the right hand
+  - Requires emotional support
+  - Admitted to the hospital with an air mattress
+  - Bed rails should be raised when the patient is in bed
+  - Observed overall condition
+  - Blood pressure, heart rate, respiratory rate, temperature, and oxygen saturation monitored at various times
+
+Please note that the provided text is a nurse's record and does not include information such as patient number, department, admission date, room, gender, age, diagnoses, medical history, or current medications.

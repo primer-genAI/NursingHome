@@ -1,0 +1,11 @@
+Nurse Record Summary:
+
+- 06:00: Nurse made rounds and found the patient sleeping well with no significant changes since the previous night.
+- 07:50: Nursing care provided included checking on the patient's bedridden state, providing bedside meals through a nasogastric tube (NG tube), and ensuring proper use of the hospital's air mattress. The patient's ability to control bowel and bladder movements was limited, so diapers were used. The nurse also checked for any deflation in the air mattress and changed the patient's position every two hours, providing a back massage. The bedrail was left up for the patient's safety.
+- 10:00: The attending physician made their rounds.
+- 10:50: With the help of a caregiver, the patient was given a full body bath.
+- 13:30: The NG tube was replaced due to it reaching its 30-day lifespan. A new tube (fr 18) was inserted, and the patient's stomach was well-suctioned.
+- 16:00: The nurse made another round to observe the patient's overall condition. They ensured that the bedrail was secured and the patient was resting comfortably in bed.
+- 23:00: The nurse made one last round for the day and confirmed that the bedrail was still up.
+- 06:00 (next day): The nurse started their morning rounds and found that the patient had slept well with no significant changes.
+- 07:50 (next day): The nurse continued their morning routine, which included checking on the patient's bedridden state, providing meals through the NG tube, and ensuring proper use of the hospital's air mattress. They also checked for any deflation in the air mattress.

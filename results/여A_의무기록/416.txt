@@ -1,0 +1,26 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse's Record
+- Patient Number: 0092108472
+- Document Date: March 13, 2024
+- Department: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91 (current age: 92)
+- Vital Signs: BP: 108/66, Pulse: 59, Respiration: 20, Temperature: 36.0°C
+
+### Events and Observations:
+
+- 06:00: Briefly checked the patient. She slept well during the night.
+- 07:50: Checked the patient again. She is unable to control her bowel and bladder movements, so she is wearing diapers. The patient is on an air mattress and the nurse ensured that her sheets and clothes were smooth and that her skin was not trapped or moist.
+- 10:00: The patient's vital signs were taken: Blood pressure was 108/66, pulse was 59, respiration was 20, and temperature was 36.0°C. The doctor visited the patient.
+- 15:00: An oriental medicine treatment was performed on the patient.
+- 16:00: The nurse checked the patient and found that she was in a stable condition. The bedrails were locked, and she was resting in bed.
+- 23:00: The nurse checked the patient again and confirmed that the bedrails were still up.
+
+### Medical History:
+
+- The patient expressed a desire to die and feel depressed about not being able to go home. She may become verbally aggressive towards staff, accusing them of stealing her food or being unkind. She also has unprovoked aggressive outbursts towards other patients in the ward.
+
+Please note that this summary is based on the given information and may not include all relevant details. Always consult the original medical document for complete and up-to-date information.

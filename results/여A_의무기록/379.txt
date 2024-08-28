@@ -1,0 +1,19 @@
+Patient's Chart Summary:
+
+- Document Type: Nursing Record
+- Patient Number: 0092108472
+- Age: 91 years old
+- Gender: Female
+- Room: 516
+
+Nursing Record:
+- 07:50: Bedside round. Patient is incontinent and wearing diapers. The patient is on an air mattress and the bedding is being kept dry and wrinkle-free to prevent skin breakdown.
+- 10:00 V/S: BP 91/60, HR 66, RR 21, Temp 36.8°C
+- 13:51 V/S: BP 121/63, HR 69
+- 15:00: Nursing procedures were performed.
+- 16:00: Chinese medicine treatment was administered.
+- Patient is observed to be generally unwell and expresses a desire to die and be at home. The patient may exhibit aggressive behavior, such as accusing staff of stealing and shouting.
+- 23:00: Bedside round. The bedrails are secure.
+- 02/01/2024: Nursing Record: Bedside round. No significant changes overnight.
+
+Please note that the document does not contain any mention of diagnoses, medical history, or current medications.

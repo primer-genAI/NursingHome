@@ -1,0 +1,23 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: May 20 and 21, 2023
+- Patient Information: Not provided
+- Vital Signs: Not provided
+- Diagnoses: Not provided
+- Medical History: Not provided
+- Current Medications: Not provided
+
+Nurse Record Summary:
+- May 20, 2023:
+  - 23:00: Patient is bedridden with a feeding tube, cannot control bowel movements, and wears diapers. Air mattress is used for pressure relief. Facial rash is present.
+  - 06:00: Patient slept well overnight with no significant changes.
+  - 07:50: Nursing assessment and care provided, including positioning, massage, and monitoring. Facial rash and right knee/pin site are noted.
+  - 10:00: Physician round occurred.
+  - 16:00: Nursing assessment and care provided, with no significant changes.
+  - 16:30: Complementary therapy was administered.
+  - 23:00: Nursing assessment and care provided, ensuring bedrail safety.
+- May 21, 2023:
+  - 06:00: Nursing assessment and care provided, with no significant changes overnight.
+
+Note: No specific patient information, diagnoses, medical history, or current medications are provided in the given document.

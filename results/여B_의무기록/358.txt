@@ -1,0 +1,18 @@
+Nurse Information Record:
+
+- Page Info: Unknown
+- Document Type: Nurse's Record
+- Patient Info: Not specified in the provided text
+- Date: January 9, 2024
+- Observations:
+  - Patient is bedridden and unable to communicate verbally or nonverbally.
+  - The patient has an L-tube for feeding with 200kcal * 4 times a day.
+  - Patient requires a diaper due to incontinence.
+  - Air mattress is in use, and its functionality is checked.
+  - Bed rails are up for safety.
+  - Vital signs: BP 112/73, P 85, RESP 21, T 36.5
+- Medical History: Not specified in the provided text
+- Current Medications: Not specified in the provided text
+- January 10, 2024:
+  - Patient slept well with no significant changes during the night.
+  - Vital signs and overall condition are observed and documented.

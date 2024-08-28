@@ -1,0 +1,18 @@
+Nurse Information Sheet:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Not specified in the given text
+
+Vital Signs and Nursing Notes:
+
+- 20:00: Blood pressure (BP) - 114, Heart rate (HR) - 72, Respiratory rate (RR) - 61, Temperature (T) - 36.8°C, Oxygen saturation (SpO2) - 20
+- 23:00: Nursing Record - Room round, checked that bedrail is up
+- 06:00: Nursing Record - Room round, patient slept well through the night with no significant changes
+- 07:50: Room round, observed bed-ridden state, checked air mattress, performed body repositioning and back massage, ensured no skin folding or friction, and provided emotional support as the patient is unresponsive and seems down
+- 10:00: Vital signs: BP - 114, HR - 72, RR - 20, T - 36.8°C, and nursing record - attending physician's round, bed rest
+- 16:00: Room round, observed overall condition, railing secured, and ensure stability
+- 23:00: Room round, verified that the bedrail is up
+
+Medical History and Current Medications:
+Not specified in the given text.

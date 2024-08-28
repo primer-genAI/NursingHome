@@ -1,0 +1,7 @@
+Patient's Chart Summary:
+- Document Date: 2024년 3월 12일
+- Department: 간호 기록
+- Vital Signs: BP: 108/58, HR: 58, Resp: 20, Temp: 36.0
+- Medical History: 침상 안정, 대소변 조절 어려움, 공기 매트리스 사용, 체위 변경 및 등 마사지, 피부 관류 및 환기, 정서적 간호, 의사와의 회진, 한방치료
+
+참고: 이 문서는 해당 환자의 의료 상태를 요약한 것입니다. 의료 전문가의 지도 아래에서만 사용하십시오.

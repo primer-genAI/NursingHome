@@ -1,0 +1,13 @@
+Nurse Record Summary:
+- Vital Signs:
+  - 23:00: BP 124/74, HR 105, RR 24, Temp 36.4°C, SpO2 99%, PP 261
+  - 06:00: Temp 37.1°C, HR 98, RR 20, Temp 36.7°C
+  - 10:00: BP 118/79, HR 98, RR 22, Temp 36.7°C
+  - 19:00: BP 137/86, HR 112, RR 20, Temp 36.9°C
+- Nursing Record:
+  - 23:00: Room round, bed rail check
+  - 06:00: Room round, good night sleep
+  - 07:50: Room round, L-tube (fr18) with fiber 400-200-400kcal/D, incontinent of bowel and bladder, wearing diaper, air mattress check, O2 2L/min via nasal prong (SpO2 95~98%), D CRE isolation, gloves and gown used during nursing, hand hygiene performed before and after nursing, isolation guidelines followed
+  - 10:00: Physician round
+  - 16:00: Room round, overall condition check, bed rail secured, bed rest
+  - 23:00: Room round, overall condition check (details not provided)

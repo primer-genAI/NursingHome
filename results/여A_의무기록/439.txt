@@ -1,0 +1,17 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse's Record
+- Patient Number: 0092108472
+- Patient Details: Female, 91 years old, Room 516
+
+Nurse's Record:
+
+- April 7, 2024:
+  - 06:00: The patient slept well during the night. She is wearing an air mattress and the bedsheet and clothing were adjusted to prevent skin pressure and to keep the skin dry. The bedrails were raised for safety.
+  - 07:50: The patient expressed feelings of depression and frustration about her condition and inability to go home. She also had episodes of yelling and cursing at staff and fellow patients, accusing them of stealing her belongings or mistreating her.
+  - 10:00: Vital signs: Blood pressure 94/62, pulse 62, respiratory rate 20, temperature 36.7°C.
+  - 16:00: The patient received assistance with a full body bath and her overall condition was observed. She remained in bed with the bedrails fixed.
+  - 23:00: The patient's bedrails were confirmed to be raised.
+
+(Note: The image mentioned in the original text is not provided in the summary.)

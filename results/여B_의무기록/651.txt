@@ -1,0 +1,34 @@
+검사 결과 요약:
+
+1. 차트 번호: 0093109779
+2. Micro Epithelial cell: 음성 결과
+3. Nitrite: 검사 중
+4. 전해질 (Na, K, Cl):
+   - Sodium (Na): 135.00 mmol/L (정상 범위: 136 ~ 146 mmol/L)
+   - Potassium (K): 3.30 mmol/L (정상 범위: 3.5 ~ 5.1 mmol/L)
+   - Chloride (Cl): 90.00 mmol/L (정상 범위: 101 ~ 109 mmol/L)
+5. CBC (Diff 포함):
+   - Hmoglobin: 10.10 g/dL (정상 범위: 11.3 ~ 15.0 g/dL)
+   - Hematocrit: 34.10 % (정상 범위: 32.0 ~ 44.0 %)
+   - RBC: 3.70 ~ 5.20 x 10^6/μL (정상 범위: 3.70 ~ 5.20 x 10^6/μL)
+   - WBC: 3.32 x 10^3/μL (정상 범위: 4.0 ~ 10.0 x 10^3/μL)
+   - Platelet: 269.00 x 10^3/μL (정상 범위: 150 ~ 450 x 10^3/μL)
+   - MCV: 102.70 fL (정상 범위: 80.0 ~ 99.9 fL)
+   - MCH: 30.40 pg (정상 범위: 25.7 ~ 33.0 pg)
+   - MCHC: 29.60 g/dL (정상 범위: 32.0 ~ 36.0 g/dL)
+   - RDW: 17.10 % (정상 범위: 11.0 ~ 15.0 %)
+   - MPV: 10.70 fL (참고 범위: 확립되지 않음)
+   - PDW: 11.80 fL (참고 범위: 확립되지 않음)
+6. WBC Diff (백혈구 차등 count):
+   - Segmented neutrophils: 58.80 % (정상 범위: 41.7 ~ 75.0 %)
+   - Lymphocytes: 20.00 % (정상 범위: 18.4 ~ 45.0 %)
+   - Monocytes: 6.80 % (정상 범위: 0.0 ~ 12.0 %)
+   - Eosinophils: 0.0 ~ 8.0 % (정상 범위: 0.0 ~ 8.0 %)
+   - Basophils: 14.00 % (정상 범위: 0.0 ~ 2.0 %)
+7. LFT (간기능 검사):
+   - Total Protein: 6.6 ~ 8.3 g/dL (정상 범위: 6.6 ~ 8.3 g/dL)
+   - Albumin: 8.20 g/dL (정상 범위: 3.5 ~ 5.2 g/dL)
+   - Total Cholesterol: 142.00 mg/dL (정상 범위: < 200 mg/dL)
+   - AST (SGOT): 18.00 U/L (정상 범위: ≤ 35 U/L)
+   - ALT (SGPT): 14.00 U/L (정상 범위: ≤ 35 U/L)
+   - 8 -GTP: 31.00 U/L (정상 범위: ≤ 44 U/L)

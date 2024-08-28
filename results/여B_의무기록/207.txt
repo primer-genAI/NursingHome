@@ -1,0 +1,10 @@
+Nurse Record Summary:
+- Date: August 3, 2023
+- Patient's status:
+  - 16:00: Patient was observed in bed, with the bedrails fixed, and their oxygen levels were checked and found to be stable (97-98%). Oxygen was removed.
+  - 19:00: The nurse checked the bedrails and found them in the up position.
+  - 23:00: The nurse made rounds and confirmed that the bedrails were still up.
+  - 06:00: The patient slept well through the night with no significant changes. The nurse administered L-feeding, changed the urinary catheter, and checked the diaper, air mattress, and wound dressing. The patient is bedridden, unable to communicate verbally or nonverbally, and wearing a tube (fr18) for nutrition. The patient's isolation for D CRE was maintained, and the nurse followed infection control precautions.
+  - 10:00: The nurse took the patient's vital signs (BP: 116/90, P: 92, RESP: 20, T: 36.1) and reported to the attending physician.
+
+Note: The summary is based on the provided nurse record, and the information is presented in a simplified and patient-friendly format.

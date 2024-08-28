@@ -1,0 +1,25 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Recording
+- Patient Number: 0092108472
+- Document Date: September 13, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91
+- Vital Signs: Unknown
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Nursing Record Summary:
+- 23:00: Room round conducted, bedrail confirmed to be up.
+- 06:00: Insurance/guardian information provided.
+- 07:50: Room round conducted, patient slept well with no significant changes overnight.
+- 10:00: Vital signs: BP 117, P 57, BPL 70. Consultation with attending physician.
+- 15:00: Traditional Korean medicine treatment administered.
+- 16:00: Room round conducted, overall condition observed. Bedrail secured, patient in bedrest.
+- 23:00: Room round conducted, bedrail confirmed to be up.
+
+Please note that the summary is based on the provided information, which is limited and does not include all necessary details for a comprehensive patient summary.

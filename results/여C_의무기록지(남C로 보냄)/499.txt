@@ -1,0 +1,20 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Timestamps:
+  - 07:50: Doctor's round, Foley catheter (18fr) in place, perineal care performed, patient remains bedridden with incontinence, air mattress used, positioning and massage provided, right femur fracture with long leg cast applied.
+  - 10:00: Vital signs: BP 103/70, P 54, RESP 21, T 36.2°C, SPO2 96%.
+  - 14:00: Vital signs: T 37.0°C, SPO2 96%.
+  - 16:00: Nursing record: Room check, overall condition observed, bedrail fixed, bed rest.
+  - 16:30: Acupuncture treatment performed.
+  - 19:00: Vital signs: T 37.1°C, SPO2 96%.
+  - 23:00: Nursing record: Room check, bedrail found up, #2024-05-28 insurance/guardian.
+  - 06:00: Doctor's round, details unspecified.
+- Vital Signs: 
+  - 07:50: BP 108/93, P 56, T 36.4°C, SPO2 97%.
+  - 10:00: BP 103/70, P 54, RESP 21, T 36.2°C, SPO2 96%.
+  - 14:00: T 37.0°C, SPO2 96%.
+  - 19:00: T 37.1°C, SPO2 96%.
+- Nursing Interventions: Perineal care, positioning and massage, air mattress use, right femur fracture with long leg cast applied.
+- Treatments: Acupuncture treatment.
+- Insurance/Guardian: #2024-05-28.

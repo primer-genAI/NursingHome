@@ -1,0 +1,26 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: April 2, 2024
+- Department: Unknown
+- Room: Room 301
+- Gender: Female
+- Age: 79 years old
+- Diagnoses:
+  - Quadriplegia (loss of muscle control in all four limbs)
+  - Bedridden state (unable to sit or stand)
+  - Incontinence (unable to control bladder and bowel movements)
+- Medical History: Unknown
+- Current Medications: Unknown
+
+### Nurse Record Summary:
+- 11:00 AM: Patient reports reduced pain (NRS 2 points)
+- 4:00 PM: Nurse performed room round and observed overall condition. Bedrail is secured and patient is stable.
+- 4:30 PM: In-bed acupuncture treatment was administered.
+- 11:00 PM: Nurse performed room round and confirmed bedrail is up.
+- 6:00 AM: Unknown entry
+- 7:50 AM: Nurse performed room round. Patient slept well through the night with no significant changes. Patient is bedridden with quadriplegia and incontinence, wearing a diaper. Air mattress is kept and patient's skin folds are straightened to prevent pressure sores. Educated patient on safety risks and kept the bedrail up while in bed. Patient's muscles are rigid and not flexible.
+- 10:00 AM: Doctor's round was performed.
+- 4:00 PM: Nurse performed room round. Patient's overall condition was observed. Bedrail is secured and patient is stable.
+- 11:00 PM: Nurse performed room round and confirmed bedrail is up.

@@ -1,0 +1,21 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Unknown
+- Date: March 9, 2024
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Nurse Record:
+- 10:00 AM: Vital Signs - Blood Pressure: 117/67, Pulse: 56, Respiration: 21, Temperature: 36.2°C. Doctor's round.
+- 14:00 PM: Temperature: 36.9°C.
+- 15:00 PM: Acupuncture treatment administered.
+- 16:00 PM: Room round, overall condition observed. Bedrails fixed, resting in bed.
+- 19:00 PM: Vital Signs - Blood Pressure: 118/23.
+- 23:00 PM: Room round, bedrails found in raised position.
+- 06:00 AM: Room round, patient slept well with no significant changes during the night.
+- 07:50 AM: Bedridden state observed.
+
+Note: The specific patient information, diagnoses, medical history, and current medications are not provided in this record.

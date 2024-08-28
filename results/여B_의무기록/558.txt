@@ -1,0 +1,19 @@
+Patient's Chart Summary:
+
+- Document Type: Test Slip
+- Chart Number: 0093109779
+- Test Date: June 26, 2023
+
+### Test Results:
+- **CPE 검사**: Carbapenem Resistant Enterobacteriaceae (CRE) 균주가 발견되었습니다.
+
+### Clinical Information and COMMENT:
+- **Carbapenem Resistant Enterobacteriaceae (CRE)**: 이는 특정 항생제에 내성을 가진 세균 균주입니다.
+- The slip indicates that the sample is a rectal swab.
+- **Clinical Significance**: The presence of CRE bacteria in the rectal swab suggests that the patient may be a carrier of these resistant bacteria.
+- **Additional Information**: The slip suggests that the sample was sent to the local health environment research institute for further examination.
+- **Reporting**: The slip reminds the healthcare provider to report the test results to the local health office within 7 days, as per the amendment to the "Act on the Prevention and Management of Infectious Diseases."
+
+### Remarks:
+- This information is crucial for the healthcare team to manage and prevent the spread of infections caused by these resistant bacteria.
+- The healthcare provider should follow the guidelines for handling and managing patients with CRE bacteria to ensure the safety of the patient and other individuals in the healthcare facility.

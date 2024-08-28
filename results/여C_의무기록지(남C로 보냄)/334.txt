@@ -1,0 +1,22 @@
+Nurse Record Summary:
+
+* Page Info: Unknown
+* Document Type: Nurse Record
+* Date: November 27, 2023
+* Patient: Unspecified
+* Vital Signs:
+	+ 10:00 AM: BP 98, BPL 55, P 49, RESP 22, T 36.1
+	+ 16:00 AM: BP 110, BPL 62, P 46, RESP 20, T 36.0
+* Nursing Notes:
+	+ 10:00 AM: Attending physician's round completed.
+	+ 15:00 PM: Son's face-to-face visit allowed according to guidelines.
+	+ 16:00 PM: Nurse rounds the room, observes overall condition, and notes bedridden state. Patient wears a diaper due to incontinence, an air mattress is provided, and the patient's position is changed and back massage is performed. The nurse ensures the sheets and clothing are smooth, the patient's skin is not pinched, and the bedrails are up. The nurse also provides emotional support, but the patient is mostly unresponsive and seems down or quiet.
+	+ 23:00 PM: Nurse rounds the room, confirms the bedrails are up, and notes the patient slept well with no significant changes overnight.
+	+ 06:00 AM: Nursing Record: The patient is resting in bed and has a good night's sleep with no significant changes.
+	+ 07:50 AM: Nurse rounds the room, observes the patient's bedridden state, and notes the patient is incontinent and wears a diaper. The air mattress is kept, and the patient's position is changed, and a back massage is performed. The nurse ensures the sheets and clothing are smooth, the patient's skin is not pinched, and the bedrails are up. The nurse also provides emotional support, but the patient is mostly unresponsive and seems down or quiet.
+	+ 10:00 AM: Vital signs recorded.
+	+ 10:00 AM: Attending physician's round completed.
+	+ 15:00 PM: Acupuncture treatment performed.
+	+ 16:00 PM: Nurse rounds the room.
+
+Please note that the patient's condition and specific diagnoses are not provided in the given information.

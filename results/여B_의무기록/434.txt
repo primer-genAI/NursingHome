@@ -1,0 +1,20 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: April 1, 2024
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+### Nurse Record Summary:
+
+- 07:50: Performed a room round. The patient is unable to communicate using words or eyes. An L-tube is inserted, and the patient is receiving a liquid diet through it. A urinary catheter is in place, and perineal care is being provided. The patient is lying on an air mattress and is being turned and given back massages. The patient has a stage 2 pressure sore on the left buttock.
+- 10:00: Vital signs check: Blood pressure 102/79, pulse 89, respiratory rate 21, and temperature 35.9°C. The patient's attending physician made their rounds.
+- 11:10: The left buttock pressure sore was dressed, and the air mattress was applied. The patient was turned and given a back massage. The skin condition around the wound was observed.
+- 16:00: Performed a room round and observed the patient's overall condition. The bedrail was secured, and the patient remained in bed.
+- 23:00: Performed a room round and confirmed that the bedrail was still in place.
+- April 1, 2024: Insurance/Guardian information is provided.
+- 06:00: Performed a room round. The patient slept well with no significant changes during the night.
+- 07:50: Performed a room round. The patient is unable to communicate using words or eyes.

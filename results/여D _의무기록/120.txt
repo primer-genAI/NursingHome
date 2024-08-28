@@ -1,0 +1,24 @@
+검사 결과 요약:
+
+* 차트 번호: 해당 정보 없음
+* 검사 날짜: 2024년 04월 15일
+
+다음은 검사 결과 요약입니다:
+
+| 코드 및 이름 | 결과치 | 참고치 | 단위 |
+| --- | --- | --- | --- |
+| D2800060 Potassium(K) | 5.00 | 3.5 ~ 5.1 | mmol/L |
+| D2800030 Chloride(Cl) | 103.00 | 101 ~ 109 | mmol/L |
+| D0113 CRP(정량) | 5.43 H | < 0.50 | mg/dL |
+| D2253 Routine Urinalysis 결과 보고서 참조 | H | 결과 보고서 참조 | - |
+| D2253 Trace Leukocyte | Negative | - | - |
+| D2253 Glucose | - | Negative | - |
+| D2253 Bilirubin | - | Negative | - |
+| D2253 Blood | ~ 1,030 | 1,005 | - |
+| D2253 pH D2253 Protein | H | - | - |
+| D2253 Urobilinogen | Trace | Trace | - |
+| D2201020 Urine Microscopy | - | 0 ~ 2 /HPF | - |
+| D2201020 Micro RBC | 0~2 | - | - |
+| D2201020 Micro WBC | H | 0 ~ 2 /HPF | - |
+
+검사 결과 보고서에는 일부 정보가 누락되어 있습니다.

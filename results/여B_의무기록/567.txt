@@ -1,0 +1,33 @@
+검사 슬립지:
+
+* 차트번호: 0093109779
+* 날짜: 2023년 07월 10일
+* 검사 대상: E. faecium 균
+
+아래는 E. faecium 균에 대한 다양한 항생제에 대한 민감도 테스트 결과입니다:
+
+| 항생제 | 결과 |
+| --- | --- |
+| Linezolid | MIC 결과 <=1 |
+| Rifampin | S |
+| Strep. Synergy | <=1000 S |
+| Synercid | <=1 S |
+| Ampicillin | >8 R |
+| Cefepime | >16 R |
+| Cefuroxime | >16 R |
+| Clindamycin | >2 R |
+| Fusidic Acid | <=2 R |
+| Gent. Synergy | >500 R |
+| Gentamicin | >8 R |
+| Penicillin | >8 R |
+| Teicoplanin | >16 R |
+| Tobramycin | >8 R |
+| Trimeth/Sulfa | >4/76 R |
+| Vancomycin | R |
+
+판정:
+
+* E. faecium 균주는 다음과 같은 항생제에 대해 다음과 같은 민감도를 보입니다:
+	+ Linezolid, Rifampin, Strep. Synergy, Synercid: 내성 (Susceptible)
+	+ Ampicillin, Cefepime, Cefuroxime, Clindamycin, Fusidic Acid, Gent. Synergy, Gentamicin, Penicillin, Teicoplanin, Tobramycin, Trimeth/Sulfa, Vancomycin: 내성 (Resistant)
+* 이 균주는 Vancomycin Resistant Enterococcus (VRE) 균주입니다.

@@ -1,0 +1,22 @@
+Patient's Chart Summary:
+
+* Page Info: Unknown
+* Document Type: Nurse Record
+* Patient Number: 0092108472
+* Document Date: March 24, 2024
+* Department: Unknown
+* Room: 516
+* Gender: Female
+* Age: 91 years old
+
+Nurse Record:
+
+1. 07:50: Room round, patient is wearing hearing aids and using the hospital's air mattress. The nurse straightened the sheets and clothing to prevent skin fold pressure and ensured the patient's skin was not moist by providing air circulation. The bedrails were raised for safety, and the patient was educated about fall risks. The nurse provided emotional support as the patient expressed feelings of depression and suicidal thoughts.
+2. 10:00: The patient exhibited agitated behavior, cursing, and accusing staff of stealing. The patient also showed aggression towards another patient in the room. The nurse recorded the patient's vital signs: BP 92/ RESP 20 / T 36.3°C.
+3. 10:50: The patient received a full body bath with the assistance of a caregiver.
+4. 16:00: Room round, patient's overall condition was observed, and the bedrails were secured. The patient was resting in bed.
+5. 23:00: Room round, the bedrails were found in the up position.
+
+(Note: The following sections are blank or missing information.)
+
+1. March 24, 2024, 06:00: Room round, the patient slept well with no significant changes during the night. The patient is using the hospital's air mattress, and their overall condition is being observed.

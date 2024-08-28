@@ -1,0 +1,15 @@
+Patient's Chart Summary:
+
+- Diagnoses: 폐렴, 코로나19
+- Medical History: 최근 베클루리주정맥주(엠데시비르)(국비지원) 투여 중
+- Current Medications: 항생제
+- Vital Signs:
+  - 10:00: BP;116, BPL;68, P;825, RESP;20, T;36.2, SPO2;92
+  - 19:00: BP;102, BPL;57, P;60, RESP;22, T;36.9, SPO2;98
+  - 06:00: BP;129, BPL;59, P;57, RESP;21, T;36.2, SPO2;91
+- Treatment:
+  - L-tube 삽입중으로 경관식 장솔루션 200-200-200-200kcal/D 제공
+  - 유치 도뇨관 유지 및 회음부 간호
+  - 에어매트 사용
+  - 전반적인 상태 관찰
+  - 침상 안정 중

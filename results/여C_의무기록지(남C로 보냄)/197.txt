@@ -1,0 +1,21 @@
+Patient's Chart Summary:
+
+- Document Type: Nurse Record
+- Date: Unknown
+- Room: Unknown
+- Vital Signs:
+  - 10:00 AM: BP 119/59, P 60, RESP 20, T 36.6
+  - 12:00 PM: PP2 87
+  - 19:00 PM: PP2 195
+  - 20:00 PM: PP2 195
+  - 06:00 AM: FBS 106
+- Nursing Actions:
+  - Bed ridden state observed
+  - Air mattress provided
+  - Regular position changes and back massage performed
+  - Skin checks for pressure and moisture
+  - Fall prevention education provided
+  - Emotional support given
+  - 한방치료 시행함 (한방치료 was performed)
+  - Bedrail secured and checked throughout the day
+  - Doctor's rounds conducted

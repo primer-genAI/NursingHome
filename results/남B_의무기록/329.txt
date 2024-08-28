@@ -1,0 +1,21 @@
+Nurse Record Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Date: April 16, 2024, and April 17, 2024
+- Patient Information:
+  - Room: Unknown
+  - Condition: Bedridden with left hemiplegia and a Foley catheter (18Fr) in place
+  - Vital Signs:
+    - Blood Pressure: 118/67
+    - Pulse: 57
+    - Respiratory Rate: 21
+    - Temperature: 36.1°C
+  - Observations:
+    - Patient slept well through the night with no significant changes
+    - The patient is able to control their urine but not their bowel movements, so they wear a diaper
+    - The patient is on an air mattress, which was checked for any loss of air
+    - The patient's bedrails were secured, and they were educated about the risk of falls
+    - The patient received emotional support
+  - Medications: Unknown
+  - Doctor's Rounds: Unknown
+  - Additional Information: Unknown

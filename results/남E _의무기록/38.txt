@@ -1,0 +1,19 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Unknown
+- Document Date: Unknown
+- Room: Unknown
+- Vital Signs: Unknown
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Nursing Record:
+
+- 06:00 - 07:50: The patient was awake and alert. Tracheostomy care was performed, including suctioning and dressing changes. The patient was bedridden and receiving a low-calorie diet through a nasogastric tube. A urinary catheter was in place, and the patient required assistance with bowel movements. The patient's air mattress was functioning properly, and their position was changed for comfort and to prevent pressure sores. The patient had a stage 3 pressure sore on their coccyx.
+- 10:00: The attending physician made a round to check on the patient.
+- 10:50 - 11:10: The patient received a full-body bath with assistance from a caregiver. The pressure sore on the coccyx was dressed, and the air mattress was applied. The patient's position was changed, and their skin was observed for any signs of new pressure sores.
+- 16:00: The patient's overall condition was observed, and the bedrail was secured for safety.
+- 23:00: The patient's bedrail was checked and found to be in the raised position.

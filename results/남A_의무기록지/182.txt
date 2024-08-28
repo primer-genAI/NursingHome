@@ -1,0 +1,41 @@
+Patient's Chart Summary:
+
+- Document Date: September 21, 2023
+- Department: Unknown
+- Patient: Unknown
+
+Nurse Record:
+
+- 06:00 V/S: FBS - 121
+  - Nursing Record: The nurse checked on the patient and found that they had a good night's sleep with no significant changes.
+  - Author: Unknown
+
+- 07:50
+  - Nursing Record: The nurse checked on the patient and found that they were in a bedridden state with left hemiplegia (weakness on the left side of the body). The patient had an L-tube (a feeding tube) kept in place, and they were receiving a liquid diet called enteral nutrition with 400 calories per day. The patient was unable to control their bowel and bladder movements and was wearing diapers. The patient continuously tapped their right hand on the bed rail and showed repetitive behavioral patterns. The nurse checked the air mattress for any leaks, turned the patient to prevent bedsores, and gave them a back massage. The nurse also educated the patient about the risk of falls and instructed them to keep the bed rail up while in bed. The nurse provided emotional support and observed the patient's overall condition. The patient tapped the bed repeatedly when awake and showed repetitive behavioral disorders.
+  - Author: Unknown
+
+- 10:00 V/S:
+  - BP (Blood Pressure): 114/55
+  - P (Pulse): 60
+  - RESP (Respiratory Rate): 21
+  - T (Temperature): 36.5°C
+  - Author: Unknown
+
+- 13:30
+  - Physician's Round: The physician checked on the patient.
+  - Nursing Record: The physician removed, replaced, and tested the patient's nasogastric tube (a feeding tube inserted through the nose into the stomach). The tube was size 18 Fr (French, a unit of measurement for the size of tubes).
+  - Author: Unknown
+
+- 16:00
+  - Nursing Record: The nurse checked on the patient and found that they were stable with the bed rail in place.
+  - Author: Unknown
+
+- 19:00 V/S:
+  - PP2 (Postprandial Blood Glucose, measured 2 hours after a meal): 225
+  - Author: Unknown
+
+- 23:00
+  - Nursing Record: The nurse checked on the patient and found that the bed rail was up.
+  - Author: Unknown
+
+- 2023-09-21 Insurance/Care: The patient's insurance or care provider for September 21, 2023, is unknown.

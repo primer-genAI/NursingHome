@@ -1,0 +1,42 @@
+검사 슬립지 요약:
+
+* 차트 번호: 0092106935
+* 검사 날짜: 2024년 5월 20일
+* 환자 이름: 미기재
+* 담당 의사: 미기재
+* 환자 정보:
+	+ 성별: 남성
+	+ 나이: 77세
+	+ 병동: 5병동
+	+ 병실: 512호
+	+ 코드: 미기재
+* 검사 결과:
+	+ CBC(Diff포함):
+		- Hmoglobin: 9.70 g/dL (정상: 13.0 ~ 17.3 g/dL)
+		- Hematocrit: 29.90 % (정상: 40.0 ~ 52.0 %)
+		- RBC: 3.24 10^6/ L (정상: 4.00 ~ 5.80 10^6/ L)
+		- WBC: 6.80 10^3/ L (정상: 4.0 ~ 10.0 10^3/ L)
+		- Platelet: 291.00 10^3/ L (정상: 150 ~ 450 10^3/ L)
+		- MCV: 92.30 fL (정상: 80.0 ~ 99.9 fL)
+		- MCH: 29.90 pg (정상: 25.7 ~ 33.0 pg)
+		- MCHC: 32.40 g/dL (정상: 32.0 ~ 36.0 g/dL)
+		- RDW: 13.70 % (정상: 11.0 ~ 15.0 %)
+		- MPV: 9.90 fL (정상치 미설정)
+		- PDW: 10.20 fL (정상치 미설정)
+		- WBC Diff:
+			+ Segmented neutrophils: 87.5 % (현미경 확인)
+			+ Lymphocytes: 9.00 % (정상: 18.4 ~ 45.0 %)
+			+ Monocytes: 3.40 % (정상: 0.0 ~ 12.0 %)
+			+ Eosinophils: 0.00 % (정상: 0.0 ~ 8.0 %)
+			+ Basophils: 0.10 % (정상: 0.0 ~ 2.0 %)
+	+ Electrolyte(Na,K,CI):
+		- Sodium(Na): 127.00 mmol/L (정상: 136 ~ 146 mmol/L)
+		- Potassium(K): 4.90 mmol/L (정상: 3.5 ~ 5. 1 mmol/L)
+		- Chloride(Cl): 88.00 mmol/L (정상: 101 ~ 109 mmol/L)
+	+ CRP(정량): 2.10 mg/dL (정상: < 0.50 mg/dL)
+	+ LFT:
+		- Total Protein: 7.00 g/dL (정상: 6.6 ~ 8.3 g/dL)
+		- Albumin: 3.60 g/dL (정상: 3.5 ~ 5.2 g/dL)
+		- Total Cholesterol: 148.00 mg/dL (정상 범위: < 200 mg/dL)
+		- AST (SGOT): 17.00 U/L (정상: ≤ 40 U/L)
+		- ALT (SGPT): 9.00 U/L (정상: ≤ 40 U/L)

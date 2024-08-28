@@ -1,0 +1,22 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Unspecified
+- Date: May 29, 2024
+- Vital Signs:
+  - 07:50: BP 107/60, P 61, RESP 20, T 36.1°C, SPO2 96%
+  - 10:00: BP 88/63, P 62, RESP 19, T 36.9°C, SPO2 97%
+  - 14:00: T 37.0°C
+  - 16:30: Nursing Record: Acupuncture treatment performed.
+  - 19:00: BP 114/57, P 51, RESP 21, T 36.7°C, SPO2 99%
+  - 23:00: Nursing Record: Room round. Bedrail up.
+  - 06:00: BP 102/71, P 53, RESP 21, T 36.5°C, FBS 70 mg/dL
+- Nursing Notes:
+  - 07:50: Room round. Patient bedridden with Foley catheter 18fr kept and perineal care performed. Patient has trouble controlling bowel movements and wears a diaper. Air mattress is kept. Patient is repositioned and bedding is kept dry. Right leg cast applied (applied on April 16, 2024). Right femur fracture.
+  - 10:00: Nursing Record: Data unspecified.
+  - 14:00: Nursing Record: Acupuncture treatment performed.
+  - 19:00: Nursing Record: Room round. Bedrail up.
+  - 06:00: Nursing Record: Room round. Patient slept well with no significant changes during the night.
+- Medical Treatment:
+  - Right leg cast applied on April 16, 2024.
+  - Acupuncture treatment performed on May 29, 2024.

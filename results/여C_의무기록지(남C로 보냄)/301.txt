@@ -1,0 +1,30 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: October 20, 2023
+- Room: N/A
+- Patient Information: Not provided in the document
+- Vital Signs:
+  - 06:00: FBS;78
+  - 10:00: BP;110/61, P;61, RESP;20, T;36.0
+- Medical Interventions:
+  - 2023년 독감예방접종4가(테라펙트프리필드시린지주) IM injected
+  - 한방치료 시행함.
+- Nursing Care:
+  - 병실 순회 및 전반적인 상태 관찰
+  - 침상 난간 고정 및 올려놓음
+  - 정서적인 간호 및 체위변경 시행
+  - 대소변 조절 못해 기저귀 착용중임
+  - Air mattress 사용 중
+  - 환자의 피부가 눌리지 않도록 시트와 환의의 주름을 펴드리는 등 피부 관리
+  - 환자의 기분이 처진 것처럼 보이거나 말수가 적어짐
+- Other Information:
+  - 담당의 회진함.
+  - 작성자: (해드림, --- - 작성자)
+
+참고:
+
+* 항상 환자 친화적인 용어를 사용하세요.
+* 예시 형식을 참고하여 구조화하세요.
+* 모든 설명에 정확성과 명확성을 유지하세요.

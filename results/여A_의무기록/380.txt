@@ -1,0 +1,24 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Patient's Chart
+- Patient Number: 0092108472
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91 (current age: 92)
+- Vital Signs: BP 90/60, RESP 20, Temp 36.3°C, Wt. 62 kg
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Nurse's Record:
+
+- 07:50: The nurse made rounds, observed the patient wearing hearing aids, and noted that the patient is on an air mattress at the hospital. The nurse made sure the patient's skin was not constrained and provided emotional support. The patient expressed a desire to die and felt depressed about not being able to go home. The patient exhibited aggressive behavior, cursing at staff and accusing others of stealing.
+- 09:01: The nurse assessed the patient's ADL (Activities of Daily Living) capabilities:
+  - Dressing (slightly): The patient can put on pants but needs assistance tying the laces.
+  - Bathing (substantially): The patient can wash their face with assistance.
+  - Toileting (totally): The patient requires full assistance with all processes.
+  - Transferring (totally): The patient cannot move on their own and requires full assistance for all movements.
+- 10:00, 10:00, 15:00: The attending physician made rounds, took vital signs (BP 90/60, RESP 20, Temp 36.3°C, Wt. 62 kg), and performed acupuncture treatment.

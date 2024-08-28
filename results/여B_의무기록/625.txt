@@ -1,0 +1,39 @@
+검사 슬립지:
+
+* 차트 번호: 0093109779
+* 검사 날짜: 2024년 04월 09일
+* 환자 이름: (공란)
+* 담당 의사: (공란)
+* 환자 정보:
+	+ 성별: 여성
+	+ 나이: 77세
+	+ 주민번호: 4 2******
+	+ 입원 병동: 5병동
+	+ 입원 병실: 511호
+
+검사 결과:
+
+1. [L]CBC (Complete Blood Count with Differential):
+	* Hemeoglobin: 7.20 g/dL (참고치: 11.3 ~ 15.0)
+	* Hematocrit: 22.50 % (참고치: 32.0 ~ 44.0)
+	* Red blood cells (RBC): 2.37 10^6/ μL (참고치: 3.70 ~ 5.20)
+	* White blood cells (WBC): 12.50 10^3/ μL (참고치: 4.0 ~ 10.0)
+	* Platelet: 332.00 10^3/ μL (참고치: 150 ~ 450)
+	* Mean corpuscular volume (MCV): 94.90 fL (참고치: 80.0 ~ 99.9)
+	* Mean corpuscular hemoglobin (MCH): 30.40 pg (참고치: 25.7 ~ 33.0)
+	* Mean corpuscular hemoglobin concentration (MCHC): 32.00 g/dL (참고치: 32.0 ~ 36.0)
+	* Red blood cell distribution width (RDW): 16.00 % (참고치: 11.0 ~ 15.0)
+	* Platelet distribution width (PDW): 13.50 fL (참고치: 없음)
+	* Segmented neutrophils: 67.30 % (참고치: 41.7 ~ 75.0)
+	* Lymphocytes: 25.70 % (참고치: 18.4 ~ 45.0)
+	* Monocytes: 5.70 % (참고치: 0.0 ~ 12.0)
+	* Eosinophils: 1.00 % (참고치: 0.0 ~ 8.0)
+	* Basophils: 0.30 % (참고치: 0.0 ~ 2.0)
+2. [L]U/A+MICRO (Urine Analysis 10종+Microscopy):
+	* Routine Urinalysis: 결과 보고서 참조
+	* Leukocyte: 음성
+	* Glucose: 음성
+	* Bilirubin: 음성
+	* Ketone: 음성
+
+참고: "Negative"로 표시되지 않은 항목은 해당 검사 결과가 누락되었거나 결과가 없는 것입니다.

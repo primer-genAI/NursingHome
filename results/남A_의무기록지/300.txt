@@ -1,0 +1,18 @@
+Nurse Record Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient: Unknown
+
+Vital Signs and Observations:
+- 10:00 AM: Blood pressure 118/70, heart rate 70, respiratory rate 19, temperature 36.8°C
+- 16:00 PM: Blood pressure 143/73, heart rate 63, respiratory rate 21, temperature 36.5°C
+- 23:00 PM: No vital signs reported
+- 02:00 AM: No vital signs reported
+- 06:00 AM: No vital signs reported
+- 07:50 AM: Blood pressure 123/73, heart rate 63, respiratory rate 21, temperature 36.5°C
+
+Nursing Actions and Observations:
+- 07:50 AM: Patient in a bedridden state with left hemiparesis. L-tube (18Fr) in place, receiving 400-400-400kcal/day enteral nutrition. Incontinent of bowel and bladder, wearing diapers. Continuously tapping the bed rail with the right hand, displaying repetitive behavior. Air mattress in place, checked for deflation. Position changed and back massage performed. Educated on fall prevention and raised bedrails during bedrest.
+
+Other Information:
+- No other information provided.

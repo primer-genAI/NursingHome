@@ -1,0 +1,25 @@
+Patient's Chart Summary:
+
+- Document Date: June 13, 2023, 14:00
+- Department: FM1
+- Room: 5th Floor, Room 505
+- Vital Signs:
+  - Blood pressure: 96/70 (6 AM), 114/66 (10 AM), 124/74 (7 PM)
+  - Pulse: 115 (6 AM), 109 (10 AM), 105 (7 PM)
+  - Respiratory rate: 21 (6 AM), 20 (10 AM), 24 (7 PM)
+  - Temperature: 37.1°C (6 AM), 36.0°C (7 PM)
+  - Blood sugar: 237 mg/dL (6 AM)
+  - Oxygen saturation: 98% (6 AM)
+- Diagnosis:
+  - Unspecified sepsis (Dx: A419^00)
+- Current Medications:
+  - 5% dextrose in 1000mL normal saline (D/S) with ceftazidime 1.0g + NS 20cc mix iv (AST:N)
+  - Pikomhexal injection 2ml (비타민 B 복합체)
+  - Normal saline (N/S) 3
+  - Amikacin injection 250mg/2mL (아미카신황산염) 2
+  - Mederma powder 10g/1 tube (비급여)
+  - Enteral feedings (장솔루션) for breakfast and lunch
+- Medical History: Unknown
+- Treatment Plan:
+  - Applying Mederma powder to the affected area
+  - Continuing with prescribed medications and enteral feedings

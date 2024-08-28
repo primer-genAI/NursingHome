@@ -1,0 +1,30 @@
+Patient's Chart Summary:
+
+* Page Info: Unknown
+* Document Type: Progress Notes
+* Patient Number: 00000000000
+* Document Date: April 21-24, 2024
+* Department: FM1
+* Room: 302
+* Gender: Female
+* Age: 77
+* Diagnoses:
+	+ Sleep initiation and maintenance disorder (Insomnia)
+	+ Dementia due to Alzheimer's disease
+	+ Other and unspecified congestive heart failure
+	+ Acute cholecystitis
+	+ Pulmonary edema
+	+ Pleural effusion, not elsewhere classified
+	+ Acute respiratory failure, unspecified type
+	+ Type 2 diabetes mellitus without complications
+	+ Other and unspecified primary hypertension
+	+ Parkinson's disease or parkinsonism, not specified as essential or drug-induced
+	+ Abnormal result of thyroid function test
+* Medical History: Unknown
+* Current Medications:
+	+ 당뇨식(죽) for breakfast, lunch, and dinner for 1 day
+	+ 알프람 (medication for anxiety) discontinued
+	+ 세로티핀정 (medication for depression and other mental disorders) 25mg once daily before bedtime for 9 days
+	+ HbA1C blood test (checks average blood sugar levels over the past 2-3 months)
+
+참고: 이 요약은 주어진 원본 문서의 정보만을 기반으로 작성되었습니다. 제공된 정보가 환자 친화적인 형식으로 요약되기에는 충분하지 않거나 명확하지 않을 수 있습니다.

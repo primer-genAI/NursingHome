@@ -1,0 +1,24 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: 0092108472
+- Document Date: March 19, 2024
+- Department: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91
+- Vital Signs: BP: 122, P: 58, RESP: 20, T: 36.5, BPL: 66
+- Diagnoses: Cold, high blood pressure
+- Medical History: Unknown
+- Current Medications: Soodafeud tablet 60mg 1.5T#3, Kapu syrup 20mL/1pouch 3P#3, Codeone Forte syrup 20ml 3P#3
+- Nursing Notes:
+  - Overall condition observed. Bedrail is fixed. Bedridden stable. Routine round at 23:00. Bedrail is up.
+  - Patient sleeps well during the night. Checked the bathroom. Wearing hearing aids. Using the hospital's air mattress. Smooth out the wrinkles of the sheets or clothes and make sure the patient's skin is not pressed. Keep the skin dry by ventilating. When bedridden, raise the rail. Educate about the risk of falls. Emotional nursing. Says I want to die, what's the point of living like this. Depressed about not being able to go home. Swears or shouts at staff and roommates. Often swears and gets angry that someone stole diapers or snacks. Swears and says aggressive things to the bedridden patient next to him for no reason.
+  - 10:00 V/S: BP: 122, P: 58, RESP: 20, T: 36.5, BPL: 66
+  - The attending physician made rounds.
+    - Diagnosis #: Cold. Runny nose, cough persists.
+    - Physician's order: Soodafeud tablet 60mg 1.5T#3, Kapu syrup 20mL/1pouch 3P#3, Codeone Forte syrup 20ml 3P#3 for 4 days.
+  - Overall condition observed.
+  - 15:00: Oriental medical treatment was performed.
+  - 16:00: Unknown.

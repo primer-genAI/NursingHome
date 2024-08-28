@@ -1,0 +1,16 @@
+Patient's Chart Summary:
+- Document Type: Nurse Record
+- Document Date: April 16-17, 2024
+- Patient: Unknown
+
+Nurse Record:
+- 23:00: Bedside round, overall condition observed, bedrail secured, stable condition, bedrail up.
+- 06:00: Night shift wrap-up, no significant changes, good sleep.
+- 07:50: Bedside round, L-tube in place, feeding with fiber 400-200-400 kcal, unable to control bowel/bladder, wearing diapers, air mattress checked, repositioning and back massage performed, bedrail up when in bed.
+- 10:00: Doctor's round.
+- 16:00: Bedside round, overall condition observed, bedrail.
+- 23:00: Bedside round, bedrail secured, stable condition, bedrail up.
+- April 17, 06:00: Night shift wrap-up, no significant changes, good sleep.
+- April 17, 07:50: Bedside round, details unavailable.
+
+Note: The summary is based on the given data and may not include all relevant information.

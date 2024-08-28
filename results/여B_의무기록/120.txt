@@ -1,0 +1,30 @@
+Patient's Chart Summary:
+
+* Document Date: 2024년 5월 9일, 10일, 11일
+* Department: FM1, 한방과
+* Room: 511호
+* Vital Signs:
+	+ 5월 9일 (10:00) BP: 108/65, P: 98, RESP: 21, T: 36.2°C
+	+ 5월 10일 (08:20) BP: 94/58, P: 118, RESP: 18, T: 36.3°C, SPO2: 95
+	+ 5월 10일 (10:00) BP: 102/65, P: 125, RESP: 21, T: 37.2°C, SPO2: 96
+	+ 5월 10일 (14:00) SPO2: 95
+	+ 5월 11일 (10:00) BP: 91/42, P: 90, RESP: 22, T: 36.5°C, SPO2: 95
+
+Treatments:
+
+* 2024년 5월 9일:
+	+ 퍼메트린크림 30g (비급여) 1회 도포
+	+ 테가덤 10*12 (급여) 1개 사용
+	+ 단순처치 1회
+* 2024년 5월 9일:
+	+ 경혈침술 (합곡, 족삼리) 1회
+	+ 투자법 침술 (삼음교, 현종) 1회
+* 2024년 5월 10일:
+	+ 이엔솔브 경관식 3회 (아침, 점심, 저녁)
+* 2024년 5월 10일:
+	+ 경혈침술 (합곡, 족삼리) 1회
+	+ 투자법 침술 (삼음교, 현종) 1회
+* 2024년 5월 11일:
+	+ 이엔솔브 경관식 1회 (아침)
+
+Please note that the provided document does not contain any medical history or current medications information.

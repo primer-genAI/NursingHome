@@ -1,0 +1,19 @@
+Patient's Chart Summary:
+
+- Diagnoses:
+  - Urinary retention (Foley catheter inserted, 18Fr)
+  - Lower extremity edema (Swelling in the legs)
+  - Right hemiplegia (Partial paralysis on the right side of the body)
+  - Bedridden state
+- Medical History: The patient has undergone a stroke, which has led to the current conditions.
+- Current Medications: Unknown
+- Nursing Notes:
+  - The patient is able to control their urine but not their bowels, so a diaper is being used.
+  - The patient is on an air mattress in the hospital room. The nurse checked to ensure the air was not leaking and provided a back massage during a position change.
+  - The nurse educated the patient about the risk of falls and provided emotional support.
+  - The patient had a full bath with the help of a caregiver.
+  - The patient's vital signs were checked, and the doctor made rounds.
+  - The nurse made rounds and observed the patient's overall condition. The bed rail was secure, and the patient was resting comfortably.
+  - The nurse checked the bed rail again at 11:00 PM and found it in the correct position.
+  - There were no significant changes during the night, and the patient slept well.
+  - The patient's ADL (Activities of Daily Living) abilities are limited due to the hemiplegia. They can dress themselves with assistance and need help with some tasks, such as fastening buttons. They can wash their face with some assistance.

@@ -1,0 +1,20 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse's Record
+- Patient Information:
+  - Gender: Male
+  - Age: 66
+  - Room: 507
+- Vital Signs: Unknown
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+- Nursing Record:
+  - 16:00: Room round done. General condition observed. Bedrail secured. Bed rest.
+  - 23:00: Room round done. Bedrail up.
+  - 2024-05-18 Insurance/Guardianship 06:00: Nursing Record: Room round done. Slept well with no significant changes overnight.
+  - 07:50: Room round done. Bowel and bladder control possible. Education about fall risk. Bedrail up during bed rest. Emotional support provided. General condition observed.
+  - 10:00 16:00: Attending physician round done. Room round done. General condition observed. Bedrail secured. Bed rest.
+  - 23:00: Room round done. Bedrail up.
+  - 2024-05-19 Insurance/Guardianship: Nursing Record: Room round done. Slept well with no significant changes overnight.

@@ -1,0 +1,35 @@
+Nurse Recording Summary:
+
+- Patient Information:
+  - Patient ID: 0092108472
+  - Room Number: 512
+  - Gender: Female
+  - Age: 91 years old
+
+- Vital Signs:
+  - 10:00: BP - 98, BPL - 66, P - 61, RESP - 20, T - 36.7
+  - 16:00: Not mentioned
+  - 23:00: Not mentioned
+  - 06:00: Not mentioned
+  - 07:50: Not mentioned
+  - 10:00: V/S) BP;110 BPL;80 P;68 RESP;20 T;36.5
+
+- Nursing Recording:
+  - 10:00: Rounds, observations, and nursing care provided.
+  - 16:00: Overall condition observed, bed rail fixed, and patient in bed rest.
+  - 23:00: Bed rail check.
+  - 07:50: Room rounds, incontinence care, and air mattress management.
+  - 10:00: Attending physician's round.
+  - 14:00: Pressure sore prevention treatment.
+  - 16:00: Room rounds.
+
+- Patient's Condition:
+  - Incontinence and air mattress in place.
+  - Emotional state: Expresses a desire to go home and feels depressed about her condition.
+  - Verbal aggression towards staff and other patients in the room.
+
+- Nursing Actions:
+  - Education on fall prevention.
+  - Assistance with bed sores prevention.
+  - Monitoring of vital signs.
+  - Emotional support and management of aggressive behavior.

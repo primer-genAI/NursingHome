@@ -1,0 +1,36 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: April 12, 2024
+- Department: Unspecified
+- Room: Unspecified
+- Patient: Unknown
+- Vital Signs:
+  - 19:00: BP 94/55, Pulse 98, Respiratory Rate 20, Temperature 36.3°C, SpO2 95%
+  - 23:00: SpO2 96%
+  - 06:00: SpO2 96%
+  - 10:00: BP 110/63, Pulse 98, Respiratory Rate 20, Temperature 36.8°C
+- Medical Treatment:
+  - Traditional Korean Medicine treatment administered
+  - L-tube insertion for enteral feeding with Ensolb 600-600-300-300kcal/D
+  - Urinary catheter and perineal care maintained
+  - Bedridden patient with air mattress and bed rails raised
+  - Oxygen therapy via nasal prong with O2 2L/min, SpO2 94~99%
+  - Pressure sore (Stage 4) on the left buttock, measuring 6 X 7 X 1cm
+- Nursing Care:
+  - Morning bedside round with overall condition observation
+  - Help with personal hygiene and dressing
+  - Assistance with eating and drinking
+  - Monitoring of vital signs
+  - Medication administration
+  - Turning and repositioning to prevent bedsores
+  - Emotional support and comfort measures
+- Physician's Round:
+  - 10:00 AM, physician's round completed
+- Nursing Record:
+  - 07:50: Unknown
+  - 10:00: Unknown
+  - 10:50: Full body bath with the help of a caregiver
+
+Please note that this summary is based on the provided information, which may be incomplete or lack specific details.

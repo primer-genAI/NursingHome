@@ -1,0 +1,15 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Unknown
+- Date: November 12, 2023
+
+Nurse Record:
+
+- Night: The patient slept well without any significant changes. The nurse provided emotional care by straightening the wrinkles in the sheets and railings to prevent moisture buildup. However, the patient seemed depressed or had reduced speech when spoken to.
+- 07:50: The nurse made rounds and observed the patient's overall condition in a bed-ridden state. The patient is wearing a diaper due to incontinence and has an air mattress to prevent bedsores. The nurse performed a position change and back massage to help circulation and reduce pressure on the skin. The patient's skin was kept dry and ventilated.
+- 10:00: Vital Signs: Body temperature (T) = 36.5°C, Blood pressure (BP) = 105/63 mmHg, Pulse rate (P) = 59 beats/minute, Respiratory rate (RESP) = 20 breaths/minute. The nurse recorded the on-duty physician's rounds.
+- 16:00: The nurse made rounds and observed the patient's overall condition. The bedrail was secured, and the patient remained in bed.
+- 23:00: The nurse made rounds and confirmed that the bedrail was in the up position.
+- November 12, 2023: The nurse made their rounds and observed that the patient had slept well without any significant changes during the night.

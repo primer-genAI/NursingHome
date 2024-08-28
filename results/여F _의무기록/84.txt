@@ -1,0 +1,36 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Not specified in the provided text
+
+### Diagnoses:
+
+- Unspecified pressure sore (Stage 4 pressure ulcer, L893^00)
+- Unspecified gastroenteritis and colitis (A099^00)
+- History of COVID-19 (U089^00)
+
+### Medical History:
+
+- The patient is experiencing a pressure sore on their coccyx (G4, 4 x 6 x 1 cm).
+- The patient has difficulty controlling their bowel movements and wears a diaper.
+- The patient experiences stabbing pains in both ankles, rated as a 3 on the NRS pain scale.
+- The patient's pain is managed with Durogesic Ditrans Patch 12 mcg/h (Fentanyl).
+- The patient appears to be talking to themselves and telling nonsensical stories.
+
+### Current Medications:
+
+- Serotonin reuptake inhibitor (SSRI) dosage change: Seroquel 25mg (Quetiapine fumarate) 1.5T (with dinner) for 8 days (5/22 to 5/29)
+
+### Nursing Interventions:
+
+- Wound care for the pressure sore: Dressing applied, air mattress, repositioning, and back massage.
+- Observing skin condition for potential new pressure sores.
+- Acupuncture treatment performed.
+- Room and patient condition checked multiple times throughout the day.
+- Bedrail adjustments for patient safety and comfort.
+- Emotional support provided to the patient.
+- Pain management for ankle pain with Durogesic Ditrans Patch 12 mcg/h (Fentanyl).
+- Observation of the patient's condition during the night, ensuring no significant changes.
+- Foley catheter care and perineal care performed.
+- Physician rounds conducted.

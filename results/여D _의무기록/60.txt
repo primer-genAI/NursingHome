@@ -1,0 +1,11 @@
+Nurse Record Summary:
+
+- 10:00 AM: Attending physician rounds. Patient reports pain in the right side (NRS: 4), and both fingers. Tramadol hydrochloride injection (1ml) is administered.
+- 11:00 AM: Patient's pain level measured at NRS: 2.
+- 4:00 PM: Nurse performs room round and observes the patient's overall condition. Bedrail is secured, and the patient is in bed rest.
+- 11:00 PM: Nurse performs room round and confirms the bedrail is up.
+- 2024-04-15 Insurance/Caregiving:
+  - 6:00 AM: Nurse performs room round. Patient slept well with no significant changes overnight.
+  - 7:50 AM: Nurse performs room round, checks oxygen inhalation (2L/min via N-P) with SPO2 at 92-95%. Foley catheter (16Fr) is kept, and perineal care is performed. The patient wears diapers due to incontinence. Air mattress is applied, and air leakage is checked. Bed sores are prevented by changing positions and performing back massages. The bedrail is raised when the patient is in bed rest. Overall condition is observed.
+- 10:00 AM: Attending physician rounds. The patient is suspected to have sepsis. Vital signs: 142/77-94-25-37.5. The patient has been experiencing fever recently. A blood test is ordered, including CBC with differential, LFT, Electrolyte (Na, K, CI), and U/A 10-item + Micro. Ceftazidime 1.0g is prescribed for 14 days, mixed with NS20cc, administered IV. The patient's condition is observed.
+- 1:40 PM: Left hand dorsum edema and pain is reported.

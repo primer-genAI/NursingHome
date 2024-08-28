@@ -1,0 +1,26 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: Unknown
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: BP 97/95, HR 61/102, RR 20, Temp 36.3/36.5°C, SpO2 98/97%
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Notes:
+
+* The patient was not able to communicate during the room round.
+* An L-tube was inserted, and the patient was receiving enteral nutrition through it.
+* The patient had a history of pressure ulcers and was currently wearing a wound vacuum assisted closure (VAC) dressing on the left buttock (Stage 4, 6 X 7 X 1cm).
+* The patient received a full body bath with the assistance of a caregiver.
+* The patient underwent a dressing change for the wound on the left buttock.
+* The patient's air mattress was checked and adjusted as needed.
+* The patient's bed was raised, and the railings were locked in place for safety.
+* The patient's overall condition was observed, and there were no significant changes noted.
+* The patient's vital signs were within normal limits.
+* The patient was observed to be in a stable condition throughout the day.

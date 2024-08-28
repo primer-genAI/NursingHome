@@ -1,0 +1,9 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse's Record
+- Patient Number: 0092106935
+- Document Date: November 20, 2023
+- Patient Information: Male, 77 years old, Room 312
+- Vital Signs: BP;106 BPL;60 P;76 RESP;20 T;36.1
+- Medical History: Paralyzed on the left side, uses an L-tube (18Fr) for feeding, requires assistance with bowel and bladder control, wears a diaper, exhibits repetitive behavior by hitting the bed rail, has an air mattress for pressure relief, receives positioning changes and back massages, receives education on fall prevention, and has been observed with insomnia.
+- Current Medications: L-tube feeding with 400kcal/day, no other medications mentioned.

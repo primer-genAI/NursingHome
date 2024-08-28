@@ -1,0 +1,25 @@
+Nurse Information Record:
+
+- Page Info: Unknown
+- Document Type: Nurse Information Record
+- Date: February 6-8, 2024
+- Patient's Room: Unknown
+- Patient's Condition: Bedridden with left hemiplegia, using a cystostomy (Foley catheter 18Fr) and well controlled urine output. Able to control urination but not defecation, wearing diapers. Using an air mattress in the room, ensuring it's properly inflated. Assisting with position changes and back massage. Educating the patient about fall prevention. Providing emotional support.
+- Vital Signs:
+  - February 7:
+    - Blood pressure: 107/63 mmHg
+    - Pulse: 56 beats per minute
+    - Respiratory rate: 18 breaths per minute
+    - Temperature: 36.2°C (97.16°F)
+- Doctor's Rounds: February 7, 2024
+- Nursing Actions:
+  - February 7:
+    - Morning: Observed the patient, checked the air mattress, and provided position changes and back massage.
+    - Afternoon: Observed the patient's overall condition and ensured the bedrail was in place.
+    - Evening: Observed the patient's overall condition and ensured the bedrail was in place.
+  - February 8:
+    - Morning: Assisted with vital signs and observed the patient's condition.
+    - Afternoon: Observed the patient's overall condition and ensured the bedrail was in place.
+    - Evening: Observed the patient's overall condition and ensured the bedrail was in place.
+
+Please note that the information provided is based on the given text and may not include all relevant details.

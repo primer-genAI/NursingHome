@@ -1,0 +1,28 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: Unknown
+- Document Date: July 20-21, 2023
+- Department: Unknown
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+### Nursing Record Summary:
+
+- July 20, 2023:
+	+ 06:00: Room round performed. Patient slept well through the night with no significant changes.
+	+ 07:50: Room round performed. Patient is bedridden with left hemiplegia. A cystostomy (Foley catheter 18Fr) is in place, and urine output is normal. The patient can control their urine but not their bowel movements and wears diapers. An air mattress from the hospital is being used, and the patient was checked for deflation. Bedsores were prevented by changing the patient's position and performing a back massage. The patient was educated on fall risks and received emotional support.
+	+ 10:00: Attending physician made rounds.
+	+ 10:00: Vital signs: Blood pressure 99/58, pulse 62, respiratory rate 20, temperature 36.8°C.
+	+ 16:00: Room round performed. General condition observed. Bedrail is secured.
+	+ 23:00: Room round performed. Bedrail is up.
+
+- July 21, 2023:
+	+ 06:00: Room round performed. Patient slept well through the night with no significant changes.
+	+ 07:50: Room round performed. Patient is bedridden with left hemiplegia. A cystostomy (Foley catheter 18Fr) is in place, and urine output is normal. The patient can control their urine but not their bowel movements and wears diapers. An air mattress from the hospital is being used, and the patient was checked for deflation. Bedsores were prevented by changing the patient's position and performing a back massage. The patient was educated on fall risks and received emotional support.
+
+### REMEMBER: 
+- Always use a patient-friendly tone.
+- Follow the format of the example closely.
+- Ensure accuracy and clarity in every explanation.

@@ -1,0 +1,24 @@
+환자 차트 요약:
+- 페이지 정보: 알 수 없음
+- 문서 유형: 검사 슬립지
+- 환자 번호: 0093109779
+- 문서 날짜: 2023년 08월 28일
+- 부서: 알 수 없음
+- 입원 날짜: 알 수 없음
+- 병실: 5병동 / 505호
+- 성별: 여성
+- 나이: 77세
+- 검사: VRE Rec VRE Culture & Sensitivity (직장 면봉)
+- 검사 결과:
+  - 균주: Enterococcus faecalis
+  - 콜로니 수: 일부
+- 항생제 감수성 시험:
+  - Ampicillin: S
+  - Benzylpenicillin: 2 S
+  - Gentamicin High Level (synergySYN-S): S
+  - Linezolid 1: S
+  - Streptomycin High Level (synerSYN-S): S
+  - Erythromycin >=8: R
+  - Teicoplanin >=32: R
+  - Vancomycin >=32: R
+- 임상 정보 및 코멘트: VRE (Vancomycin Resistant Enterococcus) 균주입니다.

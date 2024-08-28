@@ -1,0 +1,16 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse's Record
+- Patient Number: 0092108472
+- Patient Information: Female, 91 years old, Room 512
+
+Nurse's Record:
+
+- 10:00: The patient was verbally aggressive towards staff and other patients, accusing them of stealing her belongings.
+- 14:00: The patient's vital signs were measured: Blood pressure 102/73, Pulse 63, Respiration 20, Temperature 37.0°C.
+- 15:00: The patient received traditional Korean medicine treatment.
+- 16:00: The patient's condition was stable while in bed.
+- 23:00: The patient's bedrails were checked and found to be in the upright position.
+- 06:00: The patient slept well through the night with no significant changes in condition.
+- 07:50: The patient is incontinent and uses an air mattress. The nurse ensured proper positioning to prevent skin breakdown and provided emotional support as the patient expressed feelings of depression and hopelessness about her condition and inability to return home.

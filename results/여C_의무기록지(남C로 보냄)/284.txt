@@ -1,0 +1,18 @@
+Patient's Chart Summary:
+
+- Document Type: Nurse Record
+- Date: September 30, 2023
+- Time: 06:00 - 23:00
+- Room: Unknown
+- Patient Status: Bedsore, Air mattress, Bedridden, Loss of bowel and bladder control, Diaper wearing
+
+### Key Information:
+
+- 07:50: The patient is in a bedsore state, wearing an air mattress, and is bedridden. They have lost control of their bowels and bladder and are wearing diapers. The nurse checks the bedrail and ensures it is in the up position. The patient's skin is checked for redness or irritation, and the patient is turned to prevent pressure sores.
+- 10:00: The patient receives a visit from the on-call physician.
+- 16:00: The nurse checks on the patient and notes that the bedrail is locked in place, and the patient is resting comfortably.
+- 23:00: The nurse performs a bedside round and confirms that the bedrail is in the up position.
+
+### October 1, 2023
+
+- 06:00 - 23:00: The nurse performs bedside rounds and checks on the patient, ensuring that the bedrail is in the up position. No other significant changes or events are noted.

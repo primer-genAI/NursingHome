@@ -1,0 +1,19 @@
+Nurse Record Summary:
+
+- Date: 2023-07-22
+- Patient: Unknown
+- Room: Unknown
+- Insurance/Guardian: Unknown
+- Nursing Actions:
+  - Performed room rounds and overall observations.
+  - Bedrail was found fixed and the patient was stable.
+  - Vital signs checked at 19:00 and 23:00.
+  - Observed the patient at 06:00 and noted no significant changes during the night.
+  - At 07:50, the patient was found in a bedridden state with limited communication abilities. The patient has an L-tube (fr18) for feeding at 200kcal x4 times and a urinary catheter. Perineal care was provided. The patient wears diapers due to incontinence.
+  - The patient's air mattress was checked for deflation, and the bedrail was raised for safety.
+  - Oxygen was administered via nasal prong at 2L/min, with SpO2 levels between 95-98%.
+  - The patient was isolated due to D CRE infection, and infection control measures were followed during nursing care.
+  - Protective equipment (gloves, gown) was worn, and hand hygiene was practiced.
+  - At 10:00, vital signs were checked: BP 141/77, P 104, RESP 20, T 36.1.
+  - Physician round occurred at 15:40.
+  - Face-to-face visit with the patient's guardian took place at 16:00, following infection control guidelines.

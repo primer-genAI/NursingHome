@@ -1,0 +1,23 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse's Record
+- Patient Number: 0092108472
+- Document Date: March 23, 2024, 6:00 AM
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91
+- Vital Signs: Unknown
+
+Nurse's Record:
+
+- 07:50: Patient slept well throughout the night with no major changes. The patient is wearing a diaper due to incontinence and is using an air mattress.
+- 10:00: The patient's sheets and clothing were smoothed to prevent skin irritation, and the room was aired out to keep the skin dry. The bedrail was raised for safety, and the patient's overall condition was observed. The patient expressed feelings of depression and frustration about her condition and the possibility of returning home. The patient also displayed aggressive behavior, shouting and cursing at staff and accusing others of stealing. The patient's vital signs were recorded as BP: 108/60, RESP: 20, T: 36.4°C.
+- 15:00: The attending physician visited the patient, and the patient received acupuncture treatment.
+- 16:00: The nurse checked on the patient and found the bedrails secured. The patient remained in bed.
+- 16:20: The nurse adjusted the patient's medication schedule, extending the use of Supaped tablets, Copusyrup, and Codeine phosphate syrup for two more days (March 23-24).
+- 23:00: The nurse confirmed that the bedrails were still in place.
+
+Please note that the patient's vital signs and other medical information are not provided in this document.

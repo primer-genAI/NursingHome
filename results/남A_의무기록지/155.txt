@@ -1,0 +1,23 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: 0092106935
+- Document Date: August 22, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 312
+- Gender: Male
+- Age: 77
+- Vital Signs: Unknown
+
+Nurse Record:
+
+* 23:00: The patient was in bed and the bedrails were up.
+* 06:00: The patient slept well through the night with no significant changes.
+* 07:50: The patient was in a bedridden state with left-side paralysis. An L-tube (18Fr) was kept in place, and a 400-400-400kcal/day enteral formula was given. The patient could not control their bowel movements and wore diapers, with some feces hanging from each diaper. The patient repeatedly hit the bed rails with their right hand and showed repetitive behavior. The air mattress was checked for deflation, and the patient was turned and given a back massage. The patient received education about fall risks, and the bedrails were raised. The patient's overall condition was observed, and they exhibited repetitive behavioral disorders when awake.
+* 10:00: The attending physician made rounds. The patient's nasogastric tube was replaced, and a new 18Fr tube was inserted. The tube was tested and functioned well.
+* 16:00: The patient was observed to be in bed with the bedrails fixed.
+* 18:33: The patient had constipation for 5 days and was prescribed two Dulcolax suppositories.
+
+Note: The patient's vital signs are not provided in this document.

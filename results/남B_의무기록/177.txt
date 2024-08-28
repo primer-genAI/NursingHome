@@ -1,0 +1,28 @@
+Patient's Chart Summary:
+
+- Document Type: Nurse Record
+- Date: September 21, 2023
+- Patient's Condition:
+  - Bedridden with left hemiplegia
+  - Cystostomy (Foley catheter 18Fr) in place
+  - Urine output is good, but unable to control bowel movements and wears diapers
+  - Using hospital's air mattress
+  - Checked for any deflation in the mattress
+  - Received positioning changes and back massage
+  - Educated on fall prevention
+  - Emotional support provided
+
+- Vital Signs:
+  - BP: 120/67
+  - Pulse: 47
+  - Respiratory rate: 21
+  - Temperature: 36.0°C
+
+- Nursing Actions:
+  - Room rounds conducted multiple times throughout the day
+  - Bedrail was secured
+  - Patient was observed to be stable
+  - Physician's round was performed
+
+- Other Information:
+  - No additional information provided.

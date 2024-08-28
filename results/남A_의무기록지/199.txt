@@ -1,0 +1,15 @@
+Nurse Record Summary:
+
+* Emotional Nursing Care: The patient's overall condition was observed, and they were found to repeatedly hit the bed when awake, exhibiting repetitive behavioral disorders.
+* Vital Signs:
+	+ 10:00 AM: BP 114/69, P 72, RESP 20, T 35.9
+	+ 06:00 AM: FBS 108
+	+ 10:00 AM: BP 105/60, P 65, RESP 21, T 36.5
+* Nursing Actions:
+	+ 16:00 PM: Routine room round conducted, overall condition observed, and bedrail confirmed to be locked.
+	+ 23:00 PM: Nighttime room round conducted, bedrail found to be up.
+	+ 07:50 AM: Morning room round conducted, patient found in a lying position with left-side paralysis. L-tube (18Fr) in place, and enteral nutrition (400kcal/day) being administered. Nurses checked the air mattress for deflation, performed a body position change, and provided a back massage. Educated the patient on fall risks and ensured the bedrail was up while they were in bed.
+* Other Observations:
+	+ The patient has difficulty controlling their bowel and bladder movements and requires diapers.
+	+ They exhibit repetitive behavior by hitting the bed with their right hand.
+	+ The patient has a cough and phlegm (#).

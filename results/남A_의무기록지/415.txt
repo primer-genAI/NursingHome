@@ -1,0 +1,12 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: June 24, 2024
+- Patient Information: Unknown
+
+Nurse Record:
+- 07:50: The patient slept well through the night with no significant changes. Key observations include the patient being in a bedridden state with left hemiparesis, a nasogastric tube for feeding, a urinary catheter for bladder control, and the inability to control bowel movements (requiring diapers). The patient repeatedly strikes the bed rail with their right hand. The air mattress was checked for deflation, and the patient's position was changed every two hours with back massages. Fall prevention measures were discussed with the patient, and the bedrails were raised while the patient was in bed. The patient's emotional state was addressed, and their overall condition was monitored. The patient exhibited repetitive behavior disorder, hitting the bedside repeatedly when awake.
+- 10:00 & 16:00: Vital signs were taken (BP;125 BPL;60 P;59 RESP;20 T;36.5) by the on-call doctor during rounds and the nurse during bedside checks. The bedrails were secured, and the patient remained in bed.
+- 23:00: The nurse performed a bedside check and confirmed that the bedrails were up.
+
+Note: The summary is based on the provided information, and any missing or unknown details are not included.

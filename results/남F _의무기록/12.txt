@@ -1,0 +1,27 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Progress Notes
+- Patient Number: 4490000
+- Document Date: April 25-28, 2024
+- Department: FM1
+- Room: 315
+- Gender: Male
+- Age: 68
+
+Medication:
+
+- MD018 NovoRapid FlexPen 100 units 3ml/1 (300IU)
+
+Dosage:
+
+- April 25: 0.02617 units (1 time)
+- April 26: 0.031 units (1 time)
+- April 27: 0.03 units (1 time)
+- April 28: 0.02617 units (1 time)
+
+Diet:
+
+- Diabetic meal (rice) for breakfast, lunch, and dinner each day
+
+Note: The information provided is limited to medication dosages and diet. There is no information about the patient's diagnoses, medical history, or current conditions.

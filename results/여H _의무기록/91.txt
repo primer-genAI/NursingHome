@@ -1,0 +1,15 @@
+Patient's Chart Summary:
+
+- Document Type: Nurse Record
+- Patient's Condition: Bedridden, blind, incontinent, using a diaper, with leg contractures and spasms causing intermittent pain. Emotionally supportive care provided, air mattress maintained, and repositioning performed to prevent pressure sores and maintain patient comfort. The patient appears depressed and has difficulty sleeping, frequently asking for food and experiencing anxiety about not being able to go home.
+- Events:
+  - 09:05: Full body bath with the help of a caregiver.
+  - 10:00: Morning rounds by the attending physician.
+  - 13:30: Patient reported diarrhea with watery stools, abdominal pain, and was prescribed a medication by the attending physician.
+  - 16:00: Room check, patient in bed with rails up, stable condition.
+  - 20:09: Patient reported pain (NRS 4), received pain medication (tramadol hydrochloride injection), and reported improved pain (NRS 2) at 21:09.
+  - 23:00: Room check, bed rails were found up.
+  - 2024-06-09: Overnight room check, patient slept well with no significant changes.
+- Morning Record: 06:00 - Room check, no abnormalities observed.
+
+Please note that the patient's condition may require ongoing monitoring and adjustments to their care plan.

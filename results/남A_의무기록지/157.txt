@@ -1,0 +1,16 @@
+Nurse Information Sheet Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Information Sheet
+- Patient: Unknown
+- Date: Unknown
+- Time: Unknown
+- Information:
+  - 06:00: Nursing Record: Room round. No significant changes, slept well.
+  - 07:50: Room round. Patient in bed with left hemiplegia, L-tube (18Fr) in place, receiving enteral nutrition (400-400-400kcal/day), unable to control bowel/bladder, wearing diapers (stools slightly attached to each diaper), repetitive behavior with right hand tapping bed rail, on air mattress, checking for deflation, position change and back massage performed, fall prevention education provided, bed rail up during bed rest, emotional support given, overall condition observed, repetitive behavior with bed tapping when awake.
+  - 10:00: Vital Signs: BP: 97/55, P: 63, RESP: 20, T: 36.1, Nursing Record: Attending physician's round.
+  - 16:00: Room round. Overall condition observed. Bed rail secured. Bed rest.
+  - 23:00: Room round. Bed rail up.
+  - Insurance/Guardian: Nursing Record: Room round. No significant changes during the night, slept well.
+  - 06:00: Nursing Record: Room round. No significant changes, slept well.
+  - 07:50: Room round. Patient in bed with left hemiplegia, L-tube (18Fr) in place, receiving enteral nutrition (400-400-400kcal/day), unable to control bowel/bladder, wearing diapers (stools slightly attached to each diaper).

@@ -1,0 +1,14 @@
+Page Info: Unknown
+Document Type: Laboratory Results
+Patient Number: 0092106935
+Document Date: May 09, 2024
+Department: Laboratory
+
+Laboratory Test Results:
+
+* Estimated Glomerular Filtration Rate (eGFR):
+  - Test Date: May 09, 2024
+  - Result: Not established (10)
+  - Reference Range: > 59 mL/min/1.73m2
+
+In this laboratory results document, there is one test listed, which is the estimated Glomerular Filtration Rate (eGFR). The eGFR test measures how well your kidneys are filtering blood. In this case, the result is "Not established," which means that the test could not be completed or the result is invalid. The reference range for a healthy eGFR is greater than 59 mL/min/1.73m2.

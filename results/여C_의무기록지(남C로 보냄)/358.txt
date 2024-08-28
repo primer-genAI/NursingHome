@@ -1,0 +1,20 @@
+Patient's Chart Summary:
+
+- Document Date: December 25, 2023
+- Department: Unknown
+- Patient's Room: Unknown
+- Vital Signs:
+  - Blood Pressure: 101/59
+  - Pulse: 55
+  - Respiratory Rate: 20
+  - Temperature: 36.5°C
+
+Nurse Record:
+
+- 06:00: Nursing Record: Rounded the patient's room. The patient slept well with no significant changes during the night.
+- 07:50: Nursing Record: Rounded the patient's room. Observed the patient's overall condition in a bedridden state. The patient is unable to control their bowel and bladder movements and wears diapers. An air mattress was provided, and the nurse performed a body reposition and back massage. The nurse ensured that the patient's sheets and clothing were smooth and that the patient's skin was not creased or damp. The patient's bedrail was left up, and emotional support was provided. The patient barely responded to conversation and appeared moody or quiet.
+- 10:00: Vital Signs: BP;101 BPL;59 P;55 RESP;20 T;36.5 Nursing Record: On-call doctor made rounds.
+- 16:00: Nursing Record: Rounded the patient's room. Observed the patient's overall condition. The bedrail was secure, and the patient was resting in bed.
+- 23:00: Nursing Record: Rounded the patient's room. Confirmed that the bedrail was up.
+
+Note: The insurance/guardian information is not provided in the given document.

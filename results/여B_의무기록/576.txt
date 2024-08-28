@@ -1,0 +1,36 @@
+환자 차트 요약:
+
+* 페이지 정보: 1/1
+* 문서 유형: 검사 슬립지
+* 환자 번호: 0093109779
+* 문서 날짜: 2023년 7월 31일
+* 부서: 미기재
+* 입원 날짜: 미기재
+* 병실: 미기재
+* 성별: 여성
+* 나이: 77세
+* 진단:
+  * 반코마이신 내성 장구균 (VRE): 이는 일반적인 항생제 치료에 내성을 가진 박테리아입니다.
+* 의료 기록:
+  * VRE가 검출되어 박테리아에 대한 검사 및 감도가 수행되었습니다.
+* 현재 약물:
+  * 시험 결과에 따라, 환자는 VRE에 대해 다음과 같은 약물에 내성을 보입니다:
+    * Ampicillin
+    * Cefepime
+    * Cefuroxime
+    * Clindamycin
+    * Erythromycin
+    * Fusidic Acid
+    * Gent. Synergy
+    * Gentamicin
+    * Penicillin
+    * Rifampin
+    * Synercid
+    * Teicoplanin
+    * Tobramycin
+    * Trimeth/Sulfa
+    * Vancomycin
+* 검사 결과:
+  * VRE는 소변 및 직장 면봉 검사에서 배양되지 않았습니다.
+* 임상 정보 및 코멘트:
+  * VRE는 반코마이신 항생제에 내성을 가진 박테리아입니다.

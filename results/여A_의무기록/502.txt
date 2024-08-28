@@ -1,0 +1,17 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: 0092108472
+- Patient Information: Female, 91 years old, Room 516
+- Vital Signs:
+  - 10:00 AM: BP 103/B, RESP 20, Temp 36.0°C
+  - 15:00 PM: N/A
+- Nursing Record:
+  - 07:50 AM: Patient's bed is being checked by the nurse. The patient is wearing diapers due to incontinence. The nurse is ensuring that the air mattress is filled, and the patient's skin is dry and well-ventilated. The patient expresses suicidal thoughts and has aggressive behavior towards staff and other patients.
+  - 10:00 AM: The patient's vital signs are taken.
+  - 16:00 PM: The nurse checks on the patient, who is resting comfortably in bed with the railings in place.
+  - 23:00 PM: The nurse confirms that the bed rails are up.
+- 2024-06-18: Insurance and guardian information provided.
+- 06:00 AM: The patient slept well throughout the night with no significant changes observed.
+- 07:50 AM: The nurse checks on the patient, who is still wearing diapers and the air mattress is filled. The nurse ensures that the sheets and clothing are smooth and the patient's skin is dry.

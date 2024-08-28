@@ -1,0 +1,26 @@
+Patient's Chart Summary:
+
+* Page Info: Unknown
+* Document Type: Nurse's Record
+* Patient Number: 0092108472
+* Document Date: July 17, 2023
+* Department: Unknown
+* Admission Date: Unknown
+* Room: 512
+* Gender: Female
+* Age: 91 years old
+
+Vital Signs:
+
+* Not provided in the document.
+
+Nurse's Record:
+
+* 10:00 AM: BP;90 BP, RESP;20, T;36.9
+* On-call doctor's round
+* 16:00 PM: Room round, overall condition observed, bed rail secured, patient in bed rest
+* 23:00 PM: Room round, bed rail confirmed to be up
+* 06:00 AM: Room round, patient slept well with no significant changes during the night
+* 07:50 AM: Room round, patient incontinent, using an air mattress, skin care provided, bed rail secured, overall condition observed, emotional support given
+
+Please note that the patient is a 91-year-old female in Room 512. The nurse's record includes various room rounds, observations, and interventions, but vital signs are not provided in the document. The patient is incontinent and using an air mattress. The nurse is providing skin care, securing the bed rail, and observing the patient's overall condition. The patient expresses feelings of depression and frustration about her condition and environment.

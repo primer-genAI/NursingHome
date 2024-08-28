@@ -1,0 +1,35 @@
+Patient's Chart Summary:
+
+- Document Date: 2024-05-06 & 2024-05-07
+- Department: Unknown
+- Room: Unknown
+- Vital Signs: Unknown
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Nurse Record:
+
+- 06:00, 2024-05-06:
+  - The patient slept well overnight with no significant changes.
+
+- 07:50, 2024-05-06:
+  - The patient is incontinent and wears diapers.
+  - An air mattress is in place, and its functionality was checked.
+  - The patient's position was changed due to paralysis on the left side, and a back massage was provided.
+  - Fall prevention education was given.
+  - The patient is bedridden and the railing is kept up during bed rest.
+  - Emotional support was provided, and the patient's overall condition was observed.
+
+- 10:00 to 10:50, 2024-05-06:
+  - The patient had a full bath with the help of a caregiver and a medical examination by the on-call doctor.
+
+- 16:00, 2024-05-06:
+  - The patient's overall condition was observed, and the bedrail was secured.
+  - The patient remained in a stable condition.
+
+- 23:00, 2024-05-06:
+  - The bedrail was checked and found to be in the upright position.
+
+- 23:00, 2024-05-07:
+  - The bedrail was checked and found to be in the upright position.

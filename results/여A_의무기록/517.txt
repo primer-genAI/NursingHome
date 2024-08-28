@@ -1,0 +1,55 @@
+검사 결과 요약:
+
+* 환자: 차트번호 0092108472
+* 검사일: 2024년 04월 25일
+* 환자 정보:
+	+ 성별: 여성
+	+ 나이: 91세
+	+ 병원: 5병동, 516호
+* 검사 결과:
+
+CBC (Complete Blood Count) with Diff (Differential):
+
+| 코드 | 명칭/소견 | 결과치 | 참고치 |
+| --- | --- | --- | --- |
+| [L]CBC | CBC (Diff 포함) | - | - |
+| D0002050 | Hmoglobin | 12.10 | 11.3 ~ 15.0 g/dL |
+| D0002040 | Hematocrit | 36.50 | 32.0 ~ 44.0 % |
+| D0002030 | RBC | 3.61 | L 3.70 ~ 5.20 10^6/µL |
+| D0002010 | WBC | 4.10 | 4.0 ~ 10.0 10^3/µL |
+| D0002070 | Plate | 196.00 | 150 ~ 450 10^3/µL |
+
+혈액 세포 지수 (MCV, MCH, MCHC, RDW, MPV, PDW):
+
+| 코드 | 명칭/소견 | 결과치 | 참고치 |
+| --- | --- | --- | --- |
+| D0002070 | MCV | 101.10 fL | 80.0 ~ 99.9 fL |
+| D0002070 | MCH | 33.50 | H 25.7 ~ 33.0 |
+| D0002070 | MCHC | 33.20 | 32.0 ~ 36.0 |
+| D0002070 | RDW | 12.20 | 11.0 ~ 15.0 |
+| D0002070 | MPV | 10.80 | Not established fL |
+| D0002070 | PDW | 11.80 | - fL |
+
+백혈구 분획 (WBC Diff):
+
+| 코드 | 명칭/소견 | 결과치 | 참고치 |
+| --- | --- | --- | --- |
+| D0013 | WBC Diff | - | - |
+| D0013 | Segmented neutrophils | 48.80 | 41.7 ~ 75.0 % |
+| D0013 | Lymphocytes | 38.50 | 18.4 ~ 45.0 % |
+| D0013 | Monocytes | 8.30 | 0.0 ~ 12.0 % |
+| D0013 | Eosinophils | 3.70 | 0.0 ~ 8.0 % |
+| D0013 | Basophils | 0.70 | 0.0 ~ 2.0 % |
+
+소변검사 (Urinalysis) with Microscopy (10종):
+
+| 코드 | 명칭/소견 | 결과치 | 참고치 |
+| --- | --- | --- | --- |
+| [L]U/A+MICRO | U/A 10종+Micro | - | - |
+| D2253 | Routine Urinalysis | - | 결과보고서 참조 |
+| D2253 | Leukocyte | H | Negative |
+| D2253 | Glucose | Negative | Negative |
+| D2253 | Bilirubin | Negative | Negative |
+| D2253 | Ketone | Negative | Negative |
+
+참고: H는 양성, Negative는 음성을 의미합니다.

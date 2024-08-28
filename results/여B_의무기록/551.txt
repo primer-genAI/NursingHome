@@ -1,0 +1,30 @@
+환자 차트 요약:
+
+* 페이지 정보: 차트 번호 0093109779의 검사 슬립지입니다.
+* 검사 일자: 2023년 06월 12일
+
+검사 결과:
+
+* VRE (Vancomycin Resistant Enterococcus): 객담 (Sputum) 및 소변 (Urine)에서 VRE 균주가 배양되지 않았습니다.
+* 기타 검체 (MRSA/MRAB/MRPA/VRSA Culture): 항생제 감수성 검사 결과:
+	+ Acinetobacter spp.
+		- Amikacin: 감수성 (S)
+		- Ampicillin/Sulbactam: 감수성 (S)
+		- Cefepime: 감수성 (S)
+		- Cefotaxime: 감수성 (S)
+		- Gentamicin: 감수성 (S)
+		- Imipenem: 감수성 (S)
+		- Meropenem: 감수성 (S)
+		- Minocycline: 감수성 (S)
+		- Piperacillin/Tazobactam: 감수성 (S)
+		- Tigecycline: 감수성 (S)
+		- Ceftazidime: 내성 (R)
+		- Colistin: 내성 (R)
+		- Aztreonam: 미검출
+		- Ciprofloxacin: 내성 (R)
+		- Trimethoprim/Sulfamethoxazole: 내성 (R)
+	+ 판정: (S: 감수성, R: 내성)
+
+임상 정보:
+
+* 객담 품질 평가가 수행되었습니다.

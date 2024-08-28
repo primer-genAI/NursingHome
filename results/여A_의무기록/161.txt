@@ -1,0 +1,19 @@
+Patient's Chart Summary:
+
+* Page Info: Unknown
+* Document Type: Progress Notes
+* Patient Number: 0092108472
+* Document Date: June 3, 2023
+* Department: Unknown
+* Admission Date: Unknown
+* Room: 512
+* Gender: Female
+* Age: 91 years old
+
+Nurse Record:
+
+* 07:50: Patient appears well-rested, wearing hearing aids. The bed is equipped with an air mattress, and the patient's skin is checked for folds and moisture. The bedrails are raised, and the patient is educated about the risk of falls. The patient expresses emotional distress, stating "I don't know what I'm living for, I want to die" and appears depressed about not being able to return home. She has also been verbally aggressive towards staff and other patients, accusing them of stealing her belongings.
+* 08:10: Vital signs recorded.
+* 10:00: Information missing or unknown.
+* 16:00: Vital signs recorded.
+* 23:00: The patient received a full body bath with the assistance of a caregiver. Blood pressure (BP) 108/71, heart rate (P) 56, respiratory rate (RESP) 20, temperature (T) 36.3°C. The patient was visited by the on-call doctor, and the nursing staff conducted a bedside round. The patient's overall condition was observed, and the bedrails were secured. The patient remains stable and is resting in bed.

@@ -1,0 +1,22 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient's Condition:
+  - Nightly Sleep: The patient slept well overnight without any significant changes.
+  - Bedbound Status: The patient is in a bedbound state with an L-tube (16Fr) in place.
+  - Diet: The patient is receiving nasogastric tube feedings consisting of fiber supplements (Fiber 400 - 200 - 400 kcal/D).
+  - Incontinence: The patient is unable to control their bowel and bladder functions and is wearing diapers.
+  - Pressure Ulcer Prevention: The patient is on an air mattress to prevent pressure ulcers, and the air mattress is checked regularly to ensure it remains properly inflated.
+  - Positioning and Massage: The patient's position is changed regularly, and back massages are performed to promote comfort and prevent pressure ulcers.
+  - Bed Rail: The bed rail is kept in the up position to prevent the patient from falling out of bed.
+  - Observations: The patient's overall condition is monitored during bedside rounds.
+
+- Date Range: May 19, 2024
+- Daily Routine:
+  - 06:00: Nursing staff conducts bedside rounds to check the patient's condition.
+  - 07:50: Nursing staff performs bedside rounds, checks the L-tube and feeding regimen, monitors the air mattress, repositions the patient, and provides a back massage.
+  - 10:00 and 16:00: On-call doctors conduct rounds and observe the patient's overall condition. The bed rail is checked and secured.
+  - 23:00: Nursing staff conducts bedside rounds and ensures the bed rail is in the up position.
+
+Note: The summary above is a patient-friendly explanation of the provided medical document. It simplifies medical terms and explains the patient's condition, treatments, and daily routine in a clear and easy-to-understand format.

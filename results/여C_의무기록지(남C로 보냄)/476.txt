@@ -1,0 +1,17 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: 0092108480
+- Document Date: May 4, 2024
+- Department: Unknown
+- Room: 515
+- Gender: Female
+- Age: 87 years old
+- Vital Signs: Unknown
+
+Nursing Record:
+- 16:00: Room round performed, overall condition observed, bedrail secured, patient in bed rest.
+- 19:00 & 23:00: Room round performed, bedrail found to be up.
+- 06:00 & 07:50: Room round performed, patient slept well without significant changes, bedridden state with Foley catheter 18fr kept, perineal care performed, unable to control bowel movements, wearing diapers, air mattress kept, repositioning and back massage done, bedsheet and clothing wrinkles smoothed, skin folds checked for moisture, bedrail raised, emotional support provided, right leg knee and above and below swelling observed, right femur fracture with right long leg cast applied (April 16, 2024).
+- 10:00: Room round performed, overall condition observed, BPL 69, temperature 36.3°C, on-call doctor round performed.
+- 16:00: Room round performed, overall condition observed.

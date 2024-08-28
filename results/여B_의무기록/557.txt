@@ -1,0 +1,33 @@
+검사 슬립지:
+
+- 차트 번호: 0093109779
+- 검사 일자: 2023년 6월 26일
+- 환자 정보:
+  - 성별: 여성
+  - 나이: 77세
+  - 병동/병실: 5병동 / 505호
+
+검사 결과:
+
+- [L]CRE REC: 대장균에 대한 CRE 배양 및 감수성 검사 (직장 SW)
+  - 균주: 대장균
+  - 항생제 감수성:
+    - Chloramphenicol: <=8 (감수성)
+    - Fostomycin: <=32 (감수성)
+    - Tetracycline: <=4 (감수성)
+    - Tigecycline: <=1 (감수성)
+    - Gentamicin: 8 (내성)
+    - Minocycline: 8 (내성)
+    - Amikacin: >32 (내성)
+    - Amox/K Clav: >16/8 (내성)
+    - Amp/Sulbactam: >16/8 (내성)
+    - Ampicillin: >16 (내성)
+    - Aztreonam: >16 (내성)
+    - Cefepime: >16 (내성)
+    - Cefotaxime: >32 (내성)
+    - Cefoxitin: >16 (내성)
+    - Ceftazidime: >16 (내성)
+    - Cefuroxime: >16 (내성)
+    - Ciprofloxacin: >2 (내성)
+    - Doripenem: >4 (내성)
+    - Er

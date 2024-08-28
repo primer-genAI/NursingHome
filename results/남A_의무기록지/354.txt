@@ -1,0 +1,16 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Unspecified
+- Document Date: April 14, 2024
+- Vital Signs: Unspecified
+
+Nurse Record:
+
+- 07:50: The nurse made rounds and observed that the patient slept well without any significant changes. The patient is bedridden with left hemiplegia and has an L-tube (18Fr) in place. The patient is being given a tube feed with 400 kcal/day. The patient is unable to control their bowel movements and wears diapers. The patient repeatedly taps their right hand on the bed rail. The nurse checked the air mattress and made sure it was inflated. The patient was turned and received a back massage. The nurse educated the patient about the risk of falls and instructed them to keep the bedrails up while in bed. The patient's behavior was observed to be repetitive, with them constantly tapping the bed and showing signs of behavioral disorder when awake.
+- 09:05: The nurse, with the help of a caregiver, performed a full body bath on the patient.
+- 10:00 V/S: The nurse checked the patient's vital signs and recorded them.
+- 16:00: The nurse made rounds and observed the patient's overall condition. The bedrails were secured, and the patient was resting comfortably in bed.
+- 23:00: The nurse recorded the patient's actions and movements.
+- 2024-04-14 Insurance/Guardian: The nurse made rounds and observed that the patient slept well without any significant changes.

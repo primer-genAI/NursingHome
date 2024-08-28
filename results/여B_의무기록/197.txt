@@ -1,0 +1,19 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Unspecified
+- Document Date: July 24, 2023
+- Room: Unspecified
+- Patient Condition: Bedridden, unable to communicate verbally or nonverbally. Catheterized and receiving tube feeding via a nasal prong. Oxygen therapy with a spo2 level of 95-98%. Isolated due to CRE and contact precautions.
+- Nursing Notes:
+  - 19:00: Vital signs taken and recorded. Adhering to isolation precautions.
+  - 23:00: Room round conducted, ensuring bedrails were up.
+  - 06:00: Room round conducted, noting the patient slept well through the night with no significant changes. Blood sugar checked and recorded.
+  - 07:50: Room round conducted, checking the patient's condition, tube feeding, and perineal care. Ensuring isolation precautions were followed.
+  - 09:00: Vital signs taken and recorded.
+  - 09:38: Anti-infection treatment ordered and noted.
+  - 10:00: Doctor's round conducted.
+  - 10:50: Unspecified nursing note.
+
+Please note that the patient's name, medical record number, and other identifying information have been omitted for privacy reasons.

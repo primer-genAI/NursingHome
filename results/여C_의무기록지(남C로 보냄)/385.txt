@@ -1,0 +1,24 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: January 25, 2024
+- Department: Unknown
+- Room: Unknown
+- Patient: Unknown
+
+Vital Signs:
+- Blood Pressure: 117/62
+- Pulse: 65
+- Respiration: 20
+- Temperature: 36.6°C
+
+Nursing Notes:
+- 6:00 AM: Room round conducted. Patient slept well with no significant changes during the night.
+- 7:50 AM: Room round conducted to observe the patient's overall condition while bedridden. The patient is unable to control bowel and bladder movements and wears diapers. An air mattress is provided, and the patient's body position is changed along with a back massage. The patient's sheets and clothing are smoothed, and the bedrail is raised for air circulation to prevent skin moisture. The patient does not respond well and appears depressed.
+- 10:00 AM: Vital signs were taken: Blood pressure - 117/62, pulse - 65, respiration - 20, temperature - 36.6°C. The attending physician made their rounds.
+- 15:00 PM: Traditional Chinese medicine treatment was administered.
+- 16:00 PM: Room round conducted to observe the patient's overall condition. The patient is stable and resting comfortably.
+- 11:00 PM: Room round conducted to ensure the bedrail is in the raised position.
+
+Please note that the patient's name, gender, age, and other specific medical history are not provided in the given document.

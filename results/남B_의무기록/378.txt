@@ -1,0 +1,21 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient's Condition: Bedridden with left-sided hemiplegia, using a Foley catheter (18Fr) for urine control, but unable to control bowel movements and requires diapers.
+- Vital Signs:
+  - 10:00 AM: Blood pressure 108/66, heart rate 53, respiratory rate 21, temperature 36.4°C
+- Nursing Interventions:
+  - Checked and maintained air mattress to prevent pressure sores
+  - Performed position changes and back massage
+  - Educated the patient on fall prevention
+  - Provided emotional support
+- Medications: Unspecified
+- Special Equipment: Foley catheter (18Fr)
+- Other Notes:
+  - The patient slept well during the night without any significant changes
+  - Bed rails were secured and the patient remained in a stable condition
+- Room: Unspecified
+- Gender: Unspecified
+- Age: Unspecified
+- Admission Date: Unspecified
+- Department: Unspecified

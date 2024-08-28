@@ -1,0 +1,24 @@
+Nurse Record Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Not specified in the provided text
+- Date: June 15, 2024
+- Time: 13:10, 15:00, 16:00, 23:00, 06:00, 07:50, 10:00, 11:10
+- Nurse Actions:
+  - 13:10: Applied Anniezone cream 15g for toe treatment.
+  - 15:00: Performed acupuncture treatment.
+  - 16:00: Checked patient's overall condition and confirmed bed rail is fixed. Patient is resting in bed.
+  - 23:00: Checked that bed rails are raised.
+  - 06:00: Checked that patient slept well with no significant changes.
+  - 07:50: Noted patient has incontinence and wears a diaper. Checked air mattress for deflation, performed a body position change every 2 hours, and gave a back massage. Patient is emotionally stable. Both ankles have a stabbing pain with a pain score of 3. Pain is managed with Durogesic Transdermal Patch 12 mcg/h (Fentanyl). Patient can ambulate with a walker, but assistance is needed for balance.
+  - 10:00-11:10: Attended to the patient during the on-call doctor's round.
+- Patient Condition:
+  - Sore on the coccyx (tailbone) area, Stage 4 pressure ulcer measuring 4 x 5 x 1 cm.
+  - Pain in both ankles with a score of 3 out of 10.
+- Treatment:
+  - Air mattress applied.
+  - Body position changed every 2 hours and back massage performed.
+  - Skin condition observed at the pressure sore site.
+- Additional Information:
+  - Emotionally stable.
+  - Assistance required for walker ambulation.

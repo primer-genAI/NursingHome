@@ -1,0 +1,16 @@
+Nurse Record Summary:
+
+* Vital Signs:
+	+ 10:00 AM: BP - 100/62, Pulse - 50, Respiration - 20, Temperature - 36.0°C
+	+ 06:00 AM: BP - 98/58, Pulse - 54, Respiration - 20, Temperature - 36.6°C
+* Nursing Record:
+	+ 16:00 PM: Room round conducted. Overall condition observed. Bedrail fixed. Patient stable.
+	+ 09:05 AM: Room round conducted. Bedrail up. # Insurance/Caregiver Record:
+	+ 23:00 PM: Room round conducted. Bedrail up. # Insurance/Caregiver Record:
+	+ 10:00 AM: Room round conducted. Bedrail up. # Insurance/Caregiver Record:
+	+ 16:00 PM: Room round conducted. Bedrail up. # Insurance/Caregiver Record:
+	+ 23:00 PM: Room round conducted. Bedrail up. # Insurance/Caregiver Record:
+* Nursing Care:
+	+ 07:50 AM: Room round conducted. Patient slept well without any changes. Patient is bedridden with left hemiplegia and has a cystostomy (Foley catheter 18Fr) in place with good urine output. The patient can control urine but not stool and wears diapers. The patient's air mattress was checked for leaks, and body positioning and back massage were provided. Fall prevention education was given, and emotional support was offered. The patient received a full-body bath with the help of a caregiver. Vital signs were taken: BP - 98/58, Pulse - 54, Respiration - 20, Temperature - 36.6°C.
+* Physician Round:
+	+ On-call physician round conducted.

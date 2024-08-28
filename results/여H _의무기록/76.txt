@@ -1,0 +1,29 @@
+Patient's Chart Summary:
+
+- Document Type: Nurse Record
+- Document Date: May 22, 2024
+- Patient Information:
+  - Age: Unknown
+  - Gender: Unknown
+  - Condition: Bedridden, blind in both eyes, unable to control bowel and bladder movements, leg contractures and stiffness causing occasional pain, depression, difficulty sleeping, and hunger during the night.
+
+- Care Plan:
+  - Raising bedrails to prevent falls
+  - Providing emotional support
+  - Keeping an air mattress and performing position changes
+  - Ensuring the patient's skin is not pressed against the bed or sheets
+  - Ventilating the area to keep the skin dry
+
+- Medical Interventions:
+  - Check-ups by the attending physician at 10:00
+  - Room rounds by the nurse at 16:00, observing overall condition and bedrails being secured
+  - Acupuncture treatment at 16:30
+  - Nighttime bedrail checks at 23:00
+
+- Overnight Observation:
+  - No significant changes in condition during the night
+  - The patient slept well through the night
+
+- Morning Care:
+  - Nursing record at 06:00
+  - Morning room rounds at 07:50, noting the patient's bedridden status, blindness, incontinence, leg issues, emotional state, and sleep and hunger patterns.

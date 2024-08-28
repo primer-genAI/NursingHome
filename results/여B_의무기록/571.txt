@@ -1,0 +1,36 @@
+환자 차트:
+
+* 페이지 정보: 알 수 없음
+* 문서 유형: 검사 슬립지
+* 차트 번호: 0093109779
+* 검사 날짜: 2023년 07월 17일
+* 환자 정보:
+	+ 이름: 알 수 없음
+	+ 의사: 입원
+	+ 성별: 여성
+	+ 나이: 77세
+	+ 병동: 5병동
+	+ 병실: 505호
+* 검사 결과:
+	+ VRE REC VRE Culture&Sensitivity (직장 면봉):
+		- 균주: Enterococcus faecium
+		- 항생제 내성:
+			+ L inezolid: 내성 (Susceptible)
+			+ Ampicillin: 저항 (Resistant)
+			+ Clindamycin: 중간 (Intermediate)
+			+ Erythromycin: 중간 (Intermediate)
+			+ Fusidic Acid: 내성 (Susceptible)
+			+ Gentamicin: 저항 (Resistant)
+			+ Penicillin: 저항 (Resistant)
+			+ Rifampin: 저항 (Resistant)
+			+ Streptomycin: 저항 (Resistant)
+			+ Synercid: 저항 (Resistant)
+			+ Teicoplanin: 중간 (Intermediate)
+			+ Trimethoprim/Sulfamethoxazole: 저항 (Resistant)
+			+ Vancomycin: 중간 (Intermediate)
+		- 판정: 저항 (Resistant)
+		- 임상 정보: VRE (Vancomycin-Resistant Enterococcus) 균주
+	+ VRE URI VRE Culture&Sensitivity (소변):
+		- 결과: VRE [Vancomycin-Resistant Enterococcus] 균주 배양되지 않음
+	+ CRE REC CRE Culture & Sensitivity (직장 면봉):
+		- 결과: CRE [Carbapenem-Resistant Enterobacteriaceae] 균주 배양되지 않음

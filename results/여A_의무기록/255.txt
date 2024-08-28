@@ -1,0 +1,33 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Patient's Chart
+- Patient Number: 0092108472
+- Document Date: Unknown (September 15, 2023, implied)
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91
+- Vital Signs: Unknown
+
+### Nurse Recording:
+- 06:00: Routine room check, patient slept well.
+- 07:50: Room check, patient incontinent and wearing diapers. Air mattress in use. Skin care provided, and patient reported general emotional distress, expressing a desire to die and feeling depressed about being unable to go home. Patient verbally abuses staff and accuses them of stealing food or blames others for her condition.
+- 10:00: Doctor's round.
+- 10:00: Vital signs: BP 108/63, P 61, RESP 20, T 36.9
+- 15:00: Acupuncture treatment administered.
+- 16:00: Room check, patient stable and resting in bed with railings up.
+- 23:00: Room check, railings were confirmed to be in the up position.
+
+### Continuation:
+- September 15, 2023: Insurance/Guardian information.
+- 06:00: Room check, no significant changes reported since the previous night.
+
+### Remarks:
+- The patient's vital signs are not provided in the summary.
+- The patient's emotional state is described as distressed, expressing a desire to die and feeling depressed about her condition.
+- The patient exhibits aggressive behavior towards staff, accusing them of stealing and blaming others for her condition.
+- The patient is incontinent and requires diaper use.
+- The patient is receiving an air mattress and skin care to prevent pressure sores.
+- The patient is undergoing acupuncture treatment.

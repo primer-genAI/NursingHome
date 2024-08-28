@@ -1,0 +1,6 @@
+Nurse Record Summary:
+- Overall Condition: Patient is in bedrest, with bedrails fixed. Vital signs at 19:00: BP 122/70, P 64, RESP 20, T 36.7.
+- Night: Patient slept well with no significant changes. Vital signs at 06:00: BP 122/48, P 52, RESP 20, T 36.0, SPO2 99%.
+- 07:50: Nurse made rounds, noted paraplegia (lower body paralysis) and left-sided tube (18Fr) in place. The patient is on a feeding regimen of 400-400-400kcal/day and uses a diaper due to incontinence. The nurse checked the air mattress for leaks, changed the patient's position, and performed a back massage. The patient was educated on fall prevention and the nurse raised the bedrails. The patient shows repetitive behavior by tapping the bedrail with their right hand and is in a state of delirium. The patient is receiving antibiotics for sepsis (since 12/14).
+- 10:00: Nurse made rounds, noted that the patient's vital signs were BP 116/57, P 62, RESP 21, and T 36.3. The nurse changed the nasogastric tube (NGT) to a new one with a size of 18Fr, and the gastric aspiration test was successful.
+- 16:00: Nurse made rounds and observed the patient's overall condition.

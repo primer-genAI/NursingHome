@@ -1,0 +1,12 @@
+<h1>K-MMSE</h1>
+<p>No.: 00921 08261 Name:</p>
+<h1>Drawing</h1>
+<p>Draw a pentagon:</p>
+<figure><img src="pentagon drawing" /></figure>
+<h1>Date</h1>
+<p>February 20, 2024:</p>
+<figure><img src="signature" /></figure>
+<h1>Reading</h1>
+<p>"Close your eyes"</p>
+<h1>Writing</h1>
+<p>Close your eyes</p>

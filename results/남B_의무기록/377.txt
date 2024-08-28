@@ -1,0 +1,32 @@
+Patient's Chart Summary:
+
+* Page Info: Unknown
+* Document Type: Nurse Record
+* Patient Number: 0092108261
+* Document Date: June 24, 2024, and June 25, 2024
+* Department: Unknown
+* Admission Date: Unknown
+* Room: 311
+* Gender: Male
+* Age: 82 years old
+* Vital Signs: Not provided
+* Diagnoses: Not provided
+* Medical History: Not provided
+* Current Medications: Not provided
+
+Nurse Record:
+
+* June 24, 2024:
+	+ 23:00: Room round conducted. No significant changes overnight, patient slept well.
+	+ Written by: Unknown
+* June 25, 2024:
+	+ 06:00: Room round conducted. No significant changes overnight, patient slept well.
+	+ Written by: Unknown
+	+ 07:50: Room round conducted. Patient in bedridden state with left hemiplegia (Cystostomy with Foley catheter 18Fr, urine output well, can control urination but not defecation, wearing diapers). Checked air mattress for deflation, performed body repositioning and back massage, provided education on fall prevention, and provided emotional support. Vital signs: BP 109/59, P 52, RESP 20, T 36.4.
+	+ Written by: Unknown
+	+ 16:00: Room round conducted, observed patient's condition, bedrail is secured.
+	+ Written by: Unknown
+	+ 23:00: Room round conducted, confirmed bedrail is up.
+	+ Written by: Unknown
+
+Please note that this summary is based on the given information, which is limited to the nurse's record. There is no additional information provided about the patient's diagnoses, medical history, or current medications.

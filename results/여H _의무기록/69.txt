@@ -1,0 +1,22 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information:
+  - 자가 Air mattress kept & 체위변경 시행함 시트나 환의의 주름을 펴드리고 환자의 피부가 눌리지 않도록 해드림 피부가 습하지 않도록 바람이 통하게 환기 시켜 드림. 기분이 처진 것처럼 보이며 말수가 적어짐 집에 갈 수 없는 것에 대해 우울함 밤에 숙면 취하지 못하고 자다깨다 하며 먹을 것 찾음.
+  - 양쪽 시력없음 대소변 조절 스스로 못해 기저귀 착용중임. 양쪽 다리에 구축 및 강직있어 간헐적으로 통증 호소함.
+- Document Date: May 13, 2024
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: Unknown
+- Diagnoses:
+  - Unspecified depression (F329^00)
+  - Unspecified spastic paraplegia (G203^00)
+  - Unspecified visual impairment (H549^00)
+- Medical History: Unknown
+- Current Medications: Unknown
+
+이 간호 기록에는 환자의 자가 Air mattress 관리, 체위 변경, 피부 관리, 정서적인 간호, 그리고 전반적인 상태 관찰에 대한 내용이 포함되어 있습니다. 또한, 환자의 양쪽 시력 상실, 대소변 조절 능력의 부재, 양쪽 다리의 구축 및 강직, 그리고 우울증에 대한 정보도 언급되어 있습니다.

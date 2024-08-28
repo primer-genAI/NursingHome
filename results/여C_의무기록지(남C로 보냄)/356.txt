@@ -1,0 +1,19 @@
+Patient's Chart Summary:
+
+- Document Type: Nurse Record
+- Document Date: June 22, 2023
+- Department: Unknown
+- Room: Unknown
+- Patient's Condition:
+  - Observed overall condition and found the patient in a bedridden state.
+  - The patient cannot control their bowel or bladder and wears diapers.
+  - An air mattress was provided, and the patient's position was changed and a back massage was given.
+  - The patient's sheets and clothing were smoothed out to prevent skin fold pressure and to keep the patient's skin dry and well-ventilated.
+  - The bedrail was raised for safety.
+  - The patient's emotional state was observed, and they were found to be unresponsive, moody, or less talkative.
+- Medical Interventions:
+  - Vital signs were taken at 07:50 (Blood pressure: 96/58, Heart rate: 59, Respiratory rate: 20, Temperature: 36.6°C), 14:00 (Blood pressure: 96/58, Heart rate: 59, Respiratory rate: 20, Temperature: 36.6°C), and 19:00 (Vital signs not provided).
+  - The patient's blood sugar level was checked at 06:00 (FBS: 81).
+  - A physician round was conducted at 10:00.
+  - A traditional Chinese medicine treatment was given at 15:00.
+  - The patient's overall condition was observed during bedside rounds at various times throughout the day.

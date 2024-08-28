@@ -1,0 +1,26 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Progress Notes
+- Patient Number: 0092108261
+- Document Date: January 20-24, 2024
+- Department: FM1
+- Room: 311
+- Gender: Male
+- Age: 82 (current age: 83)
+- Vital Signs:
+  - January 20: BP;132 BPL;80 P;56 RESP;20 T;36.9
+  - January 21: V(19:49) : T;36.8
+  - January 22: BP;108 BPL;.71 P;53 RESP;19 T;36.2
+  - January 23: BP;119 BPL;68 P;52 RESP;21 T;36.3
+  - January 24: BP;91 BPL;61 P;54 RESP;20 T;36.6
+- Meals:
+  - January 20: General Meal (Breakfast) 1, General Meal (Lunch) 1, General Meal (Dinner) 1
+  - January 21: General Meal (Breakfast) 1, General Meal (Lunch) 1, General Meal (Dinner) 1
+  - January 22: General Meal (Breakfast) 1, General Meal (Lunch) 1, General Meal (Dinner) 1
+  - January 23: General Meal (Breakfast) 1, General Meal (Lunch) 1, General Meal (Dinner) 1
+  - January 24: General Meal (Breakfast) 1, General Meal (Lunch) 1, General Meal (Dinner) 1
+- Diagnoses: Unknown (no specific diagnoses mentioned)
+- Medical History: Unknown (no specific medical history mentioned)
+- Current Medications: Unknown (no specific medications mentioned)
+- Physician: Unknown (no specific physician mentioned)

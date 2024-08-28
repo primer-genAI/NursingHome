@@ -1,0 +1,24 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Section: Vital Signs and Nursing Record
+- Date: May 9, 2024
+- Time: 10:00, 11:10, 15:00, 16:00, 19:00, 23:00, 06:00, 07:50
+- Nurse's Name: Unknown
+- Patient Information:
+  - Vital Signs:
+    - Blood pressure: 106, 107
+    - Pulse: 66, 70, 101, 102
+    - Respiration rate: 20
+    - Temperature: 36.5°C, 36.3°C
+    - Oxygen saturation: 97%, 96%
+  - Nursing Record:
+    - 11:10: Performed dressing on a stage 4 pressure sore on the left buttock and applied an air mattress. Assisted with repositioning and observed the skin condition of the pressure sore area.
+    - 15:00: Conducted a room round and observed the overall condition. The bedrail was secure and the patient was resting in bed.
+    - 16:00: Performed a room round and observed the overall condition. The bedrail was secure and the patient was resting in bed.
+    - 19:00: Recorded vital signs and performed a room round. The bedrail was in the raised position.
+    - 23:00: Performed a room round and ensured the bedrail was in the raised position.
+    - 06:00: Performed a room round and observed that the patient slept well with no significant changes overnight.
+    - 07:50: Performed a room round, checked the bedrail, and observed the patient's condition. The right PICC line was in place with no redness, swelling, or discharge.
+      - The patient is bedridden and receiving a liquid diet through an L-tube (Ensolve 600-600-300-300kcal/D). A Foley catheter is in place, and perineal care is being provided. The patient is wearing diapers due to incontinence and is using an air mattress from the hospital. The nurse checked the air mattress's inflation, assisted with repositioning, and performed a back massage. The overall condition is being monitored.

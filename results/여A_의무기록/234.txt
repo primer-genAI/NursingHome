@@ -1,0 +1,32 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: 0092108472
+- Document Date: August 23, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91 (current age: 91)
+- Vital Signs: BP: 107/68, HR: 60, RESP: 20, Temp: 36.7°C
+- Medical History: The patient has been admitted for unspecified reasons.
+- Current Medications: Unknown
+- Nursing Notes:
+  - The patient slept well throughout the night with no significant changes.
+  - The patient is unable to control their bowel and bladder movements and is wearing diapers.
+  - The patient is lying on an air mattress provided by the hospital.
+  - The patient's bedsheets and clothing are kept smooth to prevent skin irritation.
+  - The patient expresses a desire to die and feels depressed about not being able to return home.
+  - The patient may shout or curse at staff and accuses others of stealing from them.
+  - The patient occasionally becomes aggressive and uses inappropriate language towards other patients.
+  - The patient's bedrails are locked to prevent falls.
+  - The patient remains in bed and their overall condition is observed.
+  - The patient's bedrails are checked and found to be in the raised position.
+  - The patient's vital signs are taken and recorded.
+  - The patient's attending physician makes rounds.
+  - The patient receives traditional Korean medical treatment.
+  - The patient's overall condition is observed during bedside rounds.
+  - The patient's bedrails are checked and found to be in the raised position.
+  - The patient's bedside rounds are conducted, and their condition is observed.
+  - The patient's bedside rounds are conducted in the morning, and their condition is observed.
+  - The patient is unable to control their bowel and bladder movements and is wearing diapers.

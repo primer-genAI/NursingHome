@@ -1,0 +1,12 @@
+Nurse Record:
+
+* Nursing Record: Night duty at 16:00 - Observed overall condition of the patient in the room. Bedrail is secured and patient is resting comfortably in bed.
+* 23:00 - Conducted room rounds. Confirmed that the bedrail is in the up position.
+* January 22, 2024 - Insurance/Guardianship at 06:00 - Conducted room rounds. Patient slept well through the night with no significant changes observed.
+* 07:50 - Conducted room rounds. Patient is unable to communicate verbally or through eye contact. An L-tube is in place for feeding, currently at 200 kcal per 4 feedings. Patient is incontinent and wearing diapers. The patient's air mattress was checked for any deflation, and their position was changed along with a back massage. The bedrail was raised, and the patient's overall condition was observed.
+* 10:00 - Vital Signs: Blood Pressure: 117/81, Pulse: 81, Respiratory Rate: 20, Temperature: 36.3°C.
+* 10:00 - Nursing Record: Attending physician made rounds.
+* 16:00 - Conducted room rounds. Observed the patient's overall condition. The bedrail is secured, and the patient is resting comfortably in bed.
+* January 23, 2024 - Insurance/Guardianship at 23:00 - Conducted room rounds. Confirmed that the bedrail is in the up position.
+
+Please note that the missing information in the last row of the table (-- -- and -) indicates that the writer's name and date are missing.

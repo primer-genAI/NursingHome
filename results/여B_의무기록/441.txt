@@ -1,0 +1,42 @@
+Nurse Record Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: 0093109779
+- Document Date: April 5, 2024
+- Department: Unknown
+- Room: 511
+- Gender: Female
+- Age: 77 years old
+
+Vital Signs:
+
+- April 5, 2024, 10:00 AM:
+  - Blood Pressure: 103/55
+  - Pulse Rate: 76
+  - Respiratory Rate: 20
+  - Temperature: 36.9°C
+  - Oxygen Saturation: 100%
+- April 5, 2024, 14:00 PM:
+  - Blood Pressure: 95/57
+  - Pulse Rate: 60
+  - Respiratory Rate: 20
+  - Temperature: 36.1°C
+  - Oxygen Saturation: 100%
+
+Nurse Actions:
+
+- April 5, 2024, 23:00 PM:
+  - Nursing Record: Checked on the patient and noticed that the bedrail was up.
+- April 5, 2024, 06:00 AM:
+  - Nursing Record: Checked on the patient and found no significant changes during the night. The patient could not communicate verbally or through eye contact. L-tube was in place for feeding with Ensob 600-600-300-300kcal/day. A urinary catheter was maintained, and perineal care was provided. The patient was lying on an air mattress, and the mattress was checked for any leakage. The patient's position was changed, and a back massage was given. The patient was bedridden, and overall condition was observed. The patient was receiving 4L/min of oxygen via nasal prong inhalation, and oxygen saturation was between 94% and 99%. A Stage 4 pressure sore was found on the left buttock measuring 6 x 7 x 1 cm.
+- April 5, 2024, 07:50 AM:
+  - Nursing Record: Provided care and assistance.
+- April 5, 2024, 10:00 AM:
+  - Nursing Record: The attending physician made rounds.
+- April 5, 2024, 10:50 AM:
+  - Nursing Record: With the help of a caregiver, the patient underwent a full body bath.
+- April 5, 2024, 11:10 AM:
+  - Nursing Record: A Stage 4 pressure sore was found on the left buttock measuring 6 x 7 x 1 cm. The nursing staff applied air mattress and changed the patient's position, giving a back massage. The nursing staff observed the skin condition around the pressure sore.
+- April 5, 2024, 14:00 PM:
+  - Nursing Record: Vital signs were taken.

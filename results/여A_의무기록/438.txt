@@ -1,0 +1,36 @@
+Nursing Record Summary:
+
+* Patient: 0092108472, Female, Age 91
+* Room: 516
+
+Vital Signs:
+
+* June 5, 2022:
+	+ 15:00: Blood pressure (BP) 118/70, Pulse (P) 63, Respiration (RESP) 6.2
+	+ 16:00: BP 118/70, P 63, RESP 6.2
+	+ 23:00: BP, P, RESP not provided
+* June 6, 2022:
+	+ 06:00: BP 106/70, P 71, RESP 20, Temperature (T) 36.3
+	+ 10:00: BP 106/70, P 71, RESP 20, T 36.3
+
+Nursing Actions:
+
+* June 5, 2022:
+	+ 15:00: Traditional Chinese Medicine (TCM) treatment performed.
+	+ 16:00: Room round conducted, general condition observed.
+	+ 23:00: Vital signs not provided.
+* June 6, 2022:
+	+ 06:00: Room round conducted, no significant changes overnight, patient slept well. Bedrail was fixed, and patient was stable.
+	+ 07:50: Patient expressed depression and suicidal thoughts.
+	+ 10:00: Room round conducted by the on-call doctor.
+	+ 10:50: DS (Daily Sheet) completed, bedrail check performed.
+
+Clinical Observations:
+
+* Patient is depressed and expresses suicidal thoughts.
+* Patient has difficulty controlling bowel and bladder movements, requiring diapers.
+* Patient is on an air mattress at the hospital.
+* Patient's bed is kept flat to prevent skin breakdown.
+* Patient's bedrail is kept up when not in use to prevent falls.
+* Patient has been educated about the risk of falls.
+* Patient may exhibit aggressive behavior, such as accusing others of stealing and making unprovoked attacks on other patients.

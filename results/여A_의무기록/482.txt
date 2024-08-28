@@ -1,0 +1,16 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Recording
+- Patient Number: 0092108472
+- Patient Details: Female, 91 years old, Room 516
+
+Nursing Record:
+
+- 10:00am: Vital Signs - Blood Pressure: 102/70, Pulse: 69, Respiration: 20, Temperature: 36.8°C. The patient was visited by the on-call doctor.
+- 4:00pm: The patient accuses others of stealing diapers, snacks, and becomes aggressive towards the bedridden patient next to her. She mentions threatening staff with hitting them during bath time.
+- 11:00pm: The nurse conducted a room round and ensured the bedrail was up.
+- 5/27/2024: The patient's insurance/guardian information is unspecified. The nurse conducted morning rounds, observed the patient's overall condition, and provided emotional support as the patient expressed suicidal thoughts and verbally abused staff and fellow patients.
+- 10:00am: Vital Signs - Blood Pressure: 90/60, Pulse: 62, Respiration: 20, Temperature: 36.0°C. The patient was visited by the attending physician.
+
+Please note that the patient's behavior and condition may require further medical evaluation and intervention.

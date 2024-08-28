@@ -1,0 +1,19 @@
+검사 슬립지:
+
+* 차트 번호: 0093109779
+* 검사 날짜: 2023년 12월 20일
+* 환자 이름: (정보 없음)
+* 담당 의사: (정보 없음)
+* 환자 정보:
+	+ 성별: 여성
+	+ 나이: 77세
+	+ 병원 병동 / 병실: 5병동 / 505호
+* 검사:
+	+ VRE Rectal Swab Culture and Sensitivity (직장 면봉 검사)
+	+ 결과: VRE (Vancomycin Resistant Enterococcus) 균주가 배양되지 않았습니다.
+	+ 최종 결과 보고: 2023년 12월 22일
+
+참고:
+
+* VRE: Vancomycin Resistant Enterococcus (반코마이신 내성 장구균)
+* 직장의 면봉을 사용하여 VRE를 검사하였습니다.

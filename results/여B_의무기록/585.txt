@@ -1,0 +1,34 @@
+검사 슬립지:
+- 차트 번호: 0093109779
+- 검사 날짜: 2023년 09월 06일
+- 환자 정보:
+  - 이름: 비어 있음
+  - 성별: 여성
+  - 나이: 77세
+  - 방 번호: 5병동 / 505호
+- 검사:
+  - CBC (Complete Blood Count) with differential:
+    - Hmoglobin: 11.90 L
+    - Hematocrit: 35.90 L
+    - RBC (Red Blood Cells): 3.66 L
+    - WBC (White Blood Cells): 7.50
+    - Platelet: 360.00
+    - MCV (Mean Corpuscular Volume): 98.10
+    - MCH (Mean Corpuscular Hemoglobin): 32.50
+    - MCHC (Mean Corpuscular Hemoglobin Concentration): 33.10
+    - RDW (Red Cell Distribution Width): 14.10
+    - MPV (Mean Platelet Volume): 9.60
+    - PDW (Platelet Distribution Width): 10.20
+    - WBC Differential:
+      - Segmented neutrophils: 56.3%
+      - Monocytes: 6.4%
+      - Eosinophils: 2.5%
+      - Basophils: 0.3%
+      - Lymphocytes: 34.5%
+  - U/A (Urine Analysis) 10종 with Microscopy:
+    - Routine Urinalysis: 양성
+    - Leukocyte: 양성
+    - Nitrite and Glucose: 음성
+    - Urobilinogen: Trace
+    - Protein S.G: 1.004
+    - pH: 8.0°

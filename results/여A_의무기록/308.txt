@@ -1,0 +1,24 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Recording
+- Patient Number: 0092108472
+- Department: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91 (current age: 91)
+- Vital Signs: BP;110 BPL;64 P;61 RESP;20 T;36.5
+
+Nursing Notes:
+
+- The patient was found to be sleeping well during the night with no significant changes.
+- The patient is incontinent and wears diapers. The patient is on an air mattress in the room. The nurse ensured that the patient's skin is not compressed by smoothing out any wrinkles in the sheets or clothes and providing air circulation to keep the skin dry. The bedrails were raised for the patient's safety.
+- The patient expressed a desire to die and appeared depressed about not being able to go home. The patient may have hallucinations, as they were observed cursing at the staff and accusing them of stealing. The patient also verbally abused a fellow bedridden patient.
+- The patient's overall condition was observed, and the bedrails were found to be secure. The patient was resting in bed.
+- A traditional Chinese medicine treatment was administered.
+- The patient's vital signs were recorded as BP;110 BPL;64 P;61 RESP;20 T;36.5.
+- The patient's overall condition was observed, and the bedrails were found to be secure. The patient was resting in bed.
+- The patient was found to be sleeping well during the night with no significant changes.
+- The patient's overall condition was observed, and the bedrails were found to be secure. The patient was resting in bed.
+
+No additional information provided.

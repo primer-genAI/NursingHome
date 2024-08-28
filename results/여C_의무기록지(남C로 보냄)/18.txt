@@ -1,0 +1,40 @@
+Progress Notes:
+- Vitals:
+  - 12:00 PM: PP2; 114
+  - 17:00 PM: PP2; 80
+  - 20:00 PM: PP2; 198
+- Medications:
+  - Acting (Pickup) Ref. Dietary:
+    - Diabetic Diet (Brown Rice) for Breakfast, Lunch, and Dinner, 1 serving each, once a day, on 15:19.
+- Doctor: Hanbang Dept. 515
+- Insurance: 4 / Health Insurance
+- Vitals:
+  - 06:00 AM: FBS; 108
+  - 10:00 AM: BP; 118, BPL; 66, P; 61, RESP; 20, T; 37.1
+  - 12:00 PM: PP2; 132
+  - 17:00 PM: PP2; 93
+  - 20:00 PM: PP2; 190
+- Diagnosis:
+  - F001^00: Dementia due to Alzheimer's disease (G30.1↑)
+- Treatment:
+  - 40012: Acupuncture at 2 or more points (Hegu, Zusanli), 1 session, once, on 15:41
+  - 40080: Investigation law acupuncture at Sam-Um-Gyo, Hyun-Jong, 1 session, once, on 15:41
+- Doctor: (seal)
+- Date: 2023-07-03
+- Department: NR1 515
+- Insurance: 4 / Health Insurance
+- Vitals:
+  - 06:00 AM: FBS; 108
+  - 10:00 AM: BP; 118, BPL; 66, P; 61, RESP; 20, T; 37.1
+  - 12:00 PM: PP2; 132
+  - 17:00 PM: PP2; 93
+  - 20:00 PM: PP2; 190
+- Condition:
+  - Stimulus response, but significant cognitive decline prevents normal conversation; depressed mood; maintaining appetite and lying down; stable vital signs; monitoring the current state.
+- Diagnosis:
+  - F001^00: Dementia due to Alzheimer's disease (G30.1↑)
+  - E149^01: Uncomplicated diabetes mellitus NOS
+  - I109^01: Hypertension (arterial) (essential) (primary) (systemic)
+- Medications:
+  - Acting (Pickup) Ref. Dietary:
+    - Diabetic Diet (Brown Rice) for Breakfast, Lunch, and Dinner, 1 serving each, once a day, on 14:55.

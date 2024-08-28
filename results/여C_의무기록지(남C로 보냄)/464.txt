@@ -1,0 +1,19 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Unknown
+- Date: April 21, 2024
+- Time: 07:50, 10:00, 15:20, 16:00, 23:00, April 22, 2024, 06:00, 07:50
+- Nursing Notes:
+  - 07:50: The patient slept well through the night with no significant changes. The nurse conducted a room round, maintained the Foley catheter with a 18fr size, and performed perineal care. The patient is incontinent and wears diapers. The nurse kept an air mattress, changed the patient's position, and provided back massage. The patient's skin was checked for wrinkles, pressure, and moisture. The bedrail was left up for the patient's safety. The patient appeared lethargic and unresponsive. Swelling was observed on the right leg knee and above and below the knee. The right femur fracture was treated with a long leg cast.
+  - 10:00 V/S: Blood pressure 113/66, pulse 62, respiratory rate 20, temperature 36.2°C. The nurse reported to the on-call physician.
+  - 15:20: The patient had a son visit, following infection control guidelines.
+  - 16:00: The nurse conducted a room round and observed the patient's overall condition. The bedrail was secured, and the patient remained in bed.
+  - 23:00: The nurse checked on the patient and confirmed the bedrail was up.
+  - April 22, 2024, 06:00: The nurse conducted a room round and reported the patient slept well through the night with no significant changes.
+  - 07:50: The nurse conducted a room round, maintained the Foley catheter with a 18fr size, and performed perineal care.
+
+### REMEMBER:
+- Always use a patient-friendly tone.
+- Follow the format of the example closely.
+- Ensure accuracy and clarity in every explanation.

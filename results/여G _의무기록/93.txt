@@ -1,0 +1,23 @@
+Chart Summary:
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Information:
+  - Gender: Female
+  - Age: 89 years old
+  - Room: Room 302
+- Vital Signs: Unknown
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+- Nursing Record:
+  - 23:00: Nurse made rounds, checked bedrail.
+  - 06:00: Patient slept well overnight.
+  - 07:40: Nurse made rounds, patient alert and able to control bowel and bladder. Educated on fall prevention, side rail up, emotional support, overall condition observed. Protector asked to walk with walker, but patient has weak legs and poor balance, so caregiver accompanies.
+  - 09:05: Patient had a full body bath with caregiver's assistance.
+  - 10:00: On-call doctor made rounds.
+  - 16:00: Nurse made rounds, observed overall condition, bedrail fixed, patient stable.
+  - 23:00: Nurse made rounds, checked bedrail.
+  - 06:00: Patient slept well overnight with no significant changes.
+  - 07:42: Nurse made rounds, patient able to control bowel and bladder.
+
+Note: The information provided is based on the given text. Some details are missing or unclear, so they have been left blank or marked as unknown.

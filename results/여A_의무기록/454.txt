@@ -1,0 +1,23 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: 0092108472
+- Patient Information: Female, 91 years old, Room 516
+
+Nursing Record:
+
+- April 24, 2024:
+  - The patient expressed frustration and anger towards staff and other hospital patients due to not being able to go home.
+  - She accused someone of stealing her diapers and snacks, and became aggressive towards another patient in the room.
+  - Vital signs were taken at 10:00 AM (BP: 124/75, P: 62, RESP: 20, T: 36.5) and the patient was observed by the attending physician.
+  - At 2:00 PM, the patient was observed during a room round.
+  - The patient was checked during a room round at 11:00 PM and the bedrails were secured.
+
+- April 25, 2024:
+  - The patient slept well through the night with no significant changes.
+  - At 7:50 AM, the patient was observed and found to be incontinent, using an air mattress, and wearing diapers.
+  - The patient's skin was checked for pressure sores, and the patient expressed feelings of depression and anger about not being able to go home.
+  - Vital signs were taken at 10:00 AM (BP: 122/75, P: 64, RESP: 20, T: 36.0) and the attending physician made rounds.
+
+Note: The image mentioned in the original document is not provided in the summary.

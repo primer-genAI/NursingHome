@@ -1,0 +1,23 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse's Record
+- Patient's Vital Signs:
+  - 10:00 AM: BP 97/58, P 50, RESP 20, T 36.4°C
+  - 16:00 PM: BP 97/60, P 52, RESP 20, T 36.4°C
+  - 23:00 PM: BP not recorded
+  - 06:00 AM (next day): BP not recorded
+  - 10:00 AM (next day): BP 97/52, P 52, RESP 20, T 36.4°C
+- Nursing Interventions:
+  - 07:50 AM: Bed-bound patient with weakness on the left side of the body (Lt hemiplegia), using a Foley catheter (18Fr) for urine control. Stool control is not possible, so a diaper is used. The patient's air mattress was checked for leaks, and the patient was repositioned and given a back massage. Fall prevention education was provided, and emotional support was given.
+  - 16:00 PM: Room check and overall condition observation. Bedrail was in place, and the patient was resting in bed.
+  - 23:00 PM: Room check. Bedrail was found in the up position.
+- Doctor's Rounds:
+  - 10:00 AM: The attending physician visited the patient.
+  - 10:00 AM (next day): The attending physician visited the patient.
+- Laboratory Test Follow-up:
+  - 08/16/2023: Blood tests (CBC, electrolytes, liver function tests) were ordered.
+- Insurance/Guardian Information:
+  - 2023-08-16: Unknown
+
+Please note that the nurse's record does not include a patient number, admission date, department, room number, gender, age, or current medications.

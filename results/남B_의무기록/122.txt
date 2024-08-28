@@ -1,0 +1,19 @@
+Patient's Chart Summary:
+- Page Info: Page No : 25 / 284
+- Document Type: Nurse Record
+- Document Date: July 5, 2023
+- Patient Information: Unspecified
+- Vital Signs:
+  - BP: 107/66
+  - HR: 57
+  - RESP: 20
+  - Temp: 36.5°C
+- Nursing Notes:
+  - 06:00: Patient was awake and alert, no significant changes overnight.
+  - 07:50: Patient is bedridden with left-side weakness. A Foley catheter (18Fr) is in place, and urine output is normal. The patient can control urination but not defecation, so diapers are being used. The patient is on an air mattress, which was checked for leaks. The patient's position was changed, and a back massage was provided. Education on fall prevention was given, and emotional support was offered.
+  - 10:00: Vital signs were taken, and the patient's condition was reviewed by the attending physician.
+  - 16:00: The patient's overall condition was observed, and the bedrails were secure. The patient remained in bed.
+  - 23:00: Bedrails were found to be in the raised position.
+- Insurance/Guardian: Unspecified
+
+Note: The patient's information is not provided in the given document.

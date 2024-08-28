@@ -1,0 +1,15 @@
+Patient's Chart Summary:
+
+* P / Hx:
+	+ R O S: DM ( + ) HTN ( + ) 기타 ( )
+* P / E:
+	+ General: Consc; Clear and well Oriented ( - )
+	+ Cardiorespiratory: Dyspnea ( - ) Chest Pain ( - ) Palpitation ( - )
+	+ Digestive: Indigestion ( - ) Abd Pain ( - ) Nausea ( - ) Constipation ( - ) dysuria ( - )
+	+ Back and Extremities: Low back pain ( - ) hip pain ( - ) NRS ( - ) 기타 ( )
+* P / L:
+	+ Head and neck: Eye; not anemic and not icteric ( - ) L/R ( - / - )
+	+ Chest: CBS width no rale ( - ) RSR with no murmur ( - )
+	+ Abdomen: Soft and flat no tenderness ( - )
+	+ Back and extremities: Pitting edema ( - ) Sore ( - ) 기타 ( )
+	+ 입원초기검사 시행 격리치료 약물치료 진료의사

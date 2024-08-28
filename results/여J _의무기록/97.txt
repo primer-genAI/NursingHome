@@ -1,0 +1,13 @@
+Patient's Chart Summary:
+
+- Patient Info: Female, 79 years old, Room 301
+- Nurse Record:
+  - 10:00: Doctor's round
+  - 16:00: Nurses made their rounds, checked general condition, and found the bedrails secured. The patient is in bed rest.
+  - 16:30: Acupuncture treatment was administered.
+  - 23:00: Nurses made rounds and confirmed the bedrails were up.
+  - 06:00: Nurses made their rounds and confirmed the patient slept well with no significant changes overnight.
+  - 07:50: Nurses made rounds and found the patient in bed rest with quadriplegia, unable to control bowel and bladder movements, and using a bed mattress to prevent pressure sores. The patient's muscles are stiff and inflexible.
+  - 08:30: Assessed the patient's pain level.
+
+Please note that the summary is based on the provided information, which may not include all relevant details.

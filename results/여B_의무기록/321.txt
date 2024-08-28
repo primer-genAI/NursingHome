@@ -1,0 +1,12 @@
+Nurse Record Summary:
+
+- Date: November 29, 2023
+- Patient's condition: Bedridden, unable to communicate verbally or through eye contact.
+- Medical interventions: L-tube (fr18) for feeding with 200kcal every 4 hours, indwelling catheter in place, perineal care provided, and diapers worn due to incontinence.
+- Nursing actions: Performed room rounds, checked the air mattress for deflation, secured bedrails, and monitored the patient's overall condition.
+- Isolation precautions: The patient is in isolation due to D CRE. Nurses wear gloves, gowns, and practice hand hygiene before and after patient care.
+- Vital signs:
+  - 10:00 AM: BP 105/61, P 84, RESP 20, T 36.4
+  - 06:00 AM: No vital signs recorded
+  - 07:50 AM: No vital signs recorded
+- Other notes: The patient slept well throughout the night with no significant changes observed.

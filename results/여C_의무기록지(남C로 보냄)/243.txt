@@ -1,0 +1,27 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: August 15, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs:
+  - 06:00: BP: 104/61, HR: 59, RESP: 20, Temp: 36.9°C
+  - 10:00: BP: 104/61, HR: 59, RESP: 20, Temp: 36.9°C
+  - 15:00: HR: 59, RESP: 20, Temp: 36.9°C
+  - 16:00: HR: 59, RESP: 20, Temp: 36.9°C
+  - FBS: 111
+- Nursing Records:
+  - 06:00: Nursing staff did bedside rounds and observed that the patient slept well with no significant changes during the night.
+  - 07:50: The patient's speech became less frequent. Nursing staff conducted bedside rounds, assessed the patient's overall condition, and noted that the patient was bedridden and unable to control their bowel and bladder functions, requiring diapers. An air mattress was provided, and the nursing staff assisted with body positioning and back massage. The patient's sheets and clothes were smoothed to prevent skin indentation, and the patient's skin was kept dry by providing air circulation. The bedrail was also raised to provide emotional support. The patient responded minimally to verbal stimuli and appeared moody.
+  - 10:00: The patient's attending physician made their rounds.
+  - 10:50: The patient underwent a full body bath with the assistance of a caregiver.
+  - 15:00: The patient received an alternative treatment.
+  - 16:00: Nursing staff conducted bedside rounds, assessed the patient's overall condition, and noted that the bedrail was secured, and the patient was in a resting state.
+  - 23:00: Nursing staff conducted bedside rounds and confirmed that the bedrail was in the raised position.
+  - 2023-08-15: Insurance/Guardian records were updated.
+
+Please note that the patient's specific diagnoses, medical history, and current medications are not provided in this summary.

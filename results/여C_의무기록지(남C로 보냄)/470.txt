@@ -1,0 +1,23 @@
+Nurse Record Summary:
+
+* Date: April 28, 2024
+* Patient's condition:
+	+ Vital signs:
+		- Blood pressure: 102/67 (16:00), 97/66 (10:00), 102/75 (23:00), 97/66 (10:00)
+		- Pulse: 52 (16:00), 56 (10:00), 67 (23:00)
+		- Respiratory rate: 20 (16:00), 21 (10:00), 20 (23:00)
+		- Temperature: 36.3°C (16:00), 36.5°C (10:00), 36.5°C (23:00)
+	+ Observations:
+		- Patient was observed during rounds at 16:00 and 10:00.
+		- The patient was bedridden with an F-catheter 18fr kept and perineal care performed.
+		- The patient was incontinent and wearing diapers.
+		- An air mattress was kept, and the patient's body position was changed, with back massage performed.
+		- The patient's skin was checked for pressure marks, and the bedrail was raised.
+		- The patient was observed to be emotional, with little response to speech and a low mood.
+		- Swelling was observed on the right leg, knee, and above and below the knee.
+		- A right long leg cast was applied (applied on 4/16).
+	+ Actions taken:
+		- Son's face-to-face meeting was conducted under infection control guidelines at 15:15.
+		- Nursing notes were made throughout the day, including night checks.
+
+Note: The summary is based on the provided table, and any missing or unknown information is not included.

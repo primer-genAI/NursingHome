@@ -1,0 +1,37 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Unknown
+- Document Date: Unknown
+- Vital Signs:
+  - 06:00: BP;117 BPL;61 (7:50)
+  - 09:01: BP;161 BPL;84 P;71 RESP;20 T;36.7 Wt.;65
+  - 10:00: Unknown
+  - 16:00: Unknown
+- Medical History:
+  - Left hemiplegia (partial paralysis on the left side of the body)
+  - Insertion of a nasogastric tube for feeding
+  - Urocath application for urine control
+  - Incontinence of feces
+  - Repetitive behavior with right hand
+  - Air mattress for pressure relief
+  - Bedbound with periodic repositioning and back massage
+  - Fall risk education provided
+  - Agitation and repetitive behavior observed
+- ADL Assistance:
+  - Complete assistance with dressing due to left hemiplegia
+  - Complete assistance with washing due to left hemiplegia
+  - Complete assistance with brushing teeth due to left hemiplegia
+  - Complete assistance with bathing due to left hemiplegia
+  - Feeding through L-tube
+  - Complete assistance with repositioning due to left hemiplegia
+  - Complete assistance with sitting up due to left hemiplegia
+  - Complete assistance with transferring due to left hemiplegia
+  - Complete assistance with ambulation due to left hemiplegia
+  - Complete assistance with toileting due to left hemiplegia
+- Nursing Interventions:
+  - Oncologist round done
+  - Overall condition observed
+  - Bedrail secured
+  - Bedrest in progress

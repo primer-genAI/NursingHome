@@ -1,0 +1,19 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Medical History: The patient is bed-ridden and requires assistance with their daily needs. They have a history of sleep disturbances and require frequent nursing interventions.
+- Current Medications: Not specified in this document.
+- Vital Signs:
+  - 10:00 AM: BP 101/52, Pulse 56, Respirations 20, Temperature 36.9°C
+  - 19:00: PP2 179
+- Nursing Interventions:
+  - 07:50: Room round, overall patient condition observed, air mattress maintained, bed ridden state, incontinence, skin care, emotional support provided.
+  - 10:00 AM: Vital signs taken by a nurse.
+  - 10:00 AM: Attending physician rounds.
+  - 15:00: Acupuncture treatment administered.
+  - 16:00: Room round, overall patient condition observed, bedrail secured, patient in bed rest.
+  - 19:00: Vital signs taken, bedrail found in raised position.
+- Date: August 23, 2023
+- Time: 06:00 AM - 19:00 PM
+- Other Information: Not specified in this document.

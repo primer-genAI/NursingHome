@@ -1,0 +1,26 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: November 15, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs:
+  - 19:00: PP2;130
+  - 23:00: BP;104 BPL;60 P;44 RESP;20 T;36.2
+- Nursing Record:
+  - Overall condition observed, bedrail fixed, and bed rest confirmed.
+  - Routine round in the room, checking bedrail.
+  - Patient slept well through the night with no significant changes.
+  - Bedridden state observed, mattress kept, and back massage provided.
+  - Incontinence management with air mattress, keeping the skin dry and well-ventilated.
+  - Limited interaction and emotional support provided due to the patient's low mood and reduced speech.
+  - Vital signs taken at 10:00: BP;104 BPL;60 P;44 RESP;20 T;36.2.
+  - Attending physician's round conducted.
+  - Acupuncture treatment performed.
+  - Routine round in the room, confirming overall condition, bedrail fixed, and bed rest.
+
+Please note that this summary is based on the provided document, which lacks specific patient information.

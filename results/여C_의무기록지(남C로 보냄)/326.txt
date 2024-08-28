@@ -1,0 +1,30 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: 0092108480
+- Document Date: November 17-18, 2023
+- Department: Unspecified
+- Room: 515
+- Gender: Female
+- Age: 87
+- Vital Signs:
+  - PP2: 172
+  - BP: 97/53
+  - P: 40
+  - RESP: 20
+  - T: 36.3
+  - FBS: 85
+
+Nursing Record:
+
+- 11/17/2023:
+  - 07:50: Bedridden patient observation, air mattress, bedsores prevention, emotional support provided.
+  - 10:00: Doctor's round.
+  - 15:00: Acupuncture treatment.
+  - 16:00: Room round, bedrail fixed, patient in bed.
+  - 19:00: Vital signs checked.
+- 11/18/2023:
+  - 06:00: Nursing record entry.
+
+Please note that this summary does not include diagnoses, medical history, or current medications as they were not provided in the given document.

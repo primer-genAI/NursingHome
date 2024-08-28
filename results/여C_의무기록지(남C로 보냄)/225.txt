@@ -1,0 +1,24 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: July 25, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: BP;108 BPL;55 P;60 RESP;20 T;36.9
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Nurse Record:
+
+- 16:00: Room round, general condition observed. Bed rail fixed. Bed rest.
+- 23:00: Room round, bed rail raised noted.
+- 06:00: Insurance/protection check. Vitals checked. FBS;108. Nightly round, no significant changes noted.
+- 07:50: Room round, bedridden state observed. Incontinence, air mattress used. Position change and back massage performed. Clothing and sheets smoothed, air circulation ensured. Fall prevention education provided. Bed rail raised while in bed. Emotional support given. Limited response and low mood observed.
+- 10:00: Vitals: BP;108 BPL;55 P;60 RESP;20 T;36.9. Doctor's round.
+- 15:00: Alternative therapy (한방치료) provided.
+- 16:00: Room round, general condition observed. Bed rail fixed. Bed rest.

@@ -1,0 +1,22 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: April 22-23, 2024
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Room 07:50 (22nd) and Room (23rd)
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: Unknown
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Nurse Record:
+- 06:00 (22nd): Nurse made rounds, patient slept well with no significant changes. Checked on the patient's ability to control their bowel and bladder functions, and noted the presence of an air mattress provided by the hospital. Assessed the air mattress for any deflation and educated the patient on fall prevention, keeping the bedrails up while in bed, and provided emotional support.
+- 10:00 (22nd): Nurse checked the air mattress again, educated the patient on fall risks, and kept the bedrails up. The patient's overall condition was observed, and the attending physician made their rounds.
+- 16:00 (22nd): Nurse made rounds, observed the patient's overall condition, and confirmed that the bedrails were secure. The patient was resting in bed.
+- 23:00 (22nd): Nurse made rounds and confirmed that the bedrails were up.
+- 06:00 (23rd): Nurse made rounds, and the patient slept well with no significant changes. The patient's ability to control their bowel and bladder functions was checked, and the air mattress provided by the hospital was noted. The air mattress was assessed for deflation, and the patient was educated on fall prevention. Emotional support was provided, and the patient's overall condition was observed.
+- 10:00 (23rd): The attending physician made their rounds.

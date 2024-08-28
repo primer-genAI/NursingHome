@@ -1,0 +1,13 @@
+Patient's Chart Summary:
+
+- Date: May 21, 2024
+- Nurse Record:
+  - 23:00: Nursing staff made rounds, checked that the bedrails were up.
+  - May 22, 2024:
+    - 06:00: Nursing staff made rounds, checked that the bedrails were up.
+    - 07:50: Nursing staff made rounds, checked that the bed was comfortable and the patient's condition was stable.
+    - 10:00: The doctor made rounds, checked the patient's vital signs (BP: 101, BPL: 60, P: 54, RESP: 20, T: 36.2).
+    - 16:00: Nursing staff made rounds, checked the patient's overall condition, and ensured the bedrails were secure.
+    - 23:00: Nursing staff made rounds, checked that the bedrails were up.
+
+Please note that the provided information is limited, and more context or details may be needed for a complete understanding of the patient's condition and treatment plan.

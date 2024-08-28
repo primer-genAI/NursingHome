@@ -1,0 +1,24 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: Unknown
+- Document Date: December 31, 2023
+- Department: Unknown
+- Room: Unknown
+- Vital Signs:
+  - 14:00: Temperature: 37.1°C
+  - 16:00: Not provided
+  - 19:00: Temperature: 37.1°C
+  - 23:00: Not provided
+  - 06:00: Not provided
+  - 10:00: Blood pressure: 90/58 mmHg, Pulse: 79 beats per minute, Respiration: 21 breaths per minute, Temperature: 36.4°C
+  - 16:00: Not provided
+- Nursing Record:
+  - 14:00: Room round, general condition observed, bedrail locked, stable in bed.
+  - 19:00: Room round, bedrail up.
+  - 06:00: Room round, slept well with no significant changes overnight.
+  - 07:50: Room round, patient in bed with paraplegia on the left side, L-tube (18Fr) in place, receiving oral nutrition solution 400 kcal/day, unable to control bowel and bladder, wearing diapers, 계속적으로 오른손을 침대 난간을 툭툭치며 반복적인 행동 양상 보임, 에어매트 상태 확인, 체위변경 및 등마사지 시행, 낙상 위험성 교육, 침상 두드리며 반복적인 행동장애 보임.
+  - 10:00: Vital signs recorded, on-call doctor's round.
+  - 16:00: Room round, general condition observed, bedrail locked.
+- Medical History: Unknown
+- Current Medications: Unknown

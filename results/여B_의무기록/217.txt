@@ -1,0 +1,21 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Unspecified
+- Date: August 13, 2023
+- Vital Signs:
+  - 07:50: Blood pressure (BP) - 122/91, Heart rate (P) - 84, Respiratory rate (RESP) - 20, Temperature (T) - 36.6°C
+  - 10:00: Blood pressure (BP) - 122/91, Heart rate (P) - 84, Respiratory rate (RESP) - 20, Temperature (T) - 36.0°C
+- Medical Interventions:
+  - L-tube (fr18) inserted for feeding with current regimen of 200kcal x4 times a day
+  - Indwelling catheter in place, and perineal care provided due to incontinence
+  - Air mattress with proper inflation checked
+  - Bed rails raised to prevent falls
+- Nursing Notes:
+  - 06:00: Patient slept well through the night with no significant changes
+  - 07:50: Patient in isolation room A, bedridden, nonverbal, and unable to communicate with eyes
+  - 10:00: Attended to by the on-call physician
+  - 16:00: Nurse performed bedside rounds and observed the patient's overall condition
+  - 19:00: Temperature - 36.0°C
+  - 20:42: Sodium level - 129, urine analysis (U/A) showed many white blood cells (WBC), and the patient was prescribed Cefazolin and salt by the physician

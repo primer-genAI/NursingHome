@@ -1,0 +1,18 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information:
+  - Room: Unspecified
+  - Condition: Bedridden with right-sided weakness (Rt hemiplegia), L-tube (16Fr) for feeding, nutritional intake of Nutriwell Fiber 400-400-400kcal/day, unable to control bowel and bladder, wearing diapers, air mattress (local) for pressure relief, raised bedrails to prevent falls, facial rash being treated with ointment.
+- Vital Signs: Unspecified
+- Medications: Unspecified
+- Medical History: Unspecified
+- Current Medications: Unspecified
+- Care Plan:
+  - 10:00 AM: Position change and back massage
+  - 16:00 PM: Bedside round and bedrail fixation
+  - 16:30 PM: Acupuncture treatment
+  - 23:00 PM: Bedside round and bedrail check
+  - 06:00 AM (next day): Bedside round and patient slept well through the night
+  - 07:50 AM (next day): Bedside round, position change, back massage, and facial rash care
+- Insurance/Guardian: Unspecified

@@ -1,0 +1,17 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Date: December 7 and 8, 2023
+- Vital Signs:
+  - December 7: BP 96, BPL 57, P 49, RESP 20, T 36.2
+  - December 8: BP 105, BPL 54, P 50, RESP 20, T 36.0
+- Nursing Record:
+  - December 7: Doctor's round, observed overall condition, bedrail secured, bed rest.
+  - December 8: Observed patient during room rounds, bedrail secured, general condition observed.
+  - December 7: Room rounds, no significant changes overnight, patient slept well.
+  - December 8: Room rounds, observed patient's condition, bedridden state with left-side weakness, cystostomy (Foley catheter 18Fr) in place, urine output good, able to control urine but not stool, wearing diapers, on an air mattress, checked for air leakage, repositioned and performed back massage, educated patient on fall prevention, provided emotional support.
+  - December 8: Doctor's round, observed patient's condition, room rounds, checked that bedrail was up.
+- Author: Unknown
+
+Please note that the provided document seems to be incomplete or lacks certain details.

@@ -1,0 +1,25 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient's Condition:
+  - Incontinent and using diapers with feces hanging from each diaper
+  - Repeatedly hitting the bed rail with her right hand
+  - Using an air mattress
+  - Requires frequent position changes and back massage
+  - Needs education on fall prevention
+  - Behavioral disturbances observed when awake
+  - Physician round conducted at 10:00 AM
+  - Room rounds and overall condition observation at 16:00 PM and 19:00 PM
+  - Vital Signs: BP 134/70, P 71, RESP 21, T 36.0
+  - Continuous bed rest with bed rail in place
+  - Protector: Insurance/Guardian
+  - Nightly observation with no significant changes
+  - Left tube (18Fr) in place, receiving enteral nutrition (400-400-400 kcal/day)
+  - Incontinent and using diapers with feces hanging from each diaper
+  - Repeatedly hitting the bed rail with her right hand
+  - Requires frequent position changes and back massage
+  - Needs education on fall prevention
+  - Behavioral disturbances observed when awake
+  - Air mattress in use
+  - Bed rails raised for safety
+  - Overall condition being monitored

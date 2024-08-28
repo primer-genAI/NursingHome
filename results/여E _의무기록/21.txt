@@ -1,0 +1,27 @@
+Patient's Chart Summary:
+
+* Department: FM1, FM3
+* Room: 5th Floor, Room 511
+* Gender: Female
+* Age: 71 years old
+* Date: June 21, 2024, to June 24, 2024
+
+Progress Notes:
+
+* June 21, 2024:
+	+ Breakfast: Enteral feeding (Nutriwell Fiber)
+	+ Lunch: Enteral feeding (Nutriwell Fiber)
+	+ Dinner: Enteral feeding (Nutriwell Fiber)
+* June 22, 2024:
+	+ Breakfast: Enteral feeding (Nutriwell Fiber)
+	+ Lunch: Enteral feeding (Nutriwell Fiber)
+	+ Dinner: Enteral feeding (Nutriwell Fiber)
+* June 23, 2024:
+	+ Itching: Doctor applied Veroa Cream 1 time.
+* June 24, 2024:
+	+ Breakfast: Enteral feeding (Nutriwell Fiber)
+	+ Lunch: Enteral feeding (Nutriwell Fiber)
+	+ Dinner: Enteral feeding (Nutriwell Fiber)
+	+ Nasogastric tube insertion: Doctor inserted a tube through the nose to help with feeding.
+
+Please note that the information provided does not include any medical history or specific diagnoses.

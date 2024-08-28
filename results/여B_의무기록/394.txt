@@ -1,0 +1,27 @@
+Patient's Chart Summary:
+
+* Page Info: Unknown
+* Document Type: Nurse Record
+* Patient Number: 0093109779
+* Document Date: February 26, 2023
+* Department: Unknown
+* Room: 511
+* Gender: Female
+* Age: 77
+* Vital Signs: BP: 100/69, P: 75, RESP: 20, T: 36.6
+
+**Nurse Record:**
+
+* 23:00: Room round performed. Bedrail found to be up.
+* 06:00: Room round performed. Patient slept well with no significant changes during the night. Communicates through words and eyes. L-tube inserted for enteral nutrition, but unable to control bowel movements. Wearing diapers. Checked for air mattress deflation, performed body repositioning and back massage. Observed overall status.
+* 07:50: 200-200-200kcal/D diet provided.
+* 10:00: Vital signs: BP: 100/69, P: 75, RESP: 20, T: 36.6
+* 10:00: Physician's round performed.
+* 10:05: The patient experienced vomiting with food coming out of the mouth and nose. NPO advised until the next morning. Blood tests (CBC, E', LFT, CRP, U/A) ordered. Intravenous therapy with 5% dextrose and normal saline solution 1000 mL (D/S) + Bicomhexal 2 ml 1 A mix IV, Ambroxol hydrochloride injection 1 A BID IV, and Echutu 2 ml (Cimetidine) 1 A BID IV for 3 days (2/26~2/28) prescribed. Observed status.
+* 15:00: Traditional Korean medicine treatment performed.
+* 23:00: Room round performed. Observed overall status. Bedrail fixed, and patient is bed-bound.
+
+**Remember**:
+* Use a patient-friendly tone.
+* Follow the format of the example closely.
+* Ensure accuracy and clarity in every explanation.

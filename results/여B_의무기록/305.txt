@@ -1,0 +1,12 @@
+Nurse Information Record:
+
+- Patient's condition: The patient is bedridden and unable to communicate verbally or through eye contact.
+- Medical devices: The patient has an L-tube (fr18) for feeding, which is currently running at a rate of 200 kcal x 4 times a day. A urinary catheter is also in place.
+- Hygiene and comfort: The patient is wearing a diaper due to incontinence. The bed has an air mattress to prevent pressure sores, and the nurse checks to ensure the air is properly inflated.
+- Isolation precautions: The patient is in isolation due to contact precautions (CRE). Nurses wear gloves and gowns during patient care, perform hand hygiene before and after care, and follow other isolation guidelines.
+- Vital signs: The patient's vital signs were recorded as follows:
+  - 10:00 AM: Blood pressure: 115/76 mmHg, Pulse: 101 beats/minute, Respiratory rate: 23 breaths/minute, Temperature: 36.7°C (98.06°F)
+  - 16:00 PM: Temperature: 36.7°C (98.06°F)
+  - 23:00 PM: Temperature: 36.7°C (98.06°F)
+- General observations: The patient's overall condition was observed throughout the day, and the nurse ensured that the bedrails were in place and the patient was resting comfortably.
+- Date and time: The information was recorded on November 12, 2023.

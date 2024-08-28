@@ -1,0 +1,38 @@
+Progress Notes Summary:
+
+- Date: February 29, 2024
+- Patient: Unknown
+- Department: Oriental Medicine (511 Room)
+- Insurance: 00000000000 / No Name
+- Vitals:
+  - 06:00 AM: BP 145/80, P 89, RESP 24, T 36.9°C, SPO2 97%
+  - 10:00 AM: BP 143/103, P 70, RESP 22, T 37.1°C, SPO2 96%
+  - 14:00 PM: BP 130/81, P 83, RESP 22, T 36.7°C, SPO2 95%
+  - 19:00 PM: BP 151/74, P 95, RESP 21, T 36.4°C, SPO2 97%
+- Symptoms: Bloody stool, fatigue, shortness of breath, head dizziness, insomnia, pale face without luster, numb hands and feet, pale fingernails, thin and rare tongue coating, thin and weak pulse
+- Diagnosis: Dementia due to Alzheimer's disease (F009^00)
+- Doctor: (Signature)
+- Date: March 1, 2024
+- Department: FM1 (511 Room)
+- Insurance: 00000000000 / No Name
+- Vitals:
+  - 06:00 AM: BP 122/56, P 56, RESP 20, T 36.7°C, SPO2 95%
+  - 10:00 AM: BP 92/51, P 53, Wt. 62.5, RESP 19, T 36.4°C, SPO2 93%
+  - 14:00 PM: BP 107/55, P 58, RESP 20, T 37.2°C, SPO2 93%
+  - 19:00 PM: BP 100/54, P 50, RESP 22, T 37.0°C, SPO2 98%
+- Doctor: (Signature)
+- Date: March 2, 2024
+- Department: FM1 (511 Room)
+- Insurance: 00000000000 / No Name
+- Vitals:
+  - 06:00 AM: BP 110/54, P 69, RESP 23, T 37.0°C
+  - 10:00 AM: BP 116/68, P 82.5, RESP 20, T 36.2°C, SPO2 92%
+  - 19:00 PM: BP 102/57, P 60, RESP 22, T 36.9°C, SPO2 98%
+- Doctor: (Signature)
+- Date: March 3, 2024
+- Department: FM1 (511 Room)
+- Insurance: 00000000000 / No Name
+- Vitals:
+  - 06:00 AM: BP 129/59, P 57, RESP 21, T 36.2°C, SPO2 91%
+
+Please note that the provided document does not contain information about the patient's chart, diagnosis, medical history, or current medications.

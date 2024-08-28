@@ -1,0 +1,11 @@
+Nurse Record Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Date: October 2, 2023
+- Time:
+  - 07:50: The nurse conducted a room round and observed that the patient was bedridden, unable to communicate verbally or visually. The patient has an L-tube (fr18) for feeding with a current regimen of 200kcal x 4 times a day. A Foley catheter is in place, and the patient's perineal care is being managed. The bed's air mattress was checked for any deflation, and the bedrails were raised for safety. The nurse followed isolation guidelines, wearing gloves and a gown during patient care, and performed hand hygiene before and after care.
+  - 10:00: The nurse took vital signs: BP;116 BPL;80 P;95 RESP;20 T;36.0
+  - 10:50: The patient received a full-body bath with the assistance of a caregiver.
+  - 16:00: The nurse conducted another room round and observed the patient's overall condition, noting that the bedrails were still in place, and the patient was resting comfortably in bed.
+  - 19:00: Vital signs: T;36.6
+  - 23:00: The nurse conducted a night round and documented any observations.

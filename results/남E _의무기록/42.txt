@@ -1,0 +1,15 @@
+Patient's Chart Summary:
+
+* Document Date: 2024년 4월 16일
+* Department: Unknown
+* Diagnoses: Unspecified (not provided in the given document)
+* Medical History: Unknown
+* Current Medications: Unspecified (not provided in the given document)
+
+Nurse Record:
+
+* 23:00: Room round done. Bedrail found up.
+* 06:00: Room round done. Patient slept well with no significant changes overnight. Bedridden tracheostomy patient. Tracheostomy suction, dressing, and stomach feeding tube (NG tube) care were done. The patient is on a liquid diet. Urethral catheter (urocath) is in place. The patient is incontinent and wears diapers. The patient is on an air mattress, and it was checked for any deflation. The patient's position was changed, and a back massage was given. Skin is kept clean and dry, and any signs of urine or stool leakage are observed. The air mattress is used to keep the skin dry and prevent pressure sores. The bedrail was kept up, and the patient's overall condition was observed. Intermittent cyanosis (bluish discoloration of the skin) in both hands was noted. Pressure sore: COCCyx G3 7 X 10 X 0.5cm
+* 10:00-11:10: Room round done. Pressure sore on the coccyx (G3, 7 X 10 X 0.5cm) was dressed, and an air mattress was applied. The patient's position was changed, and a back massage was given. The skin condition around the pressure sore was observed.
+* 16:00: Room round done. The patient's overall condition was observed. The bedrail was secured, and the patient was in bed rest.
+* 23:00: Room round done.

@@ -1,0 +1,24 @@
+Patient's Chart Summary:
+
+- Date and Time: Unknown
+- Document Type: Nurse Record
+- Vital Signs:
+  - Blood Pressure: 108/67
+  - Pulse: 101
+  - Respiratory Rate: 20
+  - Temperature: 36.3°C
+  - SpO2: 98%
+  - Weight: 61 kg
+- ADL Assistance:
+  - The patient requires full assistance with all activities of daily living due to weakness and cognitive impairment.
+- Wound Care:
+  - Stage 4 pressure sore on the left buttock, measuring 6 X 7 X 1 cm.
+  - Dressing was applied, an air mattress was used, and a back massage was performed during position changes.
+- Cross-matching:
+  - The cross-matching result for blood was suitable.
+- Doctor's Round:
+  - The on-call doctor performed a round.
+- Consent Form:
+  - The on-call doctor was notified and a consent form was signed.
+- Oxygen Therapy:
+  - The patient was given oxygen therapy at 2 L/min via nasal prong inhalation, and SpO2 was checked.

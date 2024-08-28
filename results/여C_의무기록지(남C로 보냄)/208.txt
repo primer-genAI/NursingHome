@@ -1,0 +1,18 @@
+Patient's Chart Summary:
+- Page Info: Page No: 40 / 366
+- Document Type: Nurse Record
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Nurse Record Summary:
+- 06:15: Patient still complains of chest pain when asked.
+- 07:00: Patient states chest pain is not present.
+- 07:50: Nursing assessment and care provided, including body positioning, massage, skin care, fall prevention education, and emotional support.
+- 10:00 V/S: Blood pressure (BP) 96/60, pulse (P) 55, respiratory rate (RESP) 21, temperature (T) 36.7°C.
+- 12:00 V/S: Blood pressure (PP2) 138.
+- 16:00: Patient's bedrails are locked and stable.
+- 17:00: Nursing assessment and care provided.
+- 20:00 V/S: Blood pressure (PP2) 151.
+- 23:00: Nursing assessment and bedrail check.
+- 2023-07-09 Insurance/Guardian: Unknown

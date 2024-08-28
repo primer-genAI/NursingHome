@@ -1,0 +1,23 @@
+Page Info: Unknown
+Document Type: 검사 슬립지
+Patient Number: Unknown
+Document Date: June 24, 2024
+Department: Unknown
+Admission Date: Unknown
+Room: Unknown
+Gender: Unknown
+Age: Unknown
+Vital Signs: Unknown
+Diagnoses: Unknown
+Medical History: Unknown
+Current Medications: Unknown
+
+Test Slip Summary:
+
+* Chart number: Unknown
+* Test date: June 24, 2024
+* Test results:
+  - A/G ratio: 1.70 (Not established)
+  - eGFR: 27.00 (> 59 mL/min/1.73m2)
+
+참고: 환자의 개인정보 보호를 위해 환자 번호와 기타 식별 정보를 포함하지 않았습니다.

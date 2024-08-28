@@ -1,0 +1,23 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: January 18, 2024
+- Department: Unknown
+- Room: Unknown
+- Vital Signs:
+  - 16:00: BP;161
+  - 19:00: BP;161
+  - 23:00: BP;161
+  - 06:00: BP;117, BPL;66, P;66, RESP;18, T;36.9
+  - 10:00: BP;117
+  - 16:00: BP;117
+  - 23:00: BP;117
+- Nursing Notes:
+  - 16:00: Room round, general condition observed, bedrail secured, bedrest.
+  - 19:00: Room round, general condition observed, bedrail secured, bedrest.
+  - 23:00: Room round, bedrail up.
+  - 06:00: Patient slept well, no significant changes overnight, bedridden, left hemiplegia, L-tube (18Fr) in place, enteral nutrition 400-400-400kcal/day, incontinent of bowel and bladder, wearing diapers (stool sticking out of diapers), repetitive behavior with right hand hitting bedrail, air mattress in place, checked for deflation, repositioning and back massage provided, fall risk education, bedrail up when in bed, emotional support, general condition observed, repetitive behavior disorder with hand hitting bed.
+  - 10:00: Attending physician round.
+  - 16:00: Room round, general condition observed, bedrail secured, bedrest.
+  - 23:00: Room round, bedrail up.

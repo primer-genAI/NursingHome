@@ -1,0 +1,23 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Progress Notes
+- Patient Number: 0092108472
+- Document Date: January 19, 2024
+- Department: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91
+- Vital Signs: Unknown
+- Diagnoses: Unspecified
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Nurse's Record:
+
+- 07:50: The patient slept well throughout the night with no significant changes. The patient is unable to control their bowel and bladder movements and is wearing diapers. The patient is on an air mattress and the nurse ensured to smooth out any wrinkles in the sheets or clothing to prevent skin breakdown and to keep the skin dry by providing adequate ventilation. The patient's emotional state was observed, and they expressed a desire to die and feelings of depression about not being able to return home. The patient also exhibited aggressive behavior, cursing at staff and accusing others of stealing.
+- 10:00: The patient's vital signs were taken, but the specific values are not provided.
+- 15:00: Acupuncture treatment was administered.
+- 16:00: The patient's overall condition was observed, and the bedrails were found to be in place. The patient was found to be resting comfortably in bed.
+- 23:00: The bedrails were checked and found to be in the raised position.
+- January 20, 2024: The patient was observed in the morning, and there were no significant changes overnight. The patient's diaper was checked, but the specific details are not provided.

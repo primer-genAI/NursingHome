@@ -1,0 +1,9 @@
+Nurse Record Summary:
+
+* 07:50: Room round, observed patient with hemiparesis (one-sided body weakness), able to control bowel and bladder functions. Educated patient about fall risks, raised bedrails during bed rest, provided emotional support, and observed overall condition. Patient used a wheelchair to move around. The patient experiences brief (less than 10 seconds) whole-body shaking, often in the left limbs.
+* 10:00: Vital signs: Blood pressure 141/76, Pulse 76, Respiration 20, Temperature 36.6°C.
+* 10:00: Doctor's round.
+* 15:00: Acupuncture treatment was given.
+* 16:00: Room round, observed patient's overall condition, and noted bedrails were secured.
+* 23:00: Room round, confirmed bedrails were up.
+* 2023-09-05: Insurance/Guardian 06:00: Room round, patient slept well with no significant changes overnight.

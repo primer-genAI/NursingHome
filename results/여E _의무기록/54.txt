@@ -1,0 +1,19 @@
+Patient's Chart Summary:
+- Page Info: Page No : 30 / 60
+- Document Type: Nurse Record
+- Document Date: Unknown
+- Department: Unknown
+- Patient Information: Unknown
+- Vital Signs: Unknown
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Nurse Record:
+- 06:00: Nursing Record: Rounded the room. Patient slept well with no significant changes during the night.
+- 07:50: Rounded the room. Patient is bedridden with an L-tube (16Fr) in place. Provided a fiber-fortified diet (Fiber-rich 400-200-400 kcal/D). Patient is unable to control bowel and bladder functions and is wearing diapers. Checked the hospital's air mattress for deflation. Performed a body reposition and back massage. Kept the bedrail up while the patient was in bed.
+- 10:00 and 16:00: The on-call doctor made rounds. Rounded the room and observed the patient's overall condition. The bedrail was secured, and the patient was resting comfortably in bed.
+- 23:00: Rounded the room and confirmed that the bedrail was raised.
+- 2024-05-16 Insurance/Guardian Record: Rounded the room. Patient slept well with no significant changes during the night.
+- 07:50: Rounded the room. Provided a fiber-fortified diet (Fiber-rich 400-200-400 kcal/D) with an L-tube (16Fr) in place. The patient is unable to control bowel and bladder functions and is wearing diapers. Checked the hospital's air mattress for deflation. Performed a body reposition and back massage. Kept the bedrail up while the patient was in bed.
+- 10:00 and 10:50: The attending physician made rounds. With the help of a caregiver, the patient received a full-body bath.

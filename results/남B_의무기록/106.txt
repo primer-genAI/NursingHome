@@ -1,0 +1,27 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: June 12, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: Unknown
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+The nurse record shows the following activities:
+
+- 16:00: The nurse made rounds and observed the patient's overall condition. The bedrail was locked, and the patient was bedridden.
+- 23:00: The nurse made rounds and confirmed that the bedrail was up.
+- 07:50: The nurse made rounds and found that the patient slept well through the night with no significant changes. The patient has a left hemiplegia and a cystostomy (Foley catheter 18Fr), can control their urine but not their stool, and wears diapers. The patient is on an air mattress, which was checked for deflation. The nurse performed a 2-hourly repositioning and back massage. The patient received education on fall prevention, and emotional support was provided.
+- 10:00: The attending physician made rounds.
+- 16:00: The nurse made rounds and observed the patient's overall condition. The bedrail was locked, and the patient was bedridden.
+- 23:00: The nurse made rounds and confirmed that the bedrail was up.
+- 06:00: The nurse record for June 13, 2023.
+
+Please note that the patient's insurance/guardian information is not provided in this summary.

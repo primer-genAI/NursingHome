@@ -1,0 +1,42 @@
+Patient's Chart Summary:
+
+* Document Date: June 5, 2024, 6:00 AM
+* Department: FM1
+* Room: 317
+* Gender: Female
+* Age: 87 years old
+* Vital Signs: BP 100/59, 100/56, 100/56, 113/62, 99/58, 99/58, 99/58, 99/58, 141/85, RESP 20, 20, 20, 20, 21, 20, 20, T 36.6°C, 36.5°C, 36.7°C, 36.6°C, 36.7°C, 36.7°C, 36.7°C, 37.2°C, SPO2 96%, 99%, 99%, 92%, 99%, 99%, 98%, 95%
+
+### Medical History:
+
+* The patient is 87 years old and is currently in room 317.
+
+### Medications and Treatments:
+
+#### June 5, 2024:
+
+* The patient received acupuncture treatment for 2 points (Hegu and Zusanli) and another acupuncture treatment for 2 points (Sanjiao and Xiyan).
+
+#### June 6, 2024:
+
+* The patient received a medication called Dulcolax suppository for constipation.
+
+#### June 7, 2024:
+
+* The patient had a blood sugar test.
+
+### Current Medications:
+
+* Diabetic diet (brown rice) for breakfast, lunch, and dinner.
+* Dulcolax suppository for constipation.
+
+### Vital Signs:
+
+* Blood pressure: 100/59, 100/56, 100/56, 113/62, 99/58, 99/58, 99/58, 99/58, 141/85
+* Respiratory rate: 20, 20, 20, 20, 21, 20, 20, 20
+* Temperature: 36.6°C, 36.5°C, 36.7°C, 36.6°C, 36.7°C, 36.7°C, 36.7°C, 37.2°C
+* Oxygen saturation: 96%, 99%, 99%, 92%, 99%, 99%, 98%, 95%
+
+### Diagnoses:
+
+* The patient has not been given any diagnoses or codes in the provided information.

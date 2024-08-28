@@ -1,0 +1,15 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: June 30, 2024
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: BP;136 BPL;78 P;87 RESP;20 T;36.2
+- Medical History: 와상상태 & left hemiparesis, 비위관 삽입, urocath 적용, air mattress, bedridden, pressure sores, bed rest
+- Current Medications: Unknown
+
+Note: The provided information does not include diagnoses, room number, gender, age, and current medications.

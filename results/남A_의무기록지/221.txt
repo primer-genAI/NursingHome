@@ -1,0 +1,25 @@
+Nurse Record Summary:
+
+- Date: November 6, 2023
+- Patient: #
+- Insurance/Guardian: -- -------- ------ --
+- Nursing Actions:
+  - Educated patient about fall risks and raised the bed rail.
+  - Observed overall condition and noted repetitive behavioral disorder.
+  - Conducted room rounds and checked bed rail security.
+  - Observed patient was resting comfortably in bed.
+  - Conducted room rounds and confirmed the bed rail was up.
+  - Observed the patient had a good night's sleep with no significant changes.
+  - Conducted room rounds and noted the patient was in a supine position with left hemiplegia.
+  - Checked and kept an L-tube (18Fr) and provided enteral nutrition of 400-400-400kcal/day.
+  - Assisted with personal hygiene and wore a diaper due to incontinence.
+  - Noted continuous repetitive behavior of tapping the right hand on the bed rail.
+  - Checked the air mattress for deflation and changed the patient's position, giving a back massage.
+  - Educated the patient about fall risks and raised the bed rail.
+  - Observed overall condition and noted repetitive behavioral disorder.
+  - Conducted vital signs at 10:00 AM: BP;107 BPL;59 P;59 RESP;21 T;37.0
+  - Conducted vital signs at 14:00 PM: T;36.5
+  - Conducted room rounds and checked bed rail security.
+  - Conducted room rounds and noted the patient was resting comfortably in bed.
+  - Conducted room rounds and confirmed the bed rail was up.
+  - Conducted room rounds and noted the patient had a good night's sleep with no significant changes.

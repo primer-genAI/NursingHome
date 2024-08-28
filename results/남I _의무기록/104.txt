@@ -1,0 +1,36 @@
+환자 검사 결과 요약:
+
+환자의 검사 결과가 첨부되어 있습니다. 이 검사 결과는 2024년 4월 15일에 진행되었습니다. 환자는 남성으로 76세이며, 3병동 315호에 입원 중입니다.
+
+검사 결과:
+
+1. CBC (Complete Blood Count):
+   - Hmoglobin: 8.80 g/dL (참고치: 13.0 ~ 17.3 g/dL)
+   - Hematocrit: 27.50 % (참고치: 40.0 ~ 52.0 %)
+   - RBC: 2.44 10^6/μL (참고치: 4.00 ~ 5.80 10^6/μL)
+   - WBC: 2.50 10^3/μL (참고치: 4.0 ~ 10.0 10^3/μL)
+   - Platelet: 결과 미제공 (참고치: 150 ~ 450 10^3/μL)
+   - MCV, MCH, MCHC, RDW, MPV, PDW는 참고치 내에 있습니다.
+   - WBC Diff:
+     - Segmented neutrophils: 36.60 % (참고치: 41.7 ~ 75.0 %)
+     - Lymphocytes: 52.60 % (참고치: 18.4 ~ 45.0 %)
+     - Monocytes: 6.80 % (참고치: 0.0 ~ 12.0 %)
+     - Eosinophils: 3.60 % (참고치: 0.0 ~ 8.0 %)
+     - Basophils: 0.40 % (참고치: 0.0 ~ 2.0 %)
+
+2. Electrolyte (Na, K, Cl):
+   - Sodium (Na): 143.00 mmol/L (참고치: 136 ~ 146 mmol/L)
+   - Potassium (K): 3.00 mmol/L (참고치: 3.5 ~ 5.1 mmol/L)
+   - Chloride (Cl): 104.00 mmo/L (참고치: 101 ~ 109 mmo/L)
+
+3. CRP (C-Reactive Protein):
+   - CRP (정량): 0.53 mg/dL (참고치: < 0.50 mg/dL)
+
+4. LFT (Liver Function Test):
+   - Total Protein: 5.70 g/dL (참고치: 6.6 ~ 8.3 g/dL)
+   - Albumin: 2.60 g/dL (참고치: 3.5 ~ 5.2 g/dL)
+   - Total Cholesterol: 104.00 mg/dL (참고치: Desirable: < 200 mg/dL)
+   - AST (SGOT): 18.00 U/L (참고치: ≤ 40 U/L)
+   - ALT (SGPT): 12.00 U/L (참고치: ≤ 40 U/L)
+
+참고: 일부 항목은 참고치가 제공되지 않았습니다.

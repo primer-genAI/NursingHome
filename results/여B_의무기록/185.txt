@@ -1,0 +1,18 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Diagnoses: CRE (Carbapenem-resistant Enterobacteriaceae)
+- Medical History: The patient is bedridden and communicates only through movement and eye contact. They have an L-tube (fr18) for feeding, a Foley catheter, and an air mattress. The patient is on oxygen therapy via a nasal prong with an O2 flow rate of 2L/min.
+- Current Medications: Not specified in the provided document.
+- Vital Signs:
+  - 10:00 AM: BP 98/67, HR 97, RR 20, Temp 36.1°C
+  - 16:00 PM: BP 98/74, HR 101, RR 24, Temp 36.2°C
+  - 19:00 PM: BP 98/67, HR 111, RR 20, Temp 36.0°C
+  - 23:00 PM: BP 98/74, HR 101, RR 24, Temp 36.2°C
+- Nursing Notes:
+  - The patient was observed during bedside rounds and was found to be in a stable condition. The bedrail was secured, and the patient was resting comfortably.
+  - The patient's vital signs were within normal limits, and they were observed to be maintaining a stable oxygen saturation level (SPO2) while on oxygen therapy.
+  - The patient was isolated due to CRE, and proper isolation precautions were followed during care.
+  - The patient's diaper was checked for wear and leakage, and the bedrail was adjusted as needed.
+  - Overall, the patient received adequate nursing care, including positioning, skin care, and monitoring of vital signs.

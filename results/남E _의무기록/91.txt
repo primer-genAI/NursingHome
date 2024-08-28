@@ -1,0 +1,36 @@
+Nurse Record:
+
+* Page No: 66 / 95
+* 시간: 10:00
+	+ On-call doctor rounds
+	+ 11:10 # Bed sore: Observing the skin condition of the COCCyx bed sore area.
+* 시간: 16:00
+	+ 작성자: D
+* 시간: 23:00
+	+ 작성자: (9
+	+ Room rounds: Bedrail is up.
+* 시간: 2024-06-03
+	+ Insurance/Caregiver
+* 시간: 06:00
+	+ Room rounds: Patient slept well during the night with no significant changes.
+* 시간: 07:50
+	+ Room rounds:
+		- Bedridden 상태
+		- 기관절개술: 가래 제거 및 기관절개술 부위 드레싱 완료.
+		- 비위관 삽입 중: 경관식 제공.
+		- 요도관: 소변 조절 가능.
+		- 대변 조절 어려움: 기저귀 착용.
+		- 병원용 에어매트 사용: 바람이 빠지지 않았는지 확인.
+		- 2시간마다 체위 변경 및 등 마사지 시행.
+		- 피부 항상 청결하게 유지, 실금과 설사 여부 관찰.
+		- 피부가 습하지 않도록 통풍 가능하게 환기.
+		- 침대 난간 올려놓음.
+		- 전반적인 상태 관찰.
+	+ # Bed sore: COCCyx G3 7 X 10 X 0.5cm
+* 시간: 07:50
+	+ 작성자: (9
+
+주의:
+- 환자 친화적인 용어를 사용하세요.
+- 예시의 형식을 따르세요.
+- 모든 설명에 정확성과 명확성을 유지하세요.

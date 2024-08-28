@@ -1,0 +1,15 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Patient's Chart
+- Patient Number: 0092108472
+- Document Date: February 4, 2024, and February 5, 2024
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91 (current age: 91)
+- Vital Signs: BP 100/63, P 66, RESP 20, T 36.2°C
+- Medical History: Patient is bedridden and requires a bedrail for safety. She has difficulty controlling her bowel and bladder functions and is using a hospital air mattress. The patient expresses a desire to die and feels depressed about not being able to return home. She sometimes accuses staff and fellow patients of stealing her belongings and becomes aggressive towards them.
+- Current Medications: Unknown
+
+Note: Vital signs and medical history are based on the information provided in the document.

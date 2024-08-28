@@ -1,0 +1,19 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Date: May 24-25, 2024
+- Time: 10:00, 16:00, and 23:00
+- Staff: Various nurses (IDs 9, )
+- Observations:
+  - Patient's overall condition was observed during bed rounds.
+  - Bed rail was secured and the patient was stable in bed.
+  - The bedrail was checked and found in the up position.
+  - The patient slept well through the night with no significant changes.
+  - A glucose enema was administered to help with constipation.
+  - The patient's oxygen saturation was checked, and the Foley catheter and perineal care were maintained.
+  - The patient was observed after the enema.
+  - The patient's air mattress was checked for leaks, and they were repositioned and given a back massage.
+  - The bed rail was kept in the up position when the patient was resting in bed.
+
+Please note that the chart summary is based on the provided text, and there may be additional information in the original document.

@@ -1,0 +1,21 @@
+Nurse Record Summary:
+
+- Patient Information:
+  - Patient ID: 0091700991
+  - Gender: Male
+  - Age: 58 years old
+  - Room: 203
+
+- Nursing Record:
+  - 10:40: Record made by a nurse
+  - 15:00: Acupuncture treatment performed
+  - 16:00: Room round, patient stable, bedrail fixed
+  - 23:00: Room round, bedrail up, no further notes
+  - 2023-10-20: Insurance/guardian information
+  - 06:00: Night round, patient slept well
+  - 07:50: Room round, patient with hemiparesis (one-sided weakness), able to control bowel and bladder, educated on fall risk, emotional support provided, uses a wheelchair, and has brief seizures almost daily
+  - 10:00: Vital signs: BP 115/69, P 72, RESP 20, T 36.1°C, doctor's round conducted
+  - 15:00: Acupuncture treatment performed
+  - 16:00: Room round, patient stable, bedrail fixed
+
+Please note that the document contains some inconsistencies and missing information, such as the date and department, which are not provided in the given text.

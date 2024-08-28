@@ -1,0 +1,14 @@
+Nurse Information Record Summary:
+
+- Date: Unknown
+- Time:
+  - 07:50: The nurse assessed the patient's condition, noting paraplegia (+) with the ability to control bowel and bladder functions. They educated the patient about fall risks, instructed to keep the bedrails up when resting in bed, and provided emotional support. The patient's overall condition was observed, and they used a wheelchair for mobility. The patient experiences seizures lasting less than 10 seconds in their left limbs almost every day.
+  - 10:00 V/S (vital signs): Blood pressure 119/75, pulse 82, respiratory rate 20, temperature 36.2°C. The nurse recorded the doctor's round.
+  - 15:00: The patient received acupuncture treatment.
+  - 16:00: The nurse observed the patient, who was immobile and in bed rest. The patient complained of pain and toothache.
+  - 23:00: The nurse made rounds and confirmed that the bedrails were up.
+- Medication:
+  - Anispen 8-hour IR tablets (acetaminophen) 3T#3 *4days R (prescribed by the attending physician, to be administered from November 21st evening to November 24th)
+- Time:
+  - 06:00: The nurse made rounds and noted that the patient slept well through the night with no significant changes.
+  - 07:50: The nurse made rounds and confirmed that the patient was paraplegic (+) with the ability to control bowel and bladder functions.

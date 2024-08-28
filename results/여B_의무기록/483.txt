@@ -1,0 +1,27 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse's Record
+- Patient Number: Unknown
+- Document Date: Unknown
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: BP;94 BPL;58 P;118 RESP;18 T;36.3 SPO2;95, BP;102 BPL;65 P;125 RESP;21 T;37.2 SPO2;96, BP;102 BPL;65 P;125 RESP;21 T;37.2 SPO2;96
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+The nurse's record for an unknown patient includes the following:
+
+- The patient is wearing diapers due to incontinence and the nurse checked for any wind buildup. The patient's position was changed, and a back massage was performed. The bed rail was left up for support, and the patient's overall condition was observed. An Rt. PICC line was in place with no signs of redness, swelling, or discharge. A pressure sore on the left buttock was observed and measured at 6 X 7 X 1cm.
+- The patient complained of pain after a bath and was kept warm. Vital signs were taken and recorded.
+- A physician's round was conducted at 10:50 AM.
+- The patient received a full body bath with the help of a caregiver. The pressure sore on the left buttock was cleaned and dressed. The patient's skin condition was observed for any signs of new pressure sores.
+- An air mattress was applied to the patient's bed.
+- A traditional Korean medical treatment was performed.
+- The nurse made rounds in the patient's room, observing their overall condition and ensuring the bed rail was secured.
+- The nurse made another round at 11:00 PM and confirmed the bed rail was up.
+
+Please note that the patient's details, such as their specific diagnoses, medical history, and current medications, are unknown based on the provided information.

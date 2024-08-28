@@ -1,0 +1,18 @@
+Nurse Record Summary:
+
+- Date: Not specified in the provided information.
+- Patient's condition:
+  - Bedridden with a pressure sore (decubitus ulcer) on the left buttock, grade 4. Size: 6 X 7 X 1cm.
+  - Requires a PICC line (Peripherally Inserted Central Catheter) for medication or fluid administration. No signs of redness, swelling, or discharge.
+  - Unable to control bowel movements and wears diapers.
+  - Receiving nutrition through a feeding tube (L-tube) with Ensolb 600-600-300-300kcal/day.
+  - Air mattress is being used to prevent further pressure sores.
+  - Chest physical therapy (PT) and respiratory therapy (RT) are being performed.
+  - Nursing interventions:
+    - Regular wound care and dressing changes for the pressure sore.
+    - Positioning changes and back massage to prevent skin breakdown and promote healing.
+    - Monitoring the patient's overall condition, including vital signs and the PICC line.
+    - Assisting with hygiene and skin care to prevent infections.
+    - Providing emotional support and comfort to the patient.
+
+Please note that the date and specific times mentioned in the nurse record are not included in this summary as they were not provided in the given information.

@@ -1,0 +1,29 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: June 16, 2024
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs:
+  - BP: 155/71
+  - P: 92
+  - RESP: 23
+  - T: 36.3
+- Medications: Unknown
+
+### Nurse Record Summary:
+
+**June 16, 2024:**
+- 06:00: The patient slept well through the night with no significant changes noted.
+- 07:50: The patient is in a bedridden state with left-sided paralysis. A feeding tube is in place, and the patient is receiving tube feedings. A urinary catheter is applied, allowing for controlled urination. The patient is unable to control bowel movements and wears diapers. The patient repeatedly hits the bed rail with their right hand. The air mattress is checked for any air leaks, and the patient is turned every two hours and given a back massage. The patient is educated about the risk of falls and the bedrails are raised when the patient is in bed. The patient shows signs of repetitive behavioral disorders by constantly tapping the bed.
+- 10:00: The on-call physician conducts rounds.
+- 16:00: The patient is observed to be in a stable condition, and the bedrails are secured.
+- 23:00: The bedrails are checked and found to be in the raised position.
+
+**June 17, 2024:**
+- 06:00: The patient slept well through the night with no significant changes noted.
+- 07:50: The patient's overall condition is observed. The bedrails are in place, and the patient remains in bed rest.

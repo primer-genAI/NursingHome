@@ -1,0 +1,17 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: September 20, 2023
+- Department: Unknown
+- Patient: Unspecified
+
+Nursing Record:
+
+- 14:00: The patient's temperature was 36.1°C (97°F). The nurse conducted a room round and observed the patient's overall condition. The bedrail was fixed, and the patient was resting in bed.
+- 16:00: The nurse conducted another room round and continued observing the patient.
+- 19:00: The nurse checked the patient's temperature again, which was 36.5°C (97.7°F). The bedrail was found to be up.
+- 23:00: The nurse performed a room round and ensured the bedrail was still in the up position.
+- 06:00: The nurse conducted a morning room round and found that the patient had slept well through the night with no significant changes.
+- 07:50: The nurse performed a room round and found the patient in a non-verbal state. The patient is bed-bound and communicates using eyes and body language. The patient has an L-tube (size 18) for feeding and a urinary catheter. The patient is unable to control bowel movements and wears diapers. The patient is on an air mattress provided by the hospital. The nurse checked that the mattress was not deflated. The patient is in isolation for CRE (Carbapenem-resistant Enterobacteriaceae) and requires the nurse to wear gloves and a gown during care. Hand hygiene is strictly followed before and after care, and isolation precautions are maintained.
+- 10:00: The nurse conducted another room round and observed the patient's overall condition.

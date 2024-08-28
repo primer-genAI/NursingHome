@@ -1,0 +1,16 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: 0092106935
+- Document Date: March 31, 2024 (start)
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 312
+- Gender: Male
+- Age: 77
+- Vital Signs: BP: 127/59, P: 64, RESP: 20, T: 36.5
+- Medical History: Wounded, bedridden, left hemiplegia, L-tube (18Fr) inserted, unable to control bowel and bladder, wearing diapers, repeated behavior with right hand, on air mattress, emotional nursing care, overall condition observed, repeated behavior disorder when awake
+- Current Medications: L-tube (18Fr) for feeding, colostomy solution 400-400-400kcal/day
+
+Note: The vital signs listed are from the most recent entry on March 31, 2024. The patient's overall condition is being observed, and they are receiving emotional nursing care.

@@ -1,0 +1,26 @@
+**Patient's Chart Summary:**
+
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient: Unspecified
+- Date: September 16, 2023
+- Room: Unspecified
+- Vital Signs:
+  - 19:20: BP 114/56, HR 105, RR 22, Temp 38.4°C
+  - 20:30: Temp 38.0°C
+  - 23:00: Temp 36.6°C
+  - 00:30: Temp 36.6°C
+  - 06:00: BP 101/50, HR 66, RR 19, Temp 36.3°C
+  - 07:50: BP 112/54, HR 68, RR 20, Temp 36.5°C
+- Nursing Interventions:
+  - 19:20: High fever noted, ice pack applied, and reported to the attending physician. Anisefen 8-hour ir ser sustained release tablets (acetaminophen) prescribed.
+  - 20:30: Temperature lowered to 38.0°C.
+  - 23:00: Patient's room was checked, and the bedrail was found to be up.
+  - 06:00: Patient's room was checked, and the patient slept well with no significant changes during the night.
+  - 07:50: Patient's room was checked, and the patient was found in a bedridden state with left hemiparesis. An L-tube (18Fr) was kept, and enteral nutrition (400-400-400kcal/day) was given. The patient cannot control their bowel and bladder movements and wears diapers. The patient continuously hits the bed rail with their right hand and shows repetitive behavior. The patient is on an air mattress, and the air was checked. The patient's position was changed, and a back massage was performed. Education was provided on fall risks, and the bedrail was raised. Emotional support was provided, and the patient's overall condition was observed. The patient repeatedly hits the bed and shows repetitive behavior when awake. The patient is receiving antibiotic treatment for sepsis (from September 5).
+  - 09:05: The patient received assistance for a full body bath.
+  - 10:00: Vital signs: BP 112/54, HR 68, RR 20, Temp 36.5°C.
+- Medical History:
+  - Unspecified, but the patient has a history of sepsis and is on antibiotic treatment.
+
+Please note that the patient's name, diagnosis, and other specific medical information are not provided in this summary.

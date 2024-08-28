@@ -1,0 +1,17 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: June 30, 2024
+- Room: Unknown
+- Vital Signs:
+  - 19:00: Temp: 36.6°C, Resp: 20, SPO2: 95%
+  - 23:00: Nursing Record: Room round conducted, bedrail confirmed upright.
+  - 06:00: BP: 111/64, HR: 116, Resp: 20, Temp: 36.1°C, SPO2: 95%
+  - 07:56: Rounding done. Patient is bedridden and unable to control bowel and bladder, wearing diapers. Confirmed air mattress and air pressure functions are working, performed back massage on the patient's skin, ensured proper patient position changes every 2 hours, and checked for emotional well-being. The patient doesn't respond when spoken to and is quiet.
+  - 10:00: BP: 89/53, HR: 56, Resp: 20, Temp: 36.3°C
+  - 14:00: Temp: 36.7°C
+  - 16:00: Nursing Record: Room round conducted.
+
+Please note that specific details such as the patient's name, diagnosis, and other personal information have been omitted for privacy reasons.

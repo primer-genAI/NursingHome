@@ -1,0 +1,15 @@
+Nurse Record (N):
+
+* 10:00 AM: Doctor's round
+* 16:00 PM: Room round, overall condition observed, bedrail fixed, stable in bed
+* 23:00 PM: Room round, bed rail checked
+
+# 2024-06-18 Insurance/Caregiver:
+
+* 06:00 AM: Nursing Record: Room round, slept well with no significant changes
+* 07:50 AM: Room round, toilet and urination control, hospital air mattress, checked for deflation, fall prevention education, raised rails during bed rest, emotional care, overall condition observed
+* 10:00 AM: Doctor's round, HbA1C checked
+* 16:00 PM: Room round, overall condition observed, bed rail fixed, stable in bed
+* 23:00 PM: Room round
+
+Note: The provided text appears to be a nursing record in Korean. I have translated it into English for you. However, please note that the translation might not be 100% accurate, and some details might be lost in translation.

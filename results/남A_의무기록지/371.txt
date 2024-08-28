@@ -1,0 +1,18 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse's Record
+- Patient Number: 0092106935
+- Document Date: May 4, 2024
+- Department: Unknown
+- Patient Information: Male, 77 years old, Room 312
+- Vital Signs:
+  - 06:00: BP: 100/54, Pulse: 87, Respiration: 20, Temperature: 37.5°C, SpO2: 97%
+  - 09:05: BP: 100/45, Pulse: 79, Respiration: 21, Temperature: 36.6°C
+- Diagnoses: Unspecified sepsis (treatment with antibiotics from May 3 to May 16)
+- Medical History: Hypothyroidism, hypertension, hyperlipidemia, and type 2 diabetes. Recent diagnosis of unspecified sepsis.
+- Current Medications: Intravenous infusion of normal saline (N/S) and intravenous injection of a mixture of sodium chloride 40 syrup for hyponatremia.
+- Nursing Care:
+  - 16:00-23:00: Room round, general condition observed, bedrail fixed, patient resting in bed.
+  - 06:00-07:50: Patient slept well, oral-tracheal suction, ice pack applied, and blanket removed. Assessed the patient's airway, breathing, and circulation. Continued to observe the patient's condition.
+  - 09:05-10:00: Full body bath with the help of a caregiver. The patient's electrolytes were checked, and they were started on intravenous infusion of normal saline (N/S) and intravenous injection of a mixture of sodium chloride 40 syrup for hyponatremia. The patient's condition was observed.

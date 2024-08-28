@@ -1,0 +1,14 @@
+Nurse Record:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient's Room: N/A
+- Date Range: May 30-31, 2024
+- Nursing Notes:
+  - 06:00: Nurse checked on the patient. The patient slept well through the night with no significant changes.
+  - 07:50: Nurse provided emotional support and fall prevention education. The patient's air mattress was checked for any leaks, and the patient was instructed to keep the bedrails up when not in use. Overall, the patient's condition was stable.
+  - 10:00: The attending physician visited the patient.
+  - 16:00: Nurse checked on the patient's overall condition and ensured the bedrails were secure. The patient remained stable.
+  - 23:00: Nurse made rounds and confirmed the bedrails were up.
+- # 2024-05-31: Insurance/Protection (Nursing Record not provided)
+
+Please note that some information might be missing or incomplete due to the given text's format.

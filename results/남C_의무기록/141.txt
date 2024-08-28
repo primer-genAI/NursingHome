@@ -1,0 +1,33 @@
+Nurse Information Record Summary:
+
+- Date: July 17, 2023
+- Time: 07:50
+- Patient's Condition:
+  - Hemiplegia (ability to control bowel and bladder movements)
+  - Fall risk education provided
+  - Emotional support and overall condition observation
+  - W-chair used for mobility
+  - Occasional 10-second full body spasms in one or both limbs
+  - Fall prevention education
+
+- Time: 10:00
+  - Vital Signs: BP - 121/75, HR - 75, RESP - 20, Temp - 36.9°C
+  - On-duty physician's round
+
+- Time: 16:00
+  - Room round
+  - Overall condition observation
+  - Bedrail fixed in place
+  - Bed rest
+
+- Time: 23:00
+  - Room round
+  - Bedrail found in the up position
+
+- Time: 06:00
+  - Room round
+  - Unremarkable night
+  - Emotional support and overall condition observation
+  - W-chair used for mobility
+  - Occasional 10-second full body spasms in one or both limbs
+  - Fall prevention education

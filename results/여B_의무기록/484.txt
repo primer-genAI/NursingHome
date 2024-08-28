@@ -1,0 +1,17 @@
+Nurse Record Summary:
+- Date: 2024-05-11
+- Time: 06:00
+- Nursing Record: The nurse made their morning rounds. The patient slept well with no significant changes during the night.
+- Time: 07:50
+- Nursing Record: The nurse made their rounds and inserted an L-tube for enteral feeding with Ensol-600 (600-600-300-300kcal/D). The patient has a urinary catheter and is incontinent, wearing diapers. The nurse checked the air mattress and made sure it was not deflated. They also performed a position change, back massage, and observed the patient's overall condition. The patient has a right PICC line with no redness, swelling, or drainage. The nurse noted a Stage 4 pressure sore on the left buttock (Lt buttock G4 6 X 7X 1cm).
+- Time: 10:00
+- Nursing Record: The nurse took the patient's vital signs: BP;91, BPL;42, P;90, RESP;22, T;36.5, SPO2;95. The on-call doctor made their rounds.
+- Time: 11:10
+- Nursing Record: The nurse applied a dressing to the pressure sore on the left buttock (Lt buttock G4 6 X 7 X 1cm) and checked the air mattress. They also performed a position change, back massage, and observed the patient's skin condition for any new wounds.
+- Time: 16:00
+- Nursing Record: The nurse made their afternoon rounds and observed the patient's overall condition. The bed rails were secured, and the patient was resting comfortably.
+- Time: 23:00
+- Nursing Record: The nurse made their evening rounds and confirmed that the bed rails were up.
+- Date: 2024-05-12
+- Time: Unknown
+- Nursing Record: The nurse continued to monitor the patient's condition and ensure their comfort.

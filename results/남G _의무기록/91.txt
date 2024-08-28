@@ -1,0 +1,15 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: June 30, 2024
+- Patient: Unspecified
+- Overall condition observed. Bed rails secured. Patient stable in bed.
+- 23:00 Room round conducted. Bed rails found to be up.
+- 06:00 Nursing Record: Room round conducted. Patient slept well with no significant changes overnight.
+- 07:51 Rounding done. Patient bedridden with right hemiplegia. Unable to control large and small bowel movements, using diapers. L-tube (16Fr) kept and feeding with Nutrigen Fiber 400-400-400kcal/day given. Hospital air mattress kept in good condition. Position change every 2 hours, C-skin back massage performed. Sheets and clothing wrinkles smoothed to avoid skin indentations. Bed rails raised while lying in bed. Emotional care provided and overall condition observed. Intermittent rash on face treated with ointment. Patient makes eye contact but cannot respond to questions.
+- 10:00 On-call doctor round conducted.
+- 16:00 Room round conducted. Overall condition observed. Bed rails secured. Patient stable in bed.
+- 23:00 Room round conducted. Bed rails found to be up.
+
+Note: The patient's medical history, diagnoses, and current medications are not provided in this document.

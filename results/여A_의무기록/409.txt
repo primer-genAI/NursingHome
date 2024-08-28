@@ -1,0 +1,21 @@
+Patient's Chart Summary:
+- Page Info: Page No: 251 / 355
+- Document Type: Nurse's Record
+- Patient Number: 0092108472
+- Document Date: Unknown
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91 years old
+- Vital Signs:
+  - 10:00 AM: BP 122/78, P 64, RESP 20, T 36.9°C
+- Medical History: Unknown
+- Current Medications: Unknown
+- Nursing Care:
+  - Night: Patient slept well with no significant changes. Requires assistance with bowel and bladder control, using a diaper. Lying on an air mattress with proper positioning to prevent skin issues and falls. Emotionally distressed, expressing desire to die and sadness about not being able to go home. May exhibit aggressive behavior towards staff and other patients.
+  - 10:00 AM: Vital signs measured.
+  - 15:00 PM: Received acupuncture treatment.
+  - 16:00 PM: Nursing assessment; patient remains in bed with railings in place.
+  - 23:00 PM: Nursing assessment; railings are up.
+  - 06:00 AM (next day): Nursing assessment; patient slept well with no significant changes. Requires assistance with bowel and bladder control, using a diaper.

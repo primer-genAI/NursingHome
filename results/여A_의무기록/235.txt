@@ -1,0 +1,22 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: 0092108472
+- Document Date: August 24, 2023, 6:00 AM
+- Department: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91 years old
+- Vital Signs: BP;123 B, RESP;20, T;36.5
+
+Nursing Notes:
+
+- The patient is on an air mattress with sheets and clothes adjusted to prevent skin fold pressure and to keep the skin dry and well-ventilated.
+- The patient expressed feelings of depression and hopelessness, stating "What's the point of living like this?" and "I want to die."
+- The patient has displayed aggressive behavior, including swearing at staff and other patients, accusing them of stealing her belongings, and expressing hostility towards a fellow bedridden patient.
+- The patient received cough medicine (Cofushiryub) at 10:00 AM for her persistent cough.
+- The patient underwent acupuncture treatment at 15:00 PM.
+- The patient was observed to be stable and resting comfortably in bed with the railings up.
+- The patient's condition was monitored throughout the night, and no significant changes were reported.
+- The patient is incontinent and requires assistance with personal hygiene.

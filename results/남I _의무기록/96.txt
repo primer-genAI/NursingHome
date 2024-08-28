@@ -1,0 +1,14 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: June 27, 2024
+- Department: Unknown
+- Room: Unknown
+- Patient: Unknown
+- Vital Signs: Unknown
+- Medications: Unknown
+- Nurse Record:
+  - 10:00, 16:00, 23:00: Patient called for people and kept asking for things, causing disturbance to other patients' sleep. Doctor's round, overall observation, and bedrail fixation.
+  - 06:00 (Insurance/Guardian): Nurse's record - rounding in the room, 07:50. Patient slept well with no significant changes overnight. Observation of the patient's state, including a right BK amputation, a right Chemoport, and the patient's inability to control their bowel and bladder movements, requiring a diaper. The nurse checked the air mattress and performed a position change with a back massage. The patient was educated on fall risks, and the bedrail was raised for safety.
+  - 10:00, 16:00: Doctor's round, overall observation, and bedrail fixation.
+  - 23:00: Nurse's round and confirmation of the bedrail being up.

@@ -1,0 +1,20 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: April 4, 2024
+- Department: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs:
+  - 10:00 AM: BP 121/71, P 72, RESP 20, T 36.1°C
+  - 23:00: PP2 182
+- Nursing Record:
+  - 07:50: Room round, patient in bed with bedrails and left hemiparesis, L-tube (18Fr) in place, given enteral nutrition (400-400-400kcal/day), incontinent of bowel and bladder, wearing diapers with some stool hanging from each diaper. Patient continues to hit the bedrails and shows repetitive behavior. Air mattress checked and no deflation noted. Patient repositioned and back massage provided. Education given on fall prevention and bedrails kept up.
+  - 10:00: Physician round
+  - 16:00: Room round, patient in bed with bedrails fixed, in stable condition.
+  - 19:00: Vital signs taken, bedrails checked and up.
+  - 06:00: Room round, patient slept well through the night with no significant changes.
+  - 07:50: Room round, patient in bed with bedrails and left hemiparesis, L-tube (18Fr) in place, given enteral nutrition (400-400-400kcal/day), incontinent of bowel and bladder, wearing diapers with some stool hanging from each diaper.

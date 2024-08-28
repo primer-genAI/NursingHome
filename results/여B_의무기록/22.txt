@@ -1,0 +1,29 @@
+Progress Notes Summary:
+
+- Page Info: Unknown
+- Document Type: Progress Notes
+- Patient's Chart
+- Date Range: August 4th to August 7th, 2023
+- Department: FM1
+- Room: 505
+- Insurance Information: 00000000000 / No Name
+- Vital Signs:
+  - August 4th at 10:00 AM: BP;112 BPL;93 P;109 RESP;21 T;36.9
+  - August 4th at 7:00 PM: T;36.4
+  - August 5th at 10:00 AM: BP;119 BPL;85 P;98 RESP;20 T;36.1
+  - August 5th at 7:00 PM: BPL;77 P;57 RESP;20 T;36.0
+  - August 6th at 10:00 AM: BP;114 BPL;82 P;99 RESP;20 T;36.0
+  - August 6th at 7:00 PM: T;36.6
+  - August 7th at 6:00 AM: FBS;103
+  - August 7th at 10:00 AM: BP;115 BPL;92 P;105 RESP;20 T;36.6
+  - August 7th at 2:00 PM: T;36.0
+  - August 7th at 7:00 PM: BP;104 BPL;86 P;86 RESP;20 T;36.0
+  - August 7th at 7:00 PM: PP2;121 S: room air
+
+The patient is on oxygen therapy due to low oxygen saturation levels. They have a foley catheter and are bedridden, requiring continuous feeding through an L-tube. The patient will undergo periodic lab tests and observations, and their blood sugar levels will be checked regularly due to diabetes.
+
+The patient has been prescribed the following meal replacements:
+
+- Enforte Meal (Greenbay Intestinal Solution) for breakfast, lunch, and dinner from August 4th to August 7th, 2023.
+
+No other medications or treatments are mentioned in the progress notes.

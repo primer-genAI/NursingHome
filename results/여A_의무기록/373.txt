@@ -1,0 +1,23 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: 0092108472
+- Room: 516
+- Gender: Female
+- Age: 91 (current age: 91)
+- Vital Signs: BP 153/86, P 62, RESP 6.3
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications:
+  - 코대원포르테시럽20ml 3P#3
+  - 코푸시럽 20mL/1포 3P#3
+  - 슈다페드정60mg(슈도에페드린염산염) 1.5T#3 *4days (1/25~ 1/28)
+
+Nursing Care Plan:
+- 15:00: 한방치료 시행함
+- 15:47: 주치의 오더하에 익일부터 코대원포르테시럽20ml 3P#3, 코푸시럽 20mL/1포 3P#3, 슈다페드정60mg(슈도에페드린염산염) 1.5T#3 *4days 연장됨(1/25~ 1/28)
+- 16:00: 병실순회함, 침상 안정
+- 23:00: 병실 순회함, 침상난간 올려져 있는 것 확인함
+- 06:00: 병실 순회함, 밤동안 특이 변화 없이 잘잠
+- 07:50: 병실 순회함, 대소변 조절못해 기저귀 착용중임, 본원 에어매트하고 있음, 피부가 습하지 않도록 바람이 통하게 환기 시켜 줌, 침상안정시에는 난간을 올려 줌, 낙상위험에 대해 교육함, 정서적인 간호함, 집에 갈 수 없는 것에 대해 우울함, 종종 누군가 기저귀, 과자를 훔쳐갔다고 욕하고 화냄, 옆 와상 환자에 대해 이야기함
+- 10:00: 병실 순회함

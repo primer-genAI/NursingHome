@@ -1,0 +1,21 @@
+Patient's Chart Summary:
+
+- Document Type: Nurse Record (N)
+- Document Date: June 19, 2024
+- Patient's Condition:
+  - Bedridden with right-sided weakness (Rt hemiplegia)
+  - Feeding through a tube (L-tube) with Nutriwell fiber 400-400-400kcal/day
+  - Using an air mattress (local) for comfort and positioning
+  - Skin care for facial rash
+  - Wearing a urinary catheter (16Fr)
+- Nursing Care:
+  - Positioning and back massage
+  - Raising bedrails when not in use
+  - Observing overall condition
+- Doctor's Visits:
+  - Morning round
+- Nursing Staff:
+  - Regular bedside rounds
+  - Checking bedrails
+
+Please note that this summary is based on the provided information and may not include all relevant details.

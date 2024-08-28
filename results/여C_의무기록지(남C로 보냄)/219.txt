@@ -1,0 +1,29 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: July 19, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs:
+  - 12:00 PM: Blood Pressure 125
+  - 15:00 PM: Not Provided
+  - 16:00 PM: Not Provided
+  - 17:00 PM: Blood Pressure 155
+  - 23:00 PM: Not Provided
+  - 06:00 AM: Fasting Blood Sugar 104
+  - 07:50 AM: Not Provided
+  - 10:00 AM: Blood Pressure 98, Pulse 61, Respiratory Rate 20, Temperature 36.7
+- Nursing Record:
+  - 12:00 PM: Physician round, blood pressure 125.
+  - 15:00 PM: Unknown
+  - 16:00 PM: Room round, observed overall condition. Bedrail fixed, bed rest.
+  - 17:00 PM: Vital signs, blood pressure 155.
+  - 23:00 PM: Unknown
+  - 06:00 AM: Vital signs, fasting blood sugar 104.
+  - 07:50 AM: Room round, observed bedridden state. Incontinence of large and small bowel movements, wearing diapers. Air mattress kept. Changed patient's position and performed back massage. Smoothed wrinkles in sheets and clothing, ensured proper air circulation to prevent skin dampness. Educated patient about fall risks, raised bedrails when not in bed. Provided emotional support, patient responded minimally and seemed low-spirited or less talkative.
+  - 10:00 AM: Vital signs, blood pressure 98, pulse 61, respiratory rate 20, temperature 36.7.

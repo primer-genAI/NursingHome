@@ -1,0 +1,12 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Recording
+- Patient Number: 0092108472
+- Patient Information: Female, 91 years old, Room 516
+- Vital Signs: BP: 110/78, Pulse: 63, Respiration: 20, Temperature: 36.6°C
+- Medical History: Wandering behavior, incontinence, bedridden with air mattress, pressure ulcers, aggressive behavior, and difficulty breathing
+- Current Medications: Unknown
+- Treatments: One-time acupuncture treatment on 2024-06-26
+- Nursing Care: Regular bedside rounds, assistance with hygiene and comfort measures, and monitoring of vital signs and condition
+- Notes: The patient expressed a desire to die and exhibited aggressive behavior towards staff and other patients. She also mentioned that she was being mistreated during bathing.

@@ -1,0 +1,23 @@
+검사 지시서 요약:
+
+* 차트 번호: 0093109779
+* 검사 날짜: 2024년 04월 16일
+
+검체 유형: 소변
+
+* D2253 Ketone: 음성
+* D2253 Gravity: 1.01 (정상 범위: 1,005 ~ 1,030)
+* D2253 3 Positive: H 7.00 (참고 범위: 음성)
+* D2253 Specific Blood pH: 미기재 (참고 범위: 5.0 ~ 8.0)
+* D2253 Protein: 미기재 (참고 범위: 흔적량)
+* D2253 Urobi I inogen: 미기재 (참고 범위: 0 ~ 2 /HPF)
+* D2201020 Urine Microscopy:
+	+ Micro RBC: 많은 수 (참고 범위: 0 ~ 2 /HPF)
+	+ Micro WBC: 미기재 /HPF (참고 범위: ~2 /HPF)
+	+ Micro Epithelial cell: 많은 수 (참고 범위: 0 ~ 2 /HPF)
+* D2201020 Nitrite: 음성
+* D2800020 Sodium (Na): 136.00 mmo/L (참고 범위: 136 ~ 146 mmo/L)
+* D2800060 Potassium (K): 3.50 mmol/L (참고 범위: 101 ~ 109 mmol/L)
+* D2800030 Chloride (Cl): 95.00 mmo/L (참고 범위: 미기재)
+* D0113 CRP (정량): 미기재 (참고 범위: < 0.50 mg/dL)
+* D1840 Total Protein: 6.40 g/dL (참고 범위: 6.6 ~ 8.3 g/dL)

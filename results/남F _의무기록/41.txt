@@ -1,0 +1,13 @@
+Nurse Information Sheet:
+- Page Info: Unknown
+- Document Type: Nurse Record (N)
+- Time:
+  - 07:50: Bedsheet check, air mattress check, fall risk education, emotional support, overall condition observation
+  - 10:00: Doctor's round
+  - 16:00: Bedsheet check, overall condition observation
+  - 23:00: Bedsheet check
+- Date:
+  - April 5, 2024: Bedsheet check, air mattress check, fall risk education, emotional support, overall condition observation, doctor's round
+  - April 6, 2024: Bedsheet check, air mattress check, fall risk education, emotional support, overall condition observation
+
+Note: This summary is based on the information provided in the given document.

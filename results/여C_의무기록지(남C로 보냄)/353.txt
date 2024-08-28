@@ -1,0 +1,18 @@
+Patient's Chart Summary:
+
+- Document Type: Nurse Record
+- Patient Number: 0092108480
+- Room: 515
+- Gender: Female
+- Age: 87 years old
+
+Nursing Record:
+- 15:00: Acupuncture treatment was performed.
+- 16:00: Nurses made rounds and observed the patient's overall condition. Bedrails were secured, and the patient was resting comfortably.
+- 19:00: Vital signs: Temperature: 36.7°C
+- 23:00: Nurses made rounds and checked that bedrails were up.
+- 06:00: Vital signs: Fasting blood sugar: 73 mg/dL
+- 06:00: Nurses made rounds and found that the patient slept well without any notable changes in their condition.
+- 07:50: Nurses made rounds and observed the patient's overall condition. The patient was unable to control their bowel movements and was wearing a diaper. An air mattress was used, and the patient received a back massage and positioning changes. The patient's skin was checked for any signs of pressure sores, and the bedrails were raised.
+- 10:00: Vital signs: Blood pressure: 110/58 mmHg, Pulse: 48, Respiratory rate: 20, Temperature: 36.8°C
+- 15:00: The attending physician made rounds.

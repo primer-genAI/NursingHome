@@ -1,0 +1,7 @@
+Nurse Record Summary:
+
+* March 12, 2024, 23:00: Nursing Record - The bedrail was found to be raised.
+* March 12, 2024, 06:00: Vital Signs - Blood Pressure: 95/65, Pulse: 99, Respiration: 19, Temperature: 36.5°C, SpO2: 99%. Nursing Record - The patient was observed to have slept well with no significant changes during the night.
+* March 12, 2024, 07:50: Nursing Record - The patient was found to have no communication through words or eyes. They are currently on a L-tube insertion with enteral nutrition at 200-200-200-200kcal/day. A urinary catheter is in place, and perineal care is being provided. The patient is being monitored for bedsores and the air mattress is checked for deflation. The patient is bedridden, and the bedrail is raised. Overall condition is observed, and oxygen is provided via nasal prong at 2L/min. SpO2 is 98%. Oral-tracheal suction was performed. The patient is receiving antibiotics for pneumonia (since February 7 to March 11). The patient has a stage 2 pressure sore on the left buttock measuring 7 X 7 X 0 cm.
+* March 12, 2024, 09:00: Vital Signs - Weight: 62 kg.
+* March 12, 2024, 09:01: Nursing Record - The patient is unable to perform any Activities of Daily Living (ADL) independently due to severe weakness and cognitive decline. Assistance is required for dressing, bathing, grooming, eating, turning, sitting, and standing. The patient is completely dependent on staff for all ADLs.

@@ -1,0 +1,30 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: August 13, 2023, to August 14, 2023
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs:
+  - BP: 99/59
+  - P: 49
+  - RESP: 20
+  - T: 36.2
+
+- Medical History:
+  - The patient has Lt hemiplegia and requires a cystostomy (Foley catheter 18Fr) for urine control.
+  - The patient is bedridden and unable to control their bowel movements, so they wear diapers.
+  - The patient is using an air mattress to prevent pressure sores.
+  - The patient has a history of falling, so precautions are taken to prevent further falls.
+
+- Nursing Care:
+  - The nurse performed bedside rounds and observed the patient's overall condition.
+  - The nurse checked the patient's vital signs, including blood pressure, pulse, respiratory rate, and temperature.
+  - The nurse provided emotional support to the patient.
+  - The nurse performed a bed bath, checked the air mattress for deflation, and provided a back massage.
+  - The nurse educated the patient on fall prevention.
+  - The nurse checked the patient's bedrail and ensured it was in the upright position.
+  - The nurse reported the patient's condition to the on-call physician.
+  - The nurse monitored the patient's condition overnight and noted that the patient slept well without any significant changes.

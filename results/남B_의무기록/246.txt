@@ -1,0 +1,16 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Unknown
+- Date: December 27, 2023
+- Vital Signs:
+  - 10:08 AM: BP 103/59, P 54, RESP 20, T 36.7°C
+  - 16:00: BP 103/78, P 111, RESP 20, T 36.0°C
+- Nursing Notes:
+  - 07:50 AM: The patient was observed to be sleeping well without any significant changes during the night. The patient is bedridden with left-sided weakness (hemiplegia), has a Foley catheter (18Fr) inserted for urinary drainage (cystostomy), and is able to control their urine but not their bowel movements. The patient is using an air mattress to prevent bedsores. The nurse checked the mattress for deflation, changed the patient's position, and performed a back massage. The patient received education on fall prevention, and emotional support was provided.
+  - 10:00 AM: The patient's vitals were taken: BP 103/59, P 54, RESP 20, T 36.7°C. The attending physician made their rounds.
+  - 16:00: The nurse made their rounds, observing the patient's overall condition. The bedrails were found to be locked in place, and the patient was resting comfortably.
+  - 23:00: The nurse made their rounds and confirmed that the bedrails were still in the raised position.
+  - 06:00 AM: The patient was observed to be sleeping well without any significant changes during the night.
+  - 06:00 AM: The patient's vitals were taken: BP 103/78, P 111, RESP 20, T 36.0°C. The nurse made their rounds and found that the patient was in the same condition as the previous day. The nurse checked the patient's air mattress for deflation, changed their position, and performed a back massage.

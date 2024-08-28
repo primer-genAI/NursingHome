@@ -1,0 +1,49 @@
+환자의 차트 요약:
+
+* 페이지 정보: 알 수 없음
+* 문서 유형: 환자의 차트
+* 환자 번호: 0092106935
+* 문서 날짜: 2024년 5월 3일
+* 부서: 검사 슬립지
+* 입원 날짜: 알 수 없음
+* 병실: 알 수 없음
+* 성별: 알 수 없음
+* 나이: 알 수 없음
+* 활력 징후: 알 수 없음
+* 진단: 알 수 없음
+* 병력: 알 수 없음
+* 현재 약물: 알 수 없음
+
+검사 슬립지에는 다음과 같은 검사 결과가 포함되어 있습니다:
+
+1. Microscopic examination of urine:
+	* Microscopic epithelial cells: Negative result
+	* Nitrite: Negative result
+2. Complete blood count (CBC) with differential:
+	* Hemoglobin: 13.0 g/dL
+	* Hematocrit: 40.0%
+	* Red blood cells (RBC): 4.0 x 10^6/μL
+	* White blood cells (WBC): 4.0 x 10^3/μL
+	* Platelets: 150 x 10^3/μL
+	* Mean corpuscular volume (MCV): 80.0 fL
+	* Mean corpuscular hemoglobin (MCH): 25.7 pg
+	* Mean corpuscular hemoglobin concentration (MCHC): 32.0 g/dL
+	* Red cell distribution width (RDW): 11.0 %
+	* Mean platelet volume (MPV): 10.10 fL
+	* Platelet distribution width (PDW): Not established
+	* WBC differential:
+		+ Segmented neutrophils: 41.7%
+		+ Lymphocytes: 18.4%
+		+ Monocytes: 0.0%
+		+ Eosinophils: 0.0%
+		+ Basophils: 0.0%
+3. Electrolytes:
+	* Sodium (Na): 136 mmol/L
+	* Potassium (K): 3.5 mmol/L
+	* Chloride (Cl): 101 mmol/L
+4. C-reactive protein (CRP) level: 0.50 mg/dL
+5. Liver function tests (LFT):
+	* Total protein: 6.6 g/dL
+	* Albumin: 3.5 g/dL
+	* Total cholesterol: Desirable: < 200
+	* Aspartate aminotransferase (AST): 40 U/L

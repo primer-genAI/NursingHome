@@ -1,0 +1,20 @@
+Nurse Record Summary:
+
+* Patient: 0091700991, Male, 58 years old, Room 203
+* Date: August 28, 2023
+
+Nursing actions:
+
+* Educated the patient about fall risks and the importance of using a wheelchair for mobility.
+* Observed the patient's overall condition and noted that he experiences short-lived seizures in his left limb.
+* Administered Levospirol tablets orally under the supervision of the attending physician for nausea.
+* Monitored the patient's condition throughout the day and observed that he was resting comfortably.
+* Ensured the bedrails were in place for safety.
+* Educated the patient about bedrails and their importance when the patient is bedridden.
+* Observed the patient's overall condition and noted the short-lived seizures in his left limb.
+* Monitored the patient's vital signs:
+	+ BP: 130/78, 125/72
+	+ Pulse: 91, 85
+	+ Respiratory rate: 22, 20
+	+ Temperature: 36.7°C, 36.4°C
+* No specific medical history or current medications mentioned in the provided information.

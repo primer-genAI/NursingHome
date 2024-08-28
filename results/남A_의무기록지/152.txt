@@ -1,0 +1,10 @@
+Nurse Record Summary:
+
+* 06:00: Nurse made rounds and observed that the patient slept well through the night with no significant changes.
+* 07:50: Nurse performed a room round, noting that the patient was in a bedridden state with left-side paralysis. The patient had an L-tube (18Fr) and was receiving a tube feeding of 400-400-400kcal/day. The patient was unable to control bowel and bladder movements and was wearing diapers. The patient was repeatedly hitting the bed rail with their right hand. The nurse checked the air mattress and ensured it was properly inflated. They also performed a body position change, back massage, and provided fall risk education. The patient's temperature was T;36.1.
+* 10:00: The patient's vital signs were BP;91 BPL;57 P;66 RESP;20. The attending physician made rounds.
+* 16:00: The nurse performed a room round and observed that the patient's condition was stable, with the bed rail fixed.
+* 23:00: The nurse performed a room round and confirmed that the bed rail was up.
+* 2023-08-19: The insurance/guardian was informed about the patient's condition.
+
+Note: The patient's condition is not provided in the given information.

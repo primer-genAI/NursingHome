@@ -1,0 +1,15 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: June 29, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: BP;117 BPL;72 P;54 RESP;19 T;36.2
+- Medical History: Bed ridden state, Lt hemiplegia, Cystostomy (Foley catheter 18Fr), well urine output, unable to control bowel movements, using a diaper, air mattress in the room, good air mattress condition, position change and back massage, fall prevention education, emotional support
+- Current Medications: Unknown
+
+Note: The information provided is limited to the nurse's record, and some details such as patient number, department, admission date, room, gender, age, and current medications are unknown.

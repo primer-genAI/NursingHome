@@ -1,0 +1,26 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: June 2-3, 2024
+- Department: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: SPO2: 92-95%
+- Medical History: Unknown
+- Current Medications: Unknown
+
+### Nursing Notes:
+
+- June 2, 2024:
+  - 06:00: Room round, patient slept well with no significant changes.
+  - 07:50: Room round, oxygen 2L/min via nasal prongs with SPO2 at 92-95%. Patient is wearing a diaper due to incontinence. Air mattress is being used, checked for deflation, and the patient was turned and given a back massage. Bedrails were up during bed rest.
+  - 10:00: On-call physician round.
+  - 16:00: Room round, overall condition observed, bedrails were secure, and the patient was resting in bed.
+  - 23:00: Room round, bedrails were found to be up.
+- June 3, 2024:
+  - 06:00: Room round, patient slept well with no significant changes.
+  - 07:50: Room round, oxygen 2L/min via nasal prongs with SPO2 at 92-95%. Patient is wearing a diaper due to incontinence. Air mattress is being used, checked for deflation, and the patient was turned and given a back massage. Bedrails were up during bed rest.
+  - 10:00: Attending physician round.

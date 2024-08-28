@@ -1,0 +1,44 @@
+검사 슬립지 요약:
+
+* 차트 번호: 미기입
+* 검사 날짜: 2024년 4월 6일
+* 환자 정보:
+	+ 이름: 미기입
+	+ 주민등록번호: 미기입
+	+ 성별: 남성
+	+ 나이: 76세
+	+ 담당 의사: 미기입
+	+ 입원 부서: 3병동 (315호)
+* 검사 결과:
+	+ CBC (Diff 포함): 미기입
+		- Hmoglobin: 9.20 g/dL
+		- Hematocrit: 26.90 %
+		- RBC: 2.54 x 10^6/μL
+		- WBC: 3.10 x 10^3/μL
+		- Platelet: 150 ~ 450 x 10^3/μL
+		- MCV: 105.90 fL
+		- MCH: 36.20 pg
+		- MCHC: 34.20 g/dL
+		- RDW: 19.50 %
+		- MPV: 미설정
+		- PDW: 미설정
+	+ WBC Diff: 미기입
+		- Segmented neutrophils: 40.90 %
+		- Lymphocytes: 46.00 %
+		- Monocytes: 9.90 %
+		- Eosinophils: 2.90 %
+		- Basophils: 0.30 %
+	+ CRP (정량): 3.37 mg/dL
+	+ Electrolyte (Na, K, Cl): 미기입
+		- Sodium (Na): 142.00 mmo
+		- Potassium (K): 3.20 mmo
+		- Chloride (Cl): 108.00 mmol/L
+	+ LFT: 미기입
+		- Total Protein: 5.30 g/dL
+		- Albumin: 2.30 g/dL
+		- Total
+		Cholesterol: 84.00 Desirable: <200 mg/dL
+		- AST (SGOT): 73.00 U/L
+		- ALT (SGPT): 36.00 U/L
+
+참고: 이 결과는 참고 범위를 벗어난 값이 있을 수 있습니다.

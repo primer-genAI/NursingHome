@@ -1,0 +1,23 @@
+Nurse Record Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Date: December 30, 2023
+- Department: Unknown
+- Patient Information:
+  - Name: Unknown
+  - Age: Unknown
+  - Gender: Unknown
+  - Medical Condition: Unspecified
+- Key Events and Observations:
+  - 10:00 AM: Nursing Record entry by an unspecified nurse.
+  - 11:30 AM: Vital Signs: Temperature (T): 36.7°C. Entry by an unspecified nurse.
+  - 1:00 PM: The patient was moved from Room 505 to Room 511 due to being isolated for treatment of a rectal infection, which tested negative three times. Entry by an unspecified nurse.
+  - 4:00 PM: Nursing Record entry by an unspecified nurse, stating the patient was observed during a room round. The bedrail was secured, and the patient was resting in bed.
+  - 7:00 PM: Nursing Record entry by an unspecified nurse.
+  - 11:00 PM: Nursing Record entry by an unspecified nurse. The bedrail with the bed was checked and found to be in place.
+  - 11:59 PM: Vital Signs: Temperature (T): 36.6°C. Entry by an unspecified nurse. Nursing Record entry stating the nurse made rounds.
+  - 6:00 AM: Nursing Record entry by an unspecified nurse.
+  - 7:50 AM: The patient was observed during a room round. The patient could not communicate verbally or through eye contact. An L-tube (fr18) was inserted, and the patient was receiving feeding through a 200kcal * 4 times per day solution. The patient was unable to control bowel and bladder functions and was wearing a diaper. The patient was lying on an air mattress provided by the hospital, which was checked for deflation. The bedrail was raised, and the patient's overall condition was observed.
+  - 10:00 AM: Vital Signs: Blood Pressure (BP): 109/70, Pulse (P): 83, Respiratory Rate (RESP): 20, Temperature (T): 36.0°C. Nursing Record entry stating the on-call doctor made rounds. Entry by an unspecified nurse.
+  - 3:50 PM: A son-in-law face-to-face visit was conducted in compliance with infection control guidelines. Entry by an unspecified nurse.

@@ -1,0 +1,22 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: 0092108472
+- Document Date: August 30, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91 years old
+- Vital Signs: Blood pressure 118, respiratory rate 20, temperature 36.7°C (10:00 AM)
+- Notes:
+  - The patient spoke harshly to the bedridden patient next to her for no reason at 10:00 AM.
+  - The patient received acupuncture treatment at 3:00 PM.
+  - The patient was observed to be sleeping well throughout the night with no significant changes.
+  - The patient expressed feelings of depression and expressed a desire to die, saying "What's the point of living like this?"
+  - The patient displayed aggressive behavior, shouting and cursing at staff and other patients in the room.
+  - The patient's incontinence is managed with diapers, and the patient is on an air mattress. Nurses are instructed to keep the patient's skin dry and prevent skin breakdown.
+  - The patient's vital signs were recorded as blood pressure 99/62, pulse 60 at 10:00 AM.
+
+Please note that this summary is based on the provided text and may not include all relevant information.

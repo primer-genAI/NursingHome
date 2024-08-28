@@ -1,0 +1,4 @@
+Nurse's Record (N):
+
+* 16:00 - The on-call doctor visited the patient, checked their overall condition, and found the bed rail secured. The patient was resting comfortably in bed.
+* 23:00 - The nurse performed a round in the ward and confirmed that the bed rail was still in the raised position.

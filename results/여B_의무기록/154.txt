@@ -1,0 +1,17 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: June 13, 2023
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+- Vital Signs:
+  - 19:00: BP 116/85, P 113, RESP 20, T 36.8, SPO2 98
+  - 06:00: BP 96/70, P 115, RESP 21, T 37.1, SPO2 98
+- Nursing Notes:
+  - 14:40: Patient is bedridden, unable to communicate verbally or nonverbally. L-tube (fr18) inserted with fiber 400-200-400kcal/D. Incontinent of bowel and bladder, wearing diapers. On air mattress. O2 2L/min via nasal prong, SPO2 95-98%. Isolated for D CRE. Gloves and gown used during care. Hand hygiene performed before and after care. Isolation guidelines followed.
+  - 16:00: Patient's overall condition observed. Bedrail secure.
+  - 20:00 V/S: BP 116/85, P 113, RESP 20, T 36.8, SPO2 98
+  - 06:00 V/S: BP 96/70, P 115, RESP 21, T 37.1, SPO2 98
+  - 07:50: V/S: 96/70-115-21-37.1, SPO2: 98%. Respiratory patterns observed.

@@ -1,0 +1,15 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: June 12, 2023, 14:37
+- Patient Information: Not provided
+
+### Nurse Record:
+
+- 06:00: The patient was awake and alert during the morning rounds. They have left-side paralysis and are receiving tube feeding. They are able to control their bladder with a catheter, but not their bowels. The patient has a wound on their right hand from the bed's air mattress, so education was provided on changing positions and avoiding back massages. The patient exhibits repetitive behavior, such as hitting the bed, and is checked every two hours for falls.
+- 07:50: The patient's condition remains unchanged since the previous check.
+- 10:00: The patient's vital signs were taken: Blood pressure 102/54, pulse 68, respiratory rate 20, and temperature 35.8°C.
+- 16:00: The patient's condition was observed during the afternoon rounds. They are in bed, and the bedrails are secured.
+- 19:00: The patient's temperature was elevated at 38.9°C, but they did not exhibit shivering. An antipyretic medication called Anispen was administered orally, and an ice pack was applied to help lower the fever. The patient's rectal temperature was 36.9°C.
+- 20:00: The patient's temperature returned to normal at 36.9°C.
+- 23:00: The patient's bedrails were found to be in the upright position during the evening rounds.

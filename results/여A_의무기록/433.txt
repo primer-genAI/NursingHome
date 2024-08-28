@@ -1,0 +1,20 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse's Record
+- Patient Number: 0092108472
+- Department: Unspecified
+- Admission Date: Unspecified
+- Room: 516
+- Gender: Female
+- Age: 91
+- Vital Signs: BP;104, T;36.4
+- Medical History: Unspecified
+- Current Medications: Unspecified
+
+Nurse's Record:
+
+- The patient is using an air mattress in the hospital bed. The nurse ensures the sheets and clothing are smooth, the patient's skin is not pinched, and the area is well-ventilated to prevent skin moisture. The bedrails are adjusted for stability and the patient's overall condition is observed.
+- The patient expresses feelings of depression and frustration about her condition, often verbally abusing staff and other patients. She accuses others of stealing her personal items and becomes aggressive towards a fellow patient.
+- The nurse conducts regular bedside checks and ensures the bedrails are in place. The patient's vital signs are monitored, and no significant changes are noted.
+- The patient slept well through the night and the nurse continues to provide care, ensuring the air mattress is properly positioned, the bedrails are up, and the patient's overall condition is observed.

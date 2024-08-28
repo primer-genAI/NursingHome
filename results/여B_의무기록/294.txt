@@ -1,0 +1,17 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Document Date: October 31, 2023
+- Patient: Unknown
+- Room: Unknown
+
+Nursing Record:
+
+- 06:00: Nursing Record: Checked the patient's room. The patient slept well through the night with no significant changes.
+- 07:50: Checked the patient's room. The patient is bedridden, unable to communicate verbally or through eye contact. The patient has an L-tube (fr18) for feeding with 200kcal x4 times a day. A urinary catheter is in place, and perineal care is provided. The patient wears diapers due to incontinence. The patient's air mattress was checked for any deflation. The bed rail was raised, and the patient's overall condition was observed. Infection control measures were followed.
+- 10:00: Vital Signs: BP;114 BPL;73 P;84 RESP;20 T;36.6
+- 10:00: Nursing Record: The attending physician made their rounds.
+- 16:00: Checked the patient's room. The patient's overall condition was observed.
+
+Author: Unknown

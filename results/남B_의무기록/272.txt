@@ -1,0 +1,16 @@
+Patient's Chart Summary:
+- Document Date: January 29, 2024
+- Patient: Unknown (no patient number provided)
+- Condition: Bedridden with left hemiplegia, using a Foley catheter (18Fr) for urine control, but unable to control bowel movements and wearing diapers. Patient is on an air mattress in the room. Nurses checked for any deflation and performed position changes and back massages. Educated the patient on fall risks and provided emotional support.
+- Medical History: Unknown (no specific details provided)
+- Current Medications: Unknown (no specific medications listed)
+- Daily Activities:
+  - 09:05: Assisted with a full body bath by a caregiver
+  - 10:00: Vital signs checked (BP: 133, BPL: 66, P: 50, RESP: 20, T: 36.2) and rounds with the attending physician
+  - 16:00: Room check and overall condition observation, bedrail fixed, and patient resting in bed
+  - 23:00: Room check, bedrail found in the up position
+  - Overnight: No significant changes reported, patient slept well
+  - 07:50: Room check, patient's condition remained the same
+  - 10:00: Vital signs checked (BP: 109, BPL: 62, P: 52, RESP: 19, T: 36.1)
+
+Note: The patient's chart does not include specific details such as patient number, patient name, or insurance/guardian information.

@@ -1,0 +1,14 @@
+Patient's Chart Summary:
+
+* Page Info: Unknown
+* Document Type: Nurse Record
+* Patient Information: Unknown
+* Date and Time: February 13, 2024
+* Nursing Activities:
+  - 07:50: Room round, patient in bed-ridden state with left hemiplegia, cystostomy (Foley catheter 18Fr) in place, urine output good, but unable to control bowel movements, wearing diapers, air mattress checked, repositioning and back massage performed, fall risk education, emotional support provided.
+  - 10:00: Vital signs: BP 124/73, P 53, RESP 21, T 36.0, attending physician round.
+  - 16:00: Room round, general condition observed, bed rail secured, bed rest.
+  - 23:00: Room round, bed rail checked.
+  - 06:00: Room round, patient slept well with no significant changes overnight.
+  - 07:50: Room round, patient in bed-ridden state with left hemiplegia, cystostomy (Foley catheter 18Fr) in place, urine output good, but unable to control bowel movements, wearing diapers, air mattress checked, repositioning and back massage performed, fall risk education, emotional support provided.
+  - 10:00: Vital signs: BP 124/73, P 53, RESP 21, T 36.0, attending physician round.

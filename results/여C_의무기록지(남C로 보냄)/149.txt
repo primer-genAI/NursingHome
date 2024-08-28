@@ -1,0 +1,21 @@
+Patient's Chart Summary:
+
+* Document Type: Progress Notes
+* Date: May 24, 2024
+* Doctor: FM1, Room 317
+* Insurance: 4 / Health Insurance
+* Vital Signs:
+	+ 6:00 AM: BP 108/84, P 54, RESP 21, T 36.4°C, FBS 72, SPO2 97
+	+ 10:00 AM: BP 103/70, P 54, RESP 21, T 36.6°C, SPO2 99
+	+ 2:00 PM: T 37.0°C, SPO2 97
+	+ 7:00 PM: T 36.9°C, SPO2 97
+	+ 7:00 PM: PP2 119
+* Tests:
+	+ D3021: Blood sugar test (2 times)
+* Treatments:
+	+ 40012: Acupuncture (at two or more points, such as LiGong and SanYinJiao) - 1 session
+	+ 40080: Investigation acupuncture (at points like SamYeomGyo and HyunJong) - 1 session
+* Medications:
+	+ Diabetes meal (brown rice) - 3 times a day
+
+Note: The information for May 25, 2024, seems to be incomplete.

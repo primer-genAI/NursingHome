@@ -1,0 +1,25 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: January 17, 2024
+- Department: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: Unknown
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Nurse Record:
+
+- 06:00: Room round performed. Patient slept well during the night with no significant changes.
+- 07:50: Room round performed. Patient's overall condition observed. Patient is bedridden, unable to control bowel and bladder movements, and wearing diapers. The mattress is kept, and the patient's body position was changed, and back massage was performed. The patient's sheets and clothes were smoothed out, and the patient's skin was prevented from being pressed. The room was ventilated to prevent humidity. The bedrail was put up for emotional nursing. The patient barely responds when spoken to and appears depressed or quiet.
+- 10:00: Vital signs checked: Blood pressure, heart rate, pulse, respiratory rate, temperature, and other vital signs were recorded.
+- 15:00: Unknown treatment or activity was performed.
+- 16:00: Room round performed. Patient's overall condition observed. The bedrail is fixed, and the patient is resting in bed.
+- 23:00: Room round performed. The bedrail was found to be up.
+- January 18, 2024: Unknown insurance/guardian information. Room round performed. Patient slept well during the night with no significant changes.
+
+Please note that the information provided in this document is limited and lacks specific details.

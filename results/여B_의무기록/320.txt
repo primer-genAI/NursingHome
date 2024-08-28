@@ -1,0 +1,18 @@
+Patient's Chart Summary:
+
+- Document Date: Unknown
+- Department: Unknown
+- Patient Information: Unknown
+- Vital Signs:
+  - 10:00: BP 113/70, P 81, RESP 18, T 36.1°C
+  - 19:00: T 36.4°C
+- Nursing Notes:
+  - 07:50: Patient bedridden, unable to communicate verbally or nonverbally. L-tube feeding (fr18) with 200kcal x 4 times a day. Indwelling catheter and perineal care provided. Patient on air mattress, bed rails up, and overall condition observed. Isolated for D CRE, wearing gloves and gown during care, hand hygiene performed before and after care, following isolation precautions.
+  - 10:00: Vital signs taken.
+  - 10:00: Attending physician's round.
+  - 10:50: Assisted by caregiver, the patient received a full body bath.
+  - 16:00: Room round, overall condition observed, bed rails secured, and patient resting comfortably.
+  - 23:00: Room round, bed rails up, and no changes noted.
+  - 2023-11-28: Insurance/Guardian: Overnight, the patient slept well with no significant changes.
+
+Please note that the patient's information, such as their name, diagnosis, and other relevant details, is not provided in the given document.

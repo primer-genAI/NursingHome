@@ -1,0 +1,26 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: Unknown
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: Unknown
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Nurse Record:
+
+- 06:00: Nursing Record - 작성자: 병실 순회함. 밤동안 특이 변화 없이 잘잠.
+- 07:50: 병실 순회함 F-cath kept & 회음부 간호 시행함 대변 조절 못해 기저귀 착용중임 본원 에어매트하고 있음. 바람이 빠지지 않았는지 확인함. 체위변경하고 등마사지 시행함. 침상안정시에는 침상난간을 올려 놓음 정서적인 간호함 전반적인 상태 관찰함 양쪽 발목 찌르는 듯한 통증으로 NRS 3점 듀로제식디트랜스패취 12mcg/h(펜타닐)로 통증 조절하고 있음 아무것도 없는곳을 바라보며 대화하듯 이야기를 하며 엉뚱한 이야기 함 #: sore) COCCyx G4 6 X 8 X 1 cm - 작성자 (인)
+- 09:00: #: 통증 D: 양쪽 발목 통증으로 힘들어함(NRS 6점) A: 듀로제식디트렌스페취12mcg/r(펜타닐) 가슴에 교환하여 부착함 - 작성자 (인)
+- 10:00: 담당의 회진함 - 작성자 (인)
+- 11:30: # 욕창 D COCCyx G4 6 x 8 X 1 cm A 욕창부위 드레싱을 시행함. 에어매트 적용함. 체위변경하고 등마사지 시행함. R 욕창 발생부위 피부 상태를 관찰함 - 작성자 (인)
+- 15:00: R:통증 감소함(NRS 3점) - 작성자 (인)
+- 16:00: 병실순회함. 전반적인 상태 관찰함. 침상 난간 고정 되어 있음. 침상 안정 중임. - 작성자 (9)
+- 23:00: 병실 순회함. 침상난간 올려져 있는 것 확인함. - 작성자 (인)

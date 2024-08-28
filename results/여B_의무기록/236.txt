@@ -1,0 +1,32 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Unspecified
+- Date: Unspecified
+- Vital Signs:
+  - 07:50: BP 126/85, P 94, RESP 20, T 36.1°C
+  - 10:00: BP 126/85, P 94, RESP 20, T 36.1°C
+  - 16:00: BP 126/85, P 94, RESP 20, T 36.1°C
+- Nurse Observations and Actions:
+  - 07:50:
+    - Patient is bedridden, unable to communicate verbally or non-verbally.
+    - L-tube (fr18) is in place for feeding with current settings of 200kcal x4 times a day.
+    - Indwelling catheter in place, and perineal care provided.
+    - Checked air mattress for deflation and adjusted bed rails accordingly.
+    - Overall patient condition observed.
+    - The patient is in isolation due to D CRE, and isolation precautions are being followed.
+    - Nursing staff wore gloves and gowns during patient care, and hand hygiene was practiced before and after care.
+  - 09:01:
+    - Assessed the patient's Activities of Daily Living (ADL) and provided assistance as needed:
+      - Dressing: Total assistance required due to weakness and cognitive decline.
+      - Bathing: All steps performed with staff assistance.
+      - Toothbrushing: Total assistance required.
+      - Eating: All food is provided through the L-tube.
+      - Positioning: Assisted with changing positions to prevent bedsores.
+      - Sitting up: Unable to move without assistance and support.
+      - Transferring: Requires two staff members to transfer from bed to wheelchair.
+      - Going out of the room: Wheelchair assistance provided.
+      - Toileting: Assistance required to change position for diaper changes.
+
+Please note that this summary is based on the provided information and may not include all relevant details.

@@ -1,0 +1,41 @@
+검사 슬립지 요약:
+
+* 환자 이름: 비어있음
+* 검사 일자: 2024년 04월 01일
+* 차트 번호: 비어있음
+* 담당 의사: 비어있음
+* 환자 정보:
+	+ 성별: 남성
+	+ 나이: 53세
+	+ 입원 병실: 5병동 / 519호
+
+검사 결과:
+
+1. [L]CBC (Complete Blood Count):
+	* Hmoglobin: 12.60 g/dL (참고치: 13.0 ~ 17.3 g/dL)
+	* Hematocrit: 39.50% (참고치: 40.0 ~ 52.0 %)
+	* RBC: 4.65 10^6/μL (참고치: 4.00 ~ 5.80 10^6/μL)
+	* WBC: 11.00 10^3/μL (참고치: 4.0 ~ 10.0 10^3/μL)
+	* Platelet: 543.00 10^3/μL (참고치: 150 ~ 450 10^3/μL)
+	* MCV, MCH, MCHC, RDW, MPV, PDW: 모두 참고치 내
+	* WBC Diff:
+		- Segmented neutrophils: 64.90% (참고치: 41.7 ~ 75.0 %)
+		- Lymphocytes: 29.40% (참고치: 18.4 ~ 45.0 %)
+		- Monocytes: 4.20% (참고치: 0.0 ~ 12.0 %)
+		- Eosinophils: 1.00% (참고치: 0.0 ~ 8.0 %)
+		- Basophils: 0.50% (참고치: -)
+2. [L]ELEC (전해질)
+	* Sodium (Na): 126.00 mmol/L (참고치: 136 ~ 146 mmol/L)
+	* Potassium (K): 5.00 mmol/L (참고치: 3.5 ~ 5.1 mmol/L)
+	* Chloride (Cl): 85.00 mmol/L (참고치: 101 ~ 109 mmol/L)
+3. [L]LFT (간기능검사)
+	* Total Protein: 7.60 g/dL (참고치: 6.6 ~ 8.3 g/dL)
+	* Albumin: 4.00 g/dL (참고치: 3.5 ~ 5.2 g/dL)
+	* Total Cholesterol: 136.00 mg/dL (참고치: Desirable: < 200)
+	* AST (SGOT): 15.00 U/L (참고치: ≤ 40 U/L)
+	* ALT (SGPT): 10.00 U/L (참고치: ≤ 40 U/L)
+	* 8-GTP: 26.00 U/L (참고치: ≤ 64 U/L)
+	* Glucose: 98.00 mg/dL (참고치: 60 ~ < 100 mg/dL)
+	* Total Bilirubin: 0.80 mg/dL (참고치: 0.3 ~ 1.2 mg/dL)
+	* BUN: 12.50 mg/dL (참고치: 7.9 ~ 25.0 mg/dL)
+	* Creatinine: 0.69 mg/dL (참고치: 0.77 ~ 1.43 mg/dL)

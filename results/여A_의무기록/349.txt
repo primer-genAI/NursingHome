@@ -1,0 +1,23 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: 0092108472
+- Document Date: December 30, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91
+- Vital Signs:
+  - 10:00 AM: BP: 110/78, Pulse: 70, RESP: 20, Temp: 36.7°C
+- Nursing Record:
+  - 10:00 AM: V/S recorded
+  - 15:00 PM: Attending physician's round
+  - 16:00 PM: General bedrail raised and patient stable
+  - 23:00 PM: Bedrail check and no changes observed
+  - 06:00 AM: Room round, patient slept well without significant changes
+  - 07:50 AM: Patient incontinent and using a diaper, air mattress in place, skin care provided, bedrails up for safety, fall risk education given, and overall condition observed
+- Emotional Support: Patient expresses feelings of hopelessness and frustration about being unable to go home, sometimes verbally aggressive towards staff and roommates, accusing them of stealing personal items
+- Medications: Unknown
+
+Please note that this summary is based on the provided information, which may be incomplete.

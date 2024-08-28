@@ -1,0 +1,24 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: April 16-17, 2024
+- Department: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: BP;117 BPL;74 P;76 RESP;20 T;36.7
+- Medical History: Left hemiparesis (weakness on the left side of the body), able to control bowel and bladder functions, falls risk, daily left arm and leg seizures lasting less than 10 seconds.
+- Current Medications: Unknown
+- Nursing Notes:
+  - 23:00: Bedrail check.
+  - 06:00: Room round, patient slept well with no significant changes during the night.
+  - 07:50: Room round, left hemiparesis, able to control bowel and bladder functions, falls risk education, bedrail up when in bed, emotional support, overall condition observed, using a wheelchair for mobility.
+  - 10:00: Vital signs: BP;117 BPL;74 P;76 RESP;20 T;36.7
+  - 10:00: Doctor's round
+  - 15:00: Acupuncture treatment
+  - 16:00: Room round, overall condition observed, bedrail fixed, bed
+  - 23:00: Stable, room round, bedrail up check.
+  - 06:00: Room round.
+  - 07:50: Room round, patient slept well with no significant changes during the night.

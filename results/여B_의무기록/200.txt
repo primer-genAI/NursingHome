@@ -1,0 +1,35 @@
+**Patient's Chart Summary**
+
+**Document Type:** Nurse Record
+
+**Date:** 2023-07-27
+
+**Patient's Room:** Unknown
+
+**Vital Signs:**
+
+* 19:00: Temperature: 36.6°C, Blood Pressure: Unknown, Respiratory Rate: Unknown
+* 23:00: Temperature: Unknown, Blood Pressure: Unknown, Respiratory Rate: Unknown
+* 07:50: Blood Pressure: 136/109, Heart Rate: 91, Respiratory Rate: 20, Temperature: 36.1°C
+* 10:00: Blood Pressure: 136, Heart Rate: Unknown, Respiratory Rate: Unknown, Temperature: Unknown
+* 16:00: Vital signs not mentioned
+
+**Observations:**
+
+* Patient is bedridden and stable.
+* Patient is unable to communicate verbally and has a feeding tube (fr18).
+* Patient is on a liquid diet and receives 200kcal in 4 doses.
+* Patient is wearing a mask and gown due to isolation precautions.
+* Patient has a catheter and depends on diapers for bowel control.
+* Patient is on an air mattress with air leak checked.
+
+**Nursing Actions:**
+
+* Nurses performed room rounds and observed the patient's overall condition multiple times throughout the day.
+* Nurses checked the patient's vital signs at specific times.
+* The attending physician conducted a round at 10:00.
+
+**Isolation Precautions:**
+
+* The patient is in isolation due to CRE (Carbapenem-resistant Enterobacteriaceae).
+* Nurses wear gloves, gowns, and follow hand hygiene guidelines when attending to the patient.

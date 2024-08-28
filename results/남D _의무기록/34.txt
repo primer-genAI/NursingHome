@@ -1,0 +1,23 @@
+Nurse Information Record Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record (N)
+- Date Range: April 14th to 15th, 2024
+- Patient Information:
+  - Room: Unknown
+  - Insurance/Protection: Unknown
+
+Nurse Activities:
+
+- 23:00 (April 14th): Nurse did a room round and checked that the bed rail was up.
+- 06:00 (April 15th): Nurse did a room round and noted that the patient slept well throughout the night with no significant changes.
+- 07:50 (April 15th): Nurse did a room round and noted that the patient cannot control their bowel and bladder movements, so a diaper was worn. The patient is on an air mattress in this hospital, and the nurse checked if the air was deflated. The nurse also helped the patient change positions and massaged the patient's back due to right-sided hemiplegia. The nurse educated the patient on fall risks and provided emotional support. The nurse observed the patient's overall condition.
+- 10:00 (April 15th): The on-call doctor made a round.
+- 10:50 (April 15th): The patient took a full bath with the help of a caregiver.
+- 16:00 (April 15th): Nurse did a room round and observed the patient's overall condition. The bed rail was found to be fixed, and the patient was in bed rest.
+- 23:00 (April 15th): Nurse did a room round and checked that the bed rail was up.
+
+### REMEMBER:
+- Always use a patient-friendly tone.
+- Follow the format of the example closely.
+- Ensure accuracy and clarity in every explanation.

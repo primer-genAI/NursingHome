@@ -1,0 +1,16 @@
+Nurse Record Summary:
+- Time: 16:00
+  - Nursing Action: Room round, general condition observation, bedrail secured, bedridden
+  - Responsible Nurse: Unknown
+- Time: 23:00
+  - Nursing Action: Room round, bedrail confirmation
+  - Responsible Nurse: Unknown
+- Time: 06:00
+  - Nursing Action: Room round, patient slept well, communication difficulties, L-tube feeding, urinary catheter, perineal care, air mattress check, bedrail assistance, overall condition observation, oxygen therapy, isolation precautions
+  - Responsible Nurse: Unknown
+- Time: 10:00
+  - Nursing Action: Vital signs check, physician round
+  - Responsible Nurse: Unknown
+- Time: 16:00
+  - Nursing Action: Room round
+  - Responsible Nurse: Unknown

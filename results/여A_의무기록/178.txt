@@ -1,0 +1,27 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: 0092108472
+- Document Date: June 21, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 512
+- Gender: Female
+- Age: 91 (current age: 91)
+- Vital Signs:
+  - 10:00 AM: BP 127/90, P 72, RESP 20, T 36.9
+  - 10:00 AM: BP 132/76, P 66, RESP 20, T 36.7
+- Medical History: Unknown
+- Current Medications: Unknown
+
+The nursing record for patient 0092108472 on June 21, 2023, includes the following information:
+
+- At 10:00 AM, the patient's vital signs were recorded as BP 127/90, heart rate (P) 72, respiratory rate (RESP) 20, and temperature (T) 36.9.
+- At 10:00 AM, the patient was seen by the attending physician.
+- The patient's overall condition was observed throughout the day. The bedrail was found to be fixed, and the patient was resting in bed.
+- At 15:00 PM, the patient received acupuncture treatment. The nurse also made rounds at 16:00 PM.
+- The patient's vital signs were recorded again at 10:00 AM, with BP 132/76, P 66, RESP 20, and T 36.7.
+- The patient was observed to have slept well.
+- The nurse made rounds at 07:50 AM and noted that the patient is incontinent and wears diapers. The patient is using an air mattress provided by the hospital. The nurse ensured that the patient's skin is not rubbed or damp by smoothing out any wrinkles in the sheets or clothing and providing ventilation. The bedrail was raised when the patient was resting in bed, and the patient was educated about the risk of falls.
+- The patient expressed feelings of depression, stating that she doesn't know what the point of living is and wishes she were dead. She also feels depressed about not being able to return home. The patient has displayed aggressive behavior, such as swearing and shouting at staff and other patients in the ward, and sometimes accuses others of stealing her diapers and snacks.

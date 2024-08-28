@@ -1,0 +1,40 @@
+검사 슬립지:
+
+* 차트 번호: 0093109779
+* 검사 날짜: 2024년 01월 08일
+* 환자: 여성, 77세
+* 병동 / 병실: 5병동 / 511호
+
+검사:
+
+1. **CBC with Diff** (Complete Blood Count with Differential):
+   * Hmoglobin: 11.50 g/dL (정상 범위: 11.3 ~ 15.0 g/dL)
+   * Hematocrit: 35.30 % (정상 범위: 32.0 ~ 44.0 %)
+   * RBC (Red Blood Cells): 3.72 10^6/ �L (정상 범위: 3.70 ~ 5.20 10^6/ �L)
+   * WBC (White Blood Cells): 7.90 10^3/ �L (정상 범위: 4.0 ~ 10.0 10^3/ �L)
+   * Platelet: 288.00 10^3/ �L (정상 범위: 150 ~ 450 10^3/ �L)
+   * MCV (Mean Corpuscular Volume): 95.00 fL (정상 범위: 80.0 ~ 99.9 fL)
+   * MCH (Mean Corpuscular Hemoglobin): 30.90 pg (정상 범위: 25.7 ~ 33.0 pg)
+   * MCHC (Mean Corpuscular Hemoglobin Concentration): 32.50 g/dL (정상 범위: 32.0 ~ 36.0 g/dL)
+   * RDW (Red Cell Distribution Width): 12.70 % (정상 범위: 11.0 ~ 15.0 %)
+   * MPV (Mean Platelet Volume): 9.70 fL (참고치: 미확립)
+   * PDW (Platelet Distribution Width): 15.50 fL (참고치: -)
+   * WBC Differential:
+     * Segmented neutrophils: 56.70 % (정상 범위: 41.7 ~ 75.0 %)
+     * Lymphocytes: 33.40 % (정상 범위: 18.4 ~ 45.0 %)
+     * Monocytes: 6.50 % (정상 범위: 0.0 ~ 12.0 %)
+     * Eosinophils: 3.20 % (정상 범위: 0.0 ~ 8.0 %)
+     * Basophils: 0.20 % (정상 범위: 0.0 ~ 2.0 %)
+
+2. **U/A + Micro** (Urine Analysis with Microscopy):
+   * Leukocyte: Positive
+   * Glucose: Negative
+   * Bilirubin: Negative
+   * Ketone: Negative
+   * Protein: Negative
+   * Blood: Negative
+   * Nitrite: Negative
+   * Urobilinogen: Negative
+   * pH: Negative
+
+참고: 이 결과는 해당 환자의 상태를 평가하기 위해 담당 의사와 상의해야 합니다.

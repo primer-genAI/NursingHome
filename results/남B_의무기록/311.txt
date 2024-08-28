@@ -1,0 +1,25 @@
+Nurse Record:
+
+* Time: 10:00 AM
+	+ Vital Signs: Blood pressure 136/78, Heart rate 57, Respiratory rate 20, Temperature 36.3°C
+	+ Nursing Notes: The attending physician made rounds. The patient has diarrhea. Aporadazole suspension 20ml (di-octahedral spectate) was prescribed 3 times a day. The nurse observed the patient's progress.
+* Time: 16:00 PM
+	+ The nurse made rounds and observed the patient's overall condition. The bedrail was secured, and the patient was resting in bed.
+* Time: 23:00 PM
+	+ The nurse made rounds.
+
+Nurse Record:
+
+* Time: 2024-03-23 06:00 AM
+	+ The nurse made rounds and found that the patient slept well with no significant changes during the night.
+* Time: 07:50 AM
+	+ The nurse made rounds and observed the patient's condition: bedridden with left hemiplegia. The patient has a Foley catheter (18Fr) and urine output is good. The patient can control their urine but not their bowel movements and is wearing a diaper. The nurse checked the air mattress and made sure it was properly inflated. The nurse changed the patient's position and provided a back massage. The nurse educated the patient about fall prevention and provided emotional support.
+* Time: 09:05 AM
+	+ The patient underwent a full body bath with the assistance of a caregiver.
+* Time: 10:00 AM
+	+ Vital Signs: Blood pressure 109/70, Heart rate 61, Respiratory rate 20, Temperature 36.5°C
+	+ Nursing Notes: The on-call physician made rounds.
+* Time: 16:00 PM
+	+ The nurse made rounds and observed the patient's overall condition. The bedrail was secured, and the patient was resting in bed.
+* Time: 23:00 PM
+	+ The nurse made rounds.

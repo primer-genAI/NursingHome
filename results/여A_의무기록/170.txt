@@ -1,0 +1,41 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: 0092108472
+- Document Date: June 14, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 512
+- Gender: Female
+- Age: 91
+
+Nurse's Recording:
+
+* Patient slept well throughout the night with no significant changes.
+* Diaper is worn due to the inability to control bowel and bladder functions.
+* The patient is lying on an air mattress in the room, and their skin is being kept dry and free from pressure by adjusting the bedding and sheets.
+* The patient expresses a desire to die and feels depressed about not being able to go home. They may also lash out or exhibit aggressive behavior towards staff.
+
+Vital Signs:
+
+* Blood pressure: 92/70
+* Respiratory rate: 20
+* Temperature: 37.7°C
+* Blood pressure: 92/70
+* Respiratory rate: 20
+* Temperature: 37°C
+
+Medical Treatment:
+
+* The patient received the following medications for their cough:
+	+ Cough syrup (20mL/1 packet, 3 packets/day for 3 days)
+	+ Codetone Forte syrup (20mL, 3 packets/day for 3 days)
+* The patient underwent acupuncture treatment at 14:30.
+
+Observations:
+
+* The patient was observed during bedside rounds at 16:00 and was found to be stable.
+* The patient's bedrail was securely fastened, and they were resting comfortably in bed.
+* The patient's temperature was recorded as 37°C at 19:00.
+* The patient was observed during night rounds at 23:00, and their bedrail was found to be in the raised position.

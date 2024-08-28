@@ -1,0 +1,14 @@
+Patient's Chart Summary:
+
+- Date: September 24, 2023
+- Nurse Record:
+  - 10:00 AM: Full bath performed with the help of a caregiver.
+  - 16:00 PM: Vital signs taken by the nurse: Blood pressure 122/63, Pulse 71, Respirations 19, Temperature 36.9°C, Glucose level: 50, Oxygen saturation: 20. Doctor made rounds and checked the patient's overall condition.
+  - 23:00 PM: Nursing staff checked the bedrail and found it secured. The patient was resting comfortably in bed.
+  - Insurance/Protection: The patient is covered by insurance.
+  - 06:00 AM: The patient slept well through the night. No significant changes were observed.
+  - 07:50 AM: The patient is in a sitting position with left-side weakness. An L-tube (18Fr) is in place, and the patient is being given a special diet through the tube. The patient is unable to control their bowel and bladder movements and wears diapers. The patient exhibits repetitive behaviors, such as tapping their hand on the bedrail. A mattress protector is in place, and the air mattress was checked for any leakage. The patient was repositioned, and a back massage was given. The patient was educated about the risk of falling, and the bedrail was raised for their safety.
+  - Vital signs taken by the nurse: Blood pressure 93/50, Pulse 50, Respirations 19, Temperature 35.8°C, Oxygen saturation: 20. Doctor made rounds and checked the patient's overall condition.
+  - 10:00 AM: The patient remained in a sitting position with left-side weakness. The patient was observed to have behavioral disturbances and repetitive actions when awake.
+  - 16:00 PM: The nursing staff made their rounds and observed the patient's overall condition. The bedrail was secured, and the patient was resting comfortably in bed.
+  - No other significant events or changes were noted in the nurse's record.

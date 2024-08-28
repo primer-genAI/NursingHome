@@ -1,0 +1,4 @@
+K-MMSE:
+
+* Circle drawing: Unable to perform the task.
+* Reading: Not specified in the document.

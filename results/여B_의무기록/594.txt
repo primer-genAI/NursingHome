@@ -1,0 +1,28 @@
+환자 차트 요약:
+- 페이지 정보: 1/1
+- 문서 유형: 검사 슬립지
+- 환자 번호: 0093109779
+- 문서 날짜: 2023년 10월 11일
+- 담당 의사: 미기재
+- 환자 정보:
+  - 이름: 미기재
+  - 주민번호: 42*****
+  - 성별: 여성
+  - 나이: 77세
+  - 입원 상태: 입원
+  - 병동: 5병동
+  - 병실: 505호
+- 진단:
+  - VRE (Vancomycin Resistant Enterococcus)
+- 검사 결과:
+  - VRE Culture&Sensitivity (Rectal swab): Enterococcus faecium이 다량 발견됨
+  - 항생제 내성:
+    - L inezolid: 내성 (S)
+    - Streptomycin High Level (synergy SYN-S): 내성 (S)
+    - Ampicillin >=32: 저항 (R)
+    - Benzylpenicillin >=64: 저항 (R)
+    - Erythromycin >=8: 저항 (R)
+    - Gentamicin High Level (synergy SYN-R): 저항 (R)
+    - Teicoplanin >=32: 저항 (R)
+    - Vancomycin >=32: 저항 (R)
+- 임상 정보 및 코멘트: VRE 균주입니다.

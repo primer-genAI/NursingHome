@@ -1,0 +1,24 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: 0091700991
+- Date: July 28, 2023
+- Department: Unknown
+- Room: 203
+- Gender: Male
+- Age: 58 years old
+- Vital Signs:
+  - 10:00 AM: BP: 114/69, P: 70, RESP: 20, T: 36.5°C
+  - 14:00 PM: BP: 108/71, P: 83, RESP: 20, T: 36.8°C
+- Medical History: The patient has a seizure disorder with almost daily 10-second whole body seizures that stop on their own. They have been educated on fall prevention.
+- Current Medications: Unknown
+- Nursing Record:
+  - 06:00 AM: The patient slept well through the night. They have paralysis on the left side and can control their bladder and bowels. They were educated on fall risks and instructed to keep the bedrail up while in bed. The patient's overall condition was observed, and they used a wheelchair for mobility.
+  - 10:00 AM: The patient's vital signs were recorded.
+  - 14:00 PM: The patient's vital signs were recorded.
+  - 15:00 PM: The patient received traditional treatment.
+  - 16:00 PM: The patient's overall condition was observed during a room round. The bedrail was secured, and the patient was resting comfortably in bed.
+  - 23:00 PM: The bedrail was checked and found to be up.
+
+Please note that the patient's medical history and nursing record are based on the information provided in the document, but specific details such as diagnoses and medications are not mentioned.

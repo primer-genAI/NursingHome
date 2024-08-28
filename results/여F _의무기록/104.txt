@@ -1,0 +1,15 @@
+Patient's Chart Summary:
+
+- Document Type: Nurse Record
+- Date: June 12, 2024
+- Time: 15:00, 16:00, 23:00, 06:00, 07:50, 10:00, 11:10
+- Nursing Actions:
+  - 15:00: Acupuncture treatment administered.
+  - 16:00: Room round performed, overall condition observed, and bedrail secured.
+  - 23:00: Room round performed, bedrail in place verified.
+  - 06:00: Night round performed, no significant changes observed.
+  - 07:50: Room round performed, incontinence with diaper usage, air mattress checked for air leakage, 2-hour repositioning and back massages, bedrail up during bed rest, emotional support provided, overall condition observed, pain controlled with Muro 12 MCG/H (Fentanyl) for sharp foot pain (NRS 3), walker ambulation performed with staff assistance, and pressure sore (COCCyx G4 4 x 5 x 1 cm) noted.
+  - 10:00: Doctor's round performed.
+  - 11:10: Pressure sore (D COCCyx G4 4 X 5 X 1 cm) dressed.
+
+Please note that the patient has a pressure sore (COCCyx G4 4 x 5 x 1 cm) which is being managed with dressing changes and repositioning. The patient also experiences sharp pain in both foot ankles, which is being managed with pain medication (Muro 12 MCG/H, a form of fentanyl). The patient requires assistance with ambulation using a walker.

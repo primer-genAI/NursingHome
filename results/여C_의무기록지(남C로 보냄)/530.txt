@@ -1,0 +1,33 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: June 27, 2024
+- Department: Unknown
+- Patient Information:
+  - Vital Signs:
+    - 19:00: Temperature: 36.9°C, Pulse: 145, Blood Pressure: 23:00 (unknown)
+    - 07:50: Blood Pressure: 105/61, Pulse: 55, Respiration: 21, Temperature: 36.7°C, Oxygen Saturation: 99%
+    - 14:00: Temperature: 36.7°C
+
+- Medical Interventions:
+  - 16:30: Acupuncture treatment was administered.
+  - 06:00: Bedridden state 조절을 위해 기저귀 착용 중이며, 체위변경, 정서적인 간호, 피부가 눌리지 않도록 환기시켜 줌.
+  - 07:50: 본원 등 마사지 시행, 침상 난간을 올려놓음.
+  - 10:00: Vital signs checked.
+
+- Clinical Observations:
+  - 10:00: Rounding with the doctor.
+  - 16:00: Room rounding and overall condition observed. Bed rail fixed, bed rest.
+  - 16:30: Acupuncture treatment performed.
+  - Night: No significant changes reported.
+  - 07:50: Room rounding, bed rail raised.
+  - 10:00: Vital signs checked.
+  - 14:00: Temperature checked.
+
+- Medical History:
+  - Femur fracture (Date of fracture: 24.6.12)
+
+- Current Medications: Unknown
+
+Please note that this summary may not include all relevant information from the original document, and it is important to consult the full document for a comprehensive understanding of the patient's condition.

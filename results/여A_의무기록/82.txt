@@ -1,0 +1,22 @@
+Patient's Chart Summary:
+
+* Page Info: Unknown
+* Document Type: Progress Notes
+* Patient Number: 0092108472
+* Document Date: June 12, 2023, 3:30 PM (Presumed)
+* Department: Unknown
+* Room: 516호
+* Gender: Female
+* Age: 91세
+* Vital Signs: Not provided
+* Diagnoses:
+	+ 관절염, 어깨 부분 (M1381^00)
+	+ 다리 관절통 (M2556^00)
+	+ 피부 소양증 (진단 코드 미제공)
+* Medical History: Not provided
+* Current Medications:
+	+ Desonide cream (1 bottle, 도포)
+	+ Hydrocortisone cream (1 tube, 도포)
+	+ Penicillin injection (1 vial, IM)
+
+Note: The information provided is incomplete and may require additional context for a more accurate summary.

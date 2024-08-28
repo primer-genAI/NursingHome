@@ -1,0 +1,34 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse's Record
+- Patient Number: 0092108472
+- Document Date: April 8-9, 2024
+- Department: Unknown
+- Patient Information:
+  - Room Number: 516
+  - Gender: Female
+  - Age: 91 years old
+
+Vital Signs:
+
+- April 8, 10:00:
+  - Blood Pressure: 98/65
+  - Pulse: 70
+  - Respiratory Rate: 20
+  - Temperature: 36.6°C
+
+Nurse's Record:
+
+- April 8:
+  - 06:00: Room round, patient slept well with no significant changes. Patient often uses severe language towards staff and accuses a nearby patient of stealing her diapers and snacks.
+  - 07:50: Room round, patient is incontinent and wears diapers. Air mattress is in place, and bedding is adjusted to prevent skin breakdown. Patient expresses a desire to die and feels depressed about not being able to go home, sometimes shouting or becoming aggressive.
+  - 10:00: Physician round.
+  - 15:00: Acupuncture treatment is provided.
+  - 16:00: Room round, patient is observed in bed with bedrails in place.
+  - 23:00: Room round, bedrails are observed to be in the up position.
+
+- April 9:
+  - 06:00: Room round, patient has no significant changes overnight.
+
+Note: The image does not provide any additional information.

@@ -1,0 +1,43 @@
+Nurse Record Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Date: September 15, 2023
+- Time: 06:00 (V/S)
+- Patient Status: Bedridden, requires assistance with hygiene, catheterized, and unable to ambulate.
+- Observations:
+  - Vital Signs: Blood Pressure 110/59, Pulse 48, Respiratory Rate 20, Temperature 36.7°C, Blood Sugar 93
+  - Nursing Interventions:
+    - Air mattress kept
+    - Bed sores observed
+    - Position change and back massage performed
+    - Sheets and clothing smoothed to prevent skin breakdown
+    - Ventilation ensured to keep skin dry
+    - Bed rail raised
+    - Emotional support provided (speech was minimal and mood appeared low)
+    - Doctor's round conducted
+    - Acupuncture treatment administered
+    - Room rounds completed
+    - Overall condition observed
+    - Bed rail secured
+    - Patient in bed rest
+    - Bed rail raised
+    - Night rounds completed, no significant changes observed
+    - Patient slept well through the night
+    - Room rounds completed, overall condition observed
+    - Catheter care performed
+    - Bed sores observed
+    - Position change and back massage performed
+    - Sheets and clothing smoothed to prevent skin breakdown
+    - Ventilation ensured to keep skin dry
+    - Bed rail raised
+    - Emotional support provided (speech was minimal and mood appeared low)
+    - Doctor's round conducted
+    - Acupuncture treatment administered
+    - Room rounds completed
+    - Overall condition observed
+    - Bed rail secured
+    - Patient in bed rest
+    - Room rounds completed
+    - Bed rail raised
+    - No further details provided.

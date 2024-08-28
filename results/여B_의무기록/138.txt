@@ -1,0 +1,31 @@
+Patient's Chart Summary:
+
+* Document Date: June 4, 2024
+* Room: 317
+* Vital Signs:
+	+ 06:00: BP 117/69, P 99, RESP 20, T 37°C
+	+ 10:00: BP 103/72, P 96, RESP 20, T 36.9°C, SPO2 95%
+	+ 14:00: BP 114/77, P 98, RESP 20, T 37.7°C
+	+ 19:00: BP 120/70, P 104, RESP 21, T 38.4°C, SPO2 99%
+	+ 20:00: T 37.5°C
+	+ BT 38.4°C
+* Diagnoses:
+	+ Acute tubulointerstitial nephritis (N10^00)
+	+ Unspecified vancomycin resistance (U830^00)
+	+ Unspecified hyperlipidemia (E785^00)
+	+ Deep vein thrombosis NOS (I802^01)
+	+ Sequelae of cerebral infarction (I693^00)
+	+ Carbapenem resistance (U8280^00)
+	+ Alzheimer's disease dementia (F009^00)
+	+ Unspecified gastroenteritis and colitis (A099^00)
+* Medical History: Not provided
+* Medications:
+	+ Xarelto 15mg twice daily from June 1 to June 22, then increased to Xarelto 20mg (D/C temporarily at 19:00)
+	+ Anisefen 8-hour ER tablets (acetaminophen) - taken now
+* Treatments:
+	+ 2024-06-04:
+		- Acupuncture: 2 points (Hegu, Zusanli) at 14:13
+		- Investigation law acupuncture: 2 points (Shangjuxu, Xuanzhong) at 14:13
+	+ 2024-06-05: No treatments mentioned
+
+Please note that the provided document does not contain complete information about the patient's medical history, vital signs, and diagnoses.

@@ -1,0 +1,41 @@
+Patient's Chart Summary:
+
+- Document Type: Nurse Record
+- Patient Information: Not specified
+- Date: August 2, 2023
+- Time: 06:00 - 23:59
+- Medical Condition: Lt hemiplegia (left-sided paralysis), Cystostomy (Foley catheter 18Fr), urine control but not stool control, wearing diapers, air mattress in place, bedridden
+
+### Vital Signs:
+- 10:00 BP: 98/64, Pulse: 51, Respiration: 20, Temperature: 36.5°C
+
+### Nursing Record:
+
+- 06:00: Night rounds; no significant changes reported.
+- 07:50: Morning rounds; bedridden state, cystostomy catheter in place, urine control but not stool control, wearing diapers, air mattress checked, body position changed, back massage performed, fall risk education provided, emotional support given.
+- 10:00: Chest AP (anteroposterior) X-ray ordered by attending physician.
+- 10:05: Vital signs: Weight: 64kg, Height: 169cm, Vital signs: BP: 98/64, Pulse: 51, Respiration: 20, Temperature: 36.5°C.
+- 23:00: Night rounds; bedrail in place.
+
+### Assistance Required:
+- Washing face: Moderate - Assistance needed to hold basin and cup while brushing teeth.
+- Bathing: Moderate - Patient can tolerate the water but needs assistance with soap and scrubbing.
+- Eating: Moderate - Patient can eat with assistance, but there is a risk of food spillage.
+- Changing position: Moderate - Patient can assist with the change but needs support to turn over.
+- Getting out of bed: Moderate - Patient needs assistance from both sides to sit up and maintain posture.
+- Transferring to a chair: Moderate - Patient needs support to stand up and transfer to a chair.
+- Moving around: Fully independent - Patient can walk independently.
+- Using the toilet: Moderate - Patient needs assistance with wiping and cleaning up after using the toilet.
+
+### Medications:
+- Not specified in the provided information.
+
+### Special Instructions:
+- N/A
+
+### Notes:
+- The patient has a history of stroke (Lt hemiplegia).
+- The patient is wearing a cystostomy catheter (Foley catheter 18Fr).
+- The patient has urine control but not stool control, so diapers are being used.
+- The patient has an air mattress in place to prevent pressure sores.
+- The patient is bedridden.

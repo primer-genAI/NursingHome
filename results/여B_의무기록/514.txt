@@ -1,0 +1,13 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Diagnoses: Unspecified pneumonia (J189^00)
+- Medical History: Recent rectal infection, isolated for treatment
+- Current Medications: Xarelto 15mg twice daily from June 1 to June 22, then increased to Xarelto 20mg.
+- Vital Signs: BP;16 P;97 RESP;18 T;36 Nursing Record 병실 순, V/S) BP;118 BPL;70 P;98 RESP;21 T;36.9 SPO2;95, T;37.3 SPO2;96
+- Nursing Care:
+  - 07:50: L-tube inserted for enteral feeding (i.e. Ensolb). Retained urinary catheter (20Fr) and perineal care provided. Air mattress applied to prevent pressure sores. Bedridden patient with raised bedrails. Rt. PICC line maintained with no signs of redness, swelling, or drainage.
+  - 10:00: Vital signs recorded. Physician's round conducted. Additional lab tests ordered: U/A 10종+Micro Electrolyte(Na,K,Cl) CBC(Diff포함) LFT F/U. Permethrin cream 30g (non-covered) prescribed for skin application. Stage 4 pressure sore on the left buttock (D sore Lt buttock G4 6 X 7 X 1cm) treated with dressing and air mattress. Patient's skin condition observed.
+  - 11:30: Pressure sore status update: G4 10 X 8 X 1cm A R.
+  - 14:00: Patient experienced three episodes of diarrhea. Physician informed. Potigeil suspension 20ml (dioctahedralspectate) and Magmil prescribed for 2 days. Patient's condition to be monitored.

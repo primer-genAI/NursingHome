@@ -1,0 +1,23 @@
+Patient's Chart Summary:
+
+- Document Type: Nurse Record
+- Date: 2024-05-30
+- Patient: Unspecified
+- Medical History: Rt hemiplegia (right-sided paralysis or weakness)
+- Current Condition: Bedridden, L-tube (16Fr) feeding with Nutriwell Fiber 400 kcal/day, incontinent, air mattress, skin care for facial rash
+- Treatments:
+  - One-time treatments:
+    - Airmattress and positioning change (in-house)
+    - Back massage
+    - Nursing care for facial rash
+  - Ongoing treatments:
+    - L-tube feeding with Nutriwell Fiber 400 kcal/day
+    - Incontinence care with diapers
+    - Skin care for facial rash
+- Medical Staff:
+  - Attending physician rounds at 10:00 AM
+  - Nursing staff rounds and observations at 16:00 PM, 23:00 PM, and 06:00 AM (next day)
+  - Acupuncture treatment at 16:30 PM
+- Insurance/Guardian: Information not specified
+
+Note: The patient's name and additional medical details are not provided in the given document.

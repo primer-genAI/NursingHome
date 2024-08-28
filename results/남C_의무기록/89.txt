@@ -1,0 +1,27 @@
+Patient Chart Summary:
+- Page Info: Unknown
+- Document Type: Progress Notes
+- Patient Number: 0091700991
+- Document Date: May 23, 2024, 6:00 AM
+- Department: FM1
+- Room: 507
+- Gender: Male
+- Age: 58 (current age: 58)
+- Vital Signs: 
+	+ Vitals on May 23: BP;118 BPL;79 P;77 RESP;20 T;36.9
+	+ Vitals on May 24: BP;132 BPL;75 P;77 RESP;20 T;36.2
+	+ Vitals on May 25: BP;126 BPL;72 P;82 RESP;20 T;36.0
+	+ Vitals on May 25: PP2;176
+	+ Vitals on May 26: BP;125 BPL;74 P;77 RESP;21 T;36.5
+- Medications:
+	+ 코푸시럽 20mL/1포 (3 times daily for 7 days, with breakfast, lunch, and dinner)
+	+ 뮤테인캡슐(아세틸시스테인) (3 times daily for 7 days, with breakfast, lunch, and dinner)
+- Diabetes Management:
+	+ FBS;103 on May 25 at 6:00 AM
+	+ PP2;176 on May 25 at 7:00 PM
+- Diet: Diabetic meal plan (rice for breakfast, lunch, and dinner)
+- Notes:
+	+ H/P,ICT(요양) on May 23 and May 24
+	+ Attending physician's signature on May 25 and May 26
+
+Please note that this is a progress note summary, and the information provided here may be incomplete or require further clarification.

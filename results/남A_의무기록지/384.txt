@@ -1,0 +1,22 @@
+Patient's Chart Summary:
+
+- Document Type: Nurse Record
+- Date: May 18, 2024
+- Time: 19:00, 23:00, 06:00, 07:50, 10:00, 10:50, 16:00, 23:00
+- Nursing Actions:
+  - Vital sign check
+  - Bedside round
+  - Assistance with personal hygiene (full bath)
+  - Observation of overall condition
+  - Assistance with body positioning (turning and back massage)
+  - Education about fall prevention
+  - Emotional support
+  - Assistance with activities of daily living (e.g., dressing, feeding)
+- Observations:
+  - Patient's temperature, pulse, respiratory rate, blood pressure, and oxygen saturation levels were within normal range.
+  - The patient had a stroke-related complication, resulting in left-side weakness and an inability to control bowel and bladder functions.
+  - The patient was in a bedridden state, experiencing repetitive behavior such as tapping the bedrail and exhibiting agitation.
+  - The patient was on a hospital-provided air mattress, which was checked for any deflation.
+  - The patient did not show any significant changes during the night.
+
+Please note that the document does not contain information about the patient's diagnoses, medical history, or current medications.

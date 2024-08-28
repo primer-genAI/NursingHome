@@ -1,0 +1,25 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: May 30, 2024
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 301
+- Gender: Female
+- Age: 79
+- Vital Signs: Unknown
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Nurse Record:
+- 10:00: Physician round
+- 16:00: Nurse round, overall condition observed, bedrail fixed, bed rest
+- 16:30: Acupuncture treatment
+- 23:00: Nurse round, bedrail raised
+- May 30, 2024 Insurance/Care Nursing:
+  - 06:00: Nurse round
+  - Night: No significant changes, slept well
+  - 07:50: Nurse round, bedridden state with quadriplegia, air mattress kept to prevent pressure sores, education on fall prevention, overall condition observed, muscle stiffness observed
+  - Remaining entries blank or missing information

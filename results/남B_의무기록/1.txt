@@ -1,0 +1,18 @@
+Patient's Chart Summary:
+
+- Patient Name: Unknown
+- Age: 81 (current age: 82)
+- Gender: Male
+- Admission Date: August 23, 2022, 15:40
+- Room: Unknown
+- Diagnoses:
+  - Prostate cancer (C61^00)
+  - Cerebral infarction (I638^00)
+  - Enlarged prostate with urinary obstruction (N401^00)
+  - Hypertension (I109^01)
+  - Rigid paraparesis (G811^00)
+  - Known prostate cancer and left hemiplegia
+- Medical History: The patient has a history of prostate cancer, cerebral infarction, enlarged prostate with urinary obstruction, hypertension, and rigid paraparesis. They were admitted to the hospital due to these conditions and hemiplegia.
+- Vital Signs: Blood pressure: 114/62, Heart rate: 58, Respiratory rate: 20, Temperature: 36.5°C, Pulse oximetry: 232
+- Presentation: Alert consciousness with the ability to have simple conversations.
+- Physical Exam: Left hemiplegia with spasticity, hemiplegic gait.

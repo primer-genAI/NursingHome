@@ -1,0 +1,35 @@
+Nurse Record Summary:
+- Date: June 13, 2024
+- Time: 12:00 PM
+  - Observed pressure sore (decubitus) skin condition
+  - Patient experienced pain, made facial expressions, and groaning sounds (FPS 4)
+  - Tramadol hydrochloride injection (1 ml) administered by physician's order (1A IM)
+- Time: 1:00 PM
+  - Observed patient's condition (R status), FPS 2
+- Time: 4:00 PM
+  - Conducted room rounds, observed overall condition
+  - Bedrail securely fixed, patient resting in bed
+- Time: 11:00 PM
+  - Conducted room rounds, verified bedrail in place
+- Time: 6:00 AM (next day)
+  - Conducted room rounds, no significant changes observed
+  - Patient slept well throughout the night
+- Time: 7:50 AM
+  - Conducted rounds
+    - Patient in bedridden state with tracheostomy (1. D: 7.5 kept, tracheostomy suction done, and dressing changed)
+    - Nasogastric tube inserted, providing a 400-400-400 kcal/day diet
+    - Urocath applied, patient unable to control bowel movements, wearing diapers
+    - Patient on air mattress, verifying no air leakage, repositioning, and massage provided
+    - Skin kept clean and dry, checking for any signs of incontinence or diarrhea
+    - Bedrail and overall condition observed
+  - Pressure sores:
+    - Coccyx G3: 10 X 7 X 0.5 cm
+- Time: 10:00 AM
+  - Physician made rounds
+- Time: 11:10 AM
+  - Unspecified action taken by nurse (details missing)
+
+Note:
+- The summary is based on the information provided in the given text.
+- Some information is missing or incomplete, such as the unspecified action taken by the nurse at 11:10 AM.
+- The summary is written in a patient-friendly tone and follows the example format.

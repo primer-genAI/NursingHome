@@ -1,0 +1,26 @@
+Nurse Record Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Date: July 29, 2023
+- Patient's Room: Unknown
+- Patient's Condition:
+  - Bedridden state
+  - Requires assistance with bowel and bladder care
+  - Uses an air mattress for comfort
+  - Received positioning changes and back massage
+  - Skin care provided to prevent pressure sores and keep the area dry
+  - Educated on fall prevention and bedrail usage
+  - Emotional support given due to decreased responsiveness and mood
+
+- Vital Signs:
+  - Blood pressure: 125/73
+  - Pulse: 67
+  - Respiratory rate: 20
+  - Temperature: 36.9°C
+
+- Date: July 30, 2023
+- Patient's Condition:
+  - No significant changes reported overnight
+
+Remember, this summary is for a patient-friendly format and should be used as a guide for understanding the nurse's record.

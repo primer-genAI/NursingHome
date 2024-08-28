@@ -1,0 +1,20 @@
+Patient's Chart Summary:
+
+- Document Date: February 2024
+- Patient's Condition: Bed ridden with left hemiplegia (weakness on the left side of the body) and cystostomy (Foley catheter 18Fr) in place. The patient has control over their bladder but not their bowels and is wearing diapers.
+- Vital Signs:
+  - Blood Pressure: 126/66 (16:00), 137/81 (10:00)
+  - Pulse: 52 (16:00), 50 (10:00)
+  - Respiratory Rate: 19 (16:00), 20 (10:00)
+  - Temperature: 36.3°C (16:00), 36.1°C (10:00)
+- Nursing Record:
+  - 16:00: Routine bedside rounds. The patient was stable.
+  - 23:00: Nursing record not specified.
+  - 06:00: Morning bedside rounds. The patient slept well with no significant changes overnight. Nursing staff checked the patient's air mattress and made sure it was properly inflated. They also performed a bed bath and provided emotional support.
+  - 07:50: The patient had a full body bath with the help of a caregiver.
+  - 10:00: Routine bedside rounds.
+  - 10:30: The patient went out for a walk with a caregiver, and lunch was canceled.
+  - 14:00: The patient returned from the walk.
+  - 16:00: Evening bedside rounds.
+
+Please note that the information provided in the original text may be incomplete or contain errors, and the summary above is based on the available information.

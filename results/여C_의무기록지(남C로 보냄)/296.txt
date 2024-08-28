@@ -1,0 +1,15 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Document Date: October 14, 2023, and October 15, 2023
+- Patient: Unspecified
+- Vital Signs:
+  - October 14, 2023: BP 102/54, P 57, RESP 20, T 36.6
+- Nursing Record:
+  - October 14, 2023:
+    - 07:50: The patient was observed during a bedside round. They were bedridden and unable to control their bowel and bladder, so they wore diapers. An air mattress was provided, and the patient was turned and given a back massage. The sheets and clothes were smoothed out to prevent skin breakdown, and the bedrail was raised for emotional support. The patient was observed to be unresponsive and seemed depressed or withdrawn.
+    - 10:00: The on-call physician made their rounds.
+    - 16:00: The patient remained in bed.
+    - 23:00: The nurse made their rounds and ensured the bedrail was raised.
+  - October 15, 2023:
+    - 06:00: The nurse made their rounds and observed that the patient slept well with no significant changes during the night.

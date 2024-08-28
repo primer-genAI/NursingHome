@@ -1,0 +1,24 @@
+Patient's Chart Summary:
+
+- Document Type: Nurse Record
+- Patient Information: Unknown
+- Document Date: Unknown
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Nurse Record:
+
+- The patient is wearing a diaper due to incontinence and is being monitored. The nurse checked for leaks and ensured that the bed rails were up. The patient's overall condition was observed.
+- The patient is in isolation due to D CRE. The nurse wore gloves and a gown during care, performed hand hygiene before and after care, and followed isolation precautions.
+- The attending physician made rounds at 10:00 AM.
+- Vital signs:
+  - BP: 110/77
+  - P: 86
+  - RESP: 20
+  - T: 36.2°C
+  - T: 36.5°C
+- The nurse performed room rounds at 16:00 PM and observed the patient's overall condition. The bed rails were secure, and the patient was resting in bed.
+- The nurse performed room rounds at 23:00 PM and confirmed that the bed rails were up.
+- On 2023-08-26, the patient slept well with no significant changes during the night.
+- The nurse performed room rounds at 06:00 AM and observed that the patient was in a bed ridden state, unable to communicate verbally or through eye contact. The patient has an L-tube (fr18) with current feeding at 200kcal x4 times and a urinary catheter. The nurse checked for leaks and made sure the bed rails were up.

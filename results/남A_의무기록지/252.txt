@@ -1,0 +1,37 @@
+Nurse Record Summary:
+----------------
+
+* Patient is incontinent and wears diapers (some stool hangs on each diaper).
+* The patient repeatedly hits the bed rail with their right hand and shows repetitive behavior.
+* The patient is on an air mattress in the room. The mattress was checked to ensure that it was not deflated.
+* The patient's position was changed, and a back massage was performed.
+* Education was provided on fall prevention, and the bed rail was raised for the patient's safety.
+* Emotional support was provided, and the patient's overall condition was observed.
+* The patient's vital signs at 10:00 AM were: BP;95/BPL;43/P;65/RESP;21/T;36.9.
+* The attending physician made rounds.
+* At 16:00 PM, the patient's overall condition was observed, and the bed rail was secured.
+* At 23:00 PM, the bed rail was found to be in the raised position.
+
+### Insurance/Guardian Information:
+Date: 2023-12-13
+
+### Vital Signs:
+* FBS;102
+
+### Nursing Record:
+* The patient slept well overnight with no significant changes.
+* The patient is bedridden and has left-side hemiplegia. An L-tube (18Fr) is in place, and the patient is receiving a diet of 400-400-400kcal/day through enteral nutrition.
+* The patient is incontinent and wears diapers (some stool hangs on each diaper).
+* The patient repeatedly hits the bed rail with their right hand and shows repetitive behavior.
+* The patient is on an air mattress in the room. The mattress was checked to ensure that it was not deflated.
+* The patient's position was changed, and a back massage was performed.
+* Education was provided on fall prevention, and the bed rail was raised for the patient's safety.
+* Emotional support was provided, and the patient's overall condition was observed.
+* The patient's vital signs at 10:00 AM were: BP;95/BPL;43/P;65/RESP;21/T;36.9.
+* The attending physician made rounds.
+* At 16:00 PM, the patient's overall condition was observed, and the bed rail was secured.
+* At 23:00 PM, the bed rail was found to be in the raised position.
+
+### 작성자 정보:
+* 6:00 AM Vital Signs: FBS;102 (작성자: 미기재)
+* 7:50 AM Room Round: Well-rested, bedridden, left-side hemiplegia, L-tube (18Fr) in place, receiving enteral nutrition (400-400-400kcal/day), incontinent, wearing diapers (some stool hangs on each diaper), right hand repeatedly hits bed rail, repetitive behavior, on air mattress, mattress checked for deflation, position changed, back massage performed, fall prevention education provided, bed rail raised, emotional support provided, overall condition observed, vital signs at 10:00 AM: BP;95/BPL;43/P;65/RESP;21/T;36.9, attending physician made rounds, at 16:00 PM overall condition observed, bed rail secured, at 23:00 PM bed rail found in raised position (작성자: 미기재)

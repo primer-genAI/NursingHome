@@ -1,0 +1,25 @@
+Nurse Information Sheet Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient's Condition:
+  - The patient slept well through the night without any significant changes.
+  - They are bedridden and require assistance with their daily needs, such as controlling their bowel and bladder functions.
+  - A mattress air mattress is provided for comfort, and the nurse ensures they are turned regularly and given a back massage.
+  - The patient's sheets and clothing are smoothed out to prevent pressure sores, and the bedrails are kept up for safety.
+  - The patient is not very responsive and appears depressed or withdrawn.
+
+- Vital Signs:
+  - Blood pressure: 104/48
+  - Pulse: 51
+  - Respiratory rate: 20
+  - Temperature: 36.0°C
+
+- Nursing Actions:
+  - The nurse checked the patient's condition at 10:00 AM, 16:00 PM, and 23:00 PM.
+  - The patient's bedrails were kept up for safety.
+  - The patient was observed by the on-call doctor.
+  - The nurse checked the bedrails at 23:00 PM.
+
+- Date: February 4, 2024
+- Insurance/Guardian: Information not provided

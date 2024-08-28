@@ -1,0 +1,13 @@
+Patient's Chart Summary:
+
+* Diagnoses: Multiple infarctions
+* Physical Examination:
+	+ Gait: Can walk with assistance
+	+ Left eye: Prosthetic (artificial)
+* Treatment Plan:
+	+ Conservative therapy
+	+ Medication therapy
+	+ Admission tests will be performed
+* Attending Physician: (Name or department)
+
+Please note that the given information is limited, so some details might be missing.

@@ -1,0 +1,21 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: April 30, 2024
+- Department: Unknown
+- Room: Unknown
+- Patient: Unknown
+- Vital Signs: Unknown
+- Medications: Unknown
+
+Nursing Notes:
+- 16:00: Room round, patient stable, bedrail locked, bedridden.
+- 23:00: Room round, bedrail up.
+- 06:00: Night round, patient slept well with no significant changes.
+- 10:00: Room round, patient bedridden, O2 3 L/min inhalation (Nasal prong) with SpO2 92-96%, 16Fr L-tube in place, receiving Fiber-400-200-400 kcal, incontinent of bowel and bladder, wearing diapers, on hospital air mattress with air intact, positioning and back massage done, bedrail up while in bed, attending physician round.
+- 23:00: Room round, bedrail up.
+- April 30, 2024: Insurance/Protection: 07:50
+- 06:00: Night round, patient slept well with no significant changes.
+- 07:50: Room round, patient bedridden, O2 3 L/min inhalation (Nasal prong) with SpO2 92-96%, 16Fr L-tube in place, receiving Fiber-400-200-400 kcal.
+
+Note: The summary is based on the given text, but some information is missing or unclear.

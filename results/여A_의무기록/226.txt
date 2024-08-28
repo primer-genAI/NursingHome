@@ -1,0 +1,15 @@
+Patient's Chart Summary:
+
+- Document Type: Nurse's Record
+- Patient Number: 0092108472
+- Patient Information: Female, 91 years old, Room 516
+
+Nursing Notes:
+- 10:50 AM: Assisted with full body bath by caregiver.
+- 16:00 PM: Routine room rounds, overall patient condition observed. Bed rail fixed, patient resting in bed.
+- 23:00 PM: Room check, bed rail found up.
+- 06:00 AM: Night shift nursing record. Patient slept well.
+- 07:50 AM: Morning room rounds. Patient incontinent, wearing diaper. Air mattress in place. Skin checks and positioning done. Educated patient about fall risks. Patient expressed suicidal thoughts and depression due to unable to go home. Verbal aggression towards staff and fellow patients.
+- 10:00 AM: Vital signs: BP 111/74, P 66, RESP 20, T 36.5. Attending physician round.
+- 16:00 PM: Afternoon room rounds. Patient's overall condition observed. Bed rail fixed, patient resting in bed.
+- 23:00 PM: Night shift room check.

@@ -1,0 +1,17 @@
+Patient's Chart Summary:
+
+- Document Date: September 16, 2023
+- Vital Signs:
+  - 10:00 AM: Blood Pressure 128/90, Pulse 91, Respirations 20, Temperature 37.0°C
+  - 14:00 PM: Temperature 36.8°C
+  - 19:00 PM: Temperature 36.8°C
+  - 23:00 PM: Temperature 36.8°C
+- Nursing Record:
+  - 10:00 AM: Doctor's rounds
+  - 16:00 PM: Room check, patient in bed, bedrails fixed
+  - 19:00 PM: Room check, bedrails raised
+  - 23:00 PM: Room check, bedrails raised
+  - 06:00 AM: Room check, patient slept well with no changes
+  - 07:50 AM: Patient is in a bed-ridden state, unable to communicate verbally or visually. A feeding tube (L-tube, size 18) is in place providing 200kcal feedings every 4 hours. A urinary catheter is in place and perineal care is being provided. The patient is on an air mattress and bedrails are raised. Nurses wear gloves and gowns during care and practice hand hygiene before and after care. The patient is in isolation due to a D CRE infection.
+
+Please note that the provided document does not contain any information about the patient's diagnosis, medical history, or current medications.

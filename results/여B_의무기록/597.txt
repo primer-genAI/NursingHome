@@ -1,0 +1,28 @@
+환자 차트 요약:
+- 페이지 정보: 1/1
+- 문서 유형: 검사 슬립지
+- 환자 번호: 0093109779
+- 문서 날짜: 2023년 11월 01일
+- 담당 의사: 알 수 없음
+- 입원 여부: 입원
+- 병동/병실: 5병동 / 505호
+- 환자 정보:
+  - 이름: 알 수 없음
+  - 성별: 여성
+  - 나이: 77세
+- 검사 정보:
+  - 검사명: VRE REC VRE Culture & Sensitivity (직장 면봉)
+  - 검사일: 2023년 11월 01일
+  - 검사 결과:
+    - 균주: Enterococcus faecium
+    - 균주 수: 몇 개
+  - 항생제 민감도 테스트:
+    - Linezolid: 민감도 (S) - MIC: 2
+    - Streptomycin High Level (synergy): 민감도 (S) - SYN-S
+    - Ampicillin: 내성 (R) - MIC: >=32
+    - Benzylpenicillin: 내성 (R) - MIC: >=64
+    - Erythromycin: 내성 (R) - MIC: >=8
+    - Gentamicin High Level (synergy): 내성 (R) - SYN-R
+    - Teicoplanin: 내성 (R) - MIC: >=32
+    - Vancomycin: 내성 (R) - MIC: >=32
+- 임상 정보 및 코멘트: VRE (Vancomycin Resistant Enterococcus) 균주입니다.

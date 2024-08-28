@@ -1,0 +1,13 @@
+Nurse Record (N) Summary:
+
+- 07:50: Nurses made their rounds, checking on the patient's control of bowel and bladder functions. They found the patient wearing a diaper and checked the hospital's air mattress for proper inflation. The nurse performed a body reposition and back massage, ensuring the bed rail was up during bed rest.
+- 10:00: The attending physician conducted their rounds.
+- 16:00: Nurses made their rounds, observing the patient's overall condition and ensuring the bed rail was secure.
+- 23:00: Nurses made their rounds, confirming the bed rail was up.
+- 06:00 (next day): Nurses made their rounds and reported that the patient slept well without any significant changes overnight.
+- 07:50 (next day): Nurses made their rounds, noting the patient's continued use of a diaper and checking the air mattress. They performed a body reposition and back massage, ensuring the bed rail was up during bed rest.
+- 10:00 (next day): The attending physician conducted their rounds.
+- 14:00 (next day): The patient was prescribed a medication called Agamate Jelly (Polystyrene Sulfonate Calcium) for high potassium levels. The medication was given twice a day with lunch and dinner for seven days. The nurse observed the patient's progress.
+- 16:00 (next day): Nurses made their rounds, observing the patient's overall condition.
+
+Note: The summary is based on the provided nurse record, and any missing or unknown information is not included.

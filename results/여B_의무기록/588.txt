@@ -1,0 +1,31 @@
+검사 슬립지:
+
+* 차트 번호: 0093109779
+* 검사 일자: 2023년 09월 11일
+* 환자 이름: 미제공
+* 담당 의사: 미제공
+* 환자 정보:
+	+ 환자 유형: 입원
+	+ 병동/병실: 5병동 / 505호
+	+ 성별 / 연령: 여/77세
+	+ 주민등록번호: 42******
+* 검사 결과:
+	+ VRE REC (Vancomycin Resistant Enterococcus) 검사 (직장 면봉)
+		- 균주: Enterococcus faecalis
+		- 콜로니 수: 드물게 (rare)
+		- 항생제 감수성:
+			+ Ampicillin: 감수성 (S)
+			+ Benzylpenicillin: 감수성 (S)
+			+ Gentamicin: 감수성 (S)
+			+ Linezolid: 감수성 (S)
+			+ Streptomycin: 감수성 (S)
+			+ Erythromycin: 내성 (R)
+			+ Teicoplanin: 내성 (R)
+			+ Vancomycin: 내성 (R)
+* 임상 정보 및 코멘트:
+	+ VRE (Vancomycin Resistant Enterococcus) 균주가 검출되었습니다.
+
+참고:
+
+* VRE는 항생제 내성을 가진 박테리아로, 주로 병원 환경에서 발견됩니다.
+* 이 검사 결과는 해당 환자의 항생제 치료 계획을 결정하는 데 중요한 역할을 합니다.

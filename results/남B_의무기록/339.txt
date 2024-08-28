@@ -1,0 +1,29 @@
+Nurse Record Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Unknown
+
+Nursing Notes:
+
+- 10:00: Attending physician's round
+- 23:00: Room round. Confirmed that the bedrail is up.
+- # 2024-05-01 Insurance/Protection
+- 06:00: Room round. Slept well with no significant changes during the night.
+- 07:50:
+  - Performed bedside rounds. Patient is bedridden with left hemiplegia, has a cystostomy (Foley catheter 18Fr) with good urinary output, and can control urination but not defecation. Wears diapers. The air mattress in the room was checked for leaks, and a back massage was provided. The patient was educated about fall risks, and emotional support was given.
+  - ADL Assessment:
+    - Dressing: Moderate - Can put on one arm alone but needs help with the other arm, buttons, and zippers.
+    - Bathing: Moderate - Can wash face with assistance due to hemiplegia.
+    - Toileting: Total - Needs full assistance due to hemiplegia.
+    - Transferring: Total - Needs full assistance due to hemiplegia.
+    - Mobilizing: Total - Needs full assistance due to hemiplegia.
+    - Eating: Moderate - Can eat with assistance to prevent spilling.
+    - Positioning: Moderate - Can change position with assistance.
+    - Bathroom use: Total - Needs full assistance due to hemiplegia.
+
+Vital Signs:
+
+- 10:00: BP: 128/76, P: 82, RESP: 20, T: 36.0
+- 10:05: Wt.: 64, Ht.: 169
+- 16:00: (Incomplete)

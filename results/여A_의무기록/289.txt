@@ -1,0 +1,24 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Patient's Chart
+- Patient Number: 0092108472
+- Document Date: October 23 and 24, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91 years old
+- Vital Signs: BP: 106/62, P: 59, RESP: 20, T: 36.5
+- Medical History: The patient has been admitted to the hospital and has been receiving nursing care. They have a history of falls and are at risk for further falls. The patient has cognitive impairment and may not always understand their surroundings. They have been observed to be verbally aggressive towards staff and other patients.
+- Current Medications: Unknown
+- Nursing Interventions:
+  - The patient's sheets and pillows were changed to prevent skin breakdown and to keep the patient's skin dry and well-ventilated.
+  - The patient's vital signs were monitored throughout the day.
+  - A traditional Korean medicine treatment was performed.
+  - The patient's bedrails were locked to prevent falls.
+  - The patient's overall condition was observed.
+  - The patient's bedrails were checked to ensure they were in the upright position.
+  - The patient's overall condition was observed again the next day.
+
+Please note that the patient's medical history and current medications are unknown based on the provided information.

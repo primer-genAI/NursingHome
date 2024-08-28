@@ -1,0 +1,9 @@
+Nurse Record:
+
+* 06:00: The nurse checked the patient's room and found that they slept well through the night with no significant changes.
+* 07:50: The nurse visited the patient and observed that they were in a bedridden state with left-sided paralysis. An L-tube (18Fr) was in place, and they were receiving tube feeding with a daily intake of 400 calories. The patient was unable to control their bowel movements and was wearing diapers. The nurse noticed that the patient's right hand was repeatedly hitting the bed rail, and they showed signs of repetitive behavioral disorders. The nurse checked the hospital's air mattress and made sure it was properly inflated. They also changed the patient's position and gave them a back massage. The nurse educated the patient about the risk of falls and reminded them to keep the bed rail up when they were in bed. The nurse provided emotional support and observed the patient's overall condition. The patient continued to hit the bed and showed repetitive behavioral disorders when they were awake.
+* 10:00: The attending physician visited the patient.
+* 16:00: The nurse checked the patient's room and found that they were in a stable condition, lying in bed with the bed rail secured.
+* 23:00: The nurse made sure the bed rail was up.
+
+Note: The information from 2024-04-09 is not relevant to the patient's current condition.

@@ -1,0 +1,16 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Document Date: May 28-29, 2024
+- Patient: Not specified in the given information
+- Vital Signs: Not specified in the given information
+- Observations:
+  - Bedridden state with a feeding tube (nasogastric tube) in place.
+  - Unable to control bowel and bladder movements, wearing diapers.
+  - Air mattress in use.
+  - Position changed every two hours and back massage provided.
+  - Bedrail was kept up while the patient was in bed.
+  - No significant changes observed during the night.
+  - Physician rounds occurred at 7:50 AM and 10:00 AM.
+  - No other medical interventions or diagnoses mentioned in the given information.

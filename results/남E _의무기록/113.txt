@@ -1,0 +1,23 @@
+Nurse Record Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Date: June 24, 2024 (partial) to June 25, 2024
+- Time: 16:00 to 11:10
+- Patient Condition: Bedridden with a tracheostomy, receiving enteral nutrition, and using a urinary catheter. The patient is incontinent and requires a diaper.
+- Medications and Treatments:
+  - Tracheostomy suction and dressing changes at 16:00 and 07:50.
+  - Enteral nutrition provided at 07:50.
+  - Urocatheter in place.
+  - Air mattress applied.
+  - Bedrail secured at 16:00.
+  - Bedrail raised at 23:00.
+  - 체위변경 and back massage performed at 07:50.
+  - Skin kept dry and clean, and any changes in skin condition observed.
+  - Overall patient condition monitored.
+- Diagnosis: Pressure ulcer (decubitus) on the coccyx, stage 3, measuring 10 x 7 x 0.5 cm.
+- Treatment Plan:
+  - Air mattress applied.
+  - 체위변경 every 2 hours and back massage performed.
+  - Pressure ulcer dressing changes at 10:00.
+  - Pressure ulcer area observed for any changes.

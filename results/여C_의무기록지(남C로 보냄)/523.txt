@@ -1,0 +1,23 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Diagnoses: Right femur fracture, right (groin) bleeding and inflammation
+- Medical History: Bedridden state, unable to control bowel and bladder, wearing diapers, air mattress, turning and back massages performed by the hospital, keeping the patient's skin free from wrinkles and pressure, providing ventilation to keep the skin dry, raised bed rails, emotional care
+- Current Medications: Unknown
+- Vital Signs:
+  - 10:00 AM: BP - 101/82, P - 85, RESP - 20, T - 36.7
+  - 14:00 PM: T - 36.4
+  - 19:00 PM: BP - 99/48, P - 67, RESP - 19, T - 36.3, PP2 - 105
+  - 23:00 PM: BP - 99/48, P - 67, RESP - 19, T - 36.3, PP2 - 105
+  - 06:00 AM: BP - 120/65, P - 64, RESP - 20, T - 36.3
+- Nursing Care:
+  - 10:00 AM: Vital signs measured, right femur fracture with brace (24.6.12), right (groin) bleeding and inflammation with dressing and eslovan ointment application
+  - 14:00 PM: Vital signs measured
+  - 16:00 PM: Nursing record by an assistant
+  - 16:30 PM: Ward round, overall observation, patient is bedridden and stable
+  - 19:00 PM: Vital signs measured, attended by a doctor, stable condition with handrails fixed
+  - 23:00 PM: Ward round, slept well with no significant changes during the night
+  - 06:00 AM: Ward round, patient slept well with no significant changes during the night
+  - 07:50 AM: Nursing care by an assistant, including bedridden state, incontinence, air mattress, turning, back massage, keeping the patient's skin free from wrinkles and pressure, providing ventilation, raised bed rails, emotional care
+- Insurance/Guardianship: 2024-06-20

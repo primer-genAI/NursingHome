@@ -1,0 +1,26 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Patient's Chart
+- Patient Number: 0092108472
+- Document Date: October 19, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91 (current age: 91)
+- Vital Signs: BP;120, BPL;69, P;63, RESP;20, T;36.5
+
+Nurse Record:
+
+- 10:00: Vital signs checked, one-on-one with the attending doctor
+- 15:00: Acupuncture treatment administered
+- 16:00: Room check, overall patient condition observed, bedrails adjusted for stability
+- 23:00: Room check, bedrails checked
+- 06:00: Room check, patient slept well with no significant changes throughout the night
+- 07:50: Room check, patient incontinent and uses diapers, air mattress in place, skin care provided, emotional support given as the patient expresses suicidal thoughts and depression about not being able to go home, occasional aggressive behavior towards staff and other patients
+- 10:00: Vital signs checked, one-on-one with the attending doctor
+
+Note:
+
+- This summary is based on the given medical document or chart. Please consult with a healthcare professional for a comprehensive understanding of the patient's condition.

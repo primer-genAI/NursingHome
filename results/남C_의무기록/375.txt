@@ -1,0 +1,25 @@
+Patient's Chart Summary:
+
+* Document Type: Nursing Record
+* Patient Number: 0091700991
+* Gender: Male
+* Age: 58 years old
+* Room: 203
+
+Vital Signs:
+
+* Blood Pressure: 109/73
+* Pulse: 81
+* Respiratory Rate: 20
+* Temperature: 36.1°C
+* Weight: 60 kg
+
+Nursing Record:
+
+* The patient was supervised during several activities, including washing, brushing teeth, bathing, eating, changing positions, sitting up, transferring, walking, and using the restroom.
+* The patient was encouraged to eat a balanced diet, and their position was frequently adjusted to prevent pressure sores.
+* The patient's stability was ensured by monitoring their condition and checking the bedrail.
+* The patient slept well throughout the night without any significant changes.
+* The patient has left-side paralysis but maintains control over their bowel and bladder functions.
+
+Please note that some details are missing or unclear in the provided document.

@@ -1,0 +1,19 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Testing Slip
+- Patient Number: 0093109779
+- Test Date: February 23, 2024
+- Patient Information:
+  - Name: Unknown
+  - Gender: Female
+  - Age: 77 years old
+  - Room: 5th Floor, Room 511
+- Test Result:
+  - Test Name: COVID-19 (코로나19) PCR - Single
+  - Test Status: Negative
+  - Result:
+    - RdRp: 33.36
+    - Egene: 31.07
+
+Note: The patient is negative for COVID-19 based on the PCR test result.

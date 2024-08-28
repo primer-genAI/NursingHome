@@ -1,0 +1,13 @@
+Nurse Record Summary:
+
+- Patient: Female, 89 years old, Room 515
+- May 7, 2024:
+  - 06:00: Nightly round, no significant changes
+  - 07:50: Morning round, patient able to control bowel and bladder movements, wearing diapers due to fall risk, using walker with assistance, falling risk education provided, side rails up, emotional support, overall condition observed, family requested for increased activity, close monitoring during ambulation
+  - 10:00: Physician round, acupuncture treatment administered
+  - 15:00: Afternoon round
+  - 16:00: Evening round, overall condition observed, bedrails secured, bed rest, room check, bedrails in place
+  - 23:00: Nightly round
+- May 8, 2024:
+  - 06:00: Morning round, patient slept well through the night
+  - 07:50: Morning round, room check

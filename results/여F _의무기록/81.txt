@@ -1,0 +1,9 @@
+Nurse Record Summary:
+
+- 10:30 AM: # Catheter replacement D Performed a routine catheter replacement as it had been in place for 30 days. A Changed the catheter's Foley catheter to a new one with a 20-French size and replaced the urine bag. R The patient's urine flow was normal after the replacement.
+- 11:10 AM: # Bed sore D Observed a stage 4 pressure ulcer on the coccyx area, measuring 4 x 6 x 1 cm. A Performed wound care on the ulcer and applied an air mattress. Helped the patient change positions and performed a back massage. R Monitored the condition of the skin around the ulcer.
+- 16:00 PM: # Room check Made a routine visit to the patient's room, observing their overall condition. The bedrail was secure and the patient was resting comfortably.
+- 23:00 PM: # Room check Made another routine visit to the patient's room, ensuring the bedrail was still in the up position.
+- 2024-05-20 Insurance/Caregiver: # Room check Made a routine visit to the patient's room. The patient slept well through the night with no significant changes.
+- 07:50 AM: # Room check Performed a catheter care routine and perineal nursing. The patient is incontinent and wears diapers. Checked the air mattress for proper inflation and performed a bed repositioning along with a back massage. The patient was emotionally supported, and their overall condition was observed. The patient reported a sharp pain in both ankles, rating the pain as a 3 on the NRS. Pain management was provided with Durogesic Fentanyl 12 mcg/h. The patient was observed looking at empty space and talking to themselves, sometimes discussing irrelevant topics. A stage 4 pressure ulcer was observed on the coccyx area, measuring 4 x 6 x 1 cm.
+- 10:00 AM: # Doctor's visit The patient's doctor made a routine visit.

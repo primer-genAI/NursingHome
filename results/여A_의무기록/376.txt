@@ -1,0 +1,33 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Progress Notes
+- Patient Number: 0092108472
+- Document Date: January 28, 2024
+- Department: Unknown (assuming "보" refers to "병원")
+- Admission Date: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91
+- Vital Signs:
+  - 19:00: BP 124/70, HR 85, Resp 20, Temp 36.6°C
+  - 23:00: BP 92/50, HR 57, Resp 20, Temp 36.5°C
+- Medical History:
+  - Patient is elderly and bedridden.
+  - She has difficulty controlling her bowel and bladder and wears diapers.
+  - The patient is using an air mattress in the hospital.
+  - She is emotionally distressed and expresses feelings of wanting to die and being upset about not being able to go home.
+  - The patient sometimes yells and curses at staff and other patients, accusing them of stealing her belongings or causing her harm.
+  - She also shows aggression towards a fellow bedridden patient.
+- Current Medications: Unknown
+- Nursing Care:
+  - The nurse checks on the patient's overall condition and ensures the bedrails are in place.
+  - The nurse monitors vital signs, including blood pressure (BP), heart rate (HR), respiratory rate (Resp), and temperature (Temp).
+  - The nurse educates the patient about the risk of falling.
+  - The nurse adjusts bedsheets and clothing to prevent skin irritation and ensures the air mattress is properly inflated.
+- Observations:
+  - The patient slept well throughout the night.
+  - The patient's emotional state is unstable and she expresses suicidal thoughts and depression about her living situation.
+  - The patient's vital signs are within normal ranges.
+  - The nurse reports the patient's condition to the on-call doctor.
+  - The nurse conducts routine bedside checks and observes the patient's overall condition.

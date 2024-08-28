@@ -1,0 +1,14 @@
+Nurse Record Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient: Unknown
+- Date: November 24, 2023
+- Time: 06:00
+- Department: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: Unknown
+- Diagnoses: Bed ridden state, left hemiplegia, cystostomy with Foley catheter (18Fr), urine output well, unable to control bowel movements, wearing diapers, using hospital air mattress, checked for deflation, position change, back massage, fall risk education, emotional support
+- Medical History: Unknown
+- Current Medications: Unknown

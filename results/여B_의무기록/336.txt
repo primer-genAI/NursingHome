@@ -1,0 +1,23 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: December 15, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs:
+  - 10:00: BP: 127/76, P: 99, RESP: 20, T: 36.4°C
+  - 19:00: T: 36.3°C
+  - 23:00: T: 36.3°C
+- Medical History: Unknown
+- Current Medications: Unknown
+- Nursing Notes:
+  - 07:50: Patient slept well through the night with no significant changes. The patient is bedridden and communicates only through movements and eyes. An L-tube (fr18) is in place, and the patient is currently being fed 200kcal * 4 times a day. The patient has a urinary catheter and receives perineal care. The patient wears diapers due to difficulty controlling bowel movements. The patient is on an air mattress, and the caregiver checked that it did not deflate. The caregiver observed the patient's overall condition. The patient is in isolation due to D CRE. The caregiver wore gloves and a gown during nursing care and performed hand hygiene before and after providing care.
+  - 10:00: The attending physician made their rounds.
+  - 10:30: The caregiver ran out of the 10g/1 tube (non-covered) and re-prescribed Madecassol powder. The caregiver performed bedside rounds, observed the patient's overall condition, and fixed the bedrail.
+  - 19:00: The patient remained in bed and stable.
+  - 23:00: The caregiver performed bedside rounds and confirmed that the bedrail was in the raised position.
+  - December 15, 2023, 06:00: The caregiver performed bedside rounds and reported that the patient slept well through the night with no significant changes.

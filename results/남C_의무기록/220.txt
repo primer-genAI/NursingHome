@@ -1,0 +1,23 @@
+Nurse Record Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Unknown
+- Date: October 21st, 2023
+- Time: 23:00, 06:00, 07:50, 10:00, 16:00, 19:00
+- Vital Signs:
+  - 07:50: BP;121 BPL;79 P;74 RESP;19 T;36.0
+  - 10:00: PP2;187
+  - 16:00: BP;121 BPL;79 P;74 RESP;19 T;36.0
+  - 19:00: Vital signs not specified
+- Notes:
+  - 23:00: Patient resting in bed. Writer checked that the bedrail is up.
+  - 06:00: Vital signs taken.
+  - 07:50: Writer made rounds. Patient slept well with no significant changes. Edema (+) on the left leg. Patient can control bowel and bladder movements. Informed about the risk of falls, and advised to keep the bedrail up while in bed. Provided emotional support. Observed overall condition. Used a wheelchair for mobility. Left limbs tremble for less than 10 seconds, then stops, almost every day.
+  - 10:00: Writer attended the attending physician's rounds.
+  - 16:00: Writer made rounds. Observed overall condition. Bedrail is fixed. Patient resting in bed.
+  - 19:00: Writer made rounds. Confirmed that the bedrail is up.
+- Date: October 22nd, 2023
+- Time: 06:00
+- Notes: Writer made rounds.
+
+Please note that the patient's information and some vital signs are not specified in the provided document.

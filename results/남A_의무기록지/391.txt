@@ -1,0 +1,27 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: May 27, 2024
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs: Unknown
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+### Nurse Record Summary:
+
+- 07:50: The patient slept well throughout the night without any significant changes. The nurse performed a room round, noting that the patient is in a bedridden state with left hemiparesis, has a nasogastric tube for enteral feeding, and wears diapers due to the inability to control bowel and bladder functions. The patient repeatedly hits the bed rail with their right hand and is using an air mattress. The nurse checked the mattress for deflation and performed a body reposition every two hours with back massage. The nurse educated the patient about fall prevention.
+
+- 10:00: The nurse raised the bed rail for the patient's safety and provided emotional support. The patient's overall condition was observed, and the nurse noted that the patient repeatedly taps the bed when awake, indicating a behavioral disorder. The nurse also mentioned that the patient received a visit from the on-call doctor.
+
+- 16:00: The nurse conducted a room round and observed the patient's overall condition. The bed rail was secured, and the patient was stable in bed.
+
+- 23:00: The nurse performed a room round and confirmed that the bed rail was in the raised position.
+
+- 06:00 (May 28, 2024): The nurse conducted a room round and reported that the patient slept well without any notable changes.

@@ -1,0 +1,30 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: August 29, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs:
+  - 10:00 AM: BP 132/81, HR 90, RESP 20, Temp 36.0°C
+  - 14:00 PM: Temp 36.5°C
+  - 19:00 PM: PP2 139
+  - 23:00 PM: Vitals not mentioned
+- Medical History:
+  - The patient has a feeding tube and a catheter.
+  - They are bedridden and unable to sit up or stand.
+  - The patient is in isolation for D CRE.
+  - The patient has undergone a full body bath.
+- Current Medications: Not mentioned
+- Nursing Record:
+  - 10:00 AM: Vitals taken, nursing record by [name].
+  - 10:50 AM: Full body bath with the help of a caregiver.
+  - 14:00 PM: Temp taken, nursing record by [name].
+  - 16:00 PM: Nursing record by [name], patient is in bed, bedrail is secured.
+  - 19:00 PM: PP2 taken, nursing record by [name].
+  - 23:00 PM: Nursing record by [name], bedrail is up.
+  - 06:00 AM: Nursing record by [name], patient slept well with no changes.
+  - 07:50 AM: Nursing record by [name].

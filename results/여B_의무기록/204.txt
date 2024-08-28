@@ -1,0 +1,24 @@
+Nurse Record Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Information: Unknown
+- Document Date: August 1, 2023
+- Time:
+  - 07:50: Bedside round conducted, patient bedridden, unable to communicate verbally or visually. L-tube feeding with 200kcal x4 times, indwelling urinary catheter, and perineal care provided. Air mattress checked for deflation.
+  - 10:00: Physician round conducted.
+  - 10:50: Full body bath assisted by caregiver.
+  - 16:00: Bedside round conducted, patient remains in bed with bedrails in place.
+  - 19:00: Vital signs: Temperature 36.7°C, Blood Pressure 122/23.
+  - 23:00: Bedside round conducted, bedrails are up.
+- Medical Interventions:
+  - L-tube feeding with 200kcal x4 times.
+  - Indwelling urinary catheter.
+  - Perineal care.
+  - Air mattress.
+  - Bedrails in place.
+- Isolation Precautions:
+  - Isolated due to D CRE.
+  - Gloves and gowns worn during nursing.
+  - Hand hygiene performed before and after nursing.
+- Other Information:
+  - Full body bath assisted by caregiver.

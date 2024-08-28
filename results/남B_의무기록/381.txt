@@ -1,0 +1,16 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient Number: Unknown
+- Document Date: June 30, 2024
+- Diagnoses: Unknown
+- Medical History: Unknown
+- Current Medications: Unknown
+
+Nurse Record Summary:
+- 23:00: Observed overall condition. Bedrail secured. Lying in bed. Roamed around the room. Confirmed the bedrail is up.
+- 06:00: Roamed around the room. Slept well with no significant changes during the night.
+- 07:50: Rounding done. Bedridden state with left hemiplegia (left-side paralysis). Can control urine but not stool, so diaper is used. Cystostomy (Foley catheter with 18Fr) is kept, and urine output is good. Checked the condition and function of the air mattress. Position was changed every 2 hours, and back massage was performed. Ensured the skin was not moist and provided good ventilation. The bedrail was raised while lying down. General nursing care and overall condition were observed. Emotional care was provided. Vital signs: BP 114/65, P 49, RESP 19, T 36.3. On-call doctor round was done.
+- 10:00: Rounding done. Observed overall condition. Bedrail secured. Lying in bed.
+- 16:00: Roamed around the room. Observed overall condition. Bedrail secured. Lying in bed.
+- 23:00: Roamed around the room. Confirmed the bedrail is up.

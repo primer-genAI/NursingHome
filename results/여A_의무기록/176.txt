@@ -1,0 +1,31 @@
+Patient's Chart Summary:
+
+* Document Type: Nursing Record
+* Patient Number: 0092108472
+* Age: 91세 (Female)
+* Room: 512호
+* Vital Signs:
+  * 19:00: Temperature: 36.2°C
+  * 23:00: No vital signs recorded
+* Nursing Observations and Interventions:
+  * Overall condition observed. Bedrail secured. Patient stable.
+  * Room rounds conducted. Bedrail in an upright position confirmed.
+  * Patient slept well through the night.
+  * Patient incontinent of bowel and bladder, wearing diapers.
+  * Air mattress in place. Bedding and clothing wrinkles were smoothed to prevent skin breakdown.
+  * Patient's skin was kept dry by ensuring proper ventilation.
+  * Guardrail was raised when the patient was bedridden to prevent falls.
+  * Patient educated on fall prevention.
+  * Emotional support provided as the patient expressed thoughts of death and depression about not being able to return home.
+  * Patient had verbal altercations with staff and other patients, accusing them of stealing personal items.
+* Vital Signs:
+  * 10:00: Blood pressure: 130/83 mmHg, heart rate: 70 bpm, respiratory rate: 20 breaths/min, temperature: 37.3°C
+* Medical Interventions:
+  * Physician round at 10:00.
+  * Blood tests (CBC, E) and chest X-ray ordered at 11:15.
+* Patient Condition:
+  * Overall condition poor.
+  * Poor appetite, eating only a small amount of food.
+  * The patient refused an IV infusion ordered by the attending physician.
+* Nursing Interventions:
+  * Continuous monitoring of the patient's condition at 14:00.

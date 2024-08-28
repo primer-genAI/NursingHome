@@ -1,0 +1,18 @@
+Nurse Record Summary:
+- Date and Time: June 16, 2023
+- Patient's Condition:
+  - Bedridden with left hemiplegia and a cystostomy (Foley catheter 18Fr)
+  - Urine control is possible, but feces control is not, so diapers are being used
+  - The patient has an air mattress in place, and the air was checked to ensure it was not deflated
+  - Two-hourly repositioning and back massages were performed
+  - The patient received education on fall prevention
+  - Emotional support was provided
+- Vital Signs:
+  - 09:00: BP: 101/62, P: 57, RESP: 20, T: 36.1°C
+- Doctor's Round: Consulted with the attending physician
+- Date and Time: June 17, 2023
+- Patient's Condition:
+  - The patient slept well without any significant changes overnight
+- Vital Signs: Not mentioned
+
+Note: The table has been reformatted to a more readable format.

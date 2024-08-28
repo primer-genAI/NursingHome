@@ -1,0 +1,26 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record (N)
+- Patient Information: Not provided in the extract
+
+Vital Signs and Observations:
+- The patient was observed during room rounds and their overall condition was assessed.
+- The bedrail was found to be fixed and the patient was stable in bed.
+- The patient's overall condition was observed during room rounds, and the bedrail was found to be up.
+- The patient slept well through the night with no significant changes observed.
+- The patient was unable to control their bowel and bladder and was wearing diapers.
+- The patient was lying on an air mattress, and the air was checked to ensure it hadn't deflated.
+- The patient received a massage on their back and was turned every two hours due to paralysis on the left side of their body.
+- The patient was advised on fall prevention measures.
+- The patient is paralyzed on the left side and is unable to move around.
+- The bedrail was raised when the patient was in bed for stability, and emotional support was provided.
+
+Treatments and Procedures:
+- A round of treatment was conducted at 15:00.
+- The patient received an acupuncture treatment.
+- The patient's overall condition was observed during room rounds, and the bedrail was found to be up.
+- The patient was observed during room rounds, and their overall condition was assessed.
+- The patient slept well through the night with no significant changes observed.
+
+Please note that the patient's information, such as name, age, gender, and other medical history, was not provided in the given extract.

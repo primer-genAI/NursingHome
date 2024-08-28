@@ -1,0 +1,24 @@
+Page Info: Unknown
+Document Type: Nurse Record
+Patient Number: Unknown
+Document Date: May 7, 2024
+Department: Unknown
+Admission Date: Unknown
+Room: Unknown
+Gender: Unknown
+Age: Unknown
+Vital Signs: Unknown
+Diagnoses: Unknown
+Medical History: Unknown
+Current Medications: Unknown
+
+Nurse Record Summary:
+
+- 23:00: The nurse checked the bedrail.
+- 06:00: The patient slept well with no major changes during the night. Foley catheter was kept, perineal care was provided, and drainage was observed.
+- 07:50: The patient had a bedsores (Stage 4 pressure ulcer) on the coccyx area (4 x 4 cm). The wound was dressed, an air mattress was applied, and the patient was repositioned.
+- 10:00: The attending physician had a round.
+- 11:30: The patient had another bed sore (Stage 4 pressure ulcer) on the coccyx area (4 x 6 cm). Dressing was applied to the wound, an air mattress was used, and the patient was repositioned. Skin condition on the new sore was observed.
+- 16:00: The nurse checked the patient's overall condition, and the bedrail was secured. The patient was stable in bed.
+- 16:30: The nurse provided traditional Chinese medicine treatment.
+- 23:00: The nurse made another round.

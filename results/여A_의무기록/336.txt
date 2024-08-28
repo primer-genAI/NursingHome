@@ -1,0 +1,19 @@
+Patient's Chart Summary:
+- Page Info: Unknown
+- Document Type: Nursing Recording
+- Patient Number: 0092108472
+- Document Date: June 15, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91 (current age: 91)
+- Vital Signs: BP;90, BPL;56, P;63
+- Medical History: Wandering bedridden patient with unprovoked aggression towards a bedridden patient on the same ward at 10:00, speaking incoherently. The patient received acupuncture treatment at 15:00. The patient's overall condition was observed during room rounds at 16:00 and 23:00.
+- Current Medications: Unknown
+- Nursing Record:
+  - 06:00: Room rounds indicated the patient slept well through the night with no significant changes.
+  - 07:50: Room rounds revealed the patient is incontinent and using diapers. The patient is on an air mattress, and skin care was provided to prevent pressure sores and maintain a dry environment. The patient expressed feelings of depression and frustration about being unable to go home, often verbally abusing staff and other patients.
+  - 10:00: Vital signs were taken, and the patient's blood pressure, heart rate, and respiratory rate were recorded.
+
+Please note that this summary is based on the provided text, and some information may be missing or unclear.

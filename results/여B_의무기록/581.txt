@@ -1,0 +1,40 @@
+검사 슬립지 요약:
+
+* 차트 번호: 0093109779
+* 검사 날짜: 2023년 08월 14일
+* 환자 정보:
+	+ 주민번호: 4 2******
+	+ 입원
+	+ 성별: 여성
+	+ 나이: 77세
+	+ 병동: 5병동
+	+ 병실: 505호
+* 검사 코드 및 소견:
+	+ [L] VRE REC VRE Culture & Sensitivity (Rectal swab LAB)
+* 검사 결과:
+	+ 균 이름: Enterococcus faecium
+	+ 집락 수: 많은 수
+	+ 항생제 내성:
+		- L inezolid: <=1 (감수성)
+		- Strep. Synergy: S <=1000 S (감수성)
+		- Synercid: <=1 S (감수성)
+		- Tetracycline: <=4 S (감수성)
+		- Rifampin: I (중간)
+		- Ampicillin: >8 R (내성)
+		- Cefepime: >16 R (내성)
+		- Cefuroxime: >16 R (내성)
+		- Ciprofloxacin: >2 R (내성)
+		- Clindamycin: >2 R (내성)
+		- Erythromycin: >4 R (내성)
+		- Fusidic Acid: >500 R (내성)
+		- Gent. Synergy: R (내성)
+		- Gentamicin: >8 R (내성)
+		- Levofloxacin: >4 R (내성)
+		- Penicillin: >8 R (내성)
+		- Teicoplanin: >16 R (내성)
+		- Tobramycin: >8 R (내성)
+		- Trimeth/Sulfa: >4/76 R (내성)
+		- Vancomycin: >16 R (내성)
+* 판정: S (감수성), I (중간), R (내성)
+* 임상 정보 및 코멘트:
+	+ VRE (Vancomycin Resistant Enterococcus) 균주입니다.

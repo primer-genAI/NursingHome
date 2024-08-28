@@ -1,0 +1,12 @@
+Nurse Record Summary:
+
+* Performed room rounds. The patient slept well without any disturbances.
+* Assessed the patient's condition at 07:50. They are bedridden and unable to communicate verbally or through eye contact. An L-tube (fr18) is inserted for feeding, currently with a diet of 200kcal x4 times a day. A urinary catheter is in place, and perineal care is being provided. The patient is using an air mattress and it was checked for any leaks. The bedrails were raised, and overall condition was observed.
+* The patient is in isolation due to D CRE. Proper precautions, including wearing gloves and gowns during nursing care, and hand hygiene before and after care, are being followed.
+* Vital signs were taken:
+	+ 10:00: BP - 135/87, P - 92, RESP - 20, T - 36.4
+	+ 19:00: T - 36.2
+* The attending physician conducted rounds at 10:00.
+* Room rounds were performed at 16:00, and the patient was observed to be in a stable condition, with bedrails secured, and remaining in bed.
+* At 23:00, room rounds were conducted, and the bedrails were found to be in the raised position.
+* On September 28, 2023, the patient was observed during room rounds at 06:00. They slept well without any significant changes during the night.

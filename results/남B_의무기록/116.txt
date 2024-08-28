@@ -1,0 +1,23 @@
+Patient's Chart Summary:
+
+- Document Type: Nurse Record
+- Date: June 26, 2023
+- Time: 23:00
+- Action: Checked that the bedrail was in the raised position.
+- Time: 06:00
+- Action: Checked that the bedrail was in the raised position.
+- Time: 07:50
+- Action: Checked that the patient was in a bedridden state with left-sided weakness, had a Foley catheter (18Fr) in place, and was able to control their urination but not their bowel movements. The patient was wearing a diaper and lying on an air mattress that was checked for air leakage. The patient's position was changed every two hours, and back massages were provided. The patient was also educated on fall prevention, and emotional support was provided.
+- Time: 16:00
+- Action: Checked that the patient's overall condition was stable and that the bedrail was secured. The patient was resting in bed.
+- Time: 23:00
+- Action: Checked that the bedrail was in the raised position.
+
+Date: June 27, 2023
+
+- Time: 06:00
+- Action: Checked that the bedrail was in the raised position.
+- Time: 07:50
+- Action: Checked that the patient was in a bedridden state with left-sided weakness, had a Foley catheter (18Fr) in place, and was able to control their urination but not their bowel movements. The patient was wearing a diaper and lying on an air mattress that was checked for air leakage. The patient's position was changed every two hours, and back massages were provided.
+
+Please note that the information provided is incomplete, and some sections may be missing or unclear.

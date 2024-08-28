@@ -1,0 +1,17 @@
+Patient's Chart Summary:
+
+- Document Date: May 5-9, 2024
+- Room: 305
+- Gender: Female
+- Age: 72 (current age: 72)
+- Diagnoses:
+  - Diabetes (코드 명칭: 식이D01)
+- Medical History: 당뇨병으로 인한 치료 및 관리
+- Current Medications:
+  - 듀르제식디트렌스패취12mcg/h(펜타닐) (코드 명칭: MD020) 1회 1일 1회 사용, 환부에 도포하세요
+  - 당검사[화학반응-장비측정][반정량] (코드 명칭: D3021) 2회 1일, BST 2회
+- Treatments:
+  - PT1 H/P,ICT(요양) (코드 명칭: [P] PT1) 1회 1일, 2024-05-07부터 시작, 2024-05-08에 [D/C] (discontinued)
+- Vital Signs: Unknown
+- Additional Information:
+  - 당뇨식(밥) (코드 명칭: 식이D01) 1회 1일 3회 제공

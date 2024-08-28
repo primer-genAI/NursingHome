@@ -1,0 +1,43 @@
+Nurse Record Summary:
+
+- Time: 10:50 AM
+  - Action: The patient received help from a caregiver for a full body bath.
+  - Note: 작성자 (Writer)
+
+- Time: 15:00 PM
+  - Action: Oriental medicine treatment was performed.
+  - Note: 작성자 (Writer) (Date)
+
+- Time: 16:00 PM
+  - Action: The nurse made rounds and observed the patient's overall condition. The bedrail was secure, and the patient was in bed rest.
+  - Note: 작성자 (Writer)
+
+- Time: 23:00 PM
+  - Action: The nurse made rounds and checked that the bedrail was up.
+  - Note: 작성자 (Writer)
+
+- Date: 2024년 2월 3일 (Insurance/Guardian)
+
+- Time: 06:00 AM
+  - Action: Nursing Record
+  - Note: 작성자 (Writer) (Date)
+
+- Time: 07:50 AM
+  - Action: The nurse made rounds and observed that the patient slept well through the night with no significant changes. The patient cannot communicate verbally or through eye contact. The patient has an L-tube for feeding, currently on a regimen of 200kcal * 4 times a day. The patient is incontinent and wears diapers. The patient is on an air mattress with no deflation. The nurse performed a body position change and back massage. The bedrail is up, and the patient is bedridden. Overall condition observed.
+  - Note: 작성자: (Writer) (Date)
+
+- Time: 10:00 AM
+  - Action: Vital signs: BP;114 BPL;69 P;75 RESP;20 T;36.5
+  - Note: 작성자 (Writer)
+
+- Time: 10:00 AM
+  - Action: Nursing Record: The on-call doctor made rounds.
+  - Note: 작성자 (Writer) (Date)
+
+- Time: 16:00 PM
+  - Action: The nurse made rounds and observed the patient's overall condition. The bedrail was secure, and the patient was in bed rest.
+  - Note: 작성자 (Writer)
+
+- Time: 23:00 PM
+  - Action: The nurse made rounds.
+  - Note: 작성자 (Writer)

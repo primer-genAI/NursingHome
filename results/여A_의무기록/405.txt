@@ -1,0 +1,19 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nursing Record
+- Patient Number: 00921084
+- Document Date: February 29, 2024
+- Patient Details:
+  - Room Number: 516
+  - Gender: Female
+  - Age: 91
+- Nursing Record:
+  - 07:50: Room round, patient wearing diapers due to incontinence, lying on an air mattress, skin folds and creases checked, bed raised for comfort, fall risk present, depressed and suicidal thoughts, verbally aggressive towards staff and other patients
+  - 10:00: Vital signs: BP 115/75, P 60, RESP 20, T 36.5
+  - 15:00: Acupuncture treatment
+  - 16:00: Room round, patient stable, bedrail locked
+  - 23:00: Room round, bedrail raised, no changes noted
+  - March 1, 2024: Room round at 06:00
+
+Please note that the patient's medical history and current medications are not provided in this document.

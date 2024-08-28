@@ -1,0 +1,22 @@
+Patient's Chart Summary:
+
+* Page Info: Unknown
+* Document Type: Nurse Record
+* Patient Number: 0093109779
+* Document Date: October 9, 2023
+* Room: 505
+* Gender: Female
+* Age: 77
+
+Nurse Record:
+
+* 06:00 Nursing: Room round, patient slept well with no significant changes.
+* 07:50: Room round, patient is bedridden, unable to communicate verbally or with eyes. L-tube (fr18) in place, feeding with 200kcal x4 times per day, indwelling catheter, perineal care, and wearing diapers due to fecal incontinence. Air mattress in place, checked for deflation, bed rail up, overall condition observed. Patient is in isolation due to D CRE, wearing gloves and gown during care, hand hygiene performed before and after care, isolation precautions followed.
+* 10:00: Vital signs: BP 137/86, HR 99, Resp 20, Temp 36.0; attending physician round.
+* 12:00: Nasogastric tube change: self-removed, replaced with fr 16, testing shows proper infusion.
+* 16:00: Room round, overall condition observed, bed rail fixed, patient remains in bed.
+* 23:00: Room round, bed rail up.
+* October 9, 2023: Insurance/guardian information.
+* 06:00: (information not provided)
+
+Note: The patient's chart summary is based on the provided nurse record.

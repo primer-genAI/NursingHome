@@ -1,0 +1,22 @@
+Nurse Record Summary:
+- Date: April 21, 2024
+- Patient's status:
+  - Bedridden
+  - Oxygen inhalation via nasal prong at 3 L/min, SpO2 ranging from 92% to 96%
+  - L-tube (16Fr) in place
+  - Receiving fiber-rich diet (화이바400-200-400 kcal)
+  - Incontinent, wearing diapers
+  - Using hospital's air mattress
+- Daily routine:
+  - 09:05 - Full body bath with help from caregiver
+  - 10:00 - Attending physician's round
+  - 16:00 - Nursing staff rounds, overall condition observed, bedrails secured
+  - 23:00 - Nursing staff rounds, bedrails checked and found to be in place
+- Night status:
+  - 06:00 - Nursing staff rounds, patient slept well with no significant changes
+- Morning status:
+  - 07:50 - Nursing staff rounds, patient's condition remained the same as the previous entry
+- 10:00 - Attending physician's round
+- 16:00 - Nursing staff rounds, overall condition observed, bedrails secured
+
+Please note that the text is copied directly from the table and may contain formatting issues or errors.

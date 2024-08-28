@@ -1,0 +1,29 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse Record
+- Patient's Condition:
+  - The patient appears down or has little to say.
+  - The patient has a right femur fracture and is wearing a right long leg cast.
+  - The patient is bedridden and wears a Foley catheter.
+  - The patient has trouble controlling their bowel movements and wears diapers.
+  - The patient is lying on an air mattress.
+  - The patient's bedrails are up.
+  - The patient's skin is kept dry and free from pressure by adjusting the bed, massaging the back, smoothing out wrinkles in the sheets and clothing, allowing air circulation, and providing emotional support.
+
+- Vital Signs:
+  - 06:00: BP;107 BPL;62 P;60 RESP;21 T;36
+  - 07:50: BP;107 BPL;62 P;68 RESP;20 T;37.0 SPO2;97
+  - 14:00: T;36.9 SPO2;96
+  - 16:30: T;36.9 SPO2;96
+  - 23:00: Unknown
+
+- Medical Treatment:
+  - Dulcolax suppository was prescribed and inserted for constipation.
+  - Traditional Korean medicine treatment was administered.
+
+- Nursing Care:
+  - Room rounds were done multiple times throughout the day.
+  - Bedridden state care was provided, including frequent repositioning and back massage.
+  - The patient's skin was kept dry and free from pressure.
+  - The patient's emotional state was addressed.

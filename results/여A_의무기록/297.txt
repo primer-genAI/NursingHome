@@ -1,0 +1,33 @@
+Patient's Chart Summary:
+
+- Page Info: Unknown
+- Document Type: Nurse's Record
+- Patient Number: 0092108472
+- Document Date: November 1, 2023
+- Department: Unknown
+- Admission Date: Unknown
+- Room: 516
+- Gender: Female
+- Age: 91
+
+Nurse's Record:
+
+- 23:00: Patient is resting in bed, bedrail is up.
+- 06:00: Patient's condition is stable, no significant changes overnight.
+- 07:50:
+  - Patient is wearing a catheter, colostomy bag, and hearing aids.
+  - The room air is dry, so the nurse changed the sheets and ensured the patient's skin was dry and well-ventilated.
+  - Bedrail was placed for safety, and the patient was educated about fall prevention.
+  - The patient's overall condition was observed, and emotional support was provided. The patient expressed feelings of depression and frustration about being unable to return home.
+  - The patient exhibited aggressive behavior, cursing at staff and other patients, and accusing others of stealing personal items.
+
+- 09:00:
+  - Patient's Activities of Daily Living (ADL) assessment:
+    - Dressing: Some assistance needed for pants.
+    - Bathing: Complete assistance required due to weak muscle strength.
+    - Eating: Needs support to maintain interest in meals.
+    - Toileting: Complete assistance required, as the patient cannot lift her hips for diaper changes.
+
+- 10:00: No specific information provided in the record.
+
+No medical history or current medications were mentioned in the provided document.

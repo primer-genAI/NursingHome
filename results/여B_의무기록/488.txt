@@ -1,0 +1,29 @@
+Nurse Information Sheet Summary:
+- Date: Unknown
+- Department: Unknown
+- Patient Name: Unknown
+- Admission Date: Unknown
+- Room: Unknown
+- Gender: Unknown
+- Age: Unknown
+- Vital Signs:
+  - 12:10 PM: Blood pressure (BP) - 143/78, pulse (P) - 143, respiratory rate (RESP) - 33, temperature (T) - 38.7°C, oxygen saturation (SPO2) - 88%
+  - 14:00 PM: BP - 143/78, pulse rate - 143, respiratory rate - 33, temperature - 38.7°C, SPO2 - 88%
+  - 16:00 PM: Temperature - 37.9°C
+- Medical Treatments:
+  - Air mattress applied
+  - Doctor informed of vital signs and symptoms
+  - Ativan injection (Lorazepam) administered
+  - Saline solution (500mL) intravenously (IV) started for 14 days
+  - Electrolyte (Na, K, Cl), LFT, CRP checked
+  - Chest X-ray (AP) taken
+  - Amikacin medication mix (1A + 100CC saline) IV twice a day for 14 days
+  - Cefotaxime medication mix (1.0g + 20cc saline) IV three times a day for 14 days
+  - Parents informed of patient's condition and treatments
+  - SPO2 checked
+  - Oxygen (3 L/min) through nasal prongs started
+  - Fever observed
+  - Paracetamol 8-hour extended-release tablets (3 tablets) given for 5 days
+  - Doctor informed of fever and body temperature (BT: 38.6°C)
+  - Overall condition observed and bed rails secured
+  - Traditional Chinese Medicine (TCM) treatment applied
