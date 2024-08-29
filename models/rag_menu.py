@@ -34,7 +34,7 @@ embeddings = UpstageEmbeddings(
     model="solar-embedding-1-large"
 )
 
-persist_directory = '.cache/db/menu'
+persist_directory = '../.cache/db/menu'
 
 vectordb = Chroma(
     persist_directory=persist_directory,

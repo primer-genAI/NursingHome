@@ -869,3 +869,22 @@
 2024-08-29 18:13:57,620 - DEBUG - request_id: None
 2024-08-29 18:13:57,625 - INFO - 결과:공단청구금은 환자가 요양병원에서 치료를 받을 때, 국민건강보험공단에서 부담하는 금액을 말합니다. 요양병원에서 발생한 총 병원비 중에서 공단청구금은 국민건강보험공단에서 부담하는 부분이므로, 보호자가 직접 지불해야 하는 금액은 아닙니다. 다만, 환자가 부담해야 하는 자기부담금이 있을 수 있으며, 이는 공단청구금을 제외한 나머지 금액입니다.
 2024-08-29 18:13:57,943 - DEBUG - https://api.smith.langchain.com:443 "POST /runs/batch HTTP/11" 202 33
+2024-08-29 18:35:58,176 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-08-29 18:35:59,070 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-08-29 19:17:00,281 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-08-29 19:17:01,180 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-08-29 19:17:28,821 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-08-29 19:17:29,709 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-08-29 19:17:46,098 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-08-29 19:17:46,968 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-08-29 19:18:13,651 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-08-29 19:18:14,527 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-08-29 19:19:20,474 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-08-29 19:19:21,367 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-08-29 19:19:48,396 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-08-29 19:19:49,298 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-08-29 19:19:59,297 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-08-29 19:20:01,396 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-08-29 19:20:02,263 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-08-29 19:20:22,551 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-08-29 19:20:23,453 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15

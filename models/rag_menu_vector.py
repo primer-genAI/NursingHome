@@ -48,7 +48,7 @@ embeddings = UpstageEmbeddings(
     model="solar-embedding-1-large"
 )
 
-persist_directory = '.cache/db/menu'
+persist_directory = '../.cache/db/menu'
 
 vectordb = Chroma.from_documents(
     documents=data_splits, # 위에서 처리한 데이터 

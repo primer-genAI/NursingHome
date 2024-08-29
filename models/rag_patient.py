@@ -25,7 +25,7 @@ embeddings = UpstageEmbeddings(
 # Function to create the patient_chain with a specific patient_id
 def patient_chain(patient_id):
     # Use patient_id to set the persist directory dynamically
-    persist_directory = f'.cache/db/{patient_id}'
+    persist_directory = f'../.cache/db/{patient_id}'
 
     # Load the vector database for the specific patient
     vectordb = Chroma(

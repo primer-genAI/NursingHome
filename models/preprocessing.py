@@ -69,6 +69,6 @@ def process_files_in_folder(folder_path, result_folder):
                 print(f"Error processing item {idx} in {filename}: {e}")
 
 # 사용 예시: 폴더 경로를 지정하여 실행
-folder_path = './ocr'
-result_folder = './results'
+folder_path = '.././ocr'
+result_folder = '.././results'
 process_files_in_folder(folder_path, result_folder)
