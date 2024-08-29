@@ -54,24 +54,3 @@ vectordb = Chroma.from_documents(
     documents=data_splits, # 위에서 처리한 데이터 
     embedding=embeddings, # upstage solar embedding 1 large
     persist_directory=persist_directory)
-
-retriever = vectordb.as_retriever()
-
-
-from TEMPLATES.rag_template import menu_prompt
-
-rag_prompt = ChatPromptTemplate.from_template(menu_prompt)
-
-def format_docs(docs):
-    return "\n\n".join(doc.page_content for doc in docs)
-
-# Define the RAG chain
-menu_chain = (
-    {
-        "context": retriever | format_docs,
-        "question": RunnablePassthrough(),
-    }
-    | rag_prompt
-    | llm
-    | StrOutputParser()
-)

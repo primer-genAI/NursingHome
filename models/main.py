@@ -40,7 +40,7 @@ chain = (
 # Import other templates and chains
 from TEMPLATES.rag_template import prompt, menu_prompt
 from rag_menu import menu_chain
-from rag_patient import patient_chain
+from rag_patient import patient_chain  # Updated import
 from rag_bill import bill_chain
 from operator import itemgetter
 from langchain_core.runnables import RunnableLambda
@@ -52,7 +52,8 @@ def route(info):
     elif "메뉴" in info["topic"].lower():
         return menu_chain
     else:
-        return patient_chain
+        # Pass patient_id along to the patient_chain
+        return patient_chain(info.get("patient_id", ""))
 
 # Full chain including routing logic
 full_chain = (
@@ -64,6 +65,7 @@ full_chain = (
 # Define a request model for FastAPI
 class QueryRequest(BaseModel):
     question: str
+    patient_id: str  # Add patient_id to the request model
 
 # Define the response model for FastAPI
 class QueryResponse(BaseModel):
@@ -73,10 +75,10 @@ class QueryResponse(BaseModel):
 @app.post("/process-query")
 async def process_query(request: QueryRequest):
     try:
-        # Process the question using the chain
-        result = full_chain.invoke({"question": request.question})
+        # Pass the patient_id and question to the full_chain
+        result = full_chain.invoke({"question": request.question, "patient_id": request.patient_id})
         # Return the response
-        return {'responce':result}
+        return {'response': result}
     except Exception as e:
         # Handle errors
         raise HTTPException(status_code=500, detail=str(e))

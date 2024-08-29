@@ -7,7 +7,6 @@ from langchain_core.runnables import RunnablePassthrough
 from langchain.vectorstores import Chroma
 from langchain_upstage import ChatUpstage, UpstageEmbeddings
 
-
 import os
 import dotenv
 
@@ -19,33 +18,37 @@ llm = ChatUpstage(api_key=UPSTAGE_API_KEY)
 
 # Embeddings setup
 embeddings = UpstageEmbeddings(
-  api_key=UPSTAGE_API_KEY,
-  model="solar-embedding-1-large"
+    api_key=UPSTAGE_API_KEY,
+    model="solar-embedding-1-large"
 )
 
-persist_directory = '.cache/db/남A_의무기록지'
+# Function to create the patient_chain with a specific patient_id
+def patient_chain(patient_id):
+    # Use patient_id to set the persist directory dynamically
+    persist_directory = f'.cache/db/{patient_id}'
 
-vectordb = Chroma(
-    persist_directory=persist_directory,
-    embedding_function=embeddings
-)
+    # Load the vector database for the specific patient
+    vectordb = Chroma(
+        persist_directory=persist_directory,
+        embedding_function=embeddings
+    )
 
-retriever = vectordb.as_retriever()
+    retriever = vectordb.as_retriever()
 
-from TEMPLATES.rag_template import prompt
+    from TEMPLATES.rag_template import prompt
+    rag_prompt = ChatPromptTemplate.from_template(prompt)
 
-rag_prompt = ChatPromptTemplate.from_template(prompt)
+    # Function to format documents
+    def format_docs(docs):
+        return "\n\n".join(doc.page_content for doc in docs)
 
-def format_docs(docs):
-    return "\n\n".join(doc.page_content for doc in docs)
-
-# Define the RAG chain
-patient_chain = (
-    {
-        "context": retriever | format_docs,
-        "question": RunnablePassthrough(),
-    }
-    | rag_prompt
-    | llm
-    | StrOutputParser()
-)
+    # Define the RAG chain
+    return (
+        {
+            "context": retriever | format_docs,
+            "question": RunnablePassthrough(),
+        }
+        | rag_prompt
+        | llm
+        | StrOutputParser()
+    )
