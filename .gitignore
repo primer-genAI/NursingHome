@@ -10,3 +10,6 @@ app
 data
 json
 results
+
+
+.DS_Store
