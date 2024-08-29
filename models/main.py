@@ -1,4 +1,7 @@
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import JSONResponse
+
 from pydantic import BaseModel
 from langchain_teddynote import logging
 import os
@@ -12,6 +15,15 @@ load_dotenv()
 
 # Initialize the FastAPI app
 app = FastAPI()
+
+# Solve CORS prob(called by Dart, Flutter)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # 모든 도메인에서의 요청을 허용
+    allow_credentials=True,
+    allow_methods=["*"],  # 모든 HTTP 메서드를 허용
+    allow_headers=["*"],  # 모든 헤더를 허용
+)
 
 # Define the logging with the project name
 logging.langsmith("NursingHome")
@@ -31,11 +43,7 @@ Classification:"""
 llm = ChatUpstage(api_key=os.getenv("UPSTAGE_API_KEY"))
 
 # Create the initial chain
-chain = (
-    prompt
-    | llm
-    | StrOutputParser()
-)
+chain = prompt | llm | StrOutputParser()
 
 # Import other templates and chains
 from TEMPLATES.rag_template import prompt, menu_prompt
@@ -44,6 +52,7 @@ from rag_patient import patient_chain  # Updated import
 from rag_bill import bill_chain
 from operator import itemgetter
 from langchain_core.runnables import RunnableLambda
+
 
 # Function to route the topic to the correct chain
 def route(info):
@@ -55,6 +64,7 @@ def route(info):
         # Pass patient_id along to the patient_chain
         return patient_chain(info.get("patient_id", ""))
 
+
 # Full chain including routing logic
 full_chain = (
     {"topic": chain, "question": itemgetter("question")}
@@ -62,23 +72,49 @@ full_chain = (
     | StrOutputParser()
 )
 
+
 # Define a request model for FastAPI
 class QueryRequest(BaseModel):
     question: str
     patient_id: str  # Add patient_id to the request model
 
+
 # Define the response model for FastAPI
 class QueryResponse(BaseModel):
     response: str
+
+
+import logging
+
+logging.basicConfig(
+    filename="debug.log",
+    level=logging.DEBUG,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+)
+
+# 콘솔에도 로그 출력
+console = logging.StreamHandler()
+console.setLevel(logging.DEBUG)
+formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
+console.setFormatter(formatter)
+logging.getLogger("").addHandler(console)
+
 
 # Create the main endpoint
 @app.post("/process-query")
 async def process_query(request: QueryRequest):
     try:
         # Pass the patient_id and question to the full_chain
-        result = full_chain.invoke({"question": request.question, "patient_id": request.patient_id})
+        result = full_chain.invoke(
+            {"question": request.question, "patient_id": request.patient_id}
+        )
+        logging.info(f"결과:{result}")
+
         # Return the response
-        return {'response': result}
+        content = {"response": result}
+        return JSONResponse(
+            content=content, media_type="application/json; charset=utf-8"
+        )
     except Exception as e:
         # Handle errors
         raise HTTPException(status_code=500, detail=str(e))
