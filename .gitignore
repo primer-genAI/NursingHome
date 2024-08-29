@@ -1,4 +1,4 @@
-#.cache
+.cache
 .venv
 .env
 
@@ -10,6 +10,5 @@ app
 data
 json
 results
-
 
 .DS_Store
