@@ -1,6 +1,5 @@
 # 요양병원 AI
 
-
 ## 1. Preprocessing
 
 ### 1) 의무기록지
@@ -35,5 +34,19 @@
 ## 실행 방법
 
 ```bash
+# make and activate venv
+python3 -m venv .venv
+. .venv/bin/activate
+
+# install package
+pip install -r requirements.txt
+
+# Move directory and setting credential
+cd models
+cat > .env
+# make .env for set Upstage API (models 폴더 내에 생성 해야 작동)
+UPSTAGE_API_KEY='Your issued API key'
+
+# Execute
 uvicorn main:app --reload
 ```
