@@ -30,7 +30,7 @@ logging.langsmith("NursingHome")
 
 # Define the Prompt Template
 prompt = PromptTemplate.from_template(
-    """주어진 사용자 질문을 `환자정보`, `메뉴`, 또는 `병원비` 중 하나로 분류하세요. 한 단어 이상으로 응답하지 마세요.
+    """주어진 사용자 질문을 `환자정보`, `메뉴`, 또는 `병원비` 중 하나로 분류하세요. 한 단어 이상으로 응답하지 마세요. 한글로 답변하세요.
 
 <question>
 {question}
@@ -49,6 +49,7 @@ chain = prompt | llm | StrOutputParser()
 #from TEMPLATES.rag_template import prompt, menu_prompt
 from rag_menu import menu_chain
 from rag_patient import patient_chain  # Updated import
+# from no_rag_patient import chain as patient_chain
 from rag_patient_n1 import patient_chain as patient_chain_n1
 from rag_bill import bill_chain
 from operator import itemgetter
@@ -64,6 +65,15 @@ def route(info):
     else:
         # Pass patient_id along to the patient_chain
         return patient_chain(info.get("patient_id", ""))
+    
+# def route(info):
+#     if "병원비" in info["topic"].lower():
+#         return bill_chain
+#     elif "메뉴" in info["topic"].lower():
+#         return menu_chain
+#     else:
+#         # Pass patient_id along to the patient_chain
+#         return patient_chain
 
 def route1(info):
     if "병원비" in info["topic"].lower():
