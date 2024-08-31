@@ -2,6 +2,9 @@
 .venv
 .env
 
+models/debug.log
+models/nohup.out
+
 __pycache__
 *.__pychache__
 temp/__pycache__
