@@ -4542,3 +4542,168 @@
 2024-08-31 15:30:16,760 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
 2024-08-31 15:30:20,269 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
 2024-08-31 15:30:21,400 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-08-31 15:51:50,207 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-08-31 15:51:50,772 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-08-31 15:55:38,443 - DEBUG - Starting new HTTPS connection (1): api.smith.langchain.com:443
+2024-08-31 15:55:38,467 - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': '주어진 사용자 질문을 `환자정보`, `메뉴`, 또는 `병원비` 중 하나로 분류하세요. 한 단어 이상으로 응답하지 마세요.\n\n<question>\nstring\n</question>\n\nClassification:', 'role': 'user'}], 'model': 'solar-1-mini-chat', 'n': 1, 'stream': False, 'temperature': 0.7}}
+2024-08-31 15:55:38,469 - DEBUG - Sending HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions
+2024-08-31 15:55:38,469 - DEBUG - connect_tcp.started host='api.upstage.ai' port=443 local_address=None timeout=None socket_options=None
+2024-08-31 15:55:38,502 - DEBUG - https://api.smith.langchain.com:443 "GET /info HTTP/11" 200 455
+2024-08-31 15:55:38,691 - DEBUG - https://api.smith.langchain.com:443 "POST /runs/batch HTTP/11" 202 33
+2024-08-31 15:55:38,798 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f60e118c190>
+2024-08-31 15:55:38,798 - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x7f60e9a82180> server_hostname='api.upstage.ai' timeout=None
+2024-08-31 15:55:39,156 - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f60e11a8f50>
+2024-08-31 15:55:39,157 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-08-31 15:55:39,158 - DEBUG - send_request_headers.complete
+2024-08-31 15:55:39,158 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-08-31 15:55:39,158 - DEBUG - send_request_body.complete
+2024-08-31 15:55:39,159 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-08-31 15:55:39,914 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sat, 31 Aug 2024 15:55:39 GMT'), (b'Content-Type', b'application/json'), (b'Content-Length', b'471'), (b'Connection', b'keep-alive'), (b'Access-Control-Allow-Headers', b'*'), (b'Access-Control-Allow-Methods', b'OPTIONS,GET,POST'), (b'Access-Control-Allow-Origin', b'*')])
+2024-08-31 15:55:39,915 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2024-08-31 15:55:39,916 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-08-31 15:55:39,916 - DEBUG - receive_response_body.complete
+2024-08-31 15:55:39,917 - DEBUG - response_closed.started
+2024-08-31 15:55:39,917 - DEBUG - response_closed.complete
+2024-08-31 15:55:39,917 - DEBUG - HTTP Response: POST https://api.upstage.ai/v1/solar/chat/completions "200 OK" Headers({'date': 'Sat, 31 Aug 2024 15:55:39 GMT', 'content-type': 'application/json', 'content-length': '471', 'connection': 'keep-alive', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'OPTIONS,GET,POST', 'access-control-allow-origin': '*'})
+2024-08-31 15:55:39,917 - DEBUG - request_id: None
+2024-08-31 15:55:39,944 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-08-31 15:55:39,946 - DEBUG - Starting component System
+2024-08-31 15:55:39,946 - DEBUG - Starting component Posthog
+2024-08-31 15:55:39,946 - DEBUG - Starting component OpenTelemetryClient
+2024-08-31 15:55:39,947 - DEBUG - Starting component SqliteDB
+2024-08-31 15:55:39,949 - DEBUG - Starting component QuotaEnforcer
+2024-08-31 15:55:39,949 - DEBUG - Starting component LocalSegmentManager
+2024-08-31 15:55:39,949 - DEBUG - Starting component SegmentAPI
+2024-08-31 15:55:39,958 - DEBUG - Collection langchain already exists, returning existing collection.
+2024-08-31 15:55:39,994 - DEBUG - Request options: {'method': 'post', 'url': '/embeddings', 'files': None, 'post_parser': <function Embeddings.create.<locals>.parser at 0x7f60ee329bc0>, 'json_data': {'input': ['topic', 'question'], 'model': 'solar-embedding-1-large-query', 'encoding_format': 'base64'}}
+2024-08-31 15:55:39,994 - DEBUG - Sending HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings
+2024-08-31 15:55:39,995 - DEBUG - connect_tcp.started host='api.upstage.ai' port=443 local_address=None timeout=None socket_options=None
+2024-08-31 15:55:40,121 - DEBUG - https://api.smith.langchain.com:443 "POST /runs/batch HTTP/11" 202 33
+2024-08-31 15:55:40,163 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f60e05b6390>
+2024-08-31 15:55:40,163 - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x7f60e122d1c0> server_hostname='api.upstage.ai' timeout=None
+2024-08-31 15:55:40,388 - DEBUG - Resetting dropped connection: us.i.posthog.com
+2024-08-31 15:55:40,498 - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f60e10e1890>
+2024-08-31 15:55:40,499 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-08-31 15:55:40,500 - DEBUG - send_request_headers.complete
+2024-08-31 15:55:40,501 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-08-31 15:55:40,501 - DEBUG - send_request_body.complete
+2024-08-31 15:55:40,502 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-08-31 15:55:40,648 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-08-31 15:55:41,370 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sat, 31 Aug 2024 15:55:41 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Access-Control-Allow-Headers', b'*'), (b'Access-Control-Allow-Methods', b'OPTIONS,GET,POST'), (b'Access-Control-Allow-Origin', b'*')])
+2024-08-31 15:55:41,371 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2024-08-31 15:55:41,372 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-08-31 15:55:41,701 - DEBUG - receive_response_body.complete
+2024-08-31 15:55:41,702 - DEBUG - response_closed.started
+2024-08-31 15:55:41,702 - DEBUG - response_closed.complete
+2024-08-31 15:55:41,703 - DEBUG - HTTP Response: POST https://api.upstage.ai/v1/solar/embeddings "200 OK" Headers({'date': 'Sat, 31 Aug 2024 15:55:41 GMT', 'content-type': 'application/json', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'OPTIONS,GET,POST', 'access-control-allow-origin': '*'})
+2024-08-31 15:55:41,703 - DEBUG - request_id: None
+2024-08-31 15:55:41,756 - DEBUG - Starting component PersistentLocalHnswSegment
+2024-08-31 15:55:41,787 - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': "\n### 시스템 설명 :\n- 당신은 병원 AI 지원 시스템입니다. \n- 보호자 또는 환자가 의료 상태와 관련된 질문을 하면, 환자의 최신 의료 기록을 기반으로 적절한 답변을 제공해야 합니다. \n\n### 당신의 임무 :\n- 당신의 임무는 일관된 스타일로 답변하는 것입니다.\n- 답변은 보호자 또는 환자가 이해할 수 있도록 전문용어를 최대한 피하고 쉽게 설명해야 합니다.\n- 환자 혹은 보호자의 질문에 요점만 간단히 대답해주세요.\n- 이해하기 쉽게 개조식으로 작성해주세요.\n\n### 환자 의료 기록 :\n\n\n### 지시 사항 :\n- 2024년 9월 1일 기준으로 가장 최근 정보를 이용하여 알려주세요\n- 환자의 상태, 식사, 약물 복용, 거동 상태 등을 포함하여 질문에 대한 정확한 답변을 생성하십시오.\n- 참고한 데이터의 메타데이터를 알려주세요\n\n### 중요 사항 :\n한글로 답변하세요\n\n### 질문 :\n{'topic': '주어진 사용자 질문은 다음과 같습니다:\\n\\n<question>\\n환자 정보\\n</question>\\n\\n분류: 환자정보', 'question': 'string'}\n\n### 응답 :\n", 'role': 'user'}], 'model': 'solar-1-mini-chat', 'n': 1, 'stream': False, 'temperature': 0.7}}
+2024-08-31 15:55:41,788 - DEBUG - Sending HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions
+2024-08-31 15:55:41,789 - DEBUG - connect_tcp.started host='api.upstage.ai' port=443 local_address=None timeout=None socket_options=None
+2024-08-31 15:55:41,909 - DEBUG - https://api.smith.langchain.com:443 "POST /runs/batch HTTP/11" 202 33
+2024-08-31 15:55:41,957 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f60e3731390>
+2024-08-31 15:55:41,957 - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x7f60e122d010> server_hostname='api.upstage.ai' timeout=None
+2024-08-31 15:55:42,241 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-08-31 15:55:42,295 - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f60eb9cb950>
+2024-08-31 15:55:42,296 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-08-31 15:55:42,296 - DEBUG - send_request_headers.complete
+2024-08-31 15:55:42,297 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-08-31 15:55:42,297 - DEBUG - send_request_body.complete
+2024-08-31 15:55:42,297 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-08-31 15:55:44,114 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sat, 31 Aug 2024 15:55:44 GMT'), (b'Content-Type', b'application/json'), (b'Content-Length', b'823'), (b'Connection', b'keep-alive'), (b'Access-Control-Allow-Headers', b'*'), (b'Access-Control-Allow-Methods', b'OPTIONS,GET,POST'), (b'Access-Control-Allow-Origin', b'*')])
+2024-08-31 15:55:44,115 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2024-08-31 15:55:44,115 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-08-31 15:55:44,116 - DEBUG - receive_response_body.complete
+2024-08-31 15:55:44,116 - DEBUG - response_closed.started
+2024-08-31 15:55:44,116 - DEBUG - response_closed.complete
+2024-08-31 15:55:44,117 - DEBUG - HTTP Response: POST https://api.upstage.ai/v1/solar/chat/completions "200 OK" Headers({'date': 'Sat, 31 Aug 2024 15:55:44 GMT', 'content-type': 'application/json', 'content-length': '823', 'connection': 'keep-alive', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'OPTIONS,GET,POST', 'access-control-allow-origin': '*'})
+2024-08-31 15:55:44,117 - DEBUG - request_id: None
+2024-08-31 15:55:44,124 - INFO - 결과:환자분의 의료 기록에 따르면, 2024년 9월 1일 기준으로 최신 정보로는 다음과 같습니다:
+
+- 환자 정보:
+    - 환자 이름: [이름]
+    - 환자 성별: [성별]
+    - 환자 연령: [나이]세
+    - 입원일: [입원일]
+    - 현재 상태: [현재 상태]
+    - 식사: [식사 상태]
+    - 약물 복용: [약물 복용 상태]
+    - 거동 상태: [거동 상태]
+
+이 정보는 2024년 9월 1일 기준으로 확인된 내용입니다.
+2024-08-31 15:55:44,241 - DEBUG - https://api.smith.langchain.com:443 "POST /runs/batch HTTP/11" 202 33
+2024-08-31 15:55:57,476 - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': '주어진 사용자 질문을 `환자정보`, `메뉴`, 또는 `병원비` 중 하나로 분류하세요. 한 단어 이상으로 응답하지 마세요.\n\n<question>\nstring\n</question>\n\nClassification:', 'role': 'user'}], 'model': 'solar-1-mini-chat', 'n': 1, 'stream': False, 'temperature': 0.7}}
+2024-08-31 15:55:57,480 - DEBUG - Sending HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions
+2024-08-31 15:55:57,481 - DEBUG - close.started
+2024-08-31 15:55:57,482 - DEBUG - close.complete
+2024-08-31 15:55:57,482 - DEBUG - connect_tcp.started host='api.upstage.ai' port=443 local_address=None timeout=None socket_options=None
+2024-08-31 15:55:57,643 - DEBUG - https://api.smith.langchain.com:443 "POST /runs/batch HTTP/11" 202 33
+2024-08-31 15:55:57,663 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f60e058d290>
+2024-08-31 15:55:57,664 - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x7f60e9a82180> server_hostname='api.upstage.ai' timeout=None
+2024-08-31 15:55:58,027 - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f60e3a15ed0>
+2024-08-31 15:55:58,027 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-08-31 15:55:58,028 - DEBUG - send_request_headers.complete
+2024-08-31 15:55:58,028 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-08-31 15:55:58,029 - DEBUG - send_request_body.complete
+2024-08-31 15:55:58,029 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-08-31 15:55:58,478 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sat, 31 Aug 2024 15:55:58 GMT'), (b'Content-Type', b'application/json'), (b'Content-Length', b'350'), (b'Connection', b'keep-alive'), (b'Access-Control-Allow-Headers', b'*'), (b'Access-Control-Allow-Methods', b'OPTIONS,GET,POST'), (b'Access-Control-Allow-Origin', b'*')])
+2024-08-31 15:55:58,480 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2024-08-31 15:55:58,480 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-08-31 15:55:58,481 - DEBUG - receive_response_body.complete
+2024-08-31 15:55:58,481 - DEBUG - response_closed.started
+2024-08-31 15:55:58,481 - DEBUG - response_closed.complete
+2024-08-31 15:55:58,482 - DEBUG - HTTP Response: POST https://api.upstage.ai/v1/solar/chat/completions "200 OK" Headers({'date': 'Sat, 31 Aug 2024 15:55:58 GMT', 'content-type': 'application/json', 'content-length': '350', 'connection': 'keep-alive', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'OPTIONS,GET,POST', 'access-control-allow-origin': '*'})
+2024-08-31 15:55:58,482 - DEBUG - request_id: None
+2024-08-31 15:55:58,502 - DEBUG - Collection langchain already exists, returning existing collection.
+2024-08-31 15:55:58,542 - DEBUG - Request options: {'method': 'post', 'url': '/embeddings', 'files': None, 'post_parser': <function Embeddings.create.<locals>.parser at 0x7f60e054ae80>, 'json_data': {'input': ['topic', 'question'], 'model': 'solar-embedding-1-large-query', 'encoding_format': 'base64'}}
+2024-08-31 15:55:58,543 - DEBUG - Sending HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings
+2024-08-31 15:55:58,544 - DEBUG - connect_tcp.started host='api.upstage.ai' port=443 local_address=None timeout=None socket_options=None
+2024-08-31 15:55:58,674 - DEBUG - https://api.smith.langchain.com:443 "POST /runs/batch HTTP/11" 202 33
+2024-08-31 15:55:58,712 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f60e13c1a50>
+2024-08-31 15:55:58,712 - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x7f60e122cdd0> server_hostname='api.upstage.ai' timeout=None
+2024-08-31 15:55:58,849 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-08-31 15:55:59,050 - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f60e10db290>
+2024-08-31 15:55:59,051 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-08-31 15:55:59,052 - DEBUG - send_request_headers.complete
+2024-08-31 15:55:59,052 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-08-31 15:55:59,053 - DEBUG - send_request_body.complete
+2024-08-31 15:55:59,053 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-08-31 15:55:59,965 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sat, 31 Aug 2024 15:55:59 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Access-Control-Allow-Headers', b'*'), (b'Access-Control-Allow-Methods', b'OPTIONS,GET,POST'), (b'Access-Control-Allow-Origin', b'*')])
+2024-08-31 15:55:59,966 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2024-08-31 15:55:59,966 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-08-31 15:56:00,301 - DEBUG - receive_response_body.complete
+2024-08-31 15:56:00,301 - DEBUG - response_closed.started
+2024-08-31 15:56:00,302 - DEBUG - response_closed.complete
+2024-08-31 15:56:00,302 - DEBUG - HTTP Response: POST https://api.upstage.ai/v1/solar/embeddings "200 OK" Headers({'date': 'Sat, 31 Aug 2024 15:55:59 GMT', 'content-type': 'application/json', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'OPTIONS,GET,POST', 'access-control-allow-origin': '*'})
+2024-08-31 15:56:00,303 - DEBUG - request_id: None
+2024-08-31 15:56:00,365 - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': "\n### 시스템 설명 :\n- 당신은 병원 AI 지원 시스템입니다. \n- 보호자 또는 환자가 의료 상태와 관련된 질문을 하면, 환자의 최신 의료 기록을 기반으로 적절한 답변을 제공해야 합니다. \n\n### 당신의 임무 :\n- 당신의 임무는 일관된 스타일로 답변하는 것입니다.\n- 답변은 보호자 또는 환자가 이해할 수 있도록 전문용어를 최대한 피하고 쉽게 설명해야 합니다.\n- 환자 혹은 보호자의 질문에 최대한 자세하게 설명해주세요\n\n### 환자 의료 기록 :\n\n\n### 지시 사항 :\n2024년 9월 1일 기준으로 가장 최근 정보를 이용하여 알려주세요\n환자의 상태, 식사, 약물 복용, 거동 상태 등을 포함하여 질문에 대한 정확한 답변을 생성하십시오.\n참고한 데이터의 메타데이터를 알려주세요\n\n### 중요 사항 :\n한글로 답변하세요\n\n### 질문 :\n{'topic': 'patient_information', 'question': 'string'}\n\n### 응답 :\n", 'role': 'user'}], 'model': 'solar-1-mini-chat', 'n': 1, 'stream': False, 'temperature': 0.7}}
+2024-08-31 15:56:00,366 - DEBUG - Sending HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions
+2024-08-31 15:56:00,367 - DEBUG - connect_tcp.started host='api.upstage.ai' port=443 local_address=None timeout=None socket_options=None
+2024-08-31 15:56:00,477 - DEBUG - https://api.smith.langchain.com:443 "POST /runs/batch HTTP/11" 202 33
+2024-08-31 15:56:00,545 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f60e0505590>
+2024-08-31 15:56:00,546 - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x7f60e122ccb0> server_hostname='api.upstage.ai' timeout=None
+2024-08-31 15:56:00,908 - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x7f60e0506250>
+2024-08-31 15:56:00,909 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-08-31 15:56:00,910 - DEBUG - send_request_headers.complete
+2024-08-31 15:56:00,910 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-08-31 15:56:00,910 - DEBUG - send_request_body.complete
+2024-08-31 15:56:00,910 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-08-31 15:56:02,841 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sat, 31 Aug 2024 15:56:02 GMT'), (b'Content-Type', b'application/json'), (b'Content-Length', b'1088'), (b'Connection', b'keep-alive'), (b'Access-Control-Allow-Headers', b'*'), (b'Access-Control-Allow-Methods', b'OPTIONS,GET,POST'), (b'Access-Control-Allow-Origin', b'*')])
+2024-08-31 15:56:02,842 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2024-08-31 15:56:02,842 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-08-31 15:56:02,843 - DEBUG - receive_response_body.complete
+2024-08-31 15:56:02,843 - DEBUG - response_closed.started
+2024-08-31 15:56:02,843 - DEBUG - response_closed.complete
+2024-08-31 15:56:02,844 - DEBUG - HTTP Response: POST https://api.upstage.ai/v1/solar/chat/completions "200 OK" Headers({'date': 'Sat, 31 Aug 2024 15:56:02 GMT', 'content-type': 'application/json', 'content-length': '1088', 'connection': 'keep-alive', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'OPTIONS,GET,POST', 'access-control-allow-origin': '*'})
+2024-08-31 15:56:02,844 - DEBUG - request_id: None
+2024-08-31 15:56:02,852 - INFO - 결과:안녕하세요! 병원 AI 지원 시스템입니다.
+
+환자의 최신 의료 기록을 기반으로, 2024년 9월 1일 기준으로 가장 최근 정보를 알려드리겠습니다. 환자의 상태, 식사, 약물 복용, 거동 상태 등을 고려하여 질문에 대한 답변을 생성하겠습니다.
+
+환자의 의료 기록에 따르면, 현재 환자분은 건강하며 특별한 질환이나 합병증은 없습니다. 식사도 정상적으로 하고 있으며, 거동 상태도 양호합니다. 약물 복용은 현재로서는 필요하지 않습니다.
+
+참고한 데이터의 메타데이터는 2024년 9월 1일에 기록된 최신 의료 기록입니다.
+
+그 외 궁금한 사항이 있으시면 언제든지 물어보세요!
+2024-08-31 15:56:02,966 - DEBUG - https://api.smith.langchain.com:443 "POST /runs/batch HTTP/11" 202 33

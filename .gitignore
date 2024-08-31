@@ -2,7 +2,7 @@
 .venv
 .env
 
-models/debug.log
+*.log
 models/nohup.out
 
 __pycache__

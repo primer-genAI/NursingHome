@@ -10,6 +10,8 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import PromptTemplate
 from dotenv import load_dotenv
 
+from db import patients_db
+
 # Load API keys from the .env file
 load_dotenv()
 
@@ -30,7 +32,7 @@ logging.langsmith("NursingHome")
 
 # Define the Prompt Template
 prompt = PromptTemplate.from_template(
-    """주어진 사용자 질문을 `환자정보`, `메뉴`, 또는 `병원비` 중 하나로 분류하세요. 한 단어 이상으로 응답하지 마세요. 한글로 답변하세요.
+    """주어진 사용자 질문을 `환자정보`, `메뉴`, 또는 `병원비` 중 하나로 분류하세요. 한 단어 이상으로 응답하지 마세요.
 
 <question>
 {question}
@@ -49,7 +51,6 @@ chain = prompt | llm | StrOutputParser()
 #from TEMPLATES.rag_template import prompt, menu_prompt
 from rag_menu import menu_chain
 from rag_patient import patient_chain  # Updated import
-# from no_rag_patient import chain as patient_chain
 from rag_patient_n1 import patient_chain as patient_chain_n1
 from rag_bill import bill_chain
 from operator import itemgetter
@@ -65,15 +66,6 @@ def route(info):
     else:
         # Pass patient_id along to the patient_chain
         return patient_chain(info.get("patient_id", ""))
-    
-# def route(info):
-#     if "병원비" in info["topic"].lower():
-#         return bill_chain
-#     elif "메뉴" in info["topic"].lower():
-#         return menu_chain
-#     else:
-#         # Pass patient_id along to the patient_chain
-#         return patient_chain
 
 def route1(info):
     if "병원비" in info["topic"].lower():
@@ -106,6 +98,10 @@ class QueryRequest(BaseModel):
 # Define the response model for FastAPI
 class QueryResponse(BaseModel):
     response: str
+
+
+class PatientLoginRequest(BaseModel):
+    patient_id: str
 
 
 import logging
@@ -161,4 +157,20 @@ async def process_query(request: QueryRequest):
         )
     except Exception as e:
         # Handle errors
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/login")
+async def login(request: PatientLoginRequest):
+    try:
+        # 환자 정보를 반환합니다.
+        patient_info = patients_db.get(request.patient_id)
+        if patient_info:
+            return JSONResponse(
+                content=patient_info, media_type="application/json; charset=utf-8"
+            )
+        else:
+            raise HTTPException(status_code=404, detail="해당 환자를 찾을 수 없습니다.")
+    
+    except Exception as e:
+        # 에러 처리
         raise HTTPException(status_code=500, detail=str(e))
