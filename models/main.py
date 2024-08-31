@@ -46,9 +46,10 @@ llm = ChatUpstage(api_key=os.getenv("UPSTAGE_API_KEY"))
 chain = prompt | llm | StrOutputParser()
 
 # Import other templates and chains
-from TEMPLATES.rag_template import prompt, menu_prompt
+#from TEMPLATES.rag_template import prompt, menu_prompt
 from rag_menu import menu_chain
 from rag_patient import patient_chain  # Updated import
+from rag_patient_n1 import patient_chain as patient_chain_n1
 from rag_bill import bill_chain
 from operator import itemgetter
 from langchain_core.runnables import RunnableLambda
@@ -64,6 +65,14 @@ def route(info):
         # Pass patient_id along to the patient_chain
         return patient_chain(info.get("patient_id", ""))
 
+def route1(info):
+    if "병원비" in info["topic"].lower():
+        return bill_chain
+    elif "메뉴" in info["topic"].lower():
+        return menu_chain
+    else:
+        # Pass patient_id along to the patient_chain
+        return patient_chain_n1(info.get("patient_id", ""))
 
 # Full chain including routing logic
 full_chain = (
@@ -72,6 +81,11 @@ full_chain = (
     | StrOutputParser()
 )
 
+full_chain1 = (
+    {"topic": chain, "question": itemgetter("question")}
+    | RunnableLambda(route1)
+    | StrOutputParser()
+)
 
 # Define a request model for FastAPI
 class QueryRequest(BaseModel):
@@ -101,11 +115,31 @@ logging.getLogger("").addHandler(console)
 
 
 # Create the main endpoint
-@app.post("/process-query")
+@app.post("/n2")
 async def process_query(request: QueryRequest):
     try:
         # Pass the patient_id and question to the full_chain
         result = full_chain.invoke(
+            {"question": request.question, "patient_id": request.patient_id}
+        )
+        logging.info(f"결과:{result}")
+
+        # Return the response
+        content = {"response": result}
+        return JSONResponse(
+            content=content, media_type="application/json; charset=utf-8"
+        )
+    except Exception as e:
+        # Handle errors
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+# Create the main endpoint
+@app.post("/n1")
+async def process_query(request: QueryRequest):
+    try:
+        # Pass the patient_id and question to the full_chain
+        result = full_chain1.invoke(
             {"question": request.question, "patient_id": request.patient_id}
         )
         logging.info(f"결과:{result}")
