@@ -1,6 +1,7 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
+from fastapi.staticfiles import StaticFiles
 
 from pydantic import BaseModel
 from langchain_teddynote import logging
@@ -17,6 +18,11 @@ load_dotenv()
 
 # Initialize the FastAPI app
 app = FastAPI()
+
+# 사진 버전 변경코드
+# app.mount("/assets", StaticFiles(directory="/home/leejunghoon/NursingHome/models/images/"), name="assets")
+app.mount("/assets", StaticFiles(directory="/home/leejunghoon/NursingHome/models/images_v2/"), name="assets")
+
 
 # Solve CORS prob(called by Dart, Flutter)
 app.add_middleware(
@@ -144,6 +150,7 @@ async def process_query(request: QueryRequest):
 @app.post("/n1")
 async def process_query(request: QueryRequest):
     try:
+        logging.info(f"request: {request}")
         # Pass the patient_id and question to the full_chain
         result = full_chain1.invoke(
             {"question": request.question, "patient_id": request.patient_id}
@@ -159,7 +166,7 @@ async def process_query(request: QueryRequest):
         # Handle errors
         raise HTTPException(status_code=500, detail=str(e))
 
-@app.get("/login")
+@app.post("/login")
 async def login(request: PatientLoginRequest):
     try:
         # 환자 정보를 반환합니다.
