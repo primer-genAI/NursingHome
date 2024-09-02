@@ -21,8 +21,7 @@ app = FastAPI()
 
 # 사진 버전 변경코드
 # app.mount("/assets", StaticFiles(directory="/home/leejunghoon/NursingHome/models/images/"), name="assets")
-app.mount("/assets", StaticFiles(directory="/home/leejunghoon/NursingHome/models/images_v2/"), name="assets")
-
+app.mount("/static", StaticFiles(directory="/home/leejunghoon/NursingHome/models/images_v2/"), name="static")
 
 # Solve CORS prob(called by Dart, Flutter)
 app.add_middleware(
@@ -169,6 +168,7 @@ async def process_query(request: QueryRequest):
 @app.post("/login")
 async def login(request: PatientLoginRequest):
     try:
+        logging.info(f"request: {request}")
         # 환자 정보를 반환합니다.
         patient_info = patients_db.get(request.patient_id)
         if patient_info:
