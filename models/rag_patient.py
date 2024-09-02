@@ -23,7 +23,7 @@ embeddings = UpstageEmbeddings(
 )
 
 # Function to create the patient_chain with a specific patient_id
-def patient_chain(patient_id):
+def patient_chain(patient_id, template):
 
     # Use patient_id to set the persist directory dynamically
     persist_directory = f'.cache/db/{patient_id}'
@@ -38,9 +38,7 @@ def patient_chain(patient_id):
 
     retriever = vectordb.as_retriever()
 
-    from TEMPLATES.rag_template import prompt, RAG_PROMPT_TEMPLATE
-    # rag_prompt = ChatPromptTemplate.from_template(prompt)
-    rag_prompt = ChatPromptTemplate.from_template(RAG_PROMPT_TEMPLATE)
+    rag_prompt = ChatPromptTemplate.from_template(template)
 
     # Function to format documents
     def format_docs(docs):
