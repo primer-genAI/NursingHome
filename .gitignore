@@ -1,0 +1,17 @@
+.cache
+.venv
+.env
+
+models/debug.log
+models/nohup.out
+
+__pycache__
+*.__pychache__
+temp/__pycache__
+
+app
+data
+json
+results
+
+.DS_Store
