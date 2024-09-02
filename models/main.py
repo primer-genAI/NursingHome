@@ -64,16 +64,9 @@ def route(info):
         return menu_chain
     else:
         # Pass patient_id along to the patient_chain
+        print(info.get("patient_id", ""))
         return patient_chain(info.get("patient_id", ""))
-    
-# def route(info):
-#     if "병원비" in info["topic"].lower():
-#         return bill_chain
-#     elif "메뉴" in info["topic"].lower():
-#         return menu_chain
-#     else:
-#         # Pass patient_id along to the patient_chain
-#         return patient_chain
+
 
 def route1(info):
     if "병원비" in info["topic"].lower():
@@ -82,6 +75,7 @@ def route1(info):
         return menu_chain
     else:
         # Pass patient_id along to the patient_chain
+        print(info.get("patient_id", ""))
         return patient_chain_n1(info.get("patient_id", ""))
 
 # Full chain including routing logic
@@ -161,4 +155,43 @@ async def process_query(request: QueryRequest):
         )
     except Exception as e:
         # Handle errors
+        raise HTTPException(status_code=500, detail=str(e))
+    
+
+# 요청 모델 정의
+class QueryRequest(BaseModel):
+    question: str
+    session_id: str
+    patient_id: str  # patient_id 필드 추가
+
+# 응답 모델 정의
+class QueryResponse(BaseModel):
+    response: str
+
+from rag_patient_history import create_rag_with_history
+# FastAPI 엔드포인트 생성
+@app.post("/chat")
+async def chat_with_history(request: QueryRequest):
+    try:
+        rag_with_history = create_rag_with_history(request.patient_id)
+
+        # 질문과 세션 ID를 사용해 체인을 실행
+        result = rag_with_history.invoke(
+            {
+                "question": request.question,
+            },
+            config={
+                "configurable": {
+                    "session_id": request.session_id,
+                }
+            },
+        )
+
+        # JSON 응답으로 결과를 반환
+        return JSONResponse(
+            content={"response": result},
+            media_type="application/json; charset=utf-8"
+        )
+    except Exception as e:
+        # 에러 처리
         raise HTTPException(status_code=500, detail=str(e))

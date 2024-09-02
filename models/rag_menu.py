@@ -26,7 +26,7 @@ load_dotenv()
 # Load API keys from environment variables
 UPSTAGE_API_KEY = os.getenv('UPSTAGE_API_KEY')
 
-llm = ChatUpstage(api_key=UPSTAGE_API_KEY)
+llm = ChatUpstage(temperature=0, api_key=UPSTAGE_API_KEY)
 
 # Vector Store 구축
 embeddings = UpstageEmbeddings(

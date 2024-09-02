@@ -14,7 +14,7 @@ dotenv.load_dotenv()
 
 UPSTAGE_API_KEY = os.getenv('UPSTAGE_API_KEY')
 
-llm = ChatUpstage(api_key=UPSTAGE_API_KEY)
+llm = ChatUpstage(temperature=0, api_key=UPSTAGE_API_KEY)
 
 # Embeddings setup
 embeddings = UpstageEmbeddings(
@@ -25,7 +25,7 @@ embeddings = UpstageEmbeddings(
 # Function to create the patient_chain with a specific patient_id
 def patient_chain(patient_id):
     # Use patient_id to set the persist directory dynamically
-    persist_directory = f'../.cache/db/{patient_id}'
+    persist_directory = f'.cache/db/{patient_id}'
 
     # Load the vector database for the specific patient
     vectordb = Chroma(

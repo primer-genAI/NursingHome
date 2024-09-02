@@ -103,7 +103,8 @@ async def process_query(request: QueryRequest):
     try:
         # Pass the patient_id and question to the full_chain
         result = full_chain.invoke(
-            {"question": request.question, "patient_id": request.patient_id}
+            {"question": request.question, 
+             "patient_id": request.patient_id}
         )
         logging.info(f"결과: {result}")
 
