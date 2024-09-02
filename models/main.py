@@ -68,7 +68,7 @@ logging.getLogger("").addHandler(console)
 from TEMPLATES.rag_template import *
 
 
-@app.post("/n1") # 친절
+@app.post("/n2") # 친절
 async def ask_patient(request: QueryRequest):
     try:
         # 요청으로부터 patient_chain 생성
@@ -91,7 +91,7 @@ async def ask_patient(request: QueryRequest):
         raise HTTPException(status_code=500, detail=str(e))
 
 # FastAPI 엔드포인트 생성
-@app.post("/n2") # 간단
+@app.post("/n1") # 간단
 async def ask_patient(request: QueryRequest):
     try:
         # 요청으로부터 patient_chain 생성
