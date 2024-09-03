@@ -17,11 +17,7 @@ load_dotenv()
 
 # Initialize the FastAPI app
 app = FastAPI()
-
-# 사진 버전 변경코드
-# app.mount("/assets", StaticFiles(directory="/home/leejunghoon/NursingHome/models/images/"), name="assets")
 app.mount("/assets", StaticFiles(directory="/home/leejunghoon/NursingHome/models/images_v2/"), name="assets")
-
 
 # Solve CORS prob(called by Dart, Flutter)
 app.add_middleware(
@@ -67,7 +63,7 @@ logging.getLogger("").addHandler(console)
 from TEMPLATES.rag_template import *
 
 
-@app.post("/n2") # 친절
+@app.post("/n1") # 친절
 async def ask_patient(request: QueryRequest):
     try:
         # 요청으로부터 patient_chain 생성
@@ -82,7 +78,7 @@ async def ask_patient(request: QueryRequest):
 
         # JSON 응답으로 결과 반환
         return JSONResponse(
-            content={"response": result},
+            content={"response": result.replace(r'[','').replace(r']','')},
             media_type="application/json; charset=utf-8"
         )
     except Exception as e:
@@ -90,7 +86,7 @@ async def ask_patient(request: QueryRequest):
         raise HTTPException(status_code=500, detail=str(e))
 
 # FastAPI 엔드포인트 생성
-@app.post("/n1") # 간단
+@app.post("/n2") # 간단
 async def ask_patient(request: QueryRequest):
     try:
         # 요청으로부터 patient_chain 생성
@@ -151,11 +147,9 @@ async def chat_with_history(request: QueryRequest):
         # 에러 처리
         raise HTTPException(status_code=500, detail=str(e))
     
-    
-    
 class PatientLoginRequest(BaseModel):
     patient_id: str
-
+    
 @app.post("/login")
 async def login(request: PatientLoginRequest):
     try:
@@ -168,7 +162,7 @@ async def login(request: PatientLoginRequest):
             )
         else:
             raise HTTPException(status_code=404, detail="해당 환자를 찾을 수 없습니다.")
-
+    
     except Exception as e:
         # 에러 처리
         raise HTTPException(status_code=500, detail=str(e))
