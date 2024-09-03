@@ -26,9 +26,7 @@ embeddings = UpstageEmbeddings(
 def patient_chain(patient_id, template):
 
     # Use patient_id to set the persist directory dynamically
-    persist_directory = f'.cache/db/{patient_id}'
-
-    print(persist_directory)
+    persist_directory = f'../.cache/db/{patient_id}'
 
     # Load the vector database for the specific patient
     vectordb = Chroma(
@@ -37,7 +35,6 @@ def patient_chain(patient_id, template):
     )
 
     retriever = vectordb.as_retriever()
-
     rag_prompt = ChatPromptTemplate.from_template(template)
 
     # Function to format documents

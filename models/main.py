@@ -75,7 +75,7 @@ async def ask_patient(request: QueryRequest):
 
         # JSON 응답으로 결과 반환
         return JSONResponse(
-            content={"response": result},
+            content={"response": result.replace(r'[','').replace(r']','')},
             media_type="application/json; charset=utf-8"
         )
     except Exception as e:
