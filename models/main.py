@@ -28,6 +28,7 @@ app.add_middleware(
 # Define the logging with the project name
 logging.langsmith("NursingHome")
 
+<<<<<<< HEAD
 # Define the Prompt Template
 prompt = PromptTemplate.from_template(
     """주어진 사용자 질문을 `환자정보`, `메뉴`, 또는 `병원비` 중 하나로 분류하세요. 한 단어 이상으로 응답하지 마세요. 한글로 답변하세요.
@@ -102,12 +103,26 @@ class QueryRequest(BaseModel):
     question: str
     patient_id: str  # Add patient_id to the request model
 
+=======
+from rag_patient import patient_chain
+
+from operator import itemgetter
+from langchain_core.runnables import RunnableLambda
+
+# Define a request model for FastAPI
+class QueryRequest(BaseModel):
+    question: str
+    patient_id: str
+>>>>>>> e12364f8325ccb28763ceee2fb0b4222a00bc2b1
 
 # Define the response model for FastAPI
 class QueryResponse(BaseModel):
     response: str
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e12364f8325ccb28763ceee2fb0b4222a00bc2b1
 import logging
 
 logging.basicConfig(
@@ -123,6 +138,7 @@ formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
 console.setFormatter(formatter)
 logging.getLogger("").addHandler(console)
 
+<<<<<<< HEAD
 
 # Create the main endpoint
 @app.post("/n2")
@@ -161,4 +177,91 @@ async def process_query(request: QueryRequest):
         )
     except Exception as e:
         # Handle errors
+=======
+from TEMPLATES.rag_template import *
+
+
+@app.post("/n1") # 친절
+async def ask_patient(request: QueryRequest):
+    try:
+        # 요청으로부터 patient_chain 생성
+        chain = patient_chain(request.patient_id, prompt_n1)
+
+        # 질문 실행 및 결과 반환
+        result = chain.invoke(
+            {
+                "question": request.question
+            }
+        )
+
+        # JSON 응답으로 결과 반환
+        return JSONResponse(
+            content={"response": result},
+            media_type="application/json; charset=utf-8"
+        )
+    except Exception as e:
+        # 에러 처리
+        raise HTTPException(status_code=500, detail=str(e))
+
+# FastAPI 엔드포인트 생성
+@app.post("/n2") # 간단
+async def ask_patient(request: QueryRequest):
+    try:
+        # 요청으로부터 patient_chain 생성
+        chain = patient_chain(request.patient_id, prompt_n2)
+
+        # 질문 실행 및 결과 반환
+        result = chain.invoke(
+            {
+                "question": request.question
+            }
+        )
+
+        # JSON 응답으로 결과 반환
+        return JSONResponse(
+            content={"response": result},
+            media_type="application/json; charset=utf-8"
+        )
+    except Exception as e:
+        # 에러 처리
+        raise HTTPException(status_code=500, detail=str(e))
+    
+
+# 요청 모델 정의
+class QueryRequest(BaseModel):
+    question: str
+    session_id: str
+    patient_id: str  # patient_id 필드 추가
+
+# 응답 모델 정의
+class QueryResponse(BaseModel):
+    response: str
+
+from rag_patient_history import create_rag_with_history
+# FastAPI 엔드포인트 생성
+@app.post("/chat")
+async def chat_with_history(request: QueryRequest):
+    try:
+        rag_with_history = create_rag_with_history(request.patient_id)
+
+        # 질문과 세션 ID를 사용해 체인을 실행
+        result = rag_with_history.invoke(
+            {
+                "question": request.question,
+            },
+            config={
+                "configurable": {
+                    "session_id": request.session_id,
+                }
+            },
+        )
+
+        # JSON 응답으로 결과를 반환
+        return JSONResponse(
+            content={"response": result},
+            media_type="application/json; charset=utf-8"
+        )
+    except Exception as e:
+        # 에러 처리
+>>>>>>> e12364f8325ccb28763ceee2fb0b4222a00bc2b1
         raise HTTPException(status_code=500, detail=str(e))
