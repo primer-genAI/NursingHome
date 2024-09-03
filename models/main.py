@@ -1,6 +1,7 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
+from fastapi.staticfiles import StaticFiles
 
 from pydantic import BaseModel
 from langchain_teddynote import logging
@@ -9,12 +10,18 @@ from langchain_upstage import ChatUpstage
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import PromptTemplate
 from dotenv import load_dotenv
+from db import patients_db
 
 # Load API keys from the .env file
 load_dotenv()
 
 # Initialize the FastAPI app
 app = FastAPI()
+
+# 사진 버전 변경코드
+# app.mount("/assets", StaticFiles(directory="/home/leejunghoon/NursingHome/models/images/"), name="assets")
+app.mount("/assets", StaticFiles(directory="/home/leejunghoon/NursingHome/models/images_v2/"), name="assets")
+
 
 # Solve CORS prob(called by Dart, Flutter)
 app.add_middleware(
@@ -60,7 +67,7 @@ logging.getLogger("").addHandler(console)
 from TEMPLATES.rag_template import *
 
 
-@app.post("/n1") # 친절
+@app.post("/n2") # 친절
 async def ask_patient(request: QueryRequest):
     try:
         # 요청으로부터 patient_chain 생성
@@ -83,7 +90,7 @@ async def ask_patient(request: QueryRequest):
         raise HTTPException(status_code=500, detail=str(e))
 
 # FastAPI 엔드포인트 생성
-@app.post("/n2") # 간단
+@app.post("/n1") # 간단
 async def ask_patient(request: QueryRequest):
     try:
         # 요청으로부터 patient_chain 생성
@@ -140,6 +147,28 @@ async def chat_with_history(request: QueryRequest):
             content={"response": result},
             media_type="application/json; charset=utf-8"
         )
+    except Exception as e:
+        # 에러 처리
+        raise HTTPException(status_code=500, detail=str(e))
+    
+    
+    
+class PatientLoginRequest(BaseModel):
+    patient_id: str
+
+@app.post("/login")
+async def login(request: PatientLoginRequest):
+    try:
+        logging.info(f"request: {request}")
+        # 환자 정보를 반환합니다.
+        patient_info = patients_db.get(request.patient_id)
+        if patient_info:
+            return JSONResponse(
+                content=patient_info, media_type="application/json; charset=utf-8"
+            )
+        else:
+            raise HTTPException(status_code=404, detail="해당 환자를 찾을 수 없습니다.")
+
     except Exception as e:
         # 에러 처리
         raise HTTPException(status_code=500, detail=str(e))
