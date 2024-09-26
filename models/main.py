@@ -48,7 +48,7 @@ class QueryResponse(BaseModel):
 import logging
 
 logging.basicConfig(
-    filename="debug.log",
+    # filename="debug.log",
     level=logging.DEBUG,
     format="%(asctime)s - %(levelname)s - %(message)s",
 )
